@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+venv/
+.venv/
+env/
+
+# 配置与密钥（勿提交）。config.docker.yaml / config.example.yaml / .env.example 是模板
+config.yaml
+.env
+.env.*
+!.env.example
+
+# 运行时数据与日志
+data/logs/*
+!data/logs/.gitkeep
+data/*.db
+data/*.db-*
+uploads/
+*.bak
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/

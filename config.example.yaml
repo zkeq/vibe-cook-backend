@@ -1,0 +1,18 @@
+# Vibe Cook Backend 配置示例
+# 复制此文件为 config.yaml 并按需修改
+
+# 服务器配置
+SERVER:
+  host: 0.0.0.0
+  port: 8000
+  debug: true
+
+# SQLite 数据库(单文件,首次启动自动建表)
+SQLITE:
+  path: data/vibe_cook.db   # 相对路径则相对于 backend 目录
+
+# JWT认证配置
+JWT:
+  secret_key: "change-me-in-production-use-a-random-string"
+  algorithm: HS256
+  expire_minutes: 10080  # 7天

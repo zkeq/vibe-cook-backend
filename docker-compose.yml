@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  # Vibe Cook 后端(SQLite 单文件,零外部依赖)
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: vibe_cook_backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data            # SQLite 文件持久化
+      - ./config.yaml:/app/config.yaml
+    environment:
+      - PYTHONUNBUFFERED=1
+    healthcheck:
+      test: ["CMD", "python", "-c", "import requests; requests.get('http://localhost:8000/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 20s
