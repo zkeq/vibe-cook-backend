@@ -13,11 +13,11 @@ config.yaml
 .env.*
 !.env.example
 
-# 运行时数据与日志
+# 运行时数据与日志。菜谱库 data/vibe_cook.db 要提交；WAL/SHM 不提交
 data/logs/*
 !data/logs/.gitkeep
-data/*.db
-data/*.db-*
+data/*.db-shm
+data/*.db-wal
 uploads/
 *.bak
 

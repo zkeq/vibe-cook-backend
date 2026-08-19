@@ -70,9 +70,11 @@ cp .env.example .env
 
 完整字段契约见前端仓库 [`API_SPEC.md`](https://github.com/zkeq/vibe-cook/blob/main/API_SPEC.md)。
 
-## 📥 从 HowToCook 灌库
+## 📥 菜谱数据
 
-菜谱 SQLite **不进 Git**。本地需要数据时：
+仓库自带 `data/vibe_cook.db`（从 HowToCook 结构化后的 SQLite）。`python main.py` 后即可直接出菜。
+
+若要重新从 HowToCook Markdown 灌库：
 
 ```bash
 # 仓库旁准备 HowToCook 源，默认读 ../HowToCook-official/dishes
