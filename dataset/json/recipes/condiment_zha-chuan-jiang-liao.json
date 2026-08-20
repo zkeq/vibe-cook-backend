@@ -178,7 +178,7 @@
         "确保容器完全干燥，防止油溅"
       ],
       "produces": "混合香料粉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_zha-chuan-jiang-liao/step_1.jpg"
+      "image": "steps/condiment_zha-chuan-jiang-liao/step_1.jpg"
     },
     {
       "index": 2,
@@ -189,7 +189,7 @@
         "油温需烧至冒青烟，约七八成热"
       ],
       "produces": "热油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_zha-chuan-jiang-liao/step_2.jpg"
+      "image": "steps/condiment_zha-chuan-jiang-liao/step_2.jpg"
     },
     {
       "index": 3,
@@ -200,7 +200,7 @@
         "不得一次性倒入所有热油，避免辣椒面糊掉"
       ],
       "produces": "基础辣油酱",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_zha-chuan-jiang-liao/step_3.jpg"
+      "image": "steps/condiment_zha-chuan-jiang-liao/step_3.jpg"
     },
     {
       "index": 4,
@@ -211,7 +211,7 @@
         "最后一步的调味可按自己喜好灵活调整"
       ],
       "produces": "成品炸串酱料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_zha-chuan-jiang-liao/step_4.jpg"
+      "image": "steps/condiment_zha-chuan-jiang-liao/step_4.jpg"
     }
   ],
   "tips": [
@@ -219,8 +219,8 @@
     "不得一次性倒入所有热油，必须分次倒入并搅拌以充分激发香味并防止焦糊。",
     "原料可按比例缩减制作少量尝试。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/condiment_zha-chuan-jiang-liao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/condiment_zha-chuan-jiang-liao_overview.jpg",
+  "cover_image": "ai-generated/condiment_zha-chuan-jiang-liao.jpg",
+  "overview_image": "overview/condiment_zha-chuan-jiang-liao_overview.jpg",
   "id": "condiment_zha-chuan-jiang-liao",
   "status": "published"
 }

@@ -53,7 +53,7 @@
         "确保吐司放置平整"
       ],
       "produces": "待烘烤吐司",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tu-si-guo-jiang-de-zuo-fa/step_1.jpg"
+      "image": "steps/breakfast_tu-si-guo-jiang-de-zuo-fa/step_1.jpg"
     },
     {
       "index": 2,
@@ -64,7 +64,7 @@
         "初次使用建议从中档位开始尝试"
       ],
       "produces": "烤制的吐司",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tu-si-guo-jiang-de-zuo-fa/step_2.jpg"
+      "image": "steps/breakfast_tu-si-guo-jiang-de-zuo-fa/step_2.jpg"
     },
     {
       "index": 3,
@@ -75,7 +75,7 @@
         "注意避开面包机上方的热气"
       ],
       "produces": "热吐司片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tu-si-guo-jiang-de-zuo-fa/step_3.jpg"
+      "image": "steps/breakfast_tu-si-guo-jiang-de-zuo-fa/step_3.jpg"
     },
     {
       "index": 4,
@@ -86,7 +86,7 @@
         "趁热涂抹果酱味道更佳"
       ],
       "produces": "果酱吐司成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tu-si-guo-jiang-de-zuo-fa/step_4.jpg"
+      "image": "steps/breakfast_tu-si-guo-jiang-de-zuo-fa/step_4.jpg"
     },
     {
       "index": 5,
@@ -97,7 +97,7 @@
         "餐巾纸可以防止果酱溢出弄脏手"
       ],
       "produces": "便携早餐",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tu-si-guo-jiang-de-zuo-fa/step_5.jpg"
+      "image": "steps/breakfast_tu-si-guo-jiang-de-zuo-fa/step_5.jpg"
     }
   ],
   "tips": [
@@ -106,8 +106,8 @@
     "两分钟快速搞定，耗时短，不会产生额外垃圾，也不需要清洗工具",
     "非常适合程序员等忙碌人群"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_tu-si-guo-jiang-de-zuo-fa.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_tu-si-guo-jiang-de-zuo-fa_overview.jpg",
+  "cover_image": "ai-generated/breakfast_tu-si-guo-jiang-de-zuo-fa.jpg",
+  "overview_image": "overview/breakfast_tu-si-guo-jiang-de-zuo-fa_overview.jpg",
   "id": "breakfast_tu-si-guo-jiang-de-zuo-fa",
   "status": "published"
 }

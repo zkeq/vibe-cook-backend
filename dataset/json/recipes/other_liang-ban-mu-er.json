@@ -146,7 +146,7 @@
         "干木耳泡发后体积会变大很多"
       ],
       "produces": "泡发好的木耳",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-mu-er/step_1.jpg"
+      "image": "steps/other_liang-ban-mu-er/step_1.jpg"
     },
     {
       "index": 2,
@@ -157,7 +157,7 @@
         "根部容易藏沙，需仔细检查"
       ],
       "produces": "处理干净的木耳",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-mu-er/step_2.jpg"
+      "image": "steps/other_liang-ban-mu-er/step_2.jpg"
     },
     {
       "index": 3,
@@ -168,7 +168,7 @@
         "不要煮太久以免失去脆感"
       ],
       "produces": "熟木耳",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-mu-er/step_3.jpg"
+      "image": "steps/other_liang-ban-mu-er/step_3.jpg"
     },
     {
       "index": 4,
@@ -180,7 +180,7 @@
         "调料可根据口味微调"
       ],
       "produces": "凉拌酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-mu-er/step_4.jpg"
+      "image": "steps/other_liang-ban-mu-er/step_4.jpg"
     },
     {
       "index": 5,
@@ -191,7 +191,7 @@
         "水分沥得越干越容易入味"
       ],
       "produces": "待拌匀的木耳",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-mu-er/step_5.jpg"
+      "image": "steps/other_liang-ban-mu-er/step_5.jpg"
     },
     {
       "index": 6,
@@ -202,7 +202,7 @@
         "搅拌均匀确保每片木耳都沾上酱汁"
       ],
       "produces": "凉拌木耳",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-mu-er/step_6.jpg"
+      "image": "steps/other_liang-ban-mu-er/step_6.jpg"
     }
   ],
   "tips": [
@@ -210,8 +210,8 @@
     "等木耳冷却入味后口味更佳，建议放置约15分钟。",
     "木耳一定要彻底煮熟，但时间不宜过长保持爽脆。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_liang-ban-mu-er.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_liang-ban-mu-er_overview.jpg",
+  "cover_image": "ai-generated/other_liang-ban-mu-er.jpg",
+  "overview_image": "overview/other_liang-ban-mu-er_overview.jpg",
   "id": "other_liang-ban-mu-er",
   "status": "published"
 }

@@ -124,7 +124,7 @@
         "土豆块不宜太小以免煮化"
       ],
       "produces": "切好的食材",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-ga-li-fan/step_1.jpg"
+      "image": "steps/other_ri-shi-ga-li-fan/step_1.jpg"
     },
     {
       "index": 2,
@@ -135,7 +135,7 @@
         "切碎可以避免后期有未溶解的疙瘩"
       ],
       "produces": "咖喱碎",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-ga-li-fan/step_2.jpg"
+      "image": "steps/other_ri-shi-ga-li-fan/step_2.jpg"
     },
     {
       "index": 3,
@@ -146,7 +146,7 @@
         "肉表面变白即可锁住水分"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-ga-li-fan/step_3.jpg"
+      "image": "steps/other_ri-shi-ga-li-fan/step_3.jpg"
     },
     {
       "index": 4,
@@ -157,7 +157,7 @@
         "按顺序加入，确保每种食材受热均匀"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-ga-li-fan/step_4.jpg"
+      "image": "steps/other_ri-shi-ga-li-fan/step_4.jpg"
     },
     {
       "index": 5,
@@ -168,7 +168,7 @@
         "注意观察水位，如低于食材2/3应补热水"
       ],
       "produces": "炖煮好的菜底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-ga-li-fan/step_5.jpg"
+      "image": "steps/other_ri-shi-ga-li-fan/step_5.jpg"
     },
     {
       "index": 6,
@@ -179,7 +179,7 @@
         "关火加咖喱是为了防止局部糊锅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-ga-li-fan/step_6.jpg"
+      "image": "steps/other_ri-shi-ga-li-fan/step_6.jpg"
     },
     {
       "index": 7,
@@ -190,7 +190,7 @@
         "必须不停搅拌，咖喱浓稠后极易糊底"
       ],
       "produces": "咖喱酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-ga-li-fan/step_7.jpg"
+      "image": "steps/other_ri-shi-ga-li-fan/step_7.jpg"
     }
   ],
   "tips": [
@@ -199,8 +199,8 @@
     "炖煮期间可以同步准备点缀用的水煮花椰菜或煎蛋。",
     "冷藏后再加热时，若用锅加热需额外加50ml水并保持搅拌。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ri-shi-ga-li-fan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ri-shi-ga-li-fan_overview.jpg",
+  "cover_image": "ai-generated/other_ri-shi-ga-li-fan.jpg",
+  "overview_image": "overview/other_ri-shi-ga-li-fan_overview.jpg",
   "id": "other_ri-shi-ga-li-fan",
   "status": "published"
 }

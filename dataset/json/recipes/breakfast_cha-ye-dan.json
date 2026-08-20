@@ -143,7 +143,7 @@
         "煮蛋时间需根据自家厨具火力微调"
       ],
       "produces": "熟鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_cha-ye-dan/step_1.jpg"
+      "image": "steps/breakfast_cha-ye-dan/step_1.jpg"
     },
     {
       "index": 2,
@@ -154,7 +154,7 @@
         "此步骤是为了让鸡蛋和壳之间产生间隙，方便剥壳"
       ],
       "produces": "降温的熟鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_cha-ye-dan/step_2.jpg"
+      "image": "steps/breakfast_cha-ye-dan/step_2.jpg"
     },
     {
       "index": 3,
@@ -165,7 +165,7 @@
         "裂缝越多，卤汁越容易渗入，花纹更漂亮"
       ],
       "produces": "裂壳鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_cha-ye-dan/step_3.jpg"
+      "image": "steps/breakfast_cha-ye-dan/step_3.jpg"
     },
     {
       "index": 4,
@@ -176,7 +176,7 @@
         "没有散装香料可用现成的卤料包代替"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_cha-ye-dan/step_4.jpg"
+      "image": "steps/breakfast_cha-ye-dan/step_4.jpg"
     },
     {
       "index": 5,
@@ -187,7 +187,7 @@
         "确保水分充足，避免中途烧干"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_cha-ye-dan/step_5.jpg"
+      "image": "steps/breakfast_cha-ye-dan/step_5.jpg"
     },
     {
       "index": 6,
@@ -198,7 +198,7 @@
         "煮好后捞出料渣，继续浸泡一段时间口感更佳"
       ],
       "produces": "茶叶蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_cha-ye-dan/step_6.jpg"
+      "image": "steps/breakfast_cha-ye-dan/step_6.jpg"
     }
   ],
   "tips": [
@@ -207,8 +207,8 @@
     "划刀时不要太深，接近蛋黄即可，以免蛋黄散出",
     "香料不足时可使用现成的卤料包代替"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_cha-ye-dan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_cha-ye-dan_overview.jpg",
+  "cover_image": "ai-generated/breakfast_cha-ye-dan.jpg",
+  "overview_image": "overview/breakfast_cha-ye-dan_overview.jpg",
   "id": "breakfast_cha-ye-dan",
   "status": "published"
 }

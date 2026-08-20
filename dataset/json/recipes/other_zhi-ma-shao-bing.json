@@ -103,7 +103,7 @@
         "加入少量油可使面团更顺滑"
       ],
       "produces": "醒发好的面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhi-ma-shao-bing/step_1.jpg"
+      "image": "steps/other_zhi-ma-shao-bing/step_1.jpg"
     },
     {
       "index": 2,
@@ -114,7 +114,7 @@
         "油酥的稠度应适中，方便涂抹"
       ],
       "produces": "油酥调料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhi-ma-shao-bing/step_2.jpg"
+      "image": "steps/other_zhi-ma-shao-bing/step_2.jpg"
     },
     {
       "index": 3,
@@ -126,7 +126,7 @@
         "沾水是为了让芝麻粘得更牢固"
       ],
       "produces": "烧饼生坯",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhi-ma-shao-bing/step_3.jpg"
+      "image": "steps/other_zhi-ma-shao-bing/step_3.jpg"
     },
     {
       "index": 4,
@@ -137,15 +137,15 @@
         "两面刷油可以锁住水分，口感更酥脆"
       ],
       "produces": "芝麻烧饼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhi-ma-shao-bing/step_4.jpg"
+      "image": "steps/other_zhi-ma-shao-bing/step_4.jpg"
     }
   ],
   "tips": [
     "如果没有电饼铛，也可以用平底锅，需注意火候防止烙糊",
     "芝麻如果没有也可不用，一样好吃"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_zhi-ma-shao-bing.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_zhi-ma-shao-bing_overview.jpg",
+  "cover_image": "ai-generated/other_zhi-ma-shao-bing.jpg",
+  "overview_image": "overview/other_zhi-ma-shao-bing_overview.jpg",
   "id": "other_zhi-ma-shao-bing",
   "status": "published"
 }

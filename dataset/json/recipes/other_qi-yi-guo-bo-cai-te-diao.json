@@ -88,7 +88,7 @@
         "切小块有助于榨汁机搅拌更充分"
       ],
       "produces": "奇异果块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-yi-guo-bo-cai-te-diao/step_1.jpg"
+      "image": "steps/other_qi-yi-guo-bo-cai-te-diao/step_1.jpg"
     },
     {
       "index": 2,
@@ -99,7 +99,7 @@
         "切丁大小要适中"
       ],
       "produces": "苹果丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-yi-guo-bo-cai-te-diao/step_2.jpg"
+      "image": "steps/other_qi-yi-guo-bo-cai-te-diao/step_2.jpg"
     },
     {
       "index": 3,
@@ -110,7 +110,7 @@
         "菠菜梗纤维较粗，去掉后口感更细腻"
       ],
       "produces": "菠菜叶",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-yi-guo-bo-cai-te-diao/step_3.jpg"
+      "image": "steps/other_qi-yi-guo-bo-cai-te-diao/step_3.jpg"
     },
     {
       "index": 4,
@@ -121,7 +121,7 @@
         "切碎能让绿色分布更均匀"
       ],
       "produces": "菠菜碎",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-yi-guo-bo-cai-te-diao/step_4.jpg"
+      "image": "steps/other_qi-yi-guo-bo-cai-te-diao/step_4.jpg"
     },
     {
       "index": 5,
@@ -132,7 +132,7 @@
         "注意不要超过搅拌杯的最高刻度线"
       ],
       "produces": "待搅拌混合物",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-yi-guo-bo-cai-te-diao/step_5.jpg"
+      "image": "steps/other_qi-yi-guo-bo-cai-te-diao/step_5.jpg"
     },
     {
       "index": 6,
@@ -143,7 +143,7 @@
         "冷藏的水口感更好"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-yi-guo-bo-cai-te-diao/step_6.jpg"
+      "image": "steps/other_qi-yi-guo-bo-cai-te-diao/step_6.jpg"
     },
     {
       "index": 7,
@@ -154,7 +154,7 @@
         "可根据个人口味调整糖量"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-yi-guo-bo-cai-te-diao/step_7.jpg"
+      "image": "steps/other_qi-yi-guo-bo-cai-te-diao/step_7.jpg"
     },
     {
       "index": 8,
@@ -165,7 +165,7 @@
         "间歇性搅拌可以防止电机过热，并观察细腻程度"
       ],
       "produces": "奇异果菠菜特调",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-yi-guo-bo-cai-te-diao/step_8.jpg"
+      "image": "steps/other_qi-yi-guo-bo-cai-te-diao/step_8.jpg"
     }
   ],
   "tips": [
@@ -173,8 +173,8 @@
     "本品是仿照宜家的奇异果菠菜汁研制的，口感清爽",
     "建议现做现喝，以免果汁氧化分层"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_qi-yi-guo-bo-cai-te-diao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_qi-yi-guo-bo-cai-te-diao_overview.jpg",
+  "cover_image": "ai-generated/other_qi-yi-guo-bo-cai-te-diao.jpg",
+  "overview_image": "overview/other_qi-yi-guo-bo-cai-te-diao_overview.jpg",
   "id": "other_qi-yi-guo-bo-cai-te-diao",
   "status": "published"
 }

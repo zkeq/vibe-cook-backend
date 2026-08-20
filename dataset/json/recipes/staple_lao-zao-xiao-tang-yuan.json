@@ -85,7 +85,7 @@
         "可以使用大火以节省时间"
       ],
       "produces": "沸水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_lao-zao-xiao-tang-yuan/step_1.jpg"
+      "image": "steps/staple_lao-zao-xiao-tang-yuan/step_1.jpg"
     },
     {
       "index": 2,
@@ -96,7 +96,7 @@
         "煮的过程中可以稍微搅拌，防止汤圆粘连锅底"
       ],
       "produces": "煮软的汤圆",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_lao-zao-xiao-tang-yuan/step_2.jpg"
+      "image": "steps/staple_lao-zao-xiao-tang-yuan/step_2.jpg"
     },
     {
       "index": 3,
@@ -107,7 +107,7 @@
         "若喜欢更软的枸杞，可提前与汤圆一同下锅"
       ],
       "produces": "醪糟汤圆甜汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_lao-zao-xiao-tang-yuan/step_3.jpg"
+      "image": "steps/staple_lao-zao-xiao-tang-yuan/step_3.jpg"
     },
     {
       "index": 4,
@@ -118,7 +118,7 @@
         "白糖用量可随个人喜好增减"
       ],
       "produces": "成品醪糟小汤圆",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_lao-zao-xiao-tang-yuan/step_4.jpg"
+      "image": "steps/staple_lao-zao-xiao-tang-yuan/step_4.jpg"
     },
     {
       "index": 5,
@@ -129,7 +129,7 @@
         "趁热食用风味更佳"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_lao-zao-xiao-tang-yuan/step_5.jpg"
+      "image": "steps/staple_lao-zao-xiao-tang-yuan/step_5.jpg"
     }
   ],
   "tips": [
@@ -137,8 +137,8 @@
     "若喜欢更浓的口感可以减少 100 毫升内的水",
     "若喜欢软点的枸杞口感，可以将枸杞和小汤圆同时煮"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_lao-zao-xiao-tang-yuan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_lao-zao-xiao-tang-yuan_overview.jpg",
+  "cover_image": "ai-generated/staple_lao-zao-xiao-tang-yuan.jpg",
+  "overview_image": "overview/staple_lao-zao-xiao-tang-yuan_overview.jpg",
   "id": "staple_lao-zao-xiao-tang-yuan",
   "status": "published"
 }

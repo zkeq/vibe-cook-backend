@@ -143,7 +143,7 @@
         "丁切得越匀称，炒饭口感越好"
       ],
       "produces": "切好的食材丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_dan-bao-fan/step_1.jpg"
+      "image": "steps/staple_dan-bao-fan/step_1.jpg"
     },
     {
       "index": 2,
@@ -152,7 +152,7 @@
       "duration_sec": 10,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_dan-bao-fan/step_2.jpg"
+      "image": "steps/staple_dan-bao-fan/step_2.jpg"
     },
     {
       "index": 3,
@@ -163,7 +163,7 @@
         "洋葱炒至透明香味最浓"
       ],
       "produces": "炒香的蔬菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_dan-bao-fan/step_3.jpg"
+      "image": "steps/staple_dan-bao-fan/step_3.jpg"
     },
     {
       "index": 4,
@@ -172,7 +172,7 @@
       "duration_sec": 60,
       "tips": [],
       "produces": "混合肉菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_dan-bao-fan/step_4.jpg"
+      "image": "steps/staple_dan-bao-fan/step_4.jpg"
     },
     {
       "index": 5,
@@ -183,7 +183,7 @@
         "隔夜饭要先用铲子压散"
       ],
       "produces": "茄汁炒饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_dan-bao-fan/step_5.jpg"
+      "image": "steps/staple_dan-bao-fan/step_5.jpg"
     },
     {
       "index": 6,
@@ -194,7 +194,7 @@
         "牛奶可以让蛋皮口感更嫩滑"
       ],
       "produces": "牛奶蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_dan-bao-fan/step_6.jpg"
+      "image": "steps/staple_dan-bao-fan/step_6.jpg"
     },
     {
       "index": 7,
@@ -205,7 +205,7 @@
         "确保油铺满锅底以防粘连"
       ],
       "produces": "蛋皮底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_dan-bao-fan/step_7.jpg"
+      "image": "steps/staple_dan-bao-fan/step_7.jpg"
     },
     {
       "index": 8,
@@ -216,7 +216,7 @@
         "必须是半熟状态才好包裹"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_dan-bao-fan/step_8.jpg"
+      "image": "steps/staple_dan-bao-fan/step_8.jpg"
     },
     {
       "index": 9,
@@ -227,7 +227,7 @@
         "火力需小，避免底部焦糊"
       ],
       "produces": "蛋包饭半成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_dan-bao-fan/step_9.jpg"
+      "image": "steps/staple_dan-bao-fan/step_9.jpg"
     },
     {
       "index": 10,
@@ -238,7 +238,7 @@
         "可以用厨房纸巾隔着帮蛋包饭塑形"
       ],
       "produces": "蛋包饭成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_dan-bao-fan/step_10.jpg"
+      "image": "steps/staple_dan-bao-fan/step_10.jpg"
     }
   ],
   "tips": [
@@ -247,8 +247,8 @@
     "操作蛋皮时火力需小，避免底部焦糊。",
     "如果不擅长包裹造型，也可以直接将炒饭铺盘后盖上蛋皮。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_dan-bao-fan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_dan-bao-fan_overview.jpg",
+  "cover_image": "ai-generated/staple_dan-bao-fan.jpg",
+  "overview_image": "overview/staple_dan-bao-fan_overview.jpg",
   "id": "staple_dan-bao-fan",
   "status": "published"
 }

@@ -121,7 +121,7 @@
         "盘底垫筷子是为了让蒸汽循环，受热更均匀"
       ],
       "produces": "待蒸制的鳜鱼及配料丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-zheng-gui-yu/step_1.jpg"
+      "image": "steps/other_qing-zheng-gui-yu/step_1.jpg"
     },
     {
       "index": 2,
@@ -133,7 +133,7 @@
         "根据鱼的大小适当调整时间"
       ],
       "produces": "熟鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-zheng-gui-yu/step_2.jpg"
+      "image": "steps/other_qing-zheng-gui-yu/step_2.jpg"
     },
     {
       "index": 3,
@@ -145,15 +145,15 @@
         "蒸鱼水腥味重，必须倒掉"
       ],
       "produces": "清蒸鳜鱼成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-zheng-gui-yu/step_3.jpg"
+      "image": "steps/other_qing-zheng-gui-yu/step_3.jpg"
     }
   ],
   "tips": [
     "鳜鱼背部鱼鳍容易伤人，处理时候需要注意，最好用剪刀剪掉",
     "蒸制时间需要根据鱼的大小调整，蒸鱼的关键在于水多汽大火足"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_qing-zheng-gui-yu.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_qing-zheng-gui-yu_overview.jpg",
+  "cover_image": "ai-generated/other_qing-zheng-gui-yu.jpg",
+  "overview_image": "overview/other_qing-zheng-gui-yu_overview.jpg",
   "id": "other_qing-zheng-gui-yu",
   "status": "published"
 }

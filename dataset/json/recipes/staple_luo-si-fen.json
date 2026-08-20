@@ -55,7 +55,7 @@
         "建议水温完全沸腾后再下粉"
       ],
       "produces": "沸水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_luo-si-fen/step_1.jpg"
+      "image": "steps/staple_luo-si-fen/step_1.jpg"
     },
     {
       "index": 2,
@@ -66,7 +66,7 @@
         "搅拌是防止粘连的关键"
       ],
       "produces": "熟米粉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_luo-si-fen/step_2.jpg"
+      "image": "steps/staple_luo-si-fen/step_2.jpg"
     },
     {
       "index": 3,
@@ -77,7 +77,7 @@
         "如果怕咸可以先放 2/3"
       ],
       "produces": "汤底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_luo-si-fen/step_3.jpg"
+      "image": "steps/staple_luo-si-fen/step_3.jpg"
     },
     {
       "index": 4,
@@ -88,7 +88,7 @@
         "花生如果喜欢脆的可以最后放，喜欢入味的现在放"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_luo-si-fen/step_4.jpg"
+      "image": "steps/staple_luo-si-fen/step_4.jpg"
     },
     {
       "index": 5,
@@ -99,7 +99,7 @@
         "辣椒油较辣，建议分次添加尝试口味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_luo-si-fen/step_5.jpg"
+      "image": "steps/staple_luo-si-fen/step_5.jpg"
     },
     {
       "index": 6,
@@ -110,7 +110,7 @@
         "注意热汤溅出"
       ],
       "produces": "半成品螺蛳粉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_luo-si-fen/step_6.jpg"
+      "image": "steps/staple_luo-si-fen/step_6.jpg"
     },
     {
       "index": 7,
@@ -121,7 +121,7 @@
         "酸笋是灵魂，建议全部放入"
       ],
       "produces": "成品螺蛳粉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_luo-si-fen/step_7.jpg"
+      "image": "steps/staple_luo-si-fen/step_7.jpg"
     },
     {
       "index": 8,
@@ -132,7 +132,7 @@
         "趁热食用风味最佳"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_luo-si-fen/step_8.jpg"
+      "image": "steps/staple_luo-si-fen/step_8.jpg"
     }
   ],
   "tips": [
@@ -140,8 +140,8 @@
     "如果想在螺蛳粉中添加炸蛋，请参考炸蛋的教程",
     "配料的选择请依照个人口味"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_luo-si-fen.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_luo-si-fen_overview.jpg",
+  "cover_image": "ai-generated/staple_luo-si-fen.jpg",
+  "overview_image": "overview/staple_luo-si-fen_overview.jpg",
   "id": "staple_luo-si-fen",
   "status": "published"
 }

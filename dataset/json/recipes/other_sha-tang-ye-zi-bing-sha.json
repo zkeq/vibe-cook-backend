@@ -62,7 +62,7 @@
         "倒掉部分是为了给液体冻结膨胀预留空间，防止爆瓶"
       ],
       "produces": "预留空间的椰汁瓶",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_sha-tang-ye-zi-bing-sha/step_1.jpg"
+      "image": "steps/other_sha-tang-ye-zi-bing-sha/step_1.jpg"
     },
     {
       "index": 2,
@@ -73,7 +73,7 @@
         "需确保彻底冻硬"
       ],
       "produces": "冻结的椰汁瓶",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_sha-tang-ye-zi-bing-sha/step_2.jpg"
+      "image": "steps/other_sha-tang-ye-zi-bing-sha/step_2.jpg"
     },
     {
       "index": 3,
@@ -85,7 +85,7 @@
         "用力需均匀，使内部冰块碎裂成沙"
       ],
       "produces": "瓶内冰沙",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_sha-tang-ye-zi-bing-sha/step_3.jpg"
+      "image": "steps/other_sha-tang-ye-zi-bing-sha/step_3.jpg"
     },
     {
       "index": 4,
@@ -96,7 +96,7 @@
         "若倒出困难，可继续抽打几下"
       ],
       "produces": "碗装冰沙",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_sha-tang-ye-zi-bing-sha/step_4.jpg"
+      "image": "steps/other_sha-tang-ye-zi-bing-sha/step_4.jpg"
     },
     {
       "index": 5,
@@ -107,7 +107,7 @@
         "咖啡调糖的焦香是风味关键"
       ],
       "produces": "成品砂糖椰子冰沙",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_sha-tang-ye-zi-bing-sha/step_5.jpg"
+      "image": "steps/other_sha-tang-ye-zi-bing-sha/step_5.jpg"
     },
     {
       "index": 6,
@@ -118,15 +118,15 @@
         "室温下约可维持30分钟"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_sha-tang-ye-zi-bing-sha/step_6.jpg"
+      "image": "steps/other_sha-tang-ye-zi-bing-sha/step_6.jpg"
     }
   ],
   "tips": [
     "瓶装椰汁可以提前冰冻，但是不宜超过 7 天，否则有变质风险。",
     "300g在零下18度制成的冰沙在室温下通常可维持30分钟。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_sha-tang-ye-zi-bing-sha.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_sha-tang-ye-zi-bing-sha_overview.jpg",
+  "cover_image": "ai-generated/other_sha-tang-ye-zi-bing-sha.jpg",
+  "overview_image": "overview/other_sha-tang-ye-zi-bing-sha_overview.jpg",
   "id": "other_sha-tang-ye-zi-bing-sha",
   "status": "published"
 }

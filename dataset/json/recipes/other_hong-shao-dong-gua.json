@@ -145,7 +145,7 @@
         "切块大小均匀可以保证受热一致"
       ],
       "produces": "冬瓜块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-dong-gua/step_1.jpg"
+      "image": "steps/other_hong-shao-dong-gua/step_1.jpg"
     },
     {
       "index": 2,
@@ -156,7 +156,7 @@
         "中小火煎炸，避免外焦内生"
       ],
       "produces": "金黄色冬瓜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-dong-gua/step_2.jpg"
+      "image": "steps/other_hong-shao-dong-gua/step_2.jpg"
     },
     {
       "index": 3,
@@ -167,7 +167,7 @@
         "可以稍微沥一下油"
       ],
       "produces": "半熟冬瓜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-dong-gua/step_3.jpg"
+      "image": "steps/other_hong-shao-dong-gua/step_3.jpg"
     },
     {
       "index": 4,
@@ -178,7 +178,7 @@
         "火不要太大，防止生抽和蚝油糊锅"
       ],
       "produces": "香浓底油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-dong-gua/step_4.jpg"
+      "image": "steps/other_hong-shao-dong-gua/step_4.jpg"
     },
     {
       "index": 5,
@@ -189,7 +189,7 @@
         "加入开水能让冬瓜口感更软糯"
       ],
       "produces": "焖煮中的冬瓜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-dong-gua/step_5.jpg"
+      "image": "steps/other_hong-shao-dong-gua/step_5.jpg"
     },
     {
       "index": 6,
@@ -200,7 +200,7 @@
         "老抽分次少量加入，避免颜色过深"
       ],
       "produces": "软糯红烧冬瓜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-dong-gua/step_6.jpg"
+      "image": "steps/other_hong-shao-dong-gua/step_6.jpg"
     },
     {
       "index": 7,
@@ -211,7 +211,7 @@
         "葱花最后放颜色更好看"
       ],
       "produces": "已调味的冬瓜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-dong-gua/step_7.jpg"
+      "image": "steps/other_hong-shao-dong-gua/step_7.jpg"
     },
     {
       "index": 8,
@@ -222,7 +222,7 @@
         "水淀粉勾芡能让成品色泽更加明亮"
       ],
       "produces": "红烧冬瓜成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-dong-gua/step_8.jpg"
+      "image": "steps/other_hong-shao-dong-gua/step_8.jpg"
     }
   ],
   "tips": [
@@ -230,8 +230,8 @@
     "冬瓜煎炸至金黄色是口感软糯入味的关键。",
     "水一定要没过冬瓜，保证有足够的焖煮时间。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_hong-shao-dong-gua.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_hong-shao-dong-gua_overview.jpg",
+  "cover_image": "ai-generated/other_hong-shao-dong-gua.jpg",
+  "overview_image": "overview/other_hong-shao-dong-gua_overview.jpg",
   "id": "other_hong-shao-dong-gua",
   "status": "published"
 }

@@ -156,7 +156,7 @@
         "注意火候，防止底部烧焦"
       ],
       "produces": "半熟煎蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ke-le-chao-fan/step_1.jpg"
+      "image": "steps/staple_ke-le-chao-fan/step_1.jpg"
     },
     {
       "index": 2,
@@ -167,7 +167,7 @@
         "两面都凝固即可，不需要太老"
       ],
       "produces": "全熟煎蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ke-le-chao-fan/step_2.jpg"
+      "image": "steps/staple_ke-le-chao-fan/step_2.jpg"
     },
     {
       "index": 3,
@@ -178,7 +178,7 @@
         "剪碎的蛋块大小均匀会更美观"
       ],
       "produces": "鸡蛋碎",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ke-le-chao-fan/step_3.jpg"
+      "image": "steps/staple_ke-le-chao-fan/step_3.jpg"
     },
     {
       "index": 4,
@@ -189,7 +189,7 @@
         "如果使用无糖可乐，记得多加点老抽上色"
       ],
       "produces": "可乐酱汁底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ke-le-chao-fan/step_4.jpg"
+      "image": "steps/staple_ke-le-chao-fan/step_4.jpg"
     },
     {
       "index": 5,
@@ -200,7 +200,7 @@
         "收汁过程中要不断搅拌，防止糊锅"
       ],
       "produces": "初步炒饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ke-le-chao-fan/step_5.jpg"
+      "image": "steps/staple_ke-le-chao-fan/step_5.jpg"
     },
     {
       "index": 6,
@@ -211,7 +211,7 @@
         "这一步能增加炒饭的湿润度和层次感"
       ],
       "produces": "含半熟蛋的炒饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ke-le-chao-fan/step_6.jpg"
+      "image": "steps/staple_ke-le-chao-fan/step_6.jpg"
     },
     {
       "index": 7,
@@ -222,7 +222,7 @@
         "如果喜欢干一点，可以多炒一会儿"
       ],
       "produces": "可乐炒饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ke-le-chao-fan/step_7.jpg"
+      "image": "steps/staple_ke-le-chao-fan/step_7.jpg"
     }
   ],
   "tips": [
@@ -230,8 +230,8 @@
     "如果喜欢干一点，多炒一会儿",
     "如果嫌麻烦，可以在第一步直接放 3 个鸡蛋，取消挖洞打另一个鸡蛋的步骤"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_ke-le-chao-fan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_ke-le-chao-fan_overview.jpg",
+  "cover_image": "ai-generated/staple_ke-le-chao-fan.jpg",
+  "overview_image": "overview/staple_ke-le-chao-fan_overview.jpg",
   "id": "staple_ke-le-chao-fan",
   "status": "published"
 }

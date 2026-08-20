@@ -49,7 +49,7 @@
       "duration_sec": 30,
       "tips": [],
       "produces": "冷冻花卷",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_zheng-hua-juan/step_1.jpg"
+      "image": "steps/breakfast_zheng-hua-juan/step_1.jpg"
     },
     {
       "index": 2,
@@ -60,7 +60,7 @@
         "不重叠可以保证受热均匀"
       ],
       "produces": "待蒸花卷",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_zheng-hua-juan/step_2.jpg"
+      "image": "steps/breakfast_zheng-hua-juan/step_2.jpg"
     },
     {
       "index": 3,
@@ -71,7 +71,7 @@
         "确保水面不要高过蒸架"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_zheng-hua-juan/step_3.jpg"
+      "image": "steps/breakfast_zheng-hua-juan/step_3.jpg"
     },
     {
       "index": 4,
@@ -82,7 +82,7 @@
         "观察锅盖边缘是否有大量蒸汽冒出"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_zheng-hua-juan/step_4.jpg"
+      "image": "steps/breakfast_zheng-hua-juan/step_4.jpg"
     },
     {
       "index": 5,
@@ -93,7 +93,7 @@
         "设定定时器防止干烧"
       ],
       "produces": "熟花卷",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_zheng-hua-juan/step_5.jpg"
+      "image": "steps/breakfast_zheng-hua-juan/step_5.jpg"
     },
     {
       "index": 6,
@@ -104,7 +104,7 @@
         "小心蒸汽烫手，可用筷子轻按观察弹性"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_zheng-hua-juan/step_6.jpg"
+      "image": "steps/breakfast_zheng-hua-juan/step_6.jpg"
     },
     {
       "index": 7,
@@ -115,14 +115,14 @@
         "刚出锅的碟子很烫，建议使用防烫夹"
       ],
       "produces": "蒸花卷成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_zheng-hua-juan/step_7.jpg"
+      "image": "steps/breakfast_zheng-hua-juan/step_7.jpg"
     }
   ],
   "tips": [
     "操作时，需要注意观察锅里的水不能少于 50ml。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_zheng-hua-juan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_zheng-hua-juan_overview.jpg",
+  "cover_image": "ai-generated/breakfast_zheng-hua-juan.jpg",
+  "overview_image": "overview/breakfast_zheng-hua-juan_overview.jpg",
   "id": "breakfast_zheng-hua-juan",
   "status": "published"
 }

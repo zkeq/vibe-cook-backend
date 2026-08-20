@@ -136,7 +136,7 @@
         "冷水下锅更有利于逼出羊肉里的血水"
       ],
       "produces": "焯水后的羊排",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-pai-men-mian/step_1.jpg"
+      "image": "steps/other_yang-pai-men-mian/step_1.jpg"
     },
     {
       "index": 2,
@@ -147,7 +147,7 @@
         "干辣椒可以剪开更容易出味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-pai-men-mian/step_2.jpg"
+      "image": "steps/other_yang-pai-men-mian/step_2.jpg"
     },
     {
       "index": 3,
@@ -158,7 +158,7 @@
         "注意火候，糖色变棕红且冒细泡时立即下羊肉，防止变苦"
       ],
       "produces": "上色的羊肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-pai-men-mian/step_3.jpg"
+      "image": "steps/other_yang-pai-men-mian/step_3.jpg"
     },
     {
       "index": 4,
@@ -169,7 +169,7 @@
         "炒干水份能去除羊膻味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-pai-men-mian/step_4.jpg"
+      "image": "steps/other_yang-pai-men-mian/step_4.jpg"
     },
     {
       "index": 5,
@@ -180,7 +180,7 @@
         "水量要一次加足，后面还要焖面用"
       ],
       "produces": "炖软的羊排",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-pai-men-mian/step_5.jpg"
+      "image": "steps/other_yang-pai-men-mian/step_5.jpg"
     },
     {
       "index": 6,
@@ -191,7 +191,7 @@
         "盐能增加面条的筋道感"
       ],
       "produces": "光滑的面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-pai-men-mian/step_6.jpg"
+      "image": "steps/other_yang-pai-men-mian/step_6.jpg"
     },
     {
       "index": 7,
@@ -202,7 +202,7 @@
         "抹油可以防止面皮粘连并增加延展性"
       ],
       "produces": "面皮",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-pai-men-mian/step_7.jpg"
+      "image": "steps/other_yang-pai-men-mian/step_7.jpg"
     },
     {
       "index": 8,
@@ -213,7 +213,7 @@
         "面皮要一片一片操作，避免粘成一坨"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-pai-men-mian/step_8.jpg"
+      "image": "steps/other_yang-pai-men-mian/step_8.jpg"
     },
     {
       "index": 9,
@@ -224,7 +224,7 @@
         "最后可以留一点汤汁，面条吸满汁水更好吃"
       ],
       "produces": "羊排焖面",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-pai-men-mian/step_9.jpg"
+      "image": "steps/other_yang-pai-men-mian/step_9.jpg"
     }
   ],
   "tips": [
@@ -232,8 +232,8 @@
     "炖羊肉的水量要预留足够，因为面皮会吸收大量汤汁。",
     "和面时一定要有醒面的过程，否则面皮不够筋道。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_yang-pai-men-mian.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_yang-pai-men-mian_overview.jpg",
+  "cover_image": "ai-generated/other_yang-pai-men-mian.jpg",
+  "overview_image": "overview/other_yang-pai-men-mian_overview.jpg",
   "id": "other_yang-pai-men-mian",
   "status": "published"
 }

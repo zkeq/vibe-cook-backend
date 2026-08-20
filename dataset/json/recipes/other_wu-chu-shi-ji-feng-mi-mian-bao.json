@@ -131,7 +131,7 @@
         "牛奶温度不要过高，以免烫死酵母"
       ],
       "produces": "初步混合的面絮",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_1.jpg"
+      "image": "steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_1.jpg"
     },
     {
       "index": 2,
@@ -142,7 +142,7 @@
         "此时面团可能较粘"
       ],
       "produces": "粗糙面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_2.jpg"
+      "image": "steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_2.jpg"
     },
     {
       "index": 3,
@@ -153,7 +153,7 @@
         "黄油充分揉入面团中"
       ],
       "produces": "含油脂面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_3.jpg"
+      "image": "steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_3.jpg"
     },
     {
       "index": 4,
@@ -164,7 +164,7 @@
         "手揉至面团表面相对光滑"
       ],
       "produces": "光滑面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_4.jpg"
+      "image": "steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_4.jpg"
     },
     {
       "index": 5,
@@ -175,7 +175,7 @@
         "稍长时间对效果影响不大"
       ],
       "produces": "发酵面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_5.jpg"
+      "image": "steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_5.jpg"
     },
     {
       "index": 6,
@@ -186,7 +186,7 @@
         "可以用手指沾面粉戳洞不回缩来判断"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_6.jpg"
+      "image": "steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_6.jpg"
     },
     {
       "index": 7,
@@ -197,7 +197,7 @@
         "使用电子秤称量更美观"
       ],
       "produces": "小面团份",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_7.jpg"
+      "image": "steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_7.jpg"
     },
     {
       "index": 8,
@@ -208,7 +208,7 @@
         "醒面有助于松弛筋性，方便后续擀制"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_8.jpg"
+      "image": "steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_8.jpg"
     },
     {
       "index": 9,
@@ -219,7 +219,7 @@
         "切口处即为后续蘸粉处"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_9.jpg"
+      "image": "steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_9.jpg"
     },
     {
       "index": 10,
@@ -230,7 +230,7 @@
         "可以按照自己的时间多擀/卷几次"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_10.jpg"
+      "image": "steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_10.jpg"
     },
     {
       "index": 11,
@@ -241,7 +241,7 @@
         "底部蘸油和粉是形成脆底的关键"
       ],
       "produces": "待发酵烤盘",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_11.jpg"
+      "image": "steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_11.jpg"
     },
     {
       "index": 12,
@@ -252,7 +252,7 @@
         "这一步可以放入冰箱，第二天再烤"
       ],
       "produces": "发酵好的面包坯",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_12.jpg"
+      "image": "steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_12.jpg"
     },
     {
       "index": 13,
@@ -263,7 +263,7 @@
         "蛋液能让成品颜色金黄诱人"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_13.jpg"
+      "image": "steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_13.jpg"
     },
     {
       "index": 14,
@@ -274,7 +274,7 @@
         "注意观察上色情况，防止烤焦"
       ],
       "produces": "熟面包",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_14.jpg"
+      "image": "steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_14.jpg"
     },
     {
       "index": 15,
@@ -285,7 +285,7 @@
         "趁热刷蜂蜜水吸收更好"
       ],
       "produces": "蜂蜜面包成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_15.jpg"
+      "image": "steps/other_wu-chu-shi-ji-feng-mi-mian-bao/step_15.jpg"
     }
   ],
   "tips": [
@@ -293,8 +293,8 @@
     "面团大小不会显著影响口感和烘烤效果，可根据喜好调整。",
     "冰箱储存会变硬, 微波炉加热 10 - 20s 即可恢复松软。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_wu-chu-shi-ji-feng-mi-mian-bao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_wu-chu-shi-ji-feng-mi-mian-bao_overview.jpg",
+  "cover_image": "ai-generated/other_wu-chu-shi-ji-feng-mi-mian-bao.jpg",
+  "overview_image": "overview/other_wu-chu-shi-ji-feng-mi-mian-bao_overview.jpg",
   "id": "other_wu-chu-shi-ji-feng-mi-mian-bao",
   "status": "published"
 }

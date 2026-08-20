@@ -125,7 +125,7 @@
         "如果奶酪太硬可以水浴加热至大约 40 度再混合"
       ],
       "produces": "蛋奶混合液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ying-shi-si-kang/step_1.jpg"
+      "image": "steps/other_ying-shi-si-kang/step_1.jpg"
     },
     {
       "index": 2,
@@ -134,7 +134,7 @@
       "duration_sec": 120,
       "tips": [],
       "produces": "粉类混合物",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ying-shi-si-kang/step_2.jpg"
+      "image": "steps/other_ying-shi-si-kang/step_2.jpg"
     },
     {
       "index": 3,
@@ -145,7 +145,7 @@
         "质地应呈现出粗玉米粉状"
       ],
       "produces": "粉油混合物",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ying-shi-si-kang/step_3.jpg"
+      "image": "steps/other_ying-shi-si-kang/step_3.jpg"
     },
     {
       "index": 4,
@@ -156,7 +156,7 @@
         "采用叠压方式，避免过度揉搓导致起筋"
       ],
       "produces": "司康面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ying-shi-si-kang/step_4.jpg"
+      "image": "steps/other_ying-shi-si-kang/step_4.jpg"
     },
     {
       "index": 5,
@@ -165,7 +165,7 @@
       "duration_sec": 300,
       "tips": [],
       "produces": "司康生坯",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ying-shi-si-kang/step_5.jpg"
+      "image": "steps/other_ying-shi-si-kang/step_5.jpg"
     },
     {
       "index": 6,
@@ -176,7 +176,7 @@
         "刷蛋液可使成品表面金黄诱人"
       ],
       "produces": "待烤司康",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ying-shi-si-kang/step_6.jpg"
+      "image": "steps/other_ying-shi-si-kang/step_6.jpg"
     },
     {
       "index": 7,
@@ -187,14 +187,14 @@
         "注意观察上色情况"
       ],
       "produces": "英式司康",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ying-shi-si-kang/step_7.jpg"
+      "image": "steps/other_ying-shi-si-kang/step_7.jpg"
     }
   ],
   "tips": [
     "最简单的分切方案是擀成圆形面皮，用刀切成 6 个扇形"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ying-shi-si-kang.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ying-shi-si-kang_overview.jpg",
+  "cover_image": "ai-generated/other_ying-shi-si-kang.jpg",
+  "overview_image": "overview/other_ying-shi-si-kang_overview.jpg",
   "id": "other_ying-shi-si-kang",
   "status": "published"
 }

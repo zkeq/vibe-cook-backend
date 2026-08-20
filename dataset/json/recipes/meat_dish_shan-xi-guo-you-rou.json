@@ -149,7 +149,7 @@
         "热水泡发速度快，但口感略逊于冷水慢泡"
       ],
       "produces": "泡发好的木耳",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shan-xi-guo-you-rou/step_1.jpg"
+      "image": "steps/meat_dish_shan-xi-guo-you-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -161,7 +161,7 @@
         "封浆可以锁住肉片水分"
       ],
       "produces": "腌制好的肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shan-xi-guo-you-rou/step_2.jpg"
+      "image": "steps/meat_dish_shan-xi-guo-you-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -172,7 +172,7 @@
         "切配大小均匀有助于受热一致"
       ],
       "produces": "蔬菜段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shan-xi-guo-you-rou/step_3.jpg"
+      "image": "steps/meat_dish_shan-xi-guo-you-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -183,7 +183,7 @@
         "油温不宜过高，否则肉片容易变老"
       ],
       "produces": "过油肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shan-xi-guo-you-rou/step_4.jpg"
+      "image": "steps/meat_dish_shan-xi-guo-you-rou/step_4.jpg"
     },
     {
       "index": 5,
@@ -194,7 +194,7 @@
         "过油后的油过滤后可二次使用"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shan-xi-guo-you-rou/step_5.jpg"
+      "image": "steps/meat_dish_shan-xi-guo-you-rou/step_5.jpg"
     },
     {
       "index": 6,
@@ -205,7 +205,7 @@
         "蒜苔断生后再下其他蔬菜，保持脆爽"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shan-xi-guo-you-rou/step_6.jpg"
+      "image": "steps/meat_dish_shan-xi-guo-you-rou/step_6.jpg"
     },
     {
       "index": 7,
@@ -216,7 +216,7 @@
         "醋要在起锅前加，保留醋的香气而非只有酸味"
       ],
       "produces": "成品过油肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shan-xi-guo-you-rou/step_7.jpg"
+      "image": "steps/meat_dish_shan-xi-guo-you-rou/step_7.jpg"
     }
   ],
   "tips": [
@@ -224,8 +224,8 @@
     "起锅前也可以打个薄薄的水淀粉勾芡，口感会更加滑润。",
     "陈醋是这道菜的灵魂，建议使用正宗山西老陈醋。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_shan-xi-guo-you-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_shan-xi-guo-you-rou_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_shan-xi-guo-you-rou.jpg",
+  "overview_image": "overview/meat_dish_shan-xi-guo-you-rou_overview.jpg",
   "id": "meat_dish_shan-xi-guo-you-rou",
   "status": "published"
 }

@@ -112,7 +112,7 @@
         "清洗后可以稍微沥干水分"
       ],
       "produces": "洗净的鸡腿",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-cong-lao-ji/step_1.jpg"
+      "image": "steps/other_jiang-cong-lao-ji/step_1.jpg"
     },
     {
       "index": 2,
@@ -123,7 +123,7 @@
         "抹匀后鸡肉更入味"
       ],
       "produces": "腌制中的鸡腿",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-cong-lao-ji/step_2.jpg"
+      "image": "steps/other_jiang-cong-lao-ji/step_2.jpg"
     },
     {
       "index": 3,
@@ -134,7 +134,7 @@
         "水开后再上锅蒸"
       ],
       "produces": "待蒸鸡腿",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-cong-lao-ji/step_3.jpg"
+      "image": "steps/other_jiang-cong-lao-ji/step_3.jpg"
     },
     {
       "index": 4,
@@ -145,7 +145,7 @@
         "中大火蒸制即可"
       ],
       "produces": "熟鸡腿",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-cong-lao-ji/step_4.jpg"
+      "image": "steps/other_jiang-cong-lao-ji/step_4.jpg"
     },
     {
       "index": 5,
@@ -156,7 +156,7 @@
         "姜蓉的口感更细腻"
       ],
       "produces": "姜末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-cong-lao-ji/step_5.jpg"
+      "image": "steps/other_jiang-cong-lao-ji/step_5.jpg"
     },
     {
       "index": 6,
@@ -167,7 +167,7 @@
         "葱白部分多一些更香"
       ],
       "produces": "葱花",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-cong-lao-ji/step_6.jpg"
+      "image": "steps/other_jiang-cong-lao-ji/step_6.jpg"
     },
     {
       "index": 7,
@@ -178,7 +178,7 @@
         "盐糖比例可微调"
       ],
       "produces": "葱姜底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-cong-lao-ji/step_7.jpg"
+      "image": "steps/other_jiang-cong-lao-ji/step_7.jpg"
     },
     {
       "index": 8,
@@ -189,7 +189,7 @@
         "看到油微微冒烟即可"
       ],
       "produces": "热油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-cong-lao-ji/step_8.jpg"
+      "image": "steps/other_jiang-cong-lao-ji/step_8.jpg"
     },
     {
       "index": 9,
@@ -200,7 +200,7 @@
         "分两次淋入效果更好"
       ],
       "produces": "姜葱油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-cong-lao-ji/step_9.jpg"
+      "image": "steps/other_jiang-cong-lao-ji/step_9.jpg"
     },
     {
       "index": 10,
@@ -211,7 +211,7 @@
         "注意防烫，可以稍微放凉一点再撕"
       ],
       "produces": "鸡丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-cong-lao-ji/step_10.jpg"
+      "image": "steps/other_jiang-cong-lao-ji/step_10.jpg"
     },
     {
       "index": 11,
@@ -222,7 +222,7 @@
         "搅拌均匀后静置5分钟更入味"
       ],
       "produces": "姜葱捞鸡",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-cong-lao-ji/step_11.jpg"
+      "image": "steps/other_jiang-cong-lao-ji/step_11.jpg"
     }
   ],
   "tips": [
@@ -231,8 +231,8 @@
     "淋油时油温要够高，才能激发出葱姜的香气",
     "如果想让鸡皮更脆，蒸熟后可以迅速浸入冰水"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_jiang-cong-lao-ji.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_jiang-cong-lao-ji_overview.jpg",
+  "cover_image": "ai-generated/other_jiang-cong-lao-ji.jpg",
+  "overview_image": "overview/other_jiang-cong-lao-ji_overview.jpg",
   "id": "other_jiang-cong-lao-ji",
   "status": "published"
 }

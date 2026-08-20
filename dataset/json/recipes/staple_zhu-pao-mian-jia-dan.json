@@ -66,7 +66,7 @@
         "使用热水会更快"
       ],
       "produces": "沸水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhu-pao-mian-jia-dan/step_1.jpg"
+      "image": "steps/staple_zhu-pao-mian-jia-dan/step_1.jpg"
     },
     {
       "index": 2,
@@ -75,7 +75,7 @@
       "duration_sec": 10,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhu-pao-mian-jia-dan/step_2.jpg"
+      "image": "steps/staple_zhu-pao-mian-jia-dan/step_2.jpg"
     },
     {
       "index": 3,
@@ -84,7 +84,7 @@
       "duration_sec": 20,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhu-pao-mian-jia-dan/step_3.jpg"
+      "image": "steps/staple_zhu-pao-mian-jia-dan/step_3.jpg"
     },
     {
       "index": 4,
@@ -93,7 +93,7 @@
       "duration_sec": 30,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhu-pao-mian-jia-dan/step_4.jpg"
+      "image": "steps/staple_zhu-pao-mian-jia-dan/step_4.jpg"
     },
     {
       "index": 5,
@@ -102,7 +102,7 @@
       "duration_sec": 60,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhu-pao-mian-jia-dan/step_5.jpg"
+      "image": "steps/staple_zhu-pao-mian-jia-dan/step_5.jpg"
     },
     {
       "index": 6,
@@ -111,7 +111,7 @@
       "duration_sec": 20,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhu-pao-mian-jia-dan/step_6.jpg"
+      "image": "steps/staple_zhu-pao-mian-jia-dan/step_6.jpg"
     },
     {
       "index": 7,
@@ -120,7 +120,7 @@
       "duration_sec": 210,
       "tips": [],
       "produces": "煮泡面加蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhu-pao-mian-jia-dan/step_7.jpg"
+      "image": "steps/staple_zhu-pao-mian-jia-dan/step_7.jpg"
     }
   ],
   "tips": [
@@ -128,8 +128,8 @@
     "可根据个人需要加入佐料，和其他食材包括但不仅限于：火腿肠，生菜，小肉丝，辣条，鱼干，虾仁，鸡腿",
     "单人份量能支撑一个成年人不饥饿状态约 3 至 4 小时"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_zhu-pao-mian-jia-dan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_zhu-pao-mian-jia-dan_overview.jpg",
+  "cover_image": "ai-generated/staple_zhu-pao-mian-jia-dan.jpg",
+  "overview_image": "overview/staple_zhu-pao-mian-jia-dan_overview.jpg",
   "id": "staple_zhu-pao-mian-jia-dan",
   "status": "published"
 }

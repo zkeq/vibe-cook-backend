@@ -143,7 +143,7 @@
         "腌制时间越长越入味"
       ],
       "produces": "腌制好的鸡肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-you-ji/step_1.jpg"
+      "image": "steps/meat_dish_huang-you-ji/step_1.jpg"
     },
     {
       "index": 2,
@@ -155,7 +155,7 @@
         "大火锁住肉汁"
       ],
       "produces": "半熟焦香鸡肉块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-you-ji/step_2.jpg"
+      "image": "steps/meat_dish_huang-you-ji/step_2.jpg"
     },
     {
       "index": 3,
@@ -166,7 +166,7 @@
         "确保番茄煮烂，风味才会完全释放"
       ],
       "produces": "煮软的蔬菜底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-you-ji/step_3.jpg"
+      "image": "steps/meat_dish_huang-you-ji/step_3.jpg"
     },
     {
       "index": 4,
@@ -177,7 +177,7 @@
         "过滤是保证酱汁丝滑的关键步骤"
       ],
       "produces": "顺滑番茄酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-you-ji/step_4.jpg"
+      "image": "steps/meat_dish_huang-you-ji/step_4.jpg"
     },
     {
       "index": 5,
@@ -188,7 +188,7 @@
         "观察到酱汁颜色变深且微微吐油即可"
       ],
       "produces": "浓郁香料酱汁底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-you-ji/step_5.jpg"
+      "image": "steps/meat_dish_huang-you-ji/step_5.jpg"
     },
     {
       "index": 6,
@@ -200,7 +200,7 @@
         "保持小火，避免淡奶油油水分离"
       ],
       "produces": "黄油鸡雏形",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-you-ji/step_6.jpg"
+      "image": "steps/meat_dish_huang-you-ji/step_6.jpg"
     },
     {
       "index": 7,
@@ -211,7 +211,7 @@
         "干葫芦巴叶搓碎后香气更浓郁"
       ],
       "produces": "黄油鸡成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-you-ji/step_7.jpg"
+      "image": "steps/meat_dish_huang-you-ji/step_7.jpg"
     }
   ],
   "tips": [
@@ -221,8 +221,8 @@
     "建议搭配印度烤饼(Naan)或巴斯马蒂米饭食用。",
     "黄油鸡是印度料理的全球代表作，掌握好香料平衡是核心。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_huang-you-ji.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_huang-you-ji_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_huang-you-ji.jpg",
+  "overview_image": "overview/meat_dish_huang-you-ji_overview.jpg",
   "id": "meat_dish_huang-you-ji",
   "status": "published"
 }

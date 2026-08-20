@@ -88,7 +88,7 @@
         "压汁前可以揉搓柠檬让出汁更容易"
       ],
       "produces": "备用柠檬片和柠檬汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jin-tang-li/step_1.jpg"
+      "image": "steps/other_jin-tang-li/step_1.jpg"
     },
     {
       "index": 2,
@@ -99,7 +99,7 @@
         "杯子可以提前冷藏以保持低温"
       ],
       "produces": "装有冰块的杯子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jin-tang-li/step_2.jpg"
+      "image": "steps/other_jin-tang-li/step_2.jpg"
     },
     {
       "index": 3,
@@ -110,7 +110,7 @@
         "如果喜酸可以根据个人口味加多点或全加"
       ],
       "produces": "混合基底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jin-tang-li/step_3.jpg"
+      "image": "steps/other_jin-tang-li/step_3.jpg"
     },
     {
       "index": 4,
@@ -121,7 +121,7 @@
         "充分混合能让口感更平衡"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jin-tang-li/step_4.jpg"
+      "image": "steps/other_jin-tang-li/step_4.jpg"
     },
     {
       "index": 5,
@@ -132,7 +132,7 @@
         "可以将柠檬片贴在杯壁上增加美感"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jin-tang-li/step_5.jpg"
+      "image": "steps/other_jin-tang-li/step_5.jpg"
     },
     {
       "index": 6,
@@ -143,7 +143,7 @@
         "不要直接倒在冰上，避免起泡过度流失导致口感变差"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jin-tang-li/step_6.jpg"
+      "image": "steps/other_jin-tang-li/step_6.jpg"
     },
     {
       "index": 7,
@@ -154,7 +154,7 @@
         "不要使用旋转搅拌方式，避免二氧化碳流失"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jin-tang-li/step_7.jpg"
+      "image": "steps/other_jin-tang-li/step_7.jpg"
     },
     {
       "index": 8,
@@ -165,7 +165,7 @@
         "轻轻拍打绿叶可以激发出植物的香气"
       ],
       "produces": "金汤力成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jin-tang-li/step_8.jpg"
+      "image": "steps/other_jin-tang-li/step_8.jpg"
     }
   ],
   "tips": [
@@ -173,8 +173,8 @@
     "搅拌时使用提拉法而非旋转法以减少气泡损耗",
     "柠檬汁的比例可根据个人对酸度的喜好灵活调整"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_jin-tang-li.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_jin-tang-li_overview.jpg",
+  "cover_image": "ai-generated/other_jin-tang-li.jpg",
+  "overview_image": "overview/other_jin-tang-li_overview.jpg",
   "id": "other_jin-tang-li",
   "status": "published"
 }

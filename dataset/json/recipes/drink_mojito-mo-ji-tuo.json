@@ -102,7 +102,7 @@
         "不要把皮捣得太碎，以免苦涩味过重"
       ],
       "produces": "杯底青柠汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_mojito-mo-ji-tuo/step_1.jpg"
+      "image": "steps/drink_mojito-mo-ji-tuo/step_1.jpg"
     },
     {
       "index": 2,
@@ -113,7 +113,7 @@
         "涂抹杯口可以让饮用时香气更浓郁"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_mojito-mo-ji-tuo/step_2.jpg"
+      "image": "steps/drink_mojito-mo-ji-tuo/step_2.jpg"
     },
     {
       "index": 3,
@@ -124,7 +124,7 @@
         "可根据口味微调糖浆量"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_mojito-mo-ji-tuo/step_3.jpg"
+      "image": "steps/drink_mojito-mo-ji-tuo/step_3.jpg"
     },
     {
       "index": 4,
@@ -135,7 +135,7 @@
         "金色朗姆酒是这款风味的关键"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_mojito-mo-ji-tuo/step_4.jpg"
+      "image": "steps/drink_mojito-mo-ji-tuo/step_4.jpg"
     },
     {
       "index": 5,
@@ -146,7 +146,7 @@
         "使用压汁器可以获取更多果汁"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_mojito-mo-ji-tuo/step_5.jpg"
+      "image": "steps/drink_mojito-mo-ji-tuo/step_5.jpg"
     },
     {
       "index": 6,
@@ -157,7 +157,7 @@
         "半融合状态能带来更有层次的口感"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_mojito-mo-ji-tuo/step_6.jpg"
+      "image": "steps/drink_mojito-mo-ji-tuo/step_6.jpg"
     },
     {
       "index": 7,
@@ -168,7 +168,7 @@
         "碎冰能让酒液迅速降温"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_mojito-mo-ji-tuo/step_7.jpg"
+      "image": "steps/drink_mojito-mo-ji-tuo/step_7.jpg"
     },
     {
       "index": 8,
@@ -179,7 +179,7 @@
         "慢慢倒入以保留更多气泡"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_mojito-mo-ji-tuo/step_8.jpg"
+      "image": "steps/drink_mojito-mo-ji-tuo/step_8.jpg"
     },
     {
       "index": 9,
@@ -190,7 +190,7 @@
         "让杯中液体和冰块充分热交换"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_mojito-mo-ji-tuo/step_9.jpg"
+      "image": "steps/drink_mojito-mo-ji-tuo/step_9.jpg"
     },
     {
       "index": 10,
@@ -201,7 +201,7 @@
         "补满碎冰视觉效果更好"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_mojito-mo-ji-tuo/step_10.jpg"
+      "image": "steps/drink_mojito-mo-ji-tuo/step_10.jpg"
     },
     {
       "index": 11,
@@ -212,7 +212,7 @@
         "双手合十拍打薄荷叶可以瞬间激发香气"
       ],
       "produces": "成品莫吉托",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_mojito-mo-ji-tuo/step_11.jpg"
+      "image": "steps/drink_mojito-mo-ji-tuo/step_11.jpg"
     }
   ],
   "tips": [
@@ -220,8 +220,8 @@
     "如果觉得酒味重，可以适当增加苏打水的比例。",
     "青柠和薄荷必须新鲜，这是口感清爽的核心。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/drink_mojito-mo-ji-tuo.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/drink_mojito-mo-ji-tuo_overview.jpg",
+  "cover_image": "ai-generated/drink_mojito-mo-ji-tuo.jpg",
+  "overview_image": "overview/drink_mojito-mo-ji-tuo_overview.jpg",
   "id": "drink_mojito-mo-ji-tuo",
   "status": "published"
 }

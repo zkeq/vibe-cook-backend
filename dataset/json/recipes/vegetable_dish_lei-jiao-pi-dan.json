@@ -144,7 +144,7 @@
         "一定要去除青椒子，否则会在锅里炸开"
       ],
       "produces": "处理好的青椒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_lei-jiao-pi-dan/step_1.jpg"
+      "image": "steps/vegetable_dish_lei-jiao-pi-dan/step_1.jpg"
     },
     {
       "index": 2,
@@ -155,7 +155,7 @@
         "蒜末切得碎一点风味更佳"
       ],
       "produces": "葱段与蒜末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_lei-jiao-pi-dan/step_2.jpg"
+      "image": "steps/vegetable_dish_lei-jiao-pi-dan/step_2.jpg"
     },
     {
       "index": 3,
@@ -166,7 +166,7 @@
         "剥皮蛋时可沾点水，防止粘连"
       ],
       "produces": "去皮皮蛋与小米辣段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_lei-jiao-pi-dan/step_3.jpg"
+      "image": "steps/vegetable_dish_lei-jiao-pi-dan/step_3.jpg"
     },
     {
       "index": 4,
@@ -177,7 +177,7 @@
         "油温不宜过高，防止溅油"
       ],
       "produces": "热油锅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_lei-jiao-pi-dan/step_4.jpg"
+      "image": "steps/vegetable_dish_lei-jiao-pi-dan/step_4.jpg"
     },
     {
       "index": 5,
@@ -188,7 +188,7 @@
         "可以用筷子试一下，插入即透即可"
       ],
       "produces": "煎熟的青椒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_lei-jiao-pi-dan/step_5.jpg"
+      "image": "steps/vegetable_dish_lei-jiao-pi-dan/step_5.jpg"
     },
     {
       "index": 6,
@@ -199,7 +199,7 @@
         "选择铁盆更耐砸"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_lei-jiao-pi-dan/step_6.jpg"
+      "image": "steps/vegetable_dish_lei-jiao-pi-dan/step_6.jpg"
     },
     {
       "index": 7,
@@ -210,7 +210,7 @@
         "如果怕砸东西吵到邻居，请使用方法2"
       ],
       "produces": "椒蛋混合物",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_lei-jiao-pi-dan/step_7.jpg"
+      "image": "steps/vegetable_dish_lei-jiao-pi-dan/step_7.jpg"
     },
     {
       "index": 8,
@@ -221,7 +221,7 @@
         "调味后静置几分钟更入味"
       ],
       "produces": "雷椒皮蛋成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_lei-jiao-pi-dan/step_8.jpg"
+      "image": "steps/vegetable_dish_lei-jiao-pi-dan/step_8.jpg"
     }
   ],
   "tips": [
@@ -229,8 +229,8 @@
     "如果砸击过程噪音过大，建议采用手撕和叉子压碎的替代方案。",
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_lei-jiao-pi-dan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_lei-jiao-pi-dan_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_lei-jiao-pi-dan.jpg",
+  "overview_image": "overview/vegetable_dish_lei-jiao-pi-dan_overview.jpg",
   "id": "vegetable_dish_lei-jiao-pi-dan",
   "status": "published"
 }

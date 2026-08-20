@@ -135,7 +135,7 @@
         "醒发时间必须充足"
       ],
       "produces": "基础面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_shou-zhua-bing/step_1.jpg"
+      "image": "steps/breakfast_shou-zhua-bing/step_1.jpg"
     },
     {
       "index": 2,
@@ -146,7 +146,7 @@
         "尽量擀得厚薄均匀"
       ],
       "produces": "圆形面片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_shou-zhua-bing/step_2.jpg"
+      "image": "steps/breakfast_shou-zhua-bing/step_2.jpg"
     },
     {
       "index": 3,
@@ -157,7 +157,7 @@
         "抹油要均匀，这是分层的关键"
       ],
       "produces": "蜗牛状坯子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_shou-zhua-bing/step_3.jpg"
+      "image": "steps/breakfast_shou-zhua-bing/step_3.jpg"
     },
     {
       "index": 4,
@@ -168,7 +168,7 @@
         "力度要轻，不要把层次压死"
       ],
       "produces": "手抓饼生坯",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_shou-zhua-bing/step_4.jpg"
+      "image": "steps/breakfast_shou-zhua-bing/step_4.jpg"
     },
     {
       "index": 5,
@@ -179,7 +179,7 @@
         "煎的过程中可以用铲子轻轻向内挤压，使层次更明显"
       ],
       "produces": "金黄饼皮",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_shou-zhua-bing/step_5.jpg"
+      "image": "steps/breakfast_shou-zhua-bing/step_5.jpg"
     },
     {
       "index": 6,
@@ -190,7 +190,7 @@
         "配料总重建议控制在 100 克以内"
       ],
       "produces": "手抓饼成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_shou-zhua-bing/step_6.jpg"
+      "image": "steps/breakfast_shou-zhua-bing/step_6.jpg"
     }
   ],
   "tips": [
@@ -199,8 +199,8 @@
     "可根据个人口味增减配料，建议配料总重控制在 100 克以内。",
     "剩余生饼皮可冷藏保存 24 小时，使用时回温擀平即可。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_shou-zhua-bing.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_shou-zhua-bing_overview.jpg",
+  "cover_image": "ai-generated/breakfast_shou-zhua-bing.jpg",
+  "overview_image": "overview/breakfast_shou-zhua-bing_overview.jpg",
   "id": "breakfast_shou-zhua-bing",
   "status": "published"
 }

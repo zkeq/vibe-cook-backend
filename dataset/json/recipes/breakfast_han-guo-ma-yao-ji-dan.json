@@ -125,7 +125,7 @@
         "放入鸡蛋时动作要轻"
       ],
       "produces": "煮好的鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_han-guo-ma-yao-ji-dan/step_1.jpg"
+      "image": "steps/breakfast_han-guo-ma-yao-ji-dan/step_1.jpg"
     },
     {
       "index": 2,
@@ -136,7 +136,7 @@
         "确保糖分在加热前稍微搅拌"
       ],
       "produces": "未加热的酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_han-guo-ma-yao-ji-dan/step_2.jpg"
+      "image": "steps/breakfast_han-guo-ma-yao-ji-dan/step_2.jpg"
     },
     {
       "index": 3,
@@ -147,7 +147,7 @@
         "沸腾后即可关火，不要过度浓缩酱汁"
       ],
       "produces": "熟酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_han-guo-ma-yao-ji-dan/step_3.jpg"
+      "image": "steps/breakfast_han-guo-ma-yao-ji-dan/step_3.jpg"
     },
     {
       "index": 4,
@@ -158,7 +158,7 @@
         "酱汁必须放凉后再加配料，以免辣椒变色"
       ],
       "produces": "风味酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_han-guo-ma-yao-ji-dan/step_4.jpg"
+      "image": "steps/breakfast_han-guo-ma-yao-ji-dan/step_4.jpg"
     },
     {
       "index": 5,
@@ -169,7 +169,7 @@
         "彻底冷却后在水中剥壳，蛋皮更完整"
       ],
       "produces": "剥壳鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_han-guo-ma-yao-ji-dan/step_5.jpg"
+      "image": "steps/breakfast_han-guo-ma-yao-ji-dan/step_5.jpg"
     },
     {
       "index": 6,
@@ -180,7 +180,7 @@
         "确保酱汁没过鸡蛋至少一半以上"
       ],
       "produces": "待腌制鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_han-guo-ma-yao-ji-dan/step_6.jpg"
+      "image": "steps/breakfast_han-guo-ma-yao-ji-dan/step_6.jpg"
     },
     {
       "index": 7,
@@ -191,15 +191,15 @@
         "冷藏期间可以翻动一次鸡蛋使上色均匀"
       ],
       "produces": "成品麻药鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_han-guo-ma-yao-ji-dan/step_7.jpg"
+      "image": "steps/breakfast_han-guo-ma-yao-ji-dan/step_7.jpg"
     }
   ],
   "tips": [
     "酱汁的比例可以根据个人口味微调。如果喜欢更甜，可以增加糖的用量。",
     "剩余的酱汁非常美味，可以直接用来拌饭。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_han-guo-ma-yao-ji-dan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_han-guo-ma-yao-ji-dan_overview.jpg",
+  "cover_image": "ai-generated/breakfast_han-guo-ma-yao-ji-dan.jpg",
+  "overview_image": "overview/breakfast_han-guo-ma-yao-ji-dan_overview.jpg",
   "id": "breakfast_han-guo-ma-yao-ji-dan",
   "status": "published"
 }

@@ -180,7 +180,7 @@
         "中间可以换水1-2次"
       ],
       "produces": "初步清洁的猪肘",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_hu-pi-zhou-zi/step_1.jpg"
+      "image": "steps/meat_dish_hu-pi-zhou-zi/step_1.jpg"
     },
     {
       "index": 2,
@@ -192,7 +192,7 @@
         "注意铁锅温度不要红热"
       ],
       "produces": "去毛后的猪肘",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_hu-pi-zhou-zi/step_2.jpg"
+      "image": "steps/meat_dish_hu-pi-zhou-zi/step_2.jpg"
     },
     {
       "index": 3,
@@ -203,7 +203,7 @@
         "刷洗后猪肘应恢复至未烧前的色泽状态"
       ],
       "produces": "洁净猪肘",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_hu-pi-zhou-zi/step_3.jpg"
+      "image": "steps/meat_dish_hu-pi-zhou-zi/step_3.jpg"
     },
     {
       "index": 4,
@@ -214,7 +214,7 @@
         "肉汤是后续炖煮的核心，务必保留"
       ],
       "produces": "去腥猪肘与原汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_hu-pi-zhou-zi/step_4.jpg"
+      "image": "steps/meat_dish_hu-pi-zhou-zi/step_4.jpg"
     },
     {
       "index": 5,
@@ -226,7 +226,7 @@
         "炸后的油可回收利用"
       ],
       "produces": "炸制完成的虎皮肘坯",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_hu-pi-zhou-zi/step_5.jpg"
+      "image": "steps/meat_dish_hu-pi-zhou-zi/step_5.jpg"
     },
     {
       "index": 6,
@@ -237,7 +237,7 @@
         "注意火候，避免糖色发苦"
       ],
       "produces": "糖色",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_hu-pi-zhou-zi/step_6.jpg"
+      "image": "steps/meat_dish_hu-pi-zhou-zi/step_6.jpg"
     },
     {
       "index": 7,
@@ -248,7 +248,7 @@
         "喜欢甜口可额外加入2-3克冰糖"
       ],
       "produces": "软烂入味的猪肘",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_hu-pi-zhou-zi/step_7.jpg"
+      "image": "steps/meat_dish_hu-pi-zhou-zi/step_7.jpg"
     },
     {
       "index": 8,
@@ -260,7 +260,7 @@
         "勾芡需分两次加入"
       ],
       "produces": "虎皮肘子成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_hu-pi-zhou-zi/step_8.jpg"
+      "image": "steps/meat_dish_hu-pi-zhou-zi/step_8.jpg"
     }
   ],
   "tips": [
@@ -269,8 +269,8 @@
     "收汁时要不断观察汤汁余量，避免烧焦",
     "参考资料：Bilibili老饭骨的视频教程 (BV1P4421c7s5)"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_hu-pi-zhou-zi.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_hu-pi-zhou-zi_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_hu-pi-zhou-zi.jpg",
+  "overview_image": "overview/meat_dish_hu-pi-zhou-zi_overview.jpg",
   "id": "meat_dish_hu-pi-zhou-zi",
   "status": "published"
 }

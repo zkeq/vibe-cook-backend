@@ -133,7 +133,7 @@
         "新鲜挤出的柠檬汁比瓶装浓缩汁风味更好"
       ],
       "produces": "杯中的柠檬汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_zhang-dao-bing-cha/step_1.jpg"
+      "image": "steps/drink_zhang-dao-bing-cha/step_1.jpg"
     },
     {
       "index": 2,
@@ -144,7 +144,7 @@
         "使用量杯精准测量可以保证口感平衡"
       ],
       "produces": "混合酒液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_zhang-dao-bing-cha/step_2.jpg"
+      "image": "steps/drink_zhang-dao-bing-cha/step_2.jpg"
     },
     {
       "index": 3,
@@ -155,7 +155,7 @@
         "搅拌可以使糖浆与酸度和酒精充分融合"
       ],
       "produces": "调味的混合基底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_zhang-dao-bing-cha/step_3.jpg"
+      "image": "steps/drink_zhang-dao-bing-cha/step_3.jpg"
     },
     {
       "index": 4,
@@ -166,7 +166,7 @@
         "可乐主要起上色作用，使其看起来像红茶"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_zhang-dao-bing-cha/step_4.jpg"
+      "image": "steps/drink_zhang-dao-bing-cha/step_4.jpg"
     },
     {
       "index": 5,
@@ -177,7 +177,7 @@
         "冰块加满可以减缓融化速度，保持低温"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_zhang-dao-bing-cha/step_5.jpg"
+      "image": "steps/drink_zhang-dao-bing-cha/step_5.jpg"
     },
     {
       "index": 6,
@@ -188,7 +188,7 @@
         "动作要轻，避免流失过多的可乐二氧化碳"
       ],
       "produces": "长岛冰茶成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_zhang-dao-bing-cha/step_6.jpg"
+      "image": "steps/drink_zhang-dao-bing-cha/step_6.jpg"
     },
     {
       "index": 7,
@@ -199,7 +199,7 @@
         "可以点缀一片柠檬片在杯口作为装饰"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_zhang-dao-bing-cha/step_7.jpg"
+      "image": "steps/drink_zhang-dao-bing-cha/step_7.jpg"
     }
   ],
   "tips": [
@@ -207,8 +207,8 @@
     "该酒酒精度约 15%，口感柔和但后劲较强，请适量饮用",
     "参考国际调酒师协会 (IBA) 标准调制，确保风味正宗"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/drink_zhang-dao-bing-cha.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/drink_zhang-dao-bing-cha_overview.jpg",
+  "cover_image": "ai-generated/drink_zhang-dao-bing-cha.jpg",
+  "overview_image": "overview/drink_zhang-dao-bing-cha_overview.jpg",
   "id": "drink_zhang-dao-bing-cha",
   "status": "published"
 }

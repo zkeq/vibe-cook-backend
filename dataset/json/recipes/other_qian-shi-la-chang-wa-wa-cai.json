@@ -68,7 +68,7 @@
         "可以使用电热水器提前烧水以缩短时间"
       ],
       "produces": "沸水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qian-shi-la-chang-wa-wa-cai/step_1.jpg"
+      "image": "steps/other_qian-shi-la-chang-wa-wa-cai/step_1.jpg"
     },
     {
       "index": 2,
@@ -79,7 +79,7 @@
         "整根放入即可，煮熟后再切"
       ],
       "produces": "煮熟的腊肠",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qian-shi-la-chang-wa-wa-cai/step_2.jpg"
+      "image": "steps/other_qian-shi-la-chang-wa-wa-cai/step_2.jpg"
     },
     {
       "index": 3,
@@ -90,7 +90,7 @@
         "娃娃菜易熟，不要煮太久以保持口感"
       ],
       "produces": "煮熟的蔬菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qian-shi-la-chang-wa-wa-cai/step_3.jpg"
+      "image": "steps/other_qian-shi-la-chang-wa-wa-cai/step_3.jpg"
     },
     {
       "index": 4,
@@ -101,7 +101,7 @@
         "注意防烫"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qian-shi-la-chang-wa-wa-cai/step_4.jpg"
+      "image": "steps/other_qian-shi-la-chang-wa-wa-cai/step_4.jpg"
     },
     {
       "index": 5,
@@ -112,15 +112,15 @@
         "腊肠切薄片口感更佳"
       ],
       "produces": "黔式腊肠娃娃菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qian-shi-la-chang-wa-wa-cai/step_5.jpg"
+      "image": "steps/other_qian-shi-la-chang-wa-wa-cai/step_5.jpg"
     }
   ],
   "tips": [
     "根据锅的大小，建议以水量没过食材为宜，宁多勿少",
     "如果没有刀具，娃娃菜和腊肠不切也可以"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_qian-shi-la-chang-wa-wa-cai.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_qian-shi-la-chang-wa-wa-cai_overview.jpg",
+  "cover_image": "ai-generated/other_qian-shi-la-chang-wa-wa-cai.jpg",
+  "overview_image": "overview/other_qian-shi-la-chang-wa-wa-cai_overview.jpg",
   "id": "other_qian-shi-la-chang-wa-wa-cai",
   "status": "published"
 }

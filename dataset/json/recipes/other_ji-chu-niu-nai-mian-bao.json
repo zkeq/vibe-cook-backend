@@ -156,7 +156,7 @@
         "酵头应该是特别粘稠的面糊"
       ],
       "produces": "预发酵酵头面糊",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-chu-niu-nai-mian-bao/step_1.jpg"
+      "image": "steps/other_ji-chu-niu-nai-mian-bao/step_1.jpg"
     },
     {
       "index": 2,
@@ -167,7 +167,7 @@
         "最终面糊表面应有大量气泡且体积明显增大"
       ],
       "produces": "发酵好的酵头",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-chu-niu-nai-mian-bao/step_2.jpg"
+      "image": "steps/other_ji-chu-niu-nai-mian-bao/step_2.jpg"
     },
     {
       "index": 3,
@@ -179,7 +179,7 @@
         "搅拌时要刮净容器壁"
       ],
       "produces": "初步面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-chu-niu-nai-mian-bao/step_3.jpg"
+      "image": "steps/other_ji-chu-niu-nai-mian-bao/step_3.jpg"
     },
     {
       "index": 4,
@@ -190,7 +190,7 @@
         "如果面团太硬可喷水并静置20分钟"
       ],
       "produces": "光滑面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-chu-niu-nai-mian-bao/step_4.jpg"
+      "image": "steps/other_ji-chu-niu-nai-mian-bao/step_4.jpg"
     },
     {
       "index": 5,
@@ -201,7 +201,7 @@
         "容器至少要是面团的三倍大"
       ],
       "produces": "发酵面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-chu-niu-nai-mian-bao/step_5.jpg"
+      "image": "steps/other_ji-chu-niu-nai-mian-bao/step_5.jpg"
     },
     {
       "index": 6,
@@ -212,7 +212,7 @@
         "接缝处务必朝下放置"
       ],
       "produces": "整形面包坯",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-chu-niu-nai-mian-bao/step_6.jpg"
+      "image": "steps/other_ji-chu-niu-nai-mian-bao/step_6.jpg"
     },
     {
       "index": 7,
@@ -223,7 +223,7 @@
         "预热是烘焙成功的关键"
       ],
       "produces": "待烤面包坯",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-chu-niu-nai-mian-bao/step_7.jpg"
+      "image": "steps/other_ji-chu-niu-nai-mian-bao/step_7.jpg"
     },
     {
       "index": 8,
@@ -234,7 +234,7 @@
         "若表面变色太快可覆盖锡纸"
       ],
       "produces": "成品牛奶面包",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-chu-niu-nai-mian-bao/step_8.jpg"
+      "image": "steps/other_ji-chu-niu-nai-mian-bao/step_8.jpg"
     },
     {
       "index": 9,
@@ -245,7 +245,7 @@
         "第二天早上是最好的品尝时机"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-chu-niu-nai-mian-bao/step_9.jpg"
+      "image": "steps/other_ji-chu-niu-nai-mian-bao/step_9.jpg"
     }
   ],
   "tips": [
@@ -254,8 +254,8 @@
     "面包切片后可冷冻保存一个月，千万不要冷藏，否则水分流失快。",
     "推荐吃法：面包切片煎烤后夹入流心蛋和酱料食用。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ji-chu-niu-nai-mian-bao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ji-chu-niu-nai-mian-bao_overview.jpg",
+  "cover_image": "ai-generated/other_ji-chu-niu-nai-mian-bao.jpg",
+  "overview_image": "overview/other_ji-chu-niu-nai-mian-bao_overview.jpg",
   "id": "other_ji-chu-niu-nai-mian-bao",
   "status": "published"
 }

@@ -88,7 +88,7 @@
         "牛奶量能够将燕麦搅拌粘稠即可"
       ],
       "produces": "燕麦牛奶糊",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yan-mai-ji-dan-bing/step_1.jpg"
+      "image": "steps/breakfast_yan-mai-ji-dan-bing/step_1.jpg"
     },
     {
       "index": 2,
@@ -99,7 +99,7 @@
         "充分搅拌确保蛋液细腻"
       ],
       "produces": "蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yan-mai-ji-dan-bing/step_2.jpg"
+      "image": "steps/breakfast_yan-mai-ji-dan-bing/step_2.jpg"
     },
     {
       "index": 3,
@@ -110,7 +110,7 @@
         "此时可根据口味加入盐或胡椒调味"
       ],
       "produces": "饼浆",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yan-mai-ji-dan-bing/step_3.jpg"
+      "image": "steps/breakfast_yan-mai-ji-dan-bing/step_3.jpg"
     },
     {
       "index": 4,
@@ -121,7 +121,7 @@
         "黄油能提升香气，注意火候不要过大"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yan-mai-ji-dan-bing/step_4.jpg"
+      "image": "steps/breakfast_yan-mai-ji-dan-bing/step_4.jpg"
     },
     {
       "index": 5,
@@ -132,7 +132,7 @@
         "尽量摊得厚薄均匀"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yan-mai-ji-dan-bing/step_5.jpg"
+      "image": "steps/breakfast_yan-mai-ji-dan-bing/step_5.jpg"
     },
     {
       "index": 6,
@@ -143,7 +143,7 @@
         "一定要用小火，避免燕麦煎糊"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yan-mai-ji-dan-bing/step_6.jpg"
+      "image": "steps/breakfast_yan-mai-ji-dan-bing/step_6.jpg"
     },
     {
       "index": 7,
@@ -154,7 +154,7 @@
         "待底面成型后再小心翻面"
       ],
       "produces": "熟面饼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yan-mai-ji-dan-bing/step_7.jpg"
+      "image": "steps/breakfast_yan-mai-ji-dan-bing/step_7.jpg"
     },
     {
       "index": 8,
@@ -165,7 +165,7 @@
         "趁热食用口感最软嫩"
       ],
       "produces": "燕麦鸡蛋饼早餐",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yan-mai-ji-dan-bing/step_8.jpg"
+      "image": "steps/breakfast_yan-mai-ji-dan-bing/step_8.jpg"
     }
   ],
   "tips": [
@@ -173,8 +173,8 @@
     "煎饼时使用小火，避免燕麦部分煎糊。",
     "牛奶总量250ml中，约50-100g用于和面，其余可直接饮用。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_yan-mai-ji-dan-bing.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_yan-mai-ji-dan-bing_overview.jpg",
+  "cover_image": "ai-generated/breakfast_yan-mai-ji-dan-bing.jpg",
+  "overview_image": "overview/breakfast_yan-mai-ji-dan-bing_overview.jpg",
   "id": "breakfast_yan-mai-ji-dan-bing",
   "status": "published"
 }

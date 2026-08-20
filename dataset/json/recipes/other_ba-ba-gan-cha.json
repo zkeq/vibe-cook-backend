@@ -75,7 +75,7 @@
         "搅拌可以加速冷却并激发茶香"
       ],
       "produces": "茉莉绿茶茶水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ba-gan-cha/step_1.jpg"
+      "image": "steps/other_ba-ba-gan-cha/step_1.jpg"
     },
     {
       "index": 2,
@@ -87,7 +87,7 @@
         "果肉与茶水的比例保持 1:1 为佳"
       ],
       "produces": "预混合液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ba-gan-cha/step_2.jpg"
+      "image": "steps/other_ba-ba-gan-cha/step_2.jpg"
     },
     {
       "index": 3,
@@ -99,15 +99,15 @@
         "顶部的碎果肉能增加视觉层次感"
       ],
       "produces": "耙耙柑茶",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ba-gan-cha/step_3.jpg"
+      "image": "steps/other_ba-ba-gan-cha/step_3.jpg"
     }
   ],
   "tips": [
     "耙耙柑可以用其他容易分离果肉的柑橘替代，比如丑橘",
     "果肉和茶水比例为 1:1，如果需要配置更大的分量，可按比例提升用量"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ba-ba-gan-cha.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ba-ba-gan-cha_overview.jpg",
+  "cover_image": "ai-generated/other_ba-ba-gan-cha.jpg",
+  "overview_image": "overview/other_ba-ba-gan-cha_overview.jpg",
   "id": "other_ba-ba-gan-cha",
   "status": "published"
 }

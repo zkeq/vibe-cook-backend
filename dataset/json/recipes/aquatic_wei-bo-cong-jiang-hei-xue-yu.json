@@ -125,7 +125,7 @@
         "确保鱼皮向下可以防止鱼肉在加热中过分散开"
       ],
       "produces": "袋装鱼片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_1.jpg"
+      "image": "steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_1.jpg"
     },
     {
       "index": 2,
@@ -136,7 +136,7 @@
         "切丝尽量细，有利于香气渗透"
       ],
       "produces": "铺好葱姜的鱼片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_2.jpg"
+      "image": "steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_2.jpg"
     },
     {
       "index": 3,
@@ -147,7 +147,7 @@
         "料酒可有效去除鱼腥味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_3.jpg"
+      "image": "steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_3.jpg"
     },
     {
       "index": 4,
@@ -158,7 +158,7 @@
         "时间需根据鱼肉厚度微调，初次尝试建议先设3.5分钟"
       ],
       "produces": "熟鱼片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_4.jpg"
+      "image": "steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_4.jpg"
     },
     {
       "index": 5,
@@ -169,7 +169,7 @@
         "小心蒸汽烫手"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_5.jpg"
+      "image": "steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_5.jpg"
     },
     {
       "index": 6,
@@ -180,7 +180,7 @@
         "确保调料覆盖鱼肉表面"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_6.jpg"
+      "image": "steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_6.jpg"
     },
     {
       "index": 7,
@@ -191,7 +191,7 @@
         "这是最后淋油提香的关键"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_7.jpg"
+      "image": "steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_7.jpg"
     },
     {
       "index": 8,
@@ -202,7 +202,7 @@
         "油温一定要够，看到微微冒烟即可"
       ],
       "produces": "热油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_8.jpg"
+      "image": "steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_8.jpg"
     },
     {
       "index": 9,
@@ -213,7 +213,7 @@
         "淋油时动作要快，听到“滋啦”声说明成功"
       ],
       "produces": "微波葱姜黑鳕鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_9.jpg"
+      "image": "steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_9.jpg"
     }
   ],
   "tips": [
@@ -221,8 +221,8 @@
     "不同鱼类微波时间不同，海鲈鱼(450g)约6.5分钟，罗非鱼(800g)约6分钟，大比目鱼(170g)约2.25分钟，龙脷鱼(170g)约1.5分钟",
     "必须严格掌握油温，190℃的热油是这道菜灵魂香气的来源"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/aquatic_wei-bo-cong-jiang-hei-xue-yu.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/aquatic_wei-bo-cong-jiang-hei-xue-yu_overview.jpg",
+  "cover_image": "ai-generated/aquatic_wei-bo-cong-jiang-hei-xue-yu.jpg",
+  "overview_image": "overview/aquatic_wei-bo-cong-jiang-hei-xue-yu_overview.jpg",
   "id": "aquatic_wei-bo-cong-jiang-hei-xue-yu",
   "status": "published"
 }

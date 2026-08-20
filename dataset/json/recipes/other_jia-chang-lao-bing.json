@@ -76,7 +76,7 @@
         "醒面时间一定要够，否则面团不好擀开"
       ],
       "produces": "醒好的面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jia-chang-lao-bing/step_1.jpg"
+      "image": "steps/other_jia-chang-lao-bing/step_1.jpg"
     },
     {
       "index": 2,
@@ -87,7 +87,7 @@
         "热油酥能让层次更清晰、味道更香"
       ],
       "produces": "油酥",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jia-chang-lao-bing/step_2.jpg"
+      "image": "steps/other_jia-chang-lao-bing/step_2.jpg"
     },
     {
       "index": 3,
@@ -98,7 +98,7 @@
         "醒后的面团不要过度揉搓，以免起筋导致口感变硬"
       ],
       "produces": "四份小面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jia-chang-lao-bing/step_3.jpg"
+      "image": "steps/other_jia-chang-lao-bing/step_3.jpg"
     },
     {
       "index": 4,
@@ -109,7 +109,7 @@
         "油酥要涂抹均匀，边缘也要涂到"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jia-chang-lao-bing/step_4.jpg"
+      "image": "steps/other_jia-chang-lao-bing/step_4.jpg"
     },
     {
       "index": 5,
@@ -120,7 +120,7 @@
         "捏紧尾部是防止漏油的关键步骤"
       ],
       "produces": "圆锥状面坯",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jia-chang-lao-bing/step_5.jpg"
+      "image": "steps/other_jia-chang-lao-bing/step_5.jpg"
     },
     {
       "index": 6,
@@ -131,7 +131,7 @@
         "擀饼力度要均匀，不要把层次压死"
       ],
       "produces": "面饼坯",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jia-chang-lao-bing/step_6.jpg"
+      "image": "steps/other_jia-chang-lao-bing/step_6.jpg"
     },
     {
       "index": 7,
@@ -142,7 +142,7 @@
         "饼上方刷油可以起到锁水作用，防止烙出的饼太干"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jia-chang-lao-bing/step_7.jpg"
+      "image": "steps/other_jia-chang-lao-bing/step_7.jpg"
     },
     {
       "index": 8,
@@ -153,7 +153,7 @@
         "使用大火快烙可以减少水分流失"
       ],
       "produces": "熟烙饼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jia-chang-lao-bing/step_8.jpg"
+      "image": "steps/other_jia-chang-lao-bing/step_8.jpg"
     },
     {
       "index": 9,
@@ -164,15 +164,15 @@
         "烙好的饼可以用干净的布盖住保温"
       ],
       "produces": "全部烙饼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jia-chang-lao-bing/step_9.jpg"
+      "image": "steps/other_jia-chang-lao-bing/step_9.jpg"
     }
   ],
   "tips": [
     "制作需要一点手法，尤其卷酥和擀饼环节，但跟着步骤操作并不难，新手也能掌握。",
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_jia-chang-lao-bing.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_jia-chang-lao-bing_overview.jpg",
+  "cover_image": "ai-generated/other_jia-chang-lao-bing.jpg",
+  "overview_image": "overview/other_jia-chang-lao-bing_overview.jpg",
   "id": "other_jia-chang-lao-bing",
   "status": "published"
 }

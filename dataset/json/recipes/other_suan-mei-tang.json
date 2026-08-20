@@ -134,7 +134,7 @@
         "浸泡有助于药材出味"
       ],
       "produces": "浸泡好的药材与水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-mei-tang/step_1.jpg"
+      "image": "steps/other_suan-mei-tang/step_1.jpg"
     },
     {
       "index": 2,
@@ -145,7 +145,7 @@
         "煮沸后一定要转小火，防止水分过度蒸发"
       ],
       "produces": "头煎药汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-mei-tang/step_2.jpg"
+      "image": "steps/other_suan-mei-tang/step_2.jpg"
     },
     {
       "index": 3,
@@ -156,7 +156,7 @@
         "利用头汤的高温迅速融化冰糖"
       ],
       "produces": "冰糖药水混合液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-mei-tang/step_3.jpg"
+      "image": "steps/other_suan-mei-tang/step_3.jpg"
     },
     {
       "index": 4,
@@ -167,7 +167,7 @@
         "二煎可以进一步压榨药材余下的味道"
       ],
       "produces": "二煎药汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-mei-tang/step_4.jpg"
+      "image": "steps/other_suan-mei-tang/step_4.jpg"
     },
     {
       "index": 5,
@@ -179,7 +179,7 @@
         "冷藏时间越久，风味越融合"
       ],
       "produces": "冰镇酸梅汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-mei-tang/step_5.jpg"
+      "image": "steps/other_suan-mei-tang/step_5.jpg"
     },
     {
       "index": 6,
@@ -190,7 +190,7 @@
         "沥出桂花可获得更清爽的口感"
       ],
       "produces": "成品酸梅汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-mei-tang/step_6.jpg"
+      "image": "steps/other_suan-mei-tang/step_6.jpg"
     }
   ],
   "tips": [
@@ -198,8 +198,8 @@
     "所有用量可以根据个人口味等比例增加或减小",
     "建议提前 6 小时开始制作"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_suan-mei-tang.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_suan-mei-tang_overview.jpg",
+  "cover_image": "ai-generated/other_suan-mei-tang.jpg",
+  "overview_image": "overview/other_suan-mei-tang_overview.jpg",
   "id": "other_suan-mei-tang",
   "status": "published"
 }

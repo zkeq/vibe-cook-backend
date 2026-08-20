@@ -91,7 +91,7 @@
         "切的时候如果粘刀，可以在刀刃上抹一点水"
       ],
       "produces": "糍粑块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_dan-jian-ci-ba/step_1.jpg"
+      "image": "steps/breakfast_dan-jian-ci-ba/step_1.jpg"
     },
     {
       "index": 2,
@@ -102,7 +102,7 @@
         "充分打散可以让煎出来的蛋皮更蓬松"
       ],
       "produces": "调味蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_dan-jian-ci-ba/step_2.jpg"
+      "image": "steps/breakfast_dan-jian-ci-ba/step_2.jpg"
     },
     {
       "index": 3,
@@ -113,7 +113,7 @@
         "确保糍粑的每个面都均匀挂上蛋液"
       ],
       "produces": "裹蛋糍粑",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_dan-jian-ci-ba/step_3.jpg"
+      "image": "steps/breakfast_dan-jian-ci-ba/step_3.jpg"
     },
     {
       "index": 4,
@@ -124,7 +124,7 @@
         "放糍粑进去时候注意把糍粑间隔开来，防止粘在一起"
       ],
       "produces": "半熟糍粑",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_dan-jian-ci-ba/step_4.jpg"
+      "image": "steps/breakfast_dan-jian-ci-ba/step_4.jpg"
     },
     {
       "index": 5,
@@ -135,7 +135,7 @@
         "鸡蛋的量可以根据糍粑的量灵活调整"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_dan-jian-ci-ba/step_5.jpg"
+      "image": "steps/breakfast_dan-jian-ci-ba/step_5.jpg"
     },
     {
       "index": 6,
@@ -147,7 +147,7 @@
         "煎至两面金黄酥脆口感最好"
       ],
       "produces": "蛋煎糍粑",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_dan-jian-ci-ba/step_6.jpg"
+      "image": "steps/breakfast_dan-jian-ci-ba/step_6.jpg"
     }
   ],
   "tips": [
@@ -155,8 +155,8 @@
     "鸡蛋的量根据糍粑的量而定",
     "糖的量根据个人喜好调整"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_dan-jian-ci-ba.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_dan-jian-ci-ba_overview.jpg",
+  "cover_image": "ai-generated/breakfast_dan-jian-ci-ba.jpg",
+  "overview_image": "overview/breakfast_dan-jian-ci-ba_overview.jpg",
   "id": "breakfast_dan-jian-ci-ba",
   "status": "published"
 }

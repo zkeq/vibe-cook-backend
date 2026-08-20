@@ -113,7 +113,7 @@
         "可以适当按摩肉部使其更入味"
       ],
       "produces": "腌制好的鸡腿肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yi-shi-kao-ji/step_1.jpg"
+      "image": "steps/meat_dish_yi-shi-kao-ji/step_1.jpg"
     },
     {
       "index": 2,
@@ -125,7 +125,7 @@
         "烤制时间根据鸡肉大小厚度灵活调整"
       ],
       "produces": "烤熟的鸡肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yi-shi-kao-ji/step_2.jpg"
+      "image": "steps/meat_dish_yi-shi-kao-ji/step_2.jpg"
     },
     {
       "index": 3,
@@ -137,7 +137,7 @@
         "过滤掉柠檬籽"
       ],
       "produces": "欧芹碎与柠檬汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yi-shi-kao-ji/step_3.jpg"
+      "image": "steps/meat_dish_yi-shi-kao-ji/step_3.jpg"
     },
     {
       "index": 4,
@@ -148,7 +148,7 @@
         "趁热淋汁可以激发柠檬的香气"
       ],
       "produces": "意式烤鸡成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yi-shi-kao-ji/step_4.jpg"
+      "image": "steps/meat_dish_yi-shi-kao-ji/step_4.jpg"
     }
   ],
   "tips": [
@@ -156,8 +156,8 @@
     "烤箱预热至 180 度，烤制时间根据鸡肉的大小和厚度而定，需确保鸡肉熟透",
     "鸡肉必须全熟才能吃，吃未全熟的鸡肉可能会导致食物中毒和感染细菌，如沙门氏菌和福氏杆菌等"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_yi-shi-kao-ji.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_yi-shi-kao-ji_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_yi-shi-kao-ji.jpg",
+  "overview_image": "overview/meat_dish_yi-shi-kao-ji_overview.jpg",
   "id": "meat_dish_yi-shi-kao-ji",
   "status": "published"
 }

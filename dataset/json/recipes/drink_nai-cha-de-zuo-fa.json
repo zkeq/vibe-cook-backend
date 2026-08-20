@@ -66,7 +66,7 @@
         "加入沸水后，尽量保持杯子内部温暖，例如使用开口较小的杯子或盖上盖子。"
       ],
       "produces": "红茶基底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_nai-cha-de-zuo-fa/step_1.jpg"
+      "image": "steps/drink_nai-cha-de-zuo-fa/step_1.jpg"
     },
     {
       "index": 2,
@@ -77,7 +77,7 @@
         "如果气温较低时，使用量杯量取可能导致沸水在冲入红茶前冷却，则可以不使用量杯量取而直接估计其体积。"
       ],
       "produces": "浓郁茶汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_nai-cha-de-zuo-fa/step_2.jpg"
+      "image": "steps/drink_nai-cha-de-zuo-fa/step_2.jpg"
     },
     {
       "index": 3,
@@ -88,7 +88,7 @@
         "等待时间结束后可提起或搅动茶包以使冲泡更加均匀。"
       ],
       "produces": "未搅拌奶茶",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_nai-cha-de-zuo-fa/step_3.jpg"
+      "image": "steps/drink_nai-cha-de-zuo-fa/step_3.jpg"
     },
     {
       "index": 4,
@@ -97,7 +97,7 @@
       "duration_sec": 30,
       "tips": [],
       "produces": "奶茶",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_nai-cha-de-zuo-fa/step_4.jpg"
+      "image": "steps/drink_nai-cha-de-zuo-fa/step_4.jpg"
     }
   ],
   "tips": [
@@ -105,8 +105,8 @@
     "如果气温较低时，使用量杯量取可能导致沸水在冲入红茶前冷却，则可以不使用量杯量取而直接估计其体积。",
     "等待时间结束后可提起或搅动茶包以使冲泡更加均匀。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/drink_nai-cha-de-zuo-fa.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/drink_nai-cha-de-zuo-fa_overview.jpg",
+  "cover_image": "ai-generated/drink_nai-cha-de-zuo-fa.jpg",
+  "overview_image": "overview/drink_nai-cha-de-zuo-fa_overview.jpg",
   "id": "drink_nai-cha-de-zuo-fa",
   "status": "published"
 }

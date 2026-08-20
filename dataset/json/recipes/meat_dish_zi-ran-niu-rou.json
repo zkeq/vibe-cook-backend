@@ -135,7 +135,7 @@
         "时间紧张可跳过捣碎步骤"
       ],
       "produces": "孜然辣椒颗粒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zi-ran-niu-rou/step_1.jpg"
+      "image": "steps/meat_dish_zi-ran-niu-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -146,7 +146,7 @@
         "喜欢辣的可以不去籽"
       ],
       "produces": "青椒丝、葱段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zi-ran-niu-rou/step_2.jpg"
+      "image": "steps/meat_dish_zi-ran-niu-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -158,7 +158,7 @@
         "吸干水分是腌制入味的关键"
       ],
       "produces": "牛肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zi-ran-niu-rou/step_3.jpg"
+      "image": "steps/meat_dish_zi-ran-niu-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -169,7 +169,7 @@
         "腌制时间一定要充足，肉质才会软滑"
       ],
       "produces": "腌好的牛肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zi-ran-niu-rou/step_4.jpg"
+      "image": "steps/meat_dish_zi-ran-niu-rou/step_4.jpg"
     },
     {
       "index": 5,
@@ -180,7 +180,7 @@
         "热锅凉油能防止粘锅"
       ],
       "produces": "变色牛肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zi-ran-niu-rou/step_5.jpg"
+      "image": "steps/meat_dish_zi-ran-niu-rou/step_5.jpg"
     },
     {
       "index": 6,
@@ -191,7 +191,7 @@
         "确保调料分布均匀"
       ],
       "produces": "调味牛肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zi-ran-niu-rou/step_6.jpg"
+      "image": "steps/meat_dish_zi-ran-niu-rou/step_6.jpg"
     },
     {
       "index": 7,
@@ -202,7 +202,7 @@
         "青椒不宜久炒，保持脆嫩"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zi-ran-niu-rou/step_7.jpg"
+      "image": "steps/meat_dish_zi-ran-niu-rou/step_7.jpg"
     },
     {
       "index": 8,
@@ -213,7 +213,7 @@
         "最后阶段大火能增加镬气"
       ],
       "produces": "孜然牛肉成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zi-ran-niu-rou/step_8.jpg"
+      "image": "steps/meat_dish_zi-ran-niu-rou/step_8.jpg"
     }
   ],
   "tips": [
@@ -222,8 +222,8 @@
     "牛肉入锅前务必吸干水分防止脱浆",
     "如果您发现有问题或改进流程，请提出 Issue 或 Pull request"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_zi-ran-niu-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_zi-ran-niu-rou_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_zi-ran-niu-rou.jpg",
+  "overview_image": "overview/meat_dish_zi-ran-niu-rou_overview.jpg",
   "id": "meat_dish_zi-ran-niu-rou",
   "status": "published"
 }

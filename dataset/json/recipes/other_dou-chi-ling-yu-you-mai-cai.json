@@ -101,7 +101,7 @@
         "蒜末尽量切细一点便于煸香"
       ],
       "produces": "处理好的食材",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-chi-ling-yu-you-mai-cai/step_1.jpg"
+      "image": "steps/other_dou-chi-ling-yu-you-mai-cai/step_1.jpg"
     },
     {
       "index": 2,
@@ -112,7 +112,7 @@
         "先炒一遍并倒水可以防止最后成品水汪汪"
       ],
       "produces": "半熟油麦菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-chi-ling-yu-you-mai-cai/step_2.jpg"
+      "image": "steps/other_dou-chi-ling-yu-you-mai-cai/step_2.jpg"
     },
     {
       "index": 3,
@@ -123,7 +123,7 @@
         "利用罐头油是这道菜浓郁的关键"
       ],
       "produces": "蒜香底油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-chi-ling-yu-you-mai-cai/step_3.jpg"
+      "image": "steps/other_dou-chi-ling-yu-you-mai-cai/step_3.jpg"
     },
     {
       "index": 4,
@@ -134,7 +134,7 @@
         "豆豉先下锅可以充分激发其发酵香味"
       ],
       "produces": "豆豉鲮鱼底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-chi-ling-yu-you-mai-cai/step_4.jpg"
+      "image": "steps/other_dou-chi-ling-yu-you-mai-cai/step_4.jpg"
     },
     {
       "index": 5,
@@ -145,15 +145,15 @@
         "此步要快，避免油麦菜过熟变软"
       ],
       "produces": "豆豉鲮鱼油麦菜成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-chi-ling-yu-you-mai-cai/step_5.jpg"
+      "image": "steps/other_dou-chi-ling-yu-you-mai-cai/step_5.jpg"
     }
   ],
   "tips": [
     "鲮鱼罐头本身带味道，加入生抽后够味，无需下盐",
     "建议全程动作迅速，以保持油麦菜的脆爽口感"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_dou-chi-ling-yu-you-mai-cai.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_dou-chi-ling-yu-you-mai-cai_overview.jpg",
+  "cover_image": "ai-generated/other_dou-chi-ling-yu-you-mai-cai.jpg",
+  "overview_image": "overview/other_dou-chi-ling-yu-you-mai-cai_overview.jpg",
   "id": "other_dou-chi-ling-yu-you-mai-cai",
   "status": "published"
 }

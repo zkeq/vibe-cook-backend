@@ -100,7 +100,7 @@
         "水温不宜过高，以免烫死酵母"
       ],
       "produces": "酵母水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-sa-bing-pi-de-zuo-fa/step_1.jpg"
+      "image": "steps/other_pi-sa-bing-pi-de-zuo-fa/step_1.jpg"
     },
     {
       "index": 2,
@@ -109,7 +109,7 @@
       "duration_sec": 60,
       "tips": null,
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-sa-bing-pi-de-zuo-fa/step_2.jpg"
+      "image": "steps/other_pi-sa-bing-pi-de-zuo-fa/step_2.jpg"
     },
     {
       "index": 3,
@@ -120,7 +120,7 @@
         "注意水的比例"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-sa-bing-pi-de-zuo-fa/step_3.jpg"
+      "image": "steps/other_pi-sa-bing-pi-de-zuo-fa/step_3.jpg"
     },
     {
       "index": 4,
@@ -129,7 +129,7 @@
       "duration_sec": 60,
       "tips": null,
       "produces": "面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-sa-bing-pi-de-zuo-fa/step_4.jpg"
+      "image": "steps/other_pi-sa-bing-pi-de-zuo-fa/step_4.jpg"
     },
     {
       "index": 5,
@@ -140,7 +140,7 @@
         "一般晚上做第二天就可以用"
       ],
       "produces": "发酵面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-sa-bing-pi-de-zuo-fa/step_5.jpg"
+      "image": "steps/other_pi-sa-bing-pi-de-zuo-fa/step_5.jpg"
     },
     {
       "index": 6,
@@ -149,7 +149,7 @@
       "duration_sec": 30,
       "tips": null,
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-sa-bing-pi-de-zuo-fa/step_6.jpg"
+      "image": "steps/other_pi-sa-bing-pi-de-zuo-fa/step_6.jpg"
     },
     {
       "index": 7,
@@ -158,7 +158,7 @@
       "duration_sec": 120,
       "tips": null,
       "produces": "小面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-sa-bing-pi-de-zuo-fa/step_7.jpg"
+      "image": "steps/other_pi-sa-bing-pi-de-zuo-fa/step_7.jpg"
     },
     {
       "index": 8,
@@ -167,7 +167,7 @@
       "duration_sec": 30,
       "tips": null,
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-sa-bing-pi-de-zuo-fa/step_8.jpg"
+      "image": "steps/other_pi-sa-bing-pi-de-zuo-fa/step_8.jpg"
     },
     {
       "index": 9,
@@ -176,7 +176,7 @@
       "duration_sec": 180,
       "tips": null,
       "produces": "光滑面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-sa-bing-pi-de-zuo-fa/step_9.jpg"
+      "image": "steps/other_pi-sa-bing-pi-de-zuo-fa/step_9.jpg"
     },
     {
       "index": 10,
@@ -185,7 +185,7 @@
       "duration_sec": 300,
       "tips": null,
       "produces": "披萨饼底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-sa-bing-pi-de-zuo-fa/step_10.jpg"
+      "image": "steps/other_pi-sa-bing-pi-de-zuo-fa/step_10.jpg"
     },
     {
       "index": 11,
@@ -194,7 +194,7 @@
       "duration_sec": 300,
       "tips": null,
       "produces": "待烤披萨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-sa-bing-pi-de-zuo-fa/step_11.jpg"
+      "image": "steps/other_pi-sa-bing-pi-de-zuo-fa/step_11.jpg"
     },
     {
       "index": 12,
@@ -205,7 +205,7 @@
         "容易出水的水果不能作为食材"
       ],
       "produces": "水果披萨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-sa-bing-pi-de-zuo-fa/step_12.jpg"
+      "image": "steps/other_pi-sa-bing-pi-de-zuo-fa/step_12.jpg"
     },
     {
       "index": 13,
@@ -216,7 +216,7 @@
         "注意观察火候"
       ],
       "produces": "肉菜披萨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-sa-bing-pi-de-zuo-fa/step_13.jpg"
+      "image": "steps/other_pi-sa-bing-pi-de-zuo-fa/step_13.jpg"
     },
     {
       "index": 14,
@@ -225,7 +225,7 @@
       "duration_sec": 30,
       "tips": null,
       "produces": "成品披萨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-sa-bing-pi-de-zuo-fa/step_14.jpg"
+      "image": "steps/other_pi-sa-bing-pi-de-zuo-fa/step_14.jpg"
     }
   ],
   "tips": [
@@ -234,8 +234,8 @@
     "一般不特别标注是低筋或高筋面粉，基本都是中筋面粉",
     "容易出水的水果不能作为食材，比如西瓜、橘子等"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_pi-sa-bing-pi-de-zuo-fa.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_pi-sa-bing-pi-de-zuo-fa_overview.jpg",
+  "cover_image": "ai-generated/other_pi-sa-bing-pi-de-zuo-fa.jpg",
+  "overview_image": "overview/other_pi-sa-bing-pi-de-zuo-fa_overview.jpg",
   "id": "other_pi-sa-bing-pi-de-zuo-fa",
   "status": "published"
 }

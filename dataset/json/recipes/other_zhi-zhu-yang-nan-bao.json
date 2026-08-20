@@ -213,7 +213,7 @@
         "腐竹不要泡太久，防止过软"
       ],
       "produces": "泡发的香菇和腐竹",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhi-zhu-yang-nan-bao/step_1.jpg"
+      "image": "steps/other_zhi-zhu-yang-nan-bao/step_1.jpg"
     },
     {
       "index": 2,
@@ -224,7 +224,7 @@
         "南乳和腐乳需压碎搅拌"
       ],
       "produces": "核心焖煮酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhi-zhu-yang-nan-bao/step_2.jpg"
+      "image": "steps/other_zhi-zhu-yang-nan-bao/step_2.jpg"
     },
     {
       "index": 3,
@@ -235,7 +235,7 @@
         "这是最后提味和蘸肉的关键"
       ],
       "produces": "提味蘸酱",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhi-zhu-yang-nan-bao/step_3.jpg"
+      "image": "steps/other_zhi-zhu-yang-nan-bao/step_3.jpg"
     },
     {
       "index": 4,
@@ -246,7 +246,7 @@
         "腐竹一定要挤干水分，否则入锅会溅油且不易吸汁"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhi-zhu-yang-nan-bao/step_4.jpg"
+      "image": "steps/other_zhi-zhu-yang-nan-bao/step_4.jpg"
     },
     {
       "index": 5,
@@ -257,7 +257,7 @@
         "冷水下锅更有利于排出血水去腥"
       ],
       "produces": "初加工羊腩",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhi-zhu-yang-nan-bao/step_5.jpg"
+      "image": "steps/other_zhi-zhu-yang-nan-bao/step_5.jpg"
     },
     {
       "index": 6,
@@ -268,7 +268,7 @@
         "冷水浸泡能使肉质收缩，口感更有嚼劲"
       ],
       "produces": "冷却的羊腩",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhi-zhu-yang-nan-bao/step_6.jpg"
+      "image": "steps/other_zhi-zhu-yang-nan-bao/step_6.jpg"
     },
     {
       "index": 7,
@@ -279,7 +279,7 @@
         "火候不要太大，避免蒜瓣焦糊"
       ],
       "produces": "香料底油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhi-zhu-yang-nan-bao/step_7.jpg"
+      "image": "steps/other_zhi-zhu-yang-nan-bao/step_7.jpg"
     },
     {
       "index": 8,
@@ -290,7 +290,7 @@
         "炒出羊油是香味浓郁的关键"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhi-zhu-yang-nan-bao/step_8.jpg"
+      "image": "steps/other_zhi-zhu-yang-nan-bao/step_8.jpg"
     },
     {
       "index": 9,
@@ -301,7 +301,7 @@
         "让酱汁充分包裹每一块羊肉"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhi-zhu-yang-nan-bao/step_9.jpg"
+      "image": "steps/other_zhi-zhu-yang-nan-bao/step_9.jpg"
     },
     {
       "index": 10,
@@ -312,7 +312,7 @@
         "如果有马蹄或萝卜，此步骤可一并加入"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhi-zhu-yang-nan-bao/step_10.jpg"
+      "image": "steps/other_zhi-zhu-yang-nan-bao/step_10.jpg"
     },
     {
       "index": 11,
@@ -323,7 +323,7 @@
         "期间注意观察水量，防止干锅"
       ],
       "produces": "酥烂的羊腩",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhi-zhu-yang-nan-bao/step_11.jpg"
+      "image": "steps/other_zhi-zhu-yang-nan-bao/step_11.jpg"
     },
     {
       "index": 12,
@@ -334,7 +334,7 @@
         "腐竹后放是为了保持一定的口感不至于化掉"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhi-zhu-yang-nan-bao/step_12.jpg"
+      "image": "steps/other_zhi-zhu-yang-nan-bao/step_12.jpg"
     },
     {
       "index": 13,
@@ -345,7 +345,7 @@
         "酱汁2能瞬间拉升整体风味层次"
       ],
       "produces": "完成的枝竹羊腩煲",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhi-zhu-yang-nan-bao/step_13.jpg"
+      "image": "steps/other_zhi-zhu-yang-nan-bao/step_13.jpg"
     }
   ],
   "tips": [
@@ -354,8 +354,8 @@
     "炸腐竹浸泡时间不宜过长，否则焖煮时容易碎烂。",
     "参考资料：[枝竹羊腩煲 Lamb Stew with Bean Curd Sheet [by 點Cook Guide]](https://www.youtube.com/watch?v=ThVDpVoToDQ)"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_zhi-zhu-yang-nan-bao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_zhi-zhu-yang-nan-bao_overview.jpg",
+  "cover_image": "ai-generated/other_zhi-zhu-yang-nan-bao.jpg",
+  "overview_image": "overview/other_zhi-zhu-yang-nan-bao_overview.jpg",
   "id": "other_zhi-zhu-yang-nan-bao",
   "status": "published"
 }

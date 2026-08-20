@@ -141,7 +141,7 @@
         "茄子条的大小尽量保持均匀，以便受热一致"
       ],
       "produces": "茄子条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-xiang-qie-zi/step_1.jpg"
+      "image": "steps/other_yu-xiang-qie-zi/step_1.jpg"
     },
     {
       "index": 2,
@@ -152,7 +152,7 @@
         "葱白和葱绿可以分开，葱白用于炒香，葱绿最后点缀"
       ],
       "produces": "肉末与配料碎",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-xiang-qie-zi/step_2.jpg"
+      "image": "steps/other_yu-xiang-qie-zi/step_2.jpg"
     },
     {
       "index": 3,
@@ -163,7 +163,7 @@
         "提前调好料汁可以避免在爆炒时手忙脚乱"
       ],
       "produces": "鱼香汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-xiang-qie-zi/step_3.jpg"
+      "image": "steps/other_yu-xiang-qie-zi/step_3.jpg"
     },
     {
       "index": 4,
@@ -175,7 +175,7 @@
         "炸完的油可留作他用"
       ],
       "produces": "过油茄子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-xiang-qie-zi/step_4.jpg"
+      "image": "steps/other_yu-xiang-qie-zi/step_4.jpg"
     },
     {
       "index": 5,
@@ -186,7 +186,7 @@
         "快速翻炒，断生即盛出以保持肉质鲜嫩"
       ],
       "produces": "熟肉末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-xiang-qie-zi/step_5.jpg"
+      "image": "steps/other_yu-xiang-qie-zi/step_5.jpg"
     },
     {
       "index": 6,
@@ -197,7 +197,7 @@
         "豆瓣酱要炒出红油，香味才浓郁"
       ],
       "produces": "肉末底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-xiang-qie-zi/step_6.jpg"
+      "image": "steps/other_yu-xiang-qie-zi/step_6.jpg"
     },
     {
       "index": 7,
@@ -209,15 +209,15 @@
         "最后放葱绿能保持色泽翠绿"
       ],
       "produces": "鱼香茄子成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-xiang-qie-zi/step_7.jpg"
+      "image": "steps/other_yu-xiang-qie-zi/step_7.jpg"
     }
   ],
   "tips": [
     "茄子看个人喜好，可以去皮，肉沫也可以多放一点。",
     "参考来源：鱼香茄子详细步骤 (https://www.zhms.cn/recipe/kbbrl.html?source=2)"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_yu-xiang-qie-zi.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_yu-xiang-qie-zi_overview.jpg",
+  "cover_image": "ai-generated/other_yu-xiang-qie-zi.jpg",
+  "overview_image": "overview/other_yu-xiang-qie-zi_overview.jpg",
   "id": "other_yu-xiang-qie-zi",
   "status": "published"
 }

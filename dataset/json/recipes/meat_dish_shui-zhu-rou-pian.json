@@ -210,7 +210,7 @@
         "血水处理干净是肉质不腥的关键"
       ],
       "produces": "洁净肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shui-zhu-rou-pian/step_1.jpg"
+      "image": "steps/meat_dish_shui-zhu-rou-pian/step_1.jpg"
     },
     {
       "index": 2,
@@ -221,7 +221,7 @@
         "必须朝着一个方向搅拌使肉入味"
       ],
       "produces": "初步入味肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shui-zhu-rou-pian/step_2.jpg"
+      "image": "steps/meat_dish_shui-zhu-rou-pian/step_2.jpg"
     },
     {
       "index": 3,
@@ -233,7 +233,7 @@
         "加植物油防止下锅粘连"
       ],
       "produces": "上浆肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shui-zhu-rou-pian/step_3.jpg"
+      "image": "steps/meat_dish_shui-zhu-rou-pian/step_3.jpg"
     },
     {
       "index": 4,
@@ -244,7 +244,7 @@
         "蔬菜长度保持一致更美观"
       ],
       "produces": "处理好的配菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shui-zhu-rou-pian/step_4.jpg"
+      "image": "steps/meat_dish_shui-zhu-rou-pian/step_4.jpg"
     },
     {
       "index": 5,
@@ -255,7 +255,7 @@
         "尽量剁细一些，味道释放更充分"
       ],
       "produces": "姜蒜泡椒碎",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shui-zhu-rou-pian/step_5.jpg"
+      "image": "steps/meat_dish_shui-zhu-rou-pian/step_5.jpg"
     },
     {
       "index": 6,
@@ -266,7 +266,7 @@
         "切记不要炒糊，颜色变深即可"
       ],
       "produces": "刀口辣椒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shui-zhu-rou-pian/step_6.jpg"
+      "image": "steps/meat_dish_shui-zhu-rou-pian/step_6.jpg"
     },
     {
       "index": 7,
@@ -277,7 +277,7 @@
         "配菜不要炒得太死，保持脆嫩"
       ],
       "produces": "垫底蔬菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shui-zhu-rou-pian/step_7.jpg"
+      "image": "steps/meat_dish_shui-zhu-rou-pian/step_7.jpg"
     },
     {
       "index": 8,
@@ -288,7 +288,7 @@
         "豆瓣酱一定要炒出红油才香"
       ],
       "produces": "红油汤底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shui-zhu-rou-pian/step_8.jpg"
+      "image": "steps/meat_dish_shui-zhu-rou-pian/step_8.jpg"
     },
     {
       "index": 9,
@@ -299,7 +299,7 @@
         "汤汁稍微浓稠一点能挂在肉片上"
       ],
       "produces": "调味汤汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shui-zhu-rou-pian/step_9.jpg"
+      "image": "steps/meat_dish_shui-zhu-rou-pian/step_9.jpg"
     },
     {
       "index": 10,
@@ -310,7 +310,7 @@
         "肉片下锅后不要马上搅动，定型后再推"
       ],
       "produces": "半成品水煮肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shui-zhu-rou-pian/step_10.jpg"
+      "image": "steps/meat_dish_shui-zhu-rou-pian/step_10.jpg"
     },
     {
       "index": 11,
@@ -321,7 +321,7 @@
         "撒得均匀，泼油才到位"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shui-zhu-rou-pian/step_11.jpg"
+      "image": "steps/meat_dish_shui-zhu-rou-pian/step_11.jpg"
     },
     {
       "index": 12,
@@ -332,7 +332,7 @@
         "油温一定要够，注意防溅烫伤"
       ],
       "produces": "成品水煮肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shui-zhu-rou-pian/step_12.jpg"
+      "image": "steps/meat_dish_shui-zhu-rou-pian/step_12.jpg"
     }
   ],
   "tips": [
@@ -341,8 +341,8 @@
     "特别注意肉的腌制（搅拌的时候朝着一个方向、血水处理干净），保证肉滑嫩（鸡蛋清、淀粉搅拌均匀）。",
     "水煮牛肉也可以按照这个做法。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_shui-zhu-rou-pian.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_shui-zhu-rou-pian_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_shui-zhu-rou-pian.jpg",
+  "overview_image": "overview/meat_dish_shui-zhu-rou-pian_overview.jpg",
   "id": "meat_dish_shui-zhu-rou-pian",
   "status": "published"
 }

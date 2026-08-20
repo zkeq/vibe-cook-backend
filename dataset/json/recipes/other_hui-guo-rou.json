@@ -102,7 +102,7 @@
         "这一步是为了处理猪皮上的汗腺，喜欢汗腺的可以无视"
       ],
       "produces": "炙过皮的五花肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hui-guo-rou/step_1.jpg"
+      "image": "steps/other_hui-guo-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -113,7 +113,7 @@
         "不刷干净会有苦味"
       ],
       "produces": "干净的五花肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hui-guo-rou/step_2.jpg"
+      "image": "steps/other_hui-guo-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -124,7 +124,7 @@
         "煮至瘦肉部分可以用筷子轻松刺穿即可"
       ],
       "produces": "煮熟的五花肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hui-guo-rou/step_3.jpg"
+      "image": "steps/other_hui-guo-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -135,7 +135,7 @@
         "豆瓣酱和生抽混合可确保炒制时迅速入味"
       ],
       "produces": "处理好的配菜和调料汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hui-guo-rou/step_4.jpg"
+      "image": "steps/other_hui-guo-rou/step_4.jpg"
     },
     {
       "index": 5,
@@ -146,7 +146,7 @@
         "切厚了口感不好且油腻，擦干水是为了避免炒时爆油"
       ],
       "produces": "肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hui-guo-rou/step_5.jpg"
+      "image": "steps/other_hui-guo-rou/step_5.jpg"
     },
     {
       "index": 6,
@@ -157,7 +157,7 @@
         "操作要迅速，小心糊锅"
       ],
       "produces": "煸好的肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hui-guo-rou/step_6.jpg"
+      "image": "steps/other_hui-guo-rou/step_6.jpg"
     },
     {
       "index": 7,
@@ -168,7 +168,7 @@
         "快速翻炒防止豆瓣酱发苦"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hui-guo-rou/step_7.jpg"
+      "image": "steps/other_hui-guo-rou/step_7.jpg"
     },
     {
       "index": 8,
@@ -177,7 +177,7 @@
       "duration_sec": 30,
       "tips": null,
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hui-guo-rou/step_8.jpg"
+      "image": "steps/other_hui-guo-rou/step_8.jpg"
     },
     {
       "index": 9,
@@ -188,7 +188,7 @@
         "蒜苗断生即可，不要炒太久以免失去香气"
       ],
       "produces": "回锅肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hui-guo-rou/step_9.jpg"
+      "image": "steps/other_hui-guo-rou/step_9.jpg"
     }
   ],
   "tips": [
@@ -198,8 +198,8 @@
     "切记肉片不要切厚了，否则会很腻",
     "擦干水分是防止爆油溅伤的关键"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_hui-guo-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_hui-guo-rou_overview.jpg",
+  "cover_image": "ai-generated/other_hui-guo-rou.jpg",
+  "overview_image": "overview/other_hui-guo-rou_overview.jpg",
   "id": "other_hui-guo-rou",
   "status": "published"
 }

@@ -126,7 +126,7 @@
         "根部切除约2-3厘米即可"
       ],
       "produces": "洗净的金针菇",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-jin-zhen-gu/step_1.jpg"
+      "image": "steps/vegetable_dish_liang-ban-jin-zhen-gu/step_1.jpg"
     },
     {
       "index": 2,
@@ -135,7 +135,7 @@
       "duration_sec": 30,
       "tips": [],
       "produces": "葱花",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-jin-zhen-gu/step_2.jpg"
+      "image": "steps/vegetable_dish_liang-ban-jin-zhen-gu/step_2.jpg"
     },
     {
       "index": 3,
@@ -146,7 +146,7 @@
         "蒜末切细一点更入味"
       ],
       "produces": "蒜末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-jin-zhen-gu/step_3.jpg"
+      "image": "steps/vegetable_dish_liang-ban-jin-zhen-gu/step_3.jpg"
     },
     {
       "index": 4,
@@ -155,7 +155,7 @@
       "duration_sec": 180,
       "tips": [],
       "produces": "沸水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-jin-zhen-gu/step_4.jpg"
+      "image": "steps/vegetable_dish_liang-ban-jin-zhen-gu/step_4.jpg"
     },
     {
       "index": 5,
@@ -166,7 +166,7 @@
         "时间不宜过长，否则口感会塞牙"
       ],
       "produces": "煮熟的金针菇",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-jin-zhen-gu/step_5.jpg"
+      "image": "steps/vegetable_dish_liang-ban-jin-zhen-gu/step_5.jpg"
     },
     {
       "index": 6,
@@ -177,7 +177,7 @@
         "水分尽量沥干，否则会冲淡酱汁味道"
       ],
       "produces": "沥干的金针菇",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-jin-zhen-gu/step_6.jpg"
+      "image": "steps/vegetable_dish_liang-ban-jin-zhen-gu/step_6.jpg"
     },
     {
       "index": 7,
@@ -186,7 +186,7 @@
       "duration_sec": 40,
       "tips": [],
       "produces": "料汁基底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-jin-zhen-gu/step_7.jpg"
+      "image": "steps/vegetable_dish_liang-ban-jin-zhen-gu/step_7.jpg"
     },
     {
       "index": 8,
@@ -195,7 +195,7 @@
       "duration_sec": 10,
       "tips": [],
       "produces": "蒜味酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-jin-zhen-gu/step_8.jpg"
+      "image": "steps/vegetable_dish_liang-ban-jin-zhen-gu/step_8.jpg"
     },
     {
       "index": 9,
@@ -204,7 +204,7 @@
       "duration_sec": 30,
       "tips": [],
       "produces": "混合酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-jin-zhen-gu/step_9.jpg"
+      "image": "steps/vegetable_dish_liang-ban-jin-zhen-gu/step_9.jpg"
     },
     {
       "index": 10,
@@ -213,7 +213,7 @@
       "duration_sec": 10,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-jin-zhen-gu/step_10.jpg"
+      "image": "steps/vegetable_dish_liang-ban-jin-zhen-gu/step_10.jpg"
     },
     {
       "index": 11,
@@ -222,7 +222,7 @@
       "duration_sec": 10,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-jin-zhen-gu/step_11.jpg"
+      "image": "steps/vegetable_dish_liang-ban-jin-zhen-gu/step_11.jpg"
     },
     {
       "index": 12,
@@ -231,7 +231,7 @@
       "duration_sec": 10,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-jin-zhen-gu/step_12.jpg"
+      "image": "steps/vegetable_dish_liang-ban-jin-zhen-gu/step_12.jpg"
     },
     {
       "index": 13,
@@ -240,7 +240,7 @@
       "duration_sec": 30,
       "tips": [],
       "produces": "凉拌金针菇成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-jin-zhen-gu/step_13.jpg"
+      "image": "steps/vegetable_dish_liang-ban-jin-zhen-gu/step_13.jpg"
     }
   ],
   "tips": [
@@ -248,8 +248,8 @@
     "酱汁的比例可以根据个人口味喜好进行调整。",
     "如果不喜欢吃辣，可以省略辣椒油。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_liang-ban-jin-zhen-gu.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_liang-ban-jin-zhen-gu_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_liang-ban-jin-zhen-gu.jpg",
+  "overview_image": "overview/vegetable_dish_liang-ban-jin-zhen-gu_overview.jpg",
   "id": "vegetable_dish_liang-ban-jin-zhen-gu",
   "status": "published"
 }

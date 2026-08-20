@@ -57,7 +57,7 @@
         "划皮时深度只需切破表皮即可"
       ],
       "produces": "划好皮的西红柿",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-ban-xi-hong-shi/step_1.jpg"
+      "image": "steps/other_tang-ban-xi-hong-shi/step_1.jpg"
     },
     {
       "index": 2,
@@ -68,7 +68,7 @@
         "火烤时注意避开火源中心，均匀受热"
       ],
       "produces": "起皮的西红柿",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-ban-xi-hong-shi/step_2.jpg"
+      "image": "steps/other_tang-ban-xi-hong-shi/step_2.jpg"
     },
     {
       "index": 3,
@@ -79,7 +79,7 @@
         "趁热剥皮会非常轻松"
       ],
       "produces": "去皮西红柿",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-ban-xi-hong-shi/step_3.jpg"
+      "image": "steps/other_tang-ban-xi-hong-shi/step_3.jpg"
     },
     {
       "index": 4,
@@ -90,7 +90,7 @@
         "沿纹路切可以避免切开种子囊，减少汁水流失"
       ],
       "produces": "西红柿块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-ban-xi-hong-shi/step_4.jpg"
+      "image": "steps/other_tang-ban-xi-hong-shi/step_4.jpg"
     },
     {
       "index": 5,
@@ -101,7 +101,7 @@
         "码放整齐可以让外观更好看"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-ban-xi-hong-shi/step_5.jpg"
+      "image": "steps/other_tang-ban-xi-hong-shi/step_5.jpg"
     },
     {
       "index": 6,
@@ -112,7 +112,7 @@
         "分层撒糖可以确保每一块西红柿都沾到糖"
       ],
       "produces": "待冷藏的糖拌西红柿",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-ban-xi-hong-shi/step_6.jpg"
+      "image": "steps/other_tang-ban-xi-hong-shi/step_6.jpg"
     },
     {
       "index": 7,
@@ -123,7 +123,7 @@
         "冷藏后口感更清凉，且白糖能充分融化形成糖水"
       ],
       "produces": "冰镇糖拌西红柿",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-ban-xi-hong-shi/step_7.jpg"
+      "image": "steps/other_tang-ban-xi-hong-shi/step_7.jpg"
     },
     {
       "index": 8,
@@ -134,15 +134,15 @@
         "建议尽快食用，以免出水过多影响口感"
       ],
       "produces": "糖拌西红柿",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-ban-xi-hong-shi/step_8.jpg"
+      "image": "steps/other_tang-ban-xi-hong-shi/step_8.jpg"
     }
   ],
   "tips": [
     "在制作过程中请您小心使用刀具。",
     "沿纹路切西红柿可以更多的留住汁水。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_tang-ban-xi-hong-shi.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_tang-ban-xi-hong-shi_overview.jpg",
+  "cover_image": "ai-generated/other_tang-ban-xi-hong-shi.jpg",
+  "overview_image": "overview/other_tang-ban-xi-hong-shi_overview.jpg",
   "id": "other_tang-ban-xi-hong-shi",
   "status": "published"
 }

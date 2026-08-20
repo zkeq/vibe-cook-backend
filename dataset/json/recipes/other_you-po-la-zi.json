@@ -171,7 +171,7 @@
         "去皮时可以用刀背轻拍，更易剥壳"
       ],
       "produces": "去皮蒜瓣",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_you-po-la-zi/step_1.jpg"
+      "image": "steps/other_you-po-la-zi/step_1.jpg"
     },
     {
       "index": 2,
@@ -182,7 +182,7 @@
         "尽量剁碎，香味释放更充分"
       ],
       "produces": "蒜末小米椒碎",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_you-po-la-zi/step_2.jpg"
+      "image": "steps/other_you-po-la-zi/step_2.jpg"
     },
     {
       "index": 3,
@@ -191,7 +191,7 @@
       "duration_sec": 15,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_you-po-la-zi/step_3.jpg"
+      "image": "steps/other_you-po-la-zi/step_3.jpg"
     },
     {
       "index": 4,
@@ -202,7 +202,7 @@
         "小火慢炸，防止香料炸糊产生苦味"
       ],
       "produces": "香料底油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_you-po-la-zi/step_4.jpg"
+      "image": "steps/other_you-po-la-zi/step_4.jpg"
     },
     {
       "index": 5,
@@ -213,7 +213,7 @@
         "菜籽油烧开可以去除生油味"
       ],
       "produces": "热油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_you-po-la-zi/step_5.jpg"
+      "image": "steps/other_you-po-la-zi/step_5.jpg"
     },
     {
       "index": 6,
@@ -224,7 +224,7 @@
         "搅拌均匀，防止局部过热"
       ],
       "produces": "调料混合物",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_you-po-la-zi/step_6.jpg"
+      "image": "steps/other_you-po-la-zi/step_6.jpg"
     },
     {
       "index": 7,
@@ -235,7 +235,7 @@
         "210度是泼油的最佳温控点"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_you-po-la-zi/step_7.jpg"
+      "image": "steps/other_you-po-la-zi/step_7.jpg"
     },
     {
       "index": 8,
@@ -246,7 +246,7 @@
         "可以在 165 摄氏度时加入同样调料的碗进行二次混合增辣"
       ],
       "produces": "初步成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_you-po-la-zi/step_8.jpg"
+      "image": "steps/other_you-po-la-zi/step_8.jpg"
     },
     {
       "index": 9,
@@ -257,7 +257,7 @@
         "白醋激发的瞬间香味最浓，注意避开蒸汽"
       ],
       "produces": "增香辣子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_you-po-la-zi/step_9.jpg"
+      "image": "steps/other_you-po-la-zi/step_9.jpg"
     },
     {
       "index": 10,
@@ -268,7 +268,7 @@
         "白糖可以是辣味柔和，不会那么呛口"
       ],
       "produces": "成品油泼辣子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_you-po-la-zi/step_10.jpg"
+      "image": "steps/other_you-po-la-zi/step_10.jpg"
     }
   ],
   "tips": [
@@ -276,8 +276,8 @@
     "掌握油温是成功的关键，建议使用厨房温度计",
     "泼油时分次倒入可以更好地控制辣椒的焦香味"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_you-po-la-zi.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_you-po-la-zi_overview.jpg",
+  "cover_image": "ai-generated/other_you-po-la-zi.jpg",
+  "overview_image": "overview/other_you-po-la-zi_overview.jpg",
   "id": "other_you-po-la-zi",
   "status": "published"
 }

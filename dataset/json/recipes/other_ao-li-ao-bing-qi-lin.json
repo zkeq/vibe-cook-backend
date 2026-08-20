@@ -69,7 +69,7 @@
         "去除奥利奥夹心时切忌注意割到手"
       ],
       "produces": "去心饼干",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ao-li-ao-bing-qi-lin/step_1.jpg"
+      "image": "steps/other_ao-li-ao-bing-qi-lin/step_1.jpg"
     },
     {
       "index": 2,
@@ -81,7 +81,7 @@
         "某宝可搜“奥利奥饼干碎”，节省时间精力"
       ],
       "produces": "奥利奥饼干碎",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ao-li-ao-bing-qi-lin/step_2.jpg"
+      "image": "steps/other_ao-li-ao-bing-qi-lin/step_2.jpg"
     },
     {
       "index": 3,
@@ -92,7 +92,7 @@
         "容器需要直径小且深度深，防止飞溅"
       ],
       "produces": "奶油混合液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ao-li-ao-bing-qi-lin/step_3.jpg"
+      "image": "steps/other_ao-li-ao-bing-qi-lin/step_3.jpg"
     },
     {
       "index": 4,
@@ -104,7 +104,7 @@
         "注意观察纹路，避免打发过度"
       ],
       "produces": "打发奶油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ao-li-ao-bing-qi-lin/step_4.jpg"
+      "image": "steps/other_ao-li-ao-bing-qi-lin/step_4.jpg"
     },
     {
       "index": 5,
@@ -115,7 +115,7 @@
         "用刮刀或勺子轻轻拌匀即可"
       ],
       "produces": "冰淇淋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ao-li-ao-bing-qi-lin/step_5.jpg"
+      "image": "steps/other_ao-li-ao-bing-qi-lin/step_5.jpg"
     },
     {
       "index": 6,
@@ -126,7 +126,7 @@
         "容器需要有尖嘴方便转移"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ao-li-ao-bing-qi-lin/step_6.jpg"
+      "image": "steps/other_ao-li-ao-bing-qi-lin/step_6.jpg"
     },
     {
       "index": 7,
@@ -137,7 +137,7 @@
         "冷冻时间越长硬度越高"
       ],
       "produces": "奥利奥冰淇淋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ao-li-ao-bing-qi-lin/step_7.jpg"
+      "image": "steps/other_ao-li-ao-bing-qi-lin/step_7.jpg"
     }
   ],
   "tips": [
@@ -145,8 +145,8 @@
     "去除奥利奥夹心时切忌注意割到手",
     "参考资料：https://www.xiachufang.com/recipe/106178429/"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ao-li-ao-bing-qi-lin.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ao-li-ao-bing-qi-lin_overview.jpg",
+  "cover_image": "ai-generated/other_ao-li-ao-bing-qi-lin.jpg",
+  "overview_image": "overview/other_ao-li-ao-bing-qi-lin_overview.jpg",
   "id": "other_ao-li-ao-bing-qi-lin",
   "status": "published"
 }

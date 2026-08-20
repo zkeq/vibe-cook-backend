@@ -113,7 +113,7 @@
         "浸泡过程中可以搅拌一下，防止奇亚籽结块"
       ],
       "produces": "泡发的奇亚籽奶液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yang-zhi-gan-lu/step_1.jpg"
+      "image": "steps/drink_yang-zhi-gan-lu/step_1.jpg"
     },
     {
       "index": 2,
@@ -124,7 +124,7 @@
         "果丁尽量切得大小均匀，品相更好"
       ],
       "produces": "混合果丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yang-zhi-gan-lu/step_2.jpg"
+      "image": "steps/drink_yang-zhi-gan-lu/step_2.jpg"
     },
     {
       "index": 3,
@@ -135,7 +135,7 @@
         "如果喜欢清爽一点可以多加两块冰"
       ],
       "produces": "芒果椰奶泥",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yang-zhi-gan-lu/step_3.jpg"
+      "image": "steps/drink_yang-zhi-gan-lu/step_3.jpg"
     },
     {
       "index": 4,
@@ -146,7 +146,7 @@
         "分层倒入可以形成漂亮的视觉效果"
       ],
       "produces": "杨枝甘露成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yang-zhi-gan-lu/step_4.jpg"
+      "image": "steps/drink_yang-zhi-gan-lu/step_4.jpg"
     },
     {
       "index": 5,
@@ -157,14 +157,14 @@
         "趁凉享用口感最佳"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yang-zhi-gan-lu/step_5.jpg"
+      "image": "steps/drink_yang-zhi-gan-lu/step_5.jpg"
     }
   ],
   "tips": [
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/drink_yang-zhi-gan-lu.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/drink_yang-zhi-gan-lu_overview.jpg",
+  "cover_image": "ai-generated/drink_yang-zhi-gan-lu.jpg",
+  "overview_image": "overview/drink_yang-zhi-gan-lu_overview.jpg",
   "id": "drink_yang-zhi-gan-lu",
   "status": "published"
 }

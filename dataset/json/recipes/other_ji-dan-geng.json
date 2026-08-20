@@ -103,7 +103,7 @@
       "duration_sec": 30,
       "tips": [],
       "produces": "蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-dan-geng/step_1.jpg"
+      "image": "steps/other_ji-dan-geng/step_1.jpg"
     },
     {
       "index": 2,
@@ -114,7 +114,7 @@
         "盐起到了重要的增加底味和凝固作用"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-dan-geng/step_2.jpg"
+      "image": "steps/other_ji-dan-geng/step_2.jpg"
     },
     {
       "index": 3,
@@ -126,7 +126,7 @@
         "料酒同样具有去腥作用且没有酸味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-dan-geng/step_3.jpg"
+      "image": "steps/other_ji-dan-geng/step_3.jpg"
     },
     {
       "index": 4,
@@ -137,7 +137,7 @@
         "1 倍的水鸡蛋更弹，1.5 倍的水鸡蛋更嫩"
       ],
       "produces": "混合蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-dan-geng/step_4.jpg"
+      "image": "steps/other_ji-dan-geng/step_4.jpg"
     },
     {
       "index": 5,
@@ -148,7 +148,7 @@
         "不过滤蒸出来的蛋会有气泡导致不好看"
       ],
       "produces": "细腻蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-dan-geng/step_5.jpg"
+      "image": "steps/other_ji-dan-geng/step_5.jpg"
     },
     {
       "index": 6,
@@ -159,7 +159,7 @@
         "盖盖子是为了减少水汽进入，避免变成蜂窝状"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-dan-geng/step_6.jpg"
+      "image": "steps/other_ji-dan-geng/step_6.jpg"
     },
     {
       "index": 7,
@@ -170,7 +170,7 @@
         "大火蒸时开盖过晚蛋羹容易变成蜂窝状"
       ],
       "produces": "熟蛋羹",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-dan-geng/step_7.jpg"
+      "image": "steps/other_ji-dan-geng/step_7.jpg"
     },
     {
       "index": 8,
@@ -181,7 +181,7 @@
         "蛋羹不再处于液体状态，拥有类似果冻的 Q 弹状态即可"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-dan-geng/step_8.jpg"
+      "image": "steps/other_ji-dan-geng/step_8.jpg"
     },
     {
       "index": 9,
@@ -192,14 +192,14 @@
         "藤椒油可以增加麻爽口感"
       ],
       "produces": "成品鸡蛋羹",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-dan-geng/step_9.jpg"
+      "image": "steps/other_ji-dan-geng/step_9.jpg"
     }
   ],
   "tips": [
     "基础水蒸蛋做法可以派生，添加诸如火腿肠、肉馅、虾皮等材料，丰富口感。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ji-dan-geng.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ji-dan-geng_overview.jpg",
+  "cover_image": "ai-generated/other_ji-dan-geng.jpg",
+  "overview_image": "overview/other_ji-dan-geng_overview.jpg",
   "id": "other_ji-dan-geng",
   "status": "published"
 }

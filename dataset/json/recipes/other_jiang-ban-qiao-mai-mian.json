@@ -81,7 +81,7 @@
         "捞出后过一遍凉水口感更劲道"
       ],
       "produces": "熟荞麦面",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-ban-qiao-mai-mian/step_1.jpg"
+      "image": "steps/other_jiang-ban-qiao-mai-mian/step_1.jpg"
     },
     {
       "index": 2,
@@ -92,7 +92,7 @@
         "刀工好的可以切细丝，更易挂汁"
       ],
       "produces": "蔬菜条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-ban-qiao-mai-mian/step_2.jpg"
+      "image": "steps/other_jiang-ban-qiao-mai-mian/step_2.jpg"
     },
     {
       "index": 3,
@@ -103,7 +103,7 @@
         "建议从碗底向上翻动搅拌"
       ],
       "produces": "酱拌荞麦面",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-ban-qiao-mai-mian/step_3.jpg"
+      "image": "steps/other_jiang-ban-qiao-mai-mian/step_3.jpg"
     }
   ],
   "tips": [
@@ -112,8 +112,8 @@
     "酱料可以根据个人喜欢选择其他，例如花生酱、芝麻酱等",
     "荞麦面跟其他面条热量几乎一致，所以不适合作为减脂的主食"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_jiang-ban-qiao-mai-mian.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_jiang-ban-qiao-mai-mian_overview.jpg",
+  "cover_image": "ai-generated/other_jiang-ban-qiao-mai-mian.jpg",
+  "overview_image": "overview/other_jiang-ban-qiao-mai-mian_overview.jpg",
   "id": "other_jiang-ban-qiao-mai-mian",
   "status": "published"
 }

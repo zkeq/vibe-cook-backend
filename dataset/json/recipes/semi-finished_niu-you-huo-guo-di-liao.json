@@ -272,7 +272,7 @@
         "炸至焦黄但不可炸糊"
       ],
       "produces": "去腥牛油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_niu-you-huo-guo-di-liao/step_1.jpg"
+      "image": "steps/semi-finished_niu-you-huo-guo-di-liao/step_1.jpg"
     },
     {
       "index": 2,
@@ -283,7 +283,7 @@
         "需不停翻动，防止辣椒粘锅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_niu-you-huo-guo-di-liao/step_2.jpg"
+      "image": "steps/semi-finished_niu-you-huo-guo-di-liao/step_2.jpg"
     },
     {
       "index": 3,
@@ -294,7 +294,7 @@
         "豆瓣含水量高，必须小火慢熬出香味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_niu-you-huo-guo-di-liao/step_3.jpg"
+      "image": "steps/semi-finished_niu-you-huo-guo-di-liao/step_3.jpg"
     },
     {
       "index": 4,
@@ -305,7 +305,7 @@
         "此步骤为二次增香"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_niu-you-huo-guo-di-liao/step_4.jpg"
+      "image": "steps/semi-finished_niu-you-huo-guo-di-liao/step_4.jpg"
     },
     {
       "index": 5,
@@ -316,7 +316,7 @@
         "花椒不宜久炒，以免发苦"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_niu-you-huo-guo-di-liao/step_5.jpg"
+      "image": "steps/semi-finished_niu-you-huo-guo-di-liao/step_5.jpg"
     },
     {
       "index": 6,
@@ -327,7 +327,7 @@
         "香料需提前洗净或粉碎"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_niu-you-huo-guo-di-liao/step_6.jpg"
+      "image": "steps/semi-finished_niu-you-huo-guo-di-liao/step_6.jpg"
     },
     {
       "index": 7,
@@ -338,7 +338,7 @@
         "白酒能激发出所有香料的复合香气"
       ],
       "produces": "火锅底料初品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_niu-you-huo-guo-di-liao/step_7.jpg"
+      "image": "steps/semi-finished_niu-you-huo-guo-di-liao/step_7.jpg"
     },
     {
       "index": 8,
@@ -349,7 +349,7 @@
         "静置是底料醇厚的关键"
       ],
       "produces": "成品火锅底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_niu-you-huo-guo-di-liao/step_8.jpg"
+      "image": "steps/semi-finished_niu-you-huo-guo-di-liao/step_8.jpg"
     },
     {
       "index": 9,
@@ -360,7 +360,7 @@
         "炼干水分的标志是油面不再有水蒸气冒出且油色透亮"
       ],
       "produces": "火锅老油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_niu-you-huo-guo-di-liao/step_9.jpg"
+      "image": "steps/semi-finished_niu-you-huo-guo-di-liao/step_9.jpg"
     }
   ],
   "tips": [
@@ -369,8 +369,8 @@
     "香料的比例可以根据个人喜好微调，但丁香和草果不可过量",
     "建议在通风良好的环境下操作，因为气味非常浓烈"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/semi-finished_niu-you-huo-guo-di-liao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/semi-finished_niu-you-huo-guo-di-liao_overview.jpg",
+  "cover_image": "ai-generated/semi-finished_niu-you-huo-guo-di-liao.jpg",
+  "overview_image": "overview/semi-finished_niu-you-huo-guo-di-liao_overview.jpg",
   "id": "semi-finished_niu-you-huo-guo-di-liao",
   "status": "published"
 }

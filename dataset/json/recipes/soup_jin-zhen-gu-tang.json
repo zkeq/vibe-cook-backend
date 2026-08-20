@@ -81,7 +81,7 @@
         "一定要掰散，避免食用时塞牙"
       ],
       "produces": "洗净撕开的金针菇",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_jin-zhen-gu-tang/step_1.jpg"
+      "image": "steps/soup_jin-zhen-gu-tang/step_1.jpg"
     },
     {
       "index": 2,
@@ -92,7 +92,7 @@
         "长度控制在5cm以内更方便入口"
       ],
       "produces": "金针菇段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_jin-zhen-gu-tang/step_2.jpg"
+      "image": "steps/soup_jin-zhen-gu-tang/step_2.jpg"
     },
     {
       "index": 3,
@@ -103,7 +103,7 @@
         "如果喜欢加蛋，水开后倒入蛋液"
       ],
       "produces": "半成品金针菇汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_jin-zhen-gu-tang/step_3.jpg"
+      "image": "steps/soup_jin-zhen-gu-tang/step_3.jpg"
     },
     {
       "index": 4,
@@ -114,7 +114,7 @@
         "搅拌均匀使调味品充分溶解"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_jin-zhen-gu-tang/step_4.jpg"
+      "image": "steps/soup_jin-zhen-gu-tang/step_4.jpg"
     },
     {
       "index": 5,
@@ -125,15 +125,15 @@
         "出锅后可滴入香油增香"
       ],
       "produces": "金针菇汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_jin-zhen-gu-tang/step_5.jpg"
+      "image": "steps/soup_jin-zhen-gu-tang/step_5.jpg"
     }
   ],
   "tips": [
     "如果喜欢在汤里加入鸡蛋，可在步骤 3 中水沸腾之后将打散的鸡蛋液倒入锅中。",
     "出锅后可加入 3-4 滴香油（或者麻油）增香。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/soup_jin-zhen-gu-tang.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/soup_jin-zhen-gu-tang_overview.jpg",
+  "cover_image": "ai-generated/soup_jin-zhen-gu-tang.jpg",
+  "overview_image": "overview/soup_jin-zhen-gu-tang_overview.jpg",
   "id": "soup_jin-zhen-gu-tang",
   "status": "published"
 }

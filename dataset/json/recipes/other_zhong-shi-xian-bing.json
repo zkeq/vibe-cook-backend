@@ -163,7 +163,7 @@
         "腌制时间需保证 30 分钟以入味"
       ],
       "produces": "腌制肉沫",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhong-shi-xian-bing/step_1.jpg"
+      "image": "steps/other_zhong-shi-xian-bing/step_1.jpg"
     },
     {
       "index": 2,
@@ -174,7 +174,7 @@
         "水量要控制好，保证面糊既粘稠又能流动"
       ],
       "produces": "调味面糊",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhong-shi-xian-bing/step_2.jpg"
+      "image": "steps/other_zhong-shi-xian-bing/step_2.jpg"
     },
     {
       "index": 3,
@@ -185,7 +185,7 @@
         "胡萝卜末越碎越好，方便熟透"
       ],
       "produces": "切配好的辅料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhong-shi-xian-bing/step_3.jpg"
+      "image": "steps/other_zhong-shi-xian-bing/step_3.jpg"
     },
     {
       "index": 4,
@@ -196,7 +196,7 @@
         "油变金黄色代表胡萝卜的风味已被萃取"
       ],
       "produces": "熟肉馅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhong-shi-xian-bing/step_4.jpg"
+      "image": "steps/other_zhong-shi-xian-bing/step_4.jpg"
     },
     {
       "index": 5,
@@ -207,7 +207,7 @@
         "尽量搅匀，保证味道扩散到饼内各处"
       ],
       "produces": "混合饼料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhong-shi-xian-bing/step_5.jpg"
+      "image": "steps/other_zhong-shi-xian-bing/step_5.jpg"
     },
     {
       "index": 6,
@@ -218,7 +218,7 @@
         "厚度不要过高，可以通过端锅摇晃铺平"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhong-shi-xian-bing/step_6.jpg"
+      "image": "steps/other_zhong-shi-xian-bing/step_6.jpg"
     },
     {
       "index": 7,
@@ -229,7 +229,7 @@
         "全程保持小火，避免外焦内生"
       ],
       "produces": "熟馅饼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhong-shi-xian-bing/step_7.jpg"
+      "image": "steps/other_zhong-shi-xian-bing/step_7.jpg"
     }
   ],
   "tips": [
@@ -237,8 +237,8 @@
     "肉沫和胡萝卜末即馅料可以使用各类熟馅料替代。",
     "新手制作时请务必严格掌握火候，建议全程小火。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_zhong-shi-xian-bing.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_zhong-shi-xian-bing_overview.jpg",
+  "cover_image": "ai-generated/other_zhong-shi-xian-bing.jpg",
+  "overview_image": "overview/other_zhong-shi-xian-bing_overview.jpg",
   "id": "other_zhong-shi-xian-bing",
   "status": "published"
 }

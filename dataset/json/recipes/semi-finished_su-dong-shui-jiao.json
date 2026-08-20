@@ -87,7 +87,7 @@
         "水的高度应一至两倍于饺子的高度"
       ],
       "produces": "沸水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_su-dong-shui-jiao/step_1.jpg"
+      "image": "steps/semi-finished_su-dong-shui-jiao/step_1.jpg"
     },
     {
       "index": 2,
@@ -98,7 +98,7 @@
         "过水可以防止饺子表面干燥开裂"
       ],
       "produces": "湿润的饺子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_su-dong-shui-jiao/step_2.jpg"
+      "image": "steps/semi-finished_su-dong-shui-jiao/step_2.jpg"
     },
     {
       "index": 3,
@@ -109,7 +109,7 @@
         "注意安全，避免热水溅出"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_su-dong-shui-jiao/step_3.jpg"
+      "image": "steps/semi-finished_su-dong-shui-jiao/step_3.jpg"
     },
     {
       "index": 4,
@@ -120,7 +120,7 @@
         "注意不要铲到饺子，以避免皮破或粘连"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_su-dong-shui-jiao/step_4.jpg"
+      "image": "steps/semi-finished_su-dong-shui-jiao/step_4.jpg"
     },
     {
       "index": 5,
@@ -131,7 +131,7 @@
         "饺子浮起后不需要再做此步"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_su-dong-shui-jiao/step_5.jpg"
+      "image": "steps/semi-finished_su-dong-shui-jiao/step_5.jpg"
     },
     {
       "index": 6,
@@ -142,7 +142,7 @@
         "点水是为了确保馅料全熟而皮不煮烂"
       ],
       "produces": "煮熟的饺子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_su-dong-shui-jiao/step_6.jpg"
+      "image": "steps/semi-finished_su-dong-shui-jiao/step_6.jpg"
     },
     {
       "index": 7,
@@ -153,7 +153,7 @@
         "盛出时尽量沥干多余水分"
       ],
       "produces": "成品水饺",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_su-dong-shui-jiao/step_7.jpg"
+      "image": "steps/semi-finished_su-dong-shui-jiao/step_7.jpg"
     },
     {
       "index": 8,
@@ -164,7 +164,7 @@
         "及时刷锅可防止面粉干结在锅壁上"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_su-dong-shui-jiao/step_8.jpg"
+      "image": "steps/semi-finished_su-dong-shui-jiao/step_8.jpg"
     }
   ],
   "tips": [
@@ -173,8 +173,8 @@
     "加入蒜泥可提升风味，但需注意社交场合口气问题",
     "必须及时刷锅，否则面粉形成的黏性物质很难清理"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/semi-finished_su-dong-shui-jiao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/semi-finished_su-dong-shui-jiao_overview.jpg",
+  "cover_image": "ai-generated/semi-finished_su-dong-shui-jiao.jpg",
+  "overview_image": "overview/semi-finished_su-dong-shui-jiao_overview.jpg",
   "id": "semi-finished_su-dong-shui-jiao",
   "status": "published"
 }

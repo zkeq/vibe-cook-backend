@@ -96,7 +96,7 @@
         "注意搅拌，以免粘锅"
       ],
       "produces": "熟年糕",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-nian-gao/step_1.jpg"
+      "image": "steps/staple_chao-nian-gao/step_1.jpg"
     },
     {
       "index": 2,
@@ -107,7 +107,7 @@
         "葱白和葱叶分开放置，后续分步入锅"
       ],
       "produces": "切好的蔬菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-nian-gao/step_2.jpg"
+      "image": "steps/staple_chao-nian-gao/step_2.jpg"
     },
     {
       "index": 3,
@@ -118,7 +118,7 @@
         "鸡蛋不要炒太老"
       ],
       "produces": "炒蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-nian-gao/step_3.jpg"
+      "image": "steps/staple_chao-nian-gao/step_3.jpg"
     },
     {
       "index": 4,
@@ -129,7 +129,7 @@
         "小火慢炸，防止炸糊"
       ],
       "produces": "葱油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-nian-gao/step_4.jpg"
+      "image": "steps/staple_chao-nian-gao/step_4.jpg"
     },
     {
       "index": 5,
@@ -140,7 +140,7 @@
         "青菜炒至断生即可"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-nian-gao/step_5.jpg"
+      "image": "steps/staple_chao-nian-gao/step_5.jpg"
     },
     {
       "index": 6,
@@ -151,7 +151,7 @@
         "确保年糕沥干水分，防止溅油"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-nian-gao/step_6.jpg"
+      "image": "steps/staple_chao-nian-gao/step_6.jpg"
     },
     {
       "index": 7,
@@ -162,7 +162,7 @@
         "翻炒动作要快，防止粘锅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-nian-gao/step_7.jpg"
+      "image": "steps/staple_chao-nian-gao/step_7.jpg"
     },
     {
       "index": 8,
@@ -173,7 +173,7 @@
         "最后加葱油能极大提升香味"
       ],
       "produces": "炒年糕",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-nian-gao/step_8.jpg"
+      "image": "steps/staple_chao-nian-gao/step_8.jpg"
     }
   ],
   "tips": [
@@ -181,8 +181,8 @@
     "在煮年糕的时候注意搅拌，以免粘锅",
     "葱油是这道菜的灵魂，建议不要省略"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_chao-nian-gao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_chao-nian-gao_overview.jpg",
+  "cover_image": "ai-generated/staple_chao-nian-gao.jpg",
+  "overview_image": "overview/staple_chao-nian-gao_overview.jpg",
   "id": "staple_chao-nian-gao",
   "status": "published"
 }

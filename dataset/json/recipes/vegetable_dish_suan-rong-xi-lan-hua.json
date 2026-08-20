@@ -104,7 +104,7 @@
         "切成大小均匀的小朵有助于同步熟透"
       ],
       "produces": "西兰花小朵",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-rong-xi-lan-hua/step_1.jpg"
+      "image": "steps/vegetable_dish_suan-rong-xi-lan-hua/step_1.jpg"
     },
     {
       "index": 2,
@@ -115,7 +115,7 @@
         "蒜末尽量切细，香味更浓郁"
       ],
       "produces": "蒜末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-rong-xi-lan-hua/step_2.jpg"
+      "image": "steps/vegetable_dish_suan-rong-xi-lan-hua/step_2.jpg"
     },
     {
       "index": 3,
@@ -126,7 +126,7 @@
         "水量要足，确保能完全没过西兰花"
       ],
       "produces": "沸水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-rong-xi-lan-hua/step_3.jpg"
+      "image": "steps/vegetable_dish_suan-rong-xi-lan-hua/step_3.jpg"
     },
     {
       "index": 4,
@@ -137,7 +137,7 @@
         "水中加少许盐和油可以保持西兰花色泽翠绿"
       ],
       "produces": "熟西兰花",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-rong-xi-lan-hua/step_4.jpg"
+      "image": "steps/vegetable_dish_suan-rong-xi-lan-hua/step_4.jpg"
     },
     {
       "index": 5,
@@ -148,7 +148,7 @@
         "尽量沥干，避免盘底水分过多稀释酱汁"
       ],
       "produces": "摆盘好的西兰花",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-rong-xi-lan-hua/step_5.jpg"
+      "image": "steps/vegetable_dish_suan-rong-xi-lan-hua/step_5.jpg"
     },
     {
       "index": 6,
@@ -159,7 +159,7 @@
         "务必使用小火，防止蒜末炒焦变苦"
       ],
       "produces": "蒜香底油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-rong-xi-lan-hua/step_6.jpg"
+      "image": "steps/vegetable_dish_suan-rong-xi-lan-hua/step_6.jpg"
     },
     {
       "index": 7,
@@ -170,7 +170,7 @@
         "先混合均匀再加热"
       ],
       "produces": "混合酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-rong-xi-lan-hua/step_7.jpg"
+      "image": "steps/vegetable_dish_suan-rong-xi-lan-hua/step_7.jpg"
     },
     {
       "index": 8,
@@ -181,7 +181,7 @@
         "煮至微沸即可"
       ],
       "produces": "热蒜蓉汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-rong-xi-lan-hua/step_8.jpg"
+      "image": "steps/vegetable_dish_suan-rong-xi-lan-hua/step_8.jpg"
     },
     {
       "index": 9,
@@ -192,15 +192,15 @@
         "确保每一朵西兰花都能沾上酱汁"
       ],
       "produces": "成品蒜蓉西兰花",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-rong-xi-lan-hua/step_9.jpg"
+      "image": "steps/vegetable_dish_suan-rong-xi-lan-hua/step_9.jpg"
     }
   ],
   "tips": [
     "焯水时间不宜超过推荐时长，以免影响西兰花的口感和营养。",
     "如果想保留西兰花更脆的口感，可以缩短焯水时间。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_suan-rong-xi-lan-hua.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_suan-rong-xi-lan-hua_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_suan-rong-xi-lan-hua.jpg",
+  "overview_image": "overview/vegetable_dish_suan-rong-xi-lan-hua_overview.jpg",
   "id": "vegetable_dish_suan-rong-xi-lan-hua",
   "status": "published"
 }

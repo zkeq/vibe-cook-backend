@@ -157,7 +157,7 @@
         "油沫要撇干净"
       ],
       "produces": "初步去腥的排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-pai-gu/step_1.jpg"
+      "image": "steps/other_jiang-pai-gu/step_1.jpg"
     },
     {
       "index": 2,
@@ -168,7 +168,7 @@
         "洗净表面残留的浮沫"
       ],
       "produces": "干净的排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-pai-gu/step_2.jpg"
+      "image": "steps/other_jiang-pai-gu/step_2.jpg"
     },
     {
       "index": 3,
@@ -179,7 +179,7 @@
         "一定要小火，防止糖炒焦变苦"
       ],
       "produces": "糖色底油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-pai-gu/step_3.jpg"
+      "image": "steps/other_jiang-pai-gu/step_3.jpg"
     },
     {
       "index": 4,
@@ -191,7 +191,7 @@
         "水温建议用热水，肉质不收缩"
       ],
       "produces": "炖煮中的排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-pai-gu/step_4.jpg"
+      "image": "steps/other_jiang-pai-gu/step_4.jpg"
     },
     {
       "index": 5,
@@ -203,7 +203,7 @@
         "注意观察水量防止烧干"
       ],
       "produces": "熟烂的酱排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-pai-gu/step_5.jpg"
+      "image": "steps/other_jiang-pai-gu/step_5.jpg"
     },
     {
       "index": 6,
@@ -214,7 +214,7 @@
         "可以将剩余汤汁淋在排骨上增加亮度"
       ],
       "produces": "成品酱排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-pai-gu/step_6.jpg"
+      "image": "steps/other_jiang-pai-gu/step_6.jpg"
     }
   ],
   "tips": [
@@ -222,8 +222,8 @@
     "大火煮时间可以根据每个人情况做调整",
     "煮排骨期间，可以顺道放入 2-3 个 鸡蛋一起煮，做成简易版卤蛋"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_jiang-pai-gu.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_jiang-pai-gu_overview.jpg",
+  "cover_image": "ai-generated/other_jiang-pai-gu.jpg",
+  "overview_image": "overview/other_jiang-pai-gu_overview.jpg",
   "id": "other_jiang-pai-gu",
   "status": "published"
 }

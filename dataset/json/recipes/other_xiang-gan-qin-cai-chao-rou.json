@@ -122,7 +122,7 @@
         "芹菜叶可以留下做凉拌菜或煎蛋"
       ],
       "produces": "芹菜段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-gan-qin-cai-chao-rou/step_1.jpg"
+      "image": "steps/other_xiang-gan-qin-cai-chao-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -133,7 +133,7 @@
         "厚度要均匀，方便受热一致"
       ],
       "produces": "香干条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-gan-qin-cai-chao-rou/step_2.jpg"
+      "image": "steps/other_xiang-gan-qin-cai-chao-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -144,7 +144,7 @@
         "蒜泥的味道会比蒜片更浓郁"
       ],
       "produces": "蒜片/蒜泥",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-gan-qin-cai-chao-rou/step_3.jpg"
+      "image": "steps/other_xiang-gan-qin-cai-chao-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -155,7 +155,7 @@
         "怕辣的可以去掉辣椒籽"
       ],
       "produces": "辣椒段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-gan-qin-cai-chao-rou/step_4.jpg"
+      "image": "steps/other_xiang-gan-qin-cai-chao-rou/step_4.jpg"
     },
     {
       "index": 5,
@@ -166,7 +166,7 @@
         "热锅凉油可以防止肉片粘锅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-gan-qin-cai-chao-rou/step_5.jpg"
+      "image": "steps/other_xiang-gan-qin-cai-chao-rou/step_5.jpg"
     },
     {
       "index": 6,
@@ -177,7 +177,7 @@
         "注意火候，不要把花椒炸糊，否则会有苦味"
       ],
       "produces": "香油底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-gan-qin-cai-chao-rou/step_6.jpg"
+      "image": "steps/other_xiang-gan-qin-cai-chao-rou/step_6.jpg"
     },
     {
       "index": 7,
@@ -188,7 +188,7 @@
         "豆瓣酱有咸味，后续加盐需适量减少"
       ],
       "produces": "上色肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-gan-qin-cai-chao-rou/step_7.jpg"
+      "image": "steps/other_xiang-gan-qin-cai-chao-rou/step_7.jpg"
     },
     {
       "index": 8,
@@ -199,7 +199,7 @@
         "让香干吸收肉汁和老抽的味道"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-gan-qin-cai-chao-rou/step_8.jpg"
+      "image": "steps/other_xiang-gan-qin-cai-chao-rou/step_8.jpg"
     },
     {
       "index": 9,
@@ -210,7 +210,7 @@
         "辣椒炒至断生即可"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-gan-qin-cai-chao-rou/step_9.jpg"
+      "image": "steps/other_xiang-gan-qin-cai-chao-rou/step_9.jpg"
     },
     {
       "index": 10,
@@ -221,7 +221,7 @@
         "芹菜不宜久炒，否则会失去脆感"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-gan-qin-cai-chao-rou/step_10.jpg"
+      "image": "steps/other_xiang-gan-qin-cai-chao-rou/step_10.jpg"
     },
     {
       "index": 11,
@@ -232,15 +232,15 @@
         "蚝油最后放可以保持其鲜味"
       ],
       "produces": "香干芹菜炒肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-gan-qin-cai-chao-rou/step_11.jpg"
+      "image": "steps/other_xiang-gan-qin-cai-chao-rou/step_11.jpg"
     }
   ],
   "tips": [
     "如果没有买到香芹，或者用的芹菜比较粗，可以考虑焯水，放入滚水中 1 分钟捞出，冷水冲洗（保持爽脆）",
     "如果买到的豆干比较硬、紧实，也可以切条后再焯水"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_xiang-gan-qin-cai-chao-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_xiang-gan-qin-cai-chao-rou_overview.jpg",
+  "cover_image": "ai-generated/other_xiang-gan-qin-cai-chao-rou.jpg",
+  "overview_image": "overview/other_xiang-gan-qin-cai-chao-rou_overview.jpg",
   "id": "other_xiang-gan-qin-cai-chao-rou",
   "status": "published"
 }

@@ -144,7 +144,7 @@
         "擦干水分有助于入味和后续裹粉"
       ],
       "produces": "预处理鸡翅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_1.jpg"
+      "image": "steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_1.jpg"
     },
     {
       "index": 2,
@@ -155,7 +155,7 @@
         "酸奶可以让肉质更滑嫩"
       ],
       "produces": "腌制酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_2.jpg"
+      "image": "steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_2.jpg"
     },
     {
       "index": 3,
@@ -166,7 +166,7 @@
         "冷藏过夜效果最佳，若时间紧急至少腌制2小时"
       ],
       "produces": "已腌制鸡翅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_3.jpg"
+      "image": "steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_3.jpg"
     },
     {
       "index": 4,
@@ -177,7 +177,7 @@
         "泡打粉是外壳酥脆的秘诀"
       ],
       "produces": "混合裹粉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_4.jpg"
+      "image": "steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_4.jpg"
     },
     {
       "index": 5,
@@ -188,7 +188,7 @@
         "静置可以让粉更好地粘附在肉上"
       ],
       "produces": "一层裹粉鸡翅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_5.jpg"
+      "image": "steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_5.jpg"
     },
     {
       "index": 6,
@@ -199,7 +199,7 @@
         "二次裹粉外壳更牢固不易脱落"
       ],
       "produces": "双层裹粉鸡翅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_6.jpg"
+      "image": "steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_6.jpg"
     },
     {
       "index": 7,
@@ -210,7 +210,7 @@
         "喷油要均匀，干粉处必须喷到油"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_7.jpg"
+      "image": "steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_7.jpg"
     },
     {
       "index": 8,
@@ -221,7 +221,7 @@
         "不要叠放，确保空气流通"
       ],
       "produces": "半熟炸鸡",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_8.jpg"
+      "image": "steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_8.jpg"
     },
     {
       "index": 9,
@@ -232,7 +232,7 @@
         "翻面后的补油是上色的关键"
       ],
       "produces": "熟化炸鸡",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_9.jpg"
+      "image": "steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_9.jpg"
     },
     {
       "index": 10,
@@ -243,7 +243,7 @@
         "用牙签扎入无血水流出即熟"
       ],
       "produces": "脆皮炸鸡",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_10.jpg"
+      "image": "steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_10.jpg"
     }
   ],
   "tips": [
@@ -253,8 +253,8 @@
     "严禁鸡翅叠放，否则会导致受热不均，外壳不脆",
     "蒜粉、红甜椒粉和洋葱粉可根据个人口味灵活增减"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji_overview.jpg",
+  "cover_image": "ai-generated/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji.jpg",
+  "overview_image": "overview/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji_overview.jpg",
   "id": "other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji",
   "status": "published"
 }

@@ -97,7 +97,7 @@
         "柠檬汁用量可根据个人喜酸程度微调"
       ],
       "produces": "备用柠檬片和柠檬汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jin-fei-shi/step_1.jpg"
+      "image": "steps/other_jin-fei-shi/step_1.jpg"
     },
     {
       "index": 2,
@@ -108,7 +108,7 @@
         "如果有雪克瓶，可将冰块、金酒、柠檬汁、糖浆放入雪克瓶摇匀后再倒入杯中"
       ],
       "produces": "预调液体",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jin-fei-shi/step_2.jpg"
+      "image": "steps/other_jin-fei-shi/step_2.jpg"
     },
     {
       "index": 3,
@@ -119,7 +119,7 @@
         "注意不要直接倒在冰块上，以减少气泡流失"
       ],
       "produces": "半成品鸡尾酒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jin-fei-shi/step_3.jpg"
+      "image": "steps/other_jin-fei-shi/step_3.jpg"
     },
     {
       "index": 4,
@@ -130,7 +130,7 @@
         "不要旋转搅拌，避免二氧化碳大量溢出"
       ],
       "produces": "金菲士成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jin-fei-shi/step_4.jpg"
+      "image": "steps/other_jin-fei-shi/step_4.jpg"
     }
   ],
   "tips": [
@@ -138,8 +138,8 @@
     "注入苏打水时需缓慢，避免气泡过快消散影响口感。",
     "若冰块融化过快，可选择过滤掉碎冰并重新补充大冰块。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_jin-fei-shi.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_jin-fei-shi_overview.jpg",
+  "cover_image": "ai-generated/other_jin-fei-shi.jpg",
+  "overview_image": "overview/other_jin-fei-shi_overview.jpg",
   "id": "other_jin-fei-shi",
   "status": "published"
 }

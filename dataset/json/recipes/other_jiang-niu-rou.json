@@ -180,7 +180,7 @@
         "中途可以换一次水以更好地去除血水"
       ],
       "produces": "去血水牛肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-niu-rou/step_1.jpg"
+      "image": "steps/other_jiang-niu-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -191,7 +191,7 @@
         "用牙签或者叉子在牛肉表面扎孔可以破坏筋膜，便于入味"
       ],
       "produces": "腌制好的牛肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-niu-rou/step_2.jpg"
+      "image": "steps/other_jiang-niu-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -202,7 +202,7 @@
         "不要切得太小，否则缩水后口感欠佳"
       ],
       "produces": "牛肉块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-niu-rou/step_3.jpg"
+      "image": "steps/other_jiang-niu-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -213,7 +213,7 @@
         "必须冷水下锅，温水洗净可避免肉质遇冷骤缩变柴"
       ],
       "produces": "焯水后的牛肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-niu-rou/step_4.jpg"
+      "image": "steps/other_jiang-niu-rou/step_4.jpg"
     },
     {
       "index": 5,
@@ -224,7 +224,7 @@
         "水要一次性加足"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-niu-rou/step_5.jpg"
+      "image": "steps/other_jiang-niu-rou/step_5.jpg"
     },
     {
       "index": 6,
@@ -235,7 +235,7 @@
         "保持微沸状态即可"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-niu-rou/step_6.jpg"
+      "image": "steps/other_jiang-niu-rou/step_6.jpg"
     },
     {
       "index": 7,
@@ -246,7 +246,7 @@
         "操作时，需要注意观察沸腾的水位线，如发现低于 2/3 的食材应加热水至没过食材"
       ],
       "produces": "熟牛肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-niu-rou/step_7.jpg"
+      "image": "steps/other_jiang-niu-rou/step_7.jpg"
     },
     {
       "index": 8,
@@ -257,7 +257,7 @@
         "用保鲜膜紧密包裹牛肉放入冰箱冷藏，可以使得切片肉质紧实不散"
       ],
       "produces": "定型牛肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-niu-rou/step_8.jpg"
+      "image": "steps/other_jiang-niu-rou/step_8.jpg"
     },
     {
       "index": 9,
@@ -268,7 +268,7 @@
         "逆着纹路切片口感更酥软"
       ],
       "produces": "酱牛肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-niu-rou/step_9.jpg"
+      "image": "steps/other_jiang-niu-rou/step_9.jpg"
     }
   ],
   "tips": [
@@ -276,8 +276,8 @@
     "用保鲜膜紧密包裹牛肉，放入冰箱冷藏数小时，可以使得切片肉质紧实不散。",
     "用牙签或者叉子在牛肉表面扎孔可以破坏筋膜，便于入味。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_jiang-niu-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_jiang-niu-rou_overview.jpg",
+  "cover_image": "ai-generated/other_jiang-niu-rou.jpg",
+  "overview_image": "overview/other_jiang-niu-rou_overview.jpg",
   "id": "other_jiang-niu-rou",
   "status": "published"
 }

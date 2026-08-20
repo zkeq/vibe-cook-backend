@@ -258,7 +258,7 @@
         "将酱料提前混合可以避免炒制时手忙脚乱"
       ],
       "produces": "备好的辅料碗1-7",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_1.jpg"
+      "image": "steps/other_zhu-hou-niu-nan/step_1.jpg"
     },
     {
       "index": 2,
@@ -269,7 +269,7 @@
         "冷水下锅更有利于逼出血水"
       ],
       "produces": "焯水后的整块牛腩",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_2.jpg"
+      "image": "steps/other_zhu-hou-niu-nan/step_2.jpg"
     },
     {
       "index": 3,
@@ -280,7 +280,7 @@
         "炖煮后肉会缩水，所以切块要稍微大一点"
       ],
       "produces": "牛腩块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_3.jpg"
+      "image": "steps/other_zhu-hou-niu-nan/step_3.jpg"
     },
     {
       "index": 4,
@@ -291,7 +291,7 @@
         "炒出香味即可，不要炒糊"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_4.jpg"
+      "image": "steps/other_zhu-hou-niu-nan/step_4.jpg"
     },
     {
       "index": 5,
@@ -302,7 +302,7 @@
         "中小火可以防止香料炒焦产生苦味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_5.jpg"
+      "image": "steps/other_zhu-hou-niu-nan/step_5.jpg"
     },
     {
       "index": 6,
@@ -313,7 +313,7 @@
         "压碎南乳能使其味道更好地融入汤汁"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_6.jpg"
+      "image": "steps/other_zhu-hou-niu-nan/step_6.jpg"
     },
     {
       "index": 7,
@@ -324,7 +324,7 @@
         "炒出红油效果更好"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_7.jpg"
+      "image": "steps/other_zhu-hou-niu-nan/step_7.jpg"
     },
     {
       "index": 8,
@@ -335,7 +335,7 @@
         "糖色能增加肉的红亮度"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_8.jpg"
+      "image": "steps/other_zhu-hou-niu-nan/step_8.jpg"
     },
     {
       "index": 9,
@@ -346,7 +346,7 @@
         "让每一块牛肉都裹上酱汁"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_9.jpg"
+      "image": "steps/other_zhu-hou-niu-nan/step_9.jpg"
     },
     {
       "index": 10,
@@ -357,7 +357,7 @@
         "沿锅边淋入利用高温激发出酒香"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_10.jpg"
+      "image": "steps/other_zhu-hou-niu-nan/step_10.jpg"
     },
     {
       "index": 11,
@@ -368,7 +368,7 @@
         "注意观察底层，防止糊底"
       ],
       "produces": "初级炖煮基底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_11.jpg"
+      "image": "steps/other_zhu-hou-niu-nan/step_11.jpg"
     },
     {
       "index": 12,
@@ -379,7 +379,7 @@
         "水要一次性加够"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_12.jpg"
+      "image": "steps/other_zhu-hou-niu-nan/step_12.jpg"
     },
     {
       "index": 13,
@@ -390,7 +390,7 @@
         "高压锅能显著节省时间，但普通锅慢炖味道更厚重"
       ],
       "produces": "熟软牛腩",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_13.jpg"
+      "image": "steps/other_zhu-hou-niu-nan/step_13.jpg"
     },
     {
       "index": 14,
@@ -401,7 +401,7 @@
         "少量多次添加，不断尝试"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_14.jpg"
+      "image": "steps/other_zhu-hou-niu-nan/step_14.jpg"
     },
     {
       "index": 15,
@@ -412,7 +412,7 @@
         "防止后续煮配菜时牛腩过烂"
       ],
       "produces": "熟牛腩",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_15.jpg"
+      "image": "steps/other_zhu-hou-niu-nan/step_15.jpg"
     },
     {
       "index": 16,
@@ -423,7 +423,7 @@
         "配菜切厚片口感更好"
       ],
       "produces": "熟配菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_16.jpg"
+      "image": "steps/other_zhu-hou-niu-nan/step_16.jpg"
     },
     {
       "index": 17,
@@ -434,7 +434,7 @@
         null
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_17.jpg"
+      "image": "steps/other_zhu-hou-niu-nan/step_17.jpg"
     },
     {
       "index": 18,
@@ -445,7 +445,7 @@
         "过滤后的汤汁色泽更亮，口感更顺滑"
       ],
       "produces": "成品柱候牛腩",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_18.jpg"
+      "image": "steps/other_zhu-hou-niu-nan/step_18.jpg"
     }
   ],
   "tips": [
@@ -454,8 +454,8 @@
     "如果觉得不够咸加盐或生抽，不够甜则加糖",
     "参考视频教程：https://www.bilibili.com/video/BV12C4y1W7ox"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_zhu-hou-niu-nan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_zhu-hou-niu-nan_overview.jpg",
+  "cover_image": "ai-generated/other_zhu-hou-niu-nan.jpg",
+  "overview_image": "overview/other_zhu-hou-niu-nan_overview.jpg",
   "id": "other_zhu-hou-niu-nan",
   "status": "published"
 }

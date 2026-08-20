@@ -133,7 +133,7 @@
         "逆着纹路切可以让肉质更嫩"
       ],
       "produces": "羊肉块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-rou-tang/step_1.jpg"
+      "image": "steps/other_yang-rou-tang/step_1.jpg"
     },
     {
       "index": 2,
@@ -144,7 +144,7 @@
         "葱段可以切得稍微大一些，方便后期捞出或食用"
       ],
       "produces": "葱段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-rou-tang/step_2.jpg"
+      "image": "steps/other_yang-rou-tang/step_2.jpg"
     },
     {
       "index": 3,
@@ -155,7 +155,7 @@
         "冷水下锅有助于逼出羊肉中的血水"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-rou-tang/step_3.jpg"
+      "image": "steps/other_yang-rou-tang/step_3.jpg"
     },
     {
       "index": 4,
@@ -166,7 +166,7 @@
         "一定要彻底洗净表面的浮沫"
       ],
       "produces": "处理过的羊肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-rou-tang/step_4.jpg"
+      "image": "steps/other_yang-rou-tang/step_4.jpg"
     },
     {
       "index": 5,
@@ -177,7 +177,7 @@
         "煸炒出油脂是汤色乳白的关键步骤"
       ],
       "produces": "煸炒好的羊肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-rou-tang/step_5.jpg"
+      "image": "steps/other_yang-rou-tang/step_5.jpg"
     },
     {
       "index": 6,
@@ -188,7 +188,7 @@
         "必须加开水，否则汤色不会变白"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-rou-tang/step_6.jpg"
+      "image": "steps/other_yang-rou-tang/step_6.jpg"
     },
     {
       "index": 7,
@@ -199,7 +199,7 @@
         "全程保持大火，让油脂和水充分乳化"
       ],
       "produces": "羊肉汤底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-rou-tang/step_7.jpg"
+      "image": "steps/other_yang-rou-tang/step_7.jpg"
     },
     {
       "index": 8,
@@ -210,7 +210,7 @@
         "香菜不耐煮，出锅后再放颜色更翠绿"
       ],
       "produces": "成品羊肉汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-rou-tang/step_8.jpg"
+      "image": "steps/other_yang-rou-tang/step_8.jpg"
     }
   ],
   "tips": [
@@ -218,8 +218,8 @@
     "焯水时使用冷水，炖汤时使用开水，这是保证汤鲜肉嫩的秘诀",
     "白胡椒粉的量可根据个人口味增减，怕膻的可以多放一点"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_yang-rou-tang.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_yang-rou-tang_overview.jpg",
+  "cover_image": "ai-generated/other_yang-rou-tang.jpg",
+  "overview_image": "overview/other_yang-rou-tang_overview.jpg",
   "id": "other_yang-rou-tang",
   "status": "published"
 }

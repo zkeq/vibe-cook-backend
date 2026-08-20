@@ -117,7 +117,7 @@
         "肉稍微冷冻一下更好切薄片"
       ],
       "produces": "五花肉薄片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-wu-hua-rou/step_1.jpg"
+      "image": "steps/other_xiang-jian-wu-hua-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -128,7 +128,7 @@
         "充分抓匀使肉片吸收料汁"
       ],
       "produces": "腌制五花肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-wu-hua-rou/step_2.jpg"
+      "image": "steps/other_xiang-jian-wu-hua-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -139,7 +139,7 @@
         "洗净后建议沥干水分，避免包肉时残留过多生水"
       ],
       "produces": "干净生菜叶",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-wu-hua-rou/step_3.jpg"
+      "image": "steps/other_xiang-jian-wu-hua-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -151,7 +151,7 @@
         "注意火候，防止焦糊"
       ],
       "produces": "焦香五花肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-wu-hua-rou/step_4.jpg"
+      "image": "steps/other_xiang-jian-wu-hua-rou/step_4.jpg"
     },
     {
       "index": 5,
@@ -160,7 +160,7 @@
       "duration_sec": 60,
       "tips": [],
       "produces": "成品五花肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-wu-hua-rou/step_5.jpg"
+      "image": "steps/other_xiang-jian-wu-hua-rou/step_5.jpg"
     },
     {
       "index": 6,
@@ -171,15 +171,15 @@
         "趁热食用口感最佳"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-wu-hua-rou/step_6.jpg"
+      "image": "steps/other_xiang-jian-wu-hua-rou/step_6.jpg"
     }
   ],
   "tips": [
     "操作时，小心被溅出的油烫到",
     "建议使用平底不粘锅，受热更均匀"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_xiang-jian-wu-hua-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_xiang-jian-wu-hua-rou_overview.jpg",
+  "cover_image": "ai-generated/other_xiang-jian-wu-hua-rou.jpg",
+  "overview_image": "overview/other_xiang-jian-wu-hua-rou_overview.jpg",
   "id": "other_xiang-jian-wu-hua-rou",
   "status": "published"
 }

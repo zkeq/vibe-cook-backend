@@ -135,7 +135,7 @@
         "切片均匀有利于去腥"
       ],
       "produces": "姜片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-ji-si/step_1.jpg"
+      "image": "steps/other_liang-ban-ji-si/step_1.jpg"
     },
     {
       "index": 2,
@@ -146,7 +146,7 @@
         "水量要充足，确保没过鸡胸肉"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-ji-si/step_2.jpg"
+      "image": "steps/other_liang-ban-ji-si/step_2.jpg"
     },
     {
       "index": 3,
@@ -157,7 +157,7 @@
         "冷水下锅肉质更嫩"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-ji-si/step_3.jpg"
+      "image": "steps/other_liang-ban-ji-si/step_3.jpg"
     },
     {
       "index": 4,
@@ -168,7 +168,7 @@
         "料酒能有效去除鸡肉腥味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-ji-si/step_4.jpg"
+      "image": "steps/other_liang-ban-ji-si/step_4.jpg"
     },
     {
       "index": 5,
@@ -179,7 +179,7 @@
         "不盖盖子有利于腥味挥发"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-ji-si/step_5.jpg"
+      "image": "steps/other_liang-ban-ji-si/step_5.jpg"
     },
     {
       "index": 6,
@@ -190,7 +190,7 @@
         "浮沫是血液蛋白质凝固产生，捞出可保证口感清爽"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-ji-si/step_6.jpg"
+      "image": "steps/other_liang-ban-ji-si/step_6.jpg"
     },
     {
       "index": 7,
@@ -201,7 +201,7 @@
         "非冷冻肉煮 5 分钟，冷冻肉煮 7 分钟"
       ],
       "produces": "熟鸡胸肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-ji-si/step_7.jpg"
+      "image": "steps/other_liang-ban-ji-si/step_7.jpg"
     },
     {
       "index": 8,
@@ -212,7 +212,7 @@
         "如果能轻松插入代表熟了，否则需延长煮制时间"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-ji-si/step_8.jpg"
+      "image": "steps/other_liang-ban-ji-si/step_8.jpg"
     },
     {
       "index": 9,
@@ -223,7 +223,7 @@
         "过凉水可以使肉质回缩，口感更紧致"
       ],
       "produces": "冷却的鸡胸肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-ji-si/step_9.jpg"
+      "image": "steps/other_liang-ban-ji-si/step_9.jpg"
     },
     {
       "index": 10,
@@ -234,7 +234,7 @@
         "顺着纹理撕更省力且不易断"
       ],
       "produces": "鸡丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-ji-si/step_10.jpg"
+      "image": "steps/other_liang-ban-ji-si/step_10.jpg"
     },
     {
       "index": 11,
@@ -243,7 +243,7 @@
       "duration_sec": 10,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-ji-si/step_11.jpg"
+      "image": "steps/other_liang-ban-ji-si/step_11.jpg"
     },
     {
       "index": 12,
@@ -254,7 +254,7 @@
         "比例可根据个人喜好微调"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-ji-si/step_12.jpg"
+      "image": "steps/other_liang-ban-ji-si/step_12.jpg"
     },
     {
       "index": 13,
@@ -265,7 +265,7 @@
         "充分溶解风味才均匀"
       ],
       "produces": "混合料汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-ji-si/step_13.jpg"
+      "image": "steps/other_liang-ban-ji-si/step_13.jpg"
     },
     {
       "index": 14,
@@ -276,7 +276,7 @@
         "静置几分钟入味更佳"
       ],
       "produces": "凉拌鸡丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-ji-si/step_14.jpg"
+      "image": "steps/other_liang-ban-ji-si/step_14.jpg"
     }
   ],
   "tips": [
@@ -284,8 +284,8 @@
     "喜欢吃辣的可以加入辣椒油",
     "鸡胸肉大小会影响成熟时间，请灵活掌握煮制时长"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_liang-ban-ji-si.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_liang-ban-ji-si_overview.jpg",
+  "cover_image": "ai-generated/other_liang-ban-ji-si.jpg",
+  "overview_image": "overview/other_liang-ban-ji-si_overview.jpg",
   "id": "other_liang-ban-ji-si",
   "status": "published"
 }

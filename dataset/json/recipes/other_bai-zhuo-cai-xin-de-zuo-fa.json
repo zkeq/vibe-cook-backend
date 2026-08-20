@@ -121,7 +121,7 @@
         "刮掉外皮可以显著提升根茎的口感"
       ],
       "produces": "处理好的菜心",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bai-zhuo-cai-xin-de-zuo-fa/step_1.jpg"
+      "image": "steps/other_bai-zhuo-cai-xin-de-zuo-fa/step_1.jpg"
     },
     {
       "index": 2,
@@ -130,7 +130,7 @@
       "duration_sec": 60,
       "tips": [],
       "produces": "蒜末及洋葱碎",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bai-zhuo-cai-xin-de-zuo-fa/step_2.jpg"
+      "image": "steps/other_bai-zhuo-cai-xin-de-zuo-fa/step_2.jpg"
     },
     {
       "index": 3,
@@ -141,7 +141,7 @@
         "如果希望汤汁更容易挂在菜心上，可以适当添加一点淀粉"
       ],
       "produces": "料汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bai-zhuo-cai-xin-de-zuo-fa/step_3.jpg"
+      "image": "steps/other_bai-zhuo-cai-xin-de-zuo-fa/step_3.jpg"
     },
     {
       "index": 4,
@@ -152,7 +152,7 @@
         "加盐和油是保持蔬菜翠绿的关键"
       ],
       "produces": "白灼水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bai-zhuo-cai-xin-de-zuo-fa/step_4.jpg"
+      "image": "steps/other_bai-zhuo-cai-xin-de-zuo-fa/step_4.jpg"
     },
     {
       "index": 5,
@@ -163,7 +163,7 @@
         "注意根茎白灼时长，时间太长根茎就不脆了"
       ],
       "produces": "熟菜心",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bai-zhuo-cai-xin-de-zuo-fa/step_5.jpg"
+      "image": "steps/other_bai-zhuo-cai-xin-de-zuo-fa/step_5.jpg"
     },
     {
       "index": 6,
@@ -174,7 +174,7 @@
         "蒜末是灵魂，建议量足一些"
       ],
       "produces": "热料汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bai-zhuo-cai-xin-de-zuo-fa/step_6.jpg"
+      "image": "steps/other_bai-zhuo-cai-xin-de-zuo-fa/step_6.jpg"
     },
     {
       "index": 7,
@@ -183,15 +183,15 @@
       "duration_sec": 30,
       "tips": [],
       "produces": "白灼菜心成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bai-zhuo-cai-xin-de-zuo-fa/step_7.jpg"
+      "image": "steps/other_bai-zhuo-cai-xin-de-zuo-fa/step_7.jpg"
     }
   ],
   "tips": [
     "选择菜心一定要非常新鲜",
     "锅内烧清水白灼时一定要加入油和盐"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_bai-zhuo-cai-xin-de-zuo-fa.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_bai-zhuo-cai-xin-de-zuo-fa_overview.jpg",
+  "cover_image": "ai-generated/other_bai-zhuo-cai-xin-de-zuo-fa.jpg",
+  "overview_image": "overview/other_bai-zhuo-cai-xin-de-zuo-fa_overview.jpg",
   "id": "other_bai-zhuo-cai-xin-de-zuo-fa",
   "status": "published"
 }

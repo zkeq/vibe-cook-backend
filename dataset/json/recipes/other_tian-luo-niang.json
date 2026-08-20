@@ -214,7 +214,7 @@
         "滴香油或芥末能显著加快速度"
       ],
       "produces": "吐净沙的田螺",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tian-luo-niang/step_1.jpg"
+      "image": "steps/other_tian-luo-niang/step_1.jpg"
     },
     {
       "index": 2,
@@ -227,7 +227,7 @@
         "尾部剪掉1/3到一半"
       ],
       "produces": "干净的螺壳与精制螺肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tian-luo-niang/step_2.jpg"
+      "image": "steps/other_tian-luo-niang/step_2.jpg"
     },
     {
       "index": 3,
@@ -240,7 +240,7 @@
         "一定要朝一个方向搅拌"
       ],
       "produces": "田螺肉馅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tian-luo-niang/step_3.jpg"
+      "image": "steps/other_tian-luo-niang/step_3.jpg"
     },
     {
       "index": 4,
@@ -251,7 +251,7 @@
         "塞紧实但不要撑破螺壳"
       ],
       "produces": "酿好的田螺",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tian-luo-niang/step_4.jpg"
+      "image": "steps/other_tian-luo-niang/step_4.jpg"
     },
     {
       "index": 5,
@@ -263,7 +263,7 @@
         "薄荷和紫苏分两次放，最后一次增加清香味"
       ],
       "produces": "田螺酿成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tian-luo-niang/step_5.jpg"
+      "image": "steps/other_tian-luo-niang/step_5.jpg"
     }
   ],
   "tips": [
@@ -274,8 +274,8 @@
     "焯水时间一定要短，久了螺肉变老发硬",
     "搭配冰镇漓泉啤酒是阳朔当地的标准吃法"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_tian-luo-niang.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_tian-luo-niang_overview.jpg",
+  "cover_image": "ai-generated/other_tian-luo-niang.jpg",
+  "overview_image": "overview/other_tian-luo-niang_overview.jpg",
   "id": "other_tian-luo-niang",
   "status": "published"
 }

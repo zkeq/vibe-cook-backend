@@ -159,7 +159,7 @@
         "西红柿切十字花刀更容易烫掉皮"
       ],
       "produces": "预处理好的食材",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-tu-dou-dun-niu-rou/step_1.jpg"
+      "image": "steps/other_xi-hong-shi-tu-dou-dun-niu-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -170,7 +170,7 @@
         "此步骤是为了快速让牛肉软烂"
       ],
       "produces": "软烂的牛肉和原汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-tu-dou-dun-niu-rou/step_2.jpg"
+      "image": "steps/other_xi-hong-shi-tu-dou-dun-niu-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -181,7 +181,7 @@
         "如果怕糊可以加少量原汤"
       ],
       "produces": "炒香的牛肉底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-tu-dou-dun-niu-rou/step_3.jpg"
+      "image": "steps/other_xi-hong-shi-tu-dou-dun-niu-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -192,7 +192,7 @@
         "加一点盐可以加速洋葱出水"
       ],
       "produces": "炖煮基底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-tu-dou-dun-niu-rou/step_4.jpg"
+      "image": "steps/other_xi-hong-shi-tu-dou-dun-niu-rou/step_4.jpg"
     },
     {
       "index": 5,
@@ -203,7 +203,7 @@
         "不要扣盖，否则土豆容易过烂失去形状"
       ],
       "produces": "西红柿土豆炖牛肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-tu-dou-dun-niu-rou/step_5.jpg"
+      "image": "steps/other_xi-hong-shi-tu-dou-dun-niu-rou/step_5.jpg"
     }
   ],
   "tips": [
@@ -213,8 +213,8 @@
     "酱油总量不宜过多，汤汁浓缩后会变咸",
     "严禁使用鸡精味精，以免掩盖牛肉本身的鲜味"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_xi-hong-shi-tu-dou-dun-niu-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_xi-hong-shi-tu-dou-dun-niu-rou_overview.jpg",
+  "cover_image": "ai-generated/other_xi-hong-shi-tu-dou-dun-niu-rou.jpg",
+  "overview_image": "overview/other_xi-hong-shi-tu-dou-dun-niu-rou_overview.jpg",
   "id": "other_xi-hong-shi-tu-dou-dun-niu-rou",
   "status": "published"
 }

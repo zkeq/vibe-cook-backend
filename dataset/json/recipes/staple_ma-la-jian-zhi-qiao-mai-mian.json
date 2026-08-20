@@ -154,7 +154,7 @@
         "蔬菜建议沥干水分"
       ],
       "produces": "洗净的蔬菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ma-la-jian-zhi-qiao-mai-mian/step_1.jpg"
+      "image": "steps/staple_ma-la-jian-zhi-qiao-mai-mian/step_1.jpg"
     },
     {
       "index": 2,
@@ -165,7 +165,7 @@
         "一定要选半干荞麦面，口感最好"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ma-la-jian-zhi-qiao-mai-mian/step_2.jpg"
+      "image": "steps/staple_ma-la-jian-zhi-qiao-mai-mian/step_2.jpg"
     },
     {
       "index": 3,
@@ -176,7 +176,7 @@
         "火锅底料、花生酱、牛奶是口味三大巨头，一定要加"
       ],
       "produces": "麻辣面汤底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ma-la-jian-zhi-qiao-mai-mian/step_3.jpg"
+      "image": "steps/staple_ma-la-jian-zhi-qiao-mai-mian/step_3.jpg"
     },
     {
       "index": 4,
@@ -187,7 +187,7 @@
         "生菜不宜久煮，保持爽脆感"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ma-la-jian-zhi-qiao-mai-mian/step_4.jpg"
+      "image": "steps/staple_ma-la-jian-zhi-qiao-mai-mian/step_4.jpg"
     },
     {
       "index": 5,
@@ -198,7 +198,7 @@
         "如果不能吃酸，可以不加醋"
       ],
       "produces": "麻辣荞麦面",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ma-la-jian-zhi-qiao-mai-mian/step_5.jpg"
+      "image": "steps/staple_ma-la-jian-zhi-qiao-mai-mian/step_5.jpg"
     }
   ],
   "tips": [
@@ -207,8 +207,8 @@
     "火锅底料、花生酱、牛奶一定要加，口味三大巨头",
     "如果不能吃酸，可以不加醋"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_ma-la-jian-zhi-qiao-mai-mian.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_ma-la-jian-zhi-qiao-mai-mian_overview.jpg",
+  "cover_image": "ai-generated/staple_ma-la-jian-zhi-qiao-mai-mian.jpg",
+  "overview_image": "overview/staple_ma-la-jian-zhi-qiao-mai-mian_overview.jpg",
   "id": "staple_ma-la-jian-zhi-qiao-mai-mian",
   "status": "published"
 }

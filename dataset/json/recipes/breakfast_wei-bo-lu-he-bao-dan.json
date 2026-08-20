@@ -78,7 +78,7 @@
         "扎洞是为了释放压力，防止蛋黄在微波过程中爆裂"
       ],
       "produces": "处理好的鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wei-bo-lu-he-bao-dan/step_1.jpg"
+      "image": "steps/breakfast_wei-bo-lu-he-bao-dan/step_1.jpg"
     },
     {
       "index": 2,
@@ -89,7 +89,7 @@
         "水量覆盖蛋液约一半左右可使口感更嫩"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wei-bo-lu-he-bao-dan/step_2.jpg"
+      "image": "steps/breakfast_wei-bo-lu-he-bao-dan/step_2.jpg"
     },
     {
       "index": 3,
@@ -98,7 +98,7 @@
       "duration_sec": 5,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wei-bo-lu-he-bao-dan/step_3.jpg"
+      "image": "steps/breakfast_wei-bo-lu-he-bao-dan/step_3.jpg"
     },
     {
       "index": 4,
@@ -109,7 +109,7 @@
         "芝麻油最后加入可保持其清香"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wei-bo-lu-he-bao-dan/step_4.jpg"
+      "image": "steps/breakfast_wei-bo-lu-he-bao-dan/step_4.jpg"
     },
     {
       "index": 5,
@@ -120,7 +120,7 @@
         "根据微波炉功率不同，可根据成熟度增减 10-20 秒"
       ],
       "produces": "熟荷包蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wei-bo-lu-he-bao-dan/step_5.jpg"
+      "image": "steps/breakfast_wei-bo-lu-he-bao-dan/step_5.jpg"
     },
     {
       "index": 6,
@@ -131,15 +131,15 @@
         "碗壁极烫，严防烫伤"
       ],
       "produces": "微波炉荷包蛋成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wei-bo-lu-he-bao-dan/step_6.jpg"
+      "image": "steps/breakfast_wei-bo-lu-he-bao-dan/step_6.jpg"
     }
   ],
   "tips": [
     "微波炉加热前，如果想进一步避免蛋黄和蛋白溅射，可以在碗上盖个盖子避免弄脏微波炉",
     "建议使用常温水，水温过高可能导致蛋白过早凝固"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_wei-bo-lu-he-bao-dan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_wei-bo-lu-he-bao-dan_overview.jpg",
+  "cover_image": "ai-generated/breakfast_wei-bo-lu-he-bao-dan.jpg",
+  "overview_image": "overview/breakfast_wei-bo-lu-he-bao-dan_overview.jpg",
   "id": "breakfast_wei-bo-lu-he-bao-dan",
   "status": "published"
 }

@@ -116,7 +116,7 @@
         "开背可以使虾更入味"
       ],
       "produces": "处理好的虾",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_you-men-da-xia/step_1.jpg"
+      "image": "steps/other_you-men-da-xia/step_1.jpg"
     },
     {
       "index": 2,
@@ -128,7 +128,7 @@
         "多出的葱油可以留着拌面"
       ],
       "produces": "葱油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_you-men-da-xia/step_2.jpg"
+      "image": "steps/other_you-men-da-xia/step_2.jpg"
     },
     {
       "index": 3,
@@ -139,7 +139,7 @@
         "按压虾头是汤汁红亮的秘诀"
       ],
       "produces": "焖煮中的虾",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_you-men-da-xia/step_3.jpg"
+      "image": "steps/other_you-men-da-xia/step_3.jpg"
     },
     {
       "index": 4,
@@ -151,7 +151,7 @@
         "严禁中途加水"
       ],
       "produces": "熟虾",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_you-men-da-xia/step_4.jpg"
+      "image": "steps/other_you-men-da-xia/step_4.jpg"
     },
     {
       "index": 5,
@@ -162,7 +162,7 @@
         "过滤能让汤汁更顺滑油亮"
       ],
       "produces": "浓缩汤汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_you-men-da-xia/step_5.jpg"
+      "image": "steps/other_you-men-da-xia/step_5.jpg"
     },
     {
       "index": 6,
@@ -173,7 +173,7 @@
         "趁热食用口感最佳"
       ],
       "produces": "油焖大虾",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_you-men-da-xia/step_6.jpg"
+      "image": "steps/other_you-men-da-xia/step_6.jpg"
     }
   ],
   "tips": [
@@ -181,8 +181,8 @@
     "炼油火候至关重要，不可使葱姜变黑",
     "焖煮过程中必须保证密封性，中途不可添水"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_you-men-da-xia.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_you-men-da-xia_overview.jpg",
+  "cover_image": "ai-generated/other_you-men-da-xia.jpg",
+  "overview_image": "overview/other_you-men-da-xia_overview.jpg",
   "id": "other_you-men-da-xia",
   "status": "published"
 }

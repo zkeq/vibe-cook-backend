@@ -141,7 +141,7 @@
         "粉丝一定要提前泡软，否则煮制时难以入味且易断"
       ],
       "produces": "泡软的粉丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-yi-shang-shu/step_1.jpg"
+      "image": "steps/meat_dish_ma-yi-shang-shu/step_1.jpg"
     },
     {
       "index": 2,
@@ -152,7 +152,7 @@
         "剁得越碎香味释放越充分"
       ],
       "produces": "姜蒜末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-yi-shang-shu/step_2.jpg"
+      "image": "steps/meat_dish_ma-yi-shang-shu/step_2.jpg"
     },
     {
       "index": 3,
@@ -163,7 +163,7 @@
         "中小火爆香，避免蒜末烧焦"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-yi-shang-shu/step_3.jpg"
+      "image": "steps/meat_dish_ma-yi-shang-shu/step_3.jpg"
     },
     {
       "index": 4,
@@ -174,7 +174,7 @@
         "炒出猪油能增加菜肴的香气"
       ],
       "produces": "煸香的肉末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-yi-shang-shu/step_4.jpg"
+      "image": "steps/meat_dish_ma-yi-shang-shu/step_4.jpg"
     },
     {
       "index": 5,
@@ -185,7 +185,7 @@
         "红油析出是川菜色香味的关键"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-yi-shang-shu/step_5.jpg"
+      "image": "steps/meat_dish_ma-yi-shang-shu/step_5.jpg"
     },
     {
       "index": 6,
@@ -196,7 +196,7 @@
         "老抽只需少量，避免成菜颜色过黑"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-yi-shang-shu/step_6.jpg"
+      "image": "steps/meat_dish_ma-yi-shang-shu/step_6.jpg"
     },
     {
       "index": 7,
@@ -207,7 +207,7 @@
         "水温升高后再放粉丝"
       ],
       "produces": "红油汤底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-yi-shang-shu/step_7.jpg"
+      "image": "steps/meat_dish_ma-yi-shang-shu/step_7.jpg"
     },
     {
       "index": 8,
@@ -218,7 +218,7 @@
         "动作要轻，防止粉丝断裂"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-yi-shang-shu/step_8.jpg"
+      "image": "steps/meat_dish_ma-yi-shang-shu/step_8.jpg"
     },
     {
       "index": 9,
@@ -229,7 +229,7 @@
         "注意观察汤汁，不要完全烧干，保持湿润口感更好"
       ],
       "produces": "成品蚂蚁上树",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-yi-shang-shu/step_9.jpg"
+      "image": "steps/meat_dish_ma-yi-shang-shu/step_9.jpg"
     },
     {
       "index": 10,
@@ -240,7 +240,7 @@
         "葱花能起到点睛之笔的作用"
       ],
       "produces": "完成的菜肴",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-yi-shang-shu/step_10.jpg"
+      "image": "steps/meat_dish_ma-yi-shang-shu/step_10.jpg"
     }
   ],
   "tips": [
@@ -248,8 +248,8 @@
     "郫县豆瓣酱含盐量较高，可根据口味酌情减少生抽用量",
     "可加入 0.5g 白胡椒粉调味，风味更佳"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_ma-yi-shang-shu.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_ma-yi-shang-shu_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_ma-yi-shang-shu.jpg",
+  "overview_image": "overview/meat_dish_ma-yi-shang-shu_overview.jpg",
   "id": "meat_dish_ma-yi-shang-shu",
   "status": "published"
 }

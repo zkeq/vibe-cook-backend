@@ -145,7 +145,7 @@
         "土豆丝尽量粗细均匀，保证受热同步"
       ],
       "produces": "土豆丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-la-tu-dou-si/step_1.jpg"
+      "image": "steps/vegetable_dish_suan-la-tu-dou-si/step_1.jpg"
     },
     {
       "index": 2,
@@ -157,7 +157,7 @@
         "焯水时间极短，不可久煮"
       ],
       "produces": "半熟土豆丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-la-tu-dou-si/step_2.jpg"
+      "image": "steps/vegetable_dish_suan-la-tu-dou-si/step_2.jpg"
     },
     {
       "index": 3,
@@ -168,7 +168,7 @@
         "蒜末分两份是为了先后入锅，层次分明"
       ],
       "produces": "配料切片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-la-tu-dou-si/step_3.jpg"
+      "image": "steps/vegetable_dish_suan-la-tu-dou-si/step_3.jpg"
     },
     {
       "index": 4,
@@ -179,7 +179,7 @@
         "小火慢炸干辣椒，避免炸糊"
       ],
       "produces": "香油底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-la-tu-dou-si/step_4.jpg"
+      "image": "steps/vegetable_dish_suan-la-tu-dou-si/step_4.jpg"
     },
     {
       "index": 5,
@@ -190,7 +190,7 @@
         "火力转大，快速翻炒"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-la-tu-dou-si/step_5.jpg"
+      "image": "steps/vegetable_dish_suan-la-tu-dou-si/step_5.jpg"
     },
     {
       "index": 6,
@@ -201,7 +201,7 @@
         "醋沿锅边淋入更香"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-la-tu-dou-si/step_6.jpg"
+      "image": "steps/vegetable_dish_suan-la-tu-dou-si/step_6.jpg"
     },
     {
       "index": 7,
@@ -212,15 +212,15 @@
         "最后加葱花增加色彩和生葱香"
       ],
       "produces": "酸辣土豆丝成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-la-tu-dou-si/step_7.jpg"
+      "image": "steps/vegetable_dish_suan-la-tu-dou-si/step_7.jpg"
     }
   ],
   "tips": [
     "清洗土豆丝淀粉一定要去干净，不然会全黏在一起",
     "加入蒜末、盐后应尽快出锅，保留蒜香以及避免破坏口感。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_suan-la-tu-dou-si.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_suan-la-tu-dou-si_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_suan-la-tu-dou-si.jpg",
+  "overview_image": "overview/vegetable_dish_suan-la-tu-dou-si_overview.jpg",
   "id": "vegetable_dish_suan-la-tu-dou-si",
   "status": "published"
 }

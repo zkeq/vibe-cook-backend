@@ -61,7 +61,7 @@
         "不推荐使用高压锅煮饭"
       ],
       "produces": "熟米饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-yu-hai-tai-yu-mi-fan/step_1.jpg"
+      "image": "steps/other_jian-yu-hai-tai-yu-mi-fan/step_1.jpg"
     },
     {
       "index": 2,
@@ -72,7 +72,7 @@
         "建议趁热搅拌，使玉米的甜味更好地渗入米饭"
       ],
       "produces": "玉米饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-yu-hai-tai-yu-mi-fan/step_2.jpg"
+      "image": "steps/other_jian-yu-hai-tai-yu-mi-fan/step_2.jpg"
     },
     {
       "index": 3,
@@ -83,15 +83,15 @@
         "最后加入海苔碎可以保持其酥脆感"
       ],
       "produces": "鲣鱼海苔玉米饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-yu-hai-tai-yu-mi-fan/step_3.jpg"
+      "image": "steps/other_jian-yu-hai-tai-yu-mi-fan/step_3.jpg"
     }
   ],
   "tips": [
     "使用米家小饭煲煮东北米的话，水没过米 3 毫米就行，太多水煮出来不是一粒一粒的饭",
     "不推荐使用高压锅煮饭"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_jian-yu-hai-tai-yu-mi-fan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_jian-yu-hai-tai-yu-mi-fan_overview.jpg",
+  "cover_image": "ai-generated/other_jian-yu-hai-tai-yu-mi-fan.jpg",
+  "overview_image": "overview/other_jian-yu-hai-tai-yu-mi-fan_overview.jpg",
   "id": "other_jian-yu-hai-tai-yu-mi-fan",
   "status": "published"
 }

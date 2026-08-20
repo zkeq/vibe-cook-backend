@@ -114,7 +114,7 @@
         "切条的大小根据个人口感决定"
       ],
       "produces": "盐渍莴笋萝卜条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-wo-sun/step_1.jpg"
+      "image": "steps/other_liang-ban-wo-sun/step_1.jpg"
     },
     {
       "index": 2,
@@ -125,7 +125,7 @@
         "清洗掉多余的盐分，防止成品过咸"
       ],
       "produces": "洁净的莴笋条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-wo-sun/step_2.jpg"
+      "image": "steps/other_liang-ban-wo-sun/step_2.jpg"
     },
     {
       "index": 3,
@@ -136,7 +136,7 @@
         "焯水时间不宜过长，否则会失去脆爽口感"
       ],
       "produces": "熟莴笋条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-wo-sun/step_3.jpg"
+      "image": "steps/other_liang-ban-wo-sun/step_3.jpg"
     },
     {
       "index": 4,
@@ -147,7 +147,7 @@
         "注意火候，不要把蒜粒炒焦"
       ],
       "produces": "香辣底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-wo-sun/step_4.jpg"
+      "image": "steps/other_liang-ban-wo-sun/step_4.jpg"
     },
     {
       "index": 5,
@@ -158,7 +158,7 @@
         "搅拌均匀使味道充分渗透"
       ],
       "produces": "凉拌莴笋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-wo-sun/step_5.jpg"
+      "image": "steps/other_liang-ban-wo-sun/step_5.jpg"
     }
   ],
   "tips": [
@@ -167,8 +167,8 @@
     "莴笋条的大小看个人口感决定，但莴笋皮要尽量多削点，不然真的影响口感",
     "冰镇效果更加"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_liang-ban-wo-sun.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_liang-ban-wo-sun_overview.jpg",
+  "cover_image": "ai-generated/other_liang-ban-wo-sun.jpg",
+  "overview_image": "overview/other_liang-ban-wo-sun_overview.jpg",
   "id": "other_liang-ban-wo-sun",
   "status": "published"
 }

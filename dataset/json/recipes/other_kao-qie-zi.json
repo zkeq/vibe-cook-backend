@@ -113,7 +113,7 @@
         "小米椒切得越碎越入味"
       ],
       "produces": "混合酱料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-qie-zi/step_1.jpg"
+      "image": "steps/other_kao-qie-zi/step_1.jpg"
     },
     {
       "index": 2,
@@ -124,7 +124,7 @@
         "表面水分必须擦干，防止烤制时溅油"
       ],
       "produces": "干燥的茄子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-qie-zi/step_2.jpg"
+      "image": "steps/other_kao-qie-zi/step_2.jpg"
     },
     {
       "index": 3,
@@ -135,7 +135,7 @@
         "扎孔是为了防止茄子内部压力过大导致爆裂"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-qie-zi/step_3.jpg"
+      "image": "steps/other_kao-qie-zi/step_3.jpg"
     },
     {
       "index": 4,
@@ -146,7 +146,7 @@
         "涂油要均匀，确保每一面都覆盖到"
       ],
       "produces": "油封茄子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-qie-zi/step_4.jpg"
+      "image": "steps/other_kao-qie-zi/step_4.jpg"
     },
     {
       "index": 5,
@@ -157,7 +157,7 @@
         "预热能让茄子受热更均匀"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-qie-zi/step_5.jpg"
+      "image": "steps/other_kao-qie-zi/step_5.jpg"
     },
     {
       "index": 6,
@@ -168,7 +168,7 @@
         "茄子表面有褶皱，且能按压 0.3-0.5cm 的深度即可"
       ],
       "produces": "半熟茄子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-qie-zi/step_6.jpg"
+      "image": "steps/other_kao-qie-zi/step_6.jpg"
     },
     {
       "index": 7,
@@ -179,7 +179,7 @@
         "注意防烫，划口子时不要切穿底部"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-qie-zi/step_7.jpg"
+      "image": "steps/other_kao-qie-zi/step_7.jpg"
     },
     {
       "index": 8,
@@ -190,7 +190,7 @@
         "切割内部是为了让酱料更好的渗入茄肉"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-qie-zi/step_8.jpg"
+      "image": "steps/other_kao-qie-zi/step_8.jpg"
     },
     {
       "index": 9,
@@ -201,7 +201,7 @@
         "尽量将蒜蓉铺匀"
       ],
       "produces": "填料茄子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-qie-zi/step_9.jpg"
+      "image": "steps/other_kao-qie-zi/step_9.jpg"
     },
     {
       "index": 10,
@@ -212,7 +212,7 @@
         "观察蒜蓉颜色，微微发黄即可"
       ],
       "produces": "成品烤茄子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-qie-zi/step_10.jpg"
+      "image": "steps/other_kao-qie-zi/step_10.jpg"
     },
     {
       "index": 11,
@@ -223,7 +223,7 @@
         "趁热食用口感最佳"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-qie-zi/step_11.jpg"
+      "image": "steps/other_kao-qie-zi/step_11.jpg"
     }
   ],
   "tips": [
@@ -231,8 +231,8 @@
     "第一次用刀划口子的时候，可以直接将茄子竖直切成两半，然后切割出纹路后涂抹上酱料",
     "最终成品和楼下烧烤摊的烤茄子差不多，非常香"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_kao-qie-zi.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_kao-qie-zi_overview.jpg",
+  "cover_image": "ai-generated/other_kao-qie-zi.jpg",
+  "overview_image": "overview/other_kao-qie-zi_overview.jpg",
   "id": "other_kao-qie-zi",
   "status": "published"
 }

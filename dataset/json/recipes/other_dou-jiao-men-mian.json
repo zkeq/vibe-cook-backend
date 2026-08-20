@@ -200,7 +200,7 @@
         "蒜最后放，所以切完可以先放一边"
       ],
       "produces": "切好的蔬菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-jiao-men-mian/step_1.jpg"
+      "image": "steps/other_dou-jiao-men-mian/step_1.jpg"
     },
     {
       "index": 2,
@@ -211,7 +211,7 @@
         "略微冷冻的肉更好切薄片"
       ],
       "produces": "肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-jiao-men-mian/step_2.jpg"
+      "image": "steps/other_dou-jiao-men-mian/step_2.jpg"
     },
     {
       "index": 3,
@@ -222,7 +222,7 @@
         "不粘锅可直接热油3-5秒"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-jiao-men-mian/step_3.jpg"
+      "image": "steps/other_dou-jiao-men-mian/step_3.jpg"
     },
     {
       "index": 4,
@@ -233,7 +233,7 @@
         "注意油飞溅，建议做好防护"
       ],
       "produces": "香底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-jiao-men-mian/step_4.jpg"
+      "image": "steps/other_dou-jiao-men-mian/step_4.jpg"
     },
     {
       "index": 5,
@@ -244,7 +244,7 @@
         "不急着翻动是为了让肉片稍微定型或出油"
       ],
       "produces": "变色肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-jiao-men-mian/step_5.jpg"
+      "image": "steps/other_dou-jiao-men-mian/step_5.jpg"
     },
     {
       "index": 6,
@@ -255,7 +255,7 @@
         "老抽主要控制颜色深浅"
       ],
       "produces": "半熟菜料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-jiao-men-mian/step_6.jpg"
+      "image": "steps/other_dou-jiao-men-mian/step_6.jpg"
     },
     {
       "index": 7,
@@ -266,7 +266,7 @@
         "注意不要把菜舀出来了"
       ],
       "produces": "菜汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-jiao-men-mian/step_7.jpg"
+      "image": "steps/other_dou-jiao-men-mian/step_7.jpg"
     },
     {
       "index": 8,
@@ -277,7 +277,7 @@
         "面条不要接触锅底，防止糊锅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-jiao-men-mian/step_8.jpg"
+      "image": "steps/other_dou-jiao-men-mian/step_8.jpg"
     },
     {
       "index": 9,
@@ -288,7 +288,7 @@
         "淋汤可以让面条受热更均匀且入味"
       ],
       "produces": "焖熟的面条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-jiao-men-mian/step_9.jpg"
+      "image": "steps/other_dou-jiao-men-mian/step_9.jpg"
     },
     {
       "index": 10,
@@ -299,7 +299,7 @@
         "如果喜欢吃湿一点的可以提前关火"
       ],
       "produces": "豆角焖面",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-jiao-men-mian/step_10.jpg"
+      "image": "steps/other_dou-jiao-men-mian/step_10.jpg"
     }
   ],
   "tips": [
@@ -307,8 +307,8 @@
     "焖面过程中要注意火候，防止底部烧焦。",
     "最后加入生蒜粒是北方焖面的灵魂做法。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_dou-jiao-men-mian.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_dou-jiao-men-mian_overview.jpg",
+  "cover_image": "ai-generated/other_dou-jiao-men-mian.jpg",
+  "overview_image": "overview/other_dou-jiao-men-mian_overview.jpg",
   "id": "other_dou-jiao-men-mian",
   "status": "published"
 }

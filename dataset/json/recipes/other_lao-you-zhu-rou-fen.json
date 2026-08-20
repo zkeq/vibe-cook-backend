@@ -188,7 +188,7 @@
         "腌制时间稍长一点肉质会更入味"
       ],
       "produces": "腌制好的猪肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-you-zhu-rou-fen/step_1.jpg"
+      "image": "steps/other_lao-you-zhu-rou-fen/step_1.jpg"
     },
     {
       "index": 2,
@@ -199,7 +199,7 @@
         "炒干水分能有效去除酸笋的苦涩味"
       ],
       "produces": "干炒酸笋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-you-zhu-rou-fen/step_2.jpg"
+      "image": "steps/other_lao-you-zhu-rou-fen/step_2.jpg"
     },
     {
       "index": 3,
@@ -210,7 +210,7 @@
         "注意火候，避免豆豉炒糊变苦"
       ],
       "produces": "炒香的底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-you-zhu-rou-fen/step_3.jpg"
+      "image": "steps/other_lao-you-zhu-rou-fen/step_3.jpg"
     },
     {
       "index": 4,
@@ -221,7 +221,7 @@
         "大火快炒以保持猪肉的嫩度"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-you-zhu-rou-fen/step_4.jpg"
+      "image": "steps/other_lao-you-zhu-rou-fen/step_4.jpg"
     },
     {
       "index": 5,
@@ -232,7 +232,7 @@
         "水量的多少决定了汤头的浓郁程度"
       ],
       "produces": "老友汤底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-you-zhu-rou-fen/step_5.jpg"
+      "image": "steps/other_lao-you-zhu-rou-fen/step_5.jpg"
     },
     {
       "index": 6,
@@ -243,7 +243,7 @@
         "不要煮太久，以免米粉失去弹性"
       ],
       "produces": "老友猪肉粉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-you-zhu-rou-fen/step_6.jpg"
+      "image": "steps/other_lao-you-zhu-rou-fen/step_6.jpg"
     }
   ],
   "tips": [
@@ -251,8 +251,8 @@
     "白糖是可选的，根据个人对甜味的接受程度决定是否添加。",
     "酸笋是这道菜的灵魂，一定要先干炒出水分。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_lao-you-zhu-rou-fen.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_lao-you-zhu-rou-fen_overview.jpg",
+  "cover_image": "ai-generated/other_lao-you-zhu-rou-fen.jpg",
+  "overview_image": "overview/other_lao-you-zhu-rou-fen_overview.jpg",
   "id": "other_lao-you-zhu-rou-fen",
   "status": "published"
 }

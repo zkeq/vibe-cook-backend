@@ -135,7 +135,7 @@
         "大小要均匀，方便入味和成熟"
       ],
       "produces": "鸡肉块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-men-ji/step_1.jpg"
+      "image": "steps/meat_dish_huang-men-ji/step_1.jpg"
     },
     {
       "index": 2,
@@ -146,7 +146,7 @@
         "辣椒切圈能更好释放辣味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-men-ji/step_2.jpg"
+      "image": "steps/meat_dish_huang-men-ji/step_2.jpg"
     },
     {
       "index": 3,
@@ -157,7 +157,7 @@
         "香菇水是提鲜的灵魂，不要倒掉"
       ],
       "produces": "蔬菜片及香菇水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-men-ji/step_3.jpg"
+      "image": "steps/meat_dish_huang-men-ji/step_3.jpg"
     },
     {
       "index": 4,
@@ -168,7 +168,7 @@
         "滚刀块受热均匀且不易碎"
       ],
       "produces": "土豆块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-men-ji/step_4.jpg"
+      "image": "steps/meat_dish_huang-men-ji/step_4.jpg"
     },
     {
       "index": 5,
@@ -180,7 +180,7 @@
         "期间要不断搅拌，防止糊锅"
       ],
       "produces": "糖色油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-men-ji/step_5.jpg"
+      "image": "steps/meat_dish_huang-men-ji/step_5.jpg"
     },
     {
       "index": 6,
@@ -191,7 +191,7 @@
         "大火翻炒能锁住肉汁"
       ],
       "produces": "上色鸡块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-men-ji/step_6.jpg"
+      "image": "steps/meat_dish_huang-men-ji/step_6.jpg"
     },
     {
       "index": 7,
@@ -200,7 +200,7 @@
       "duration_sec": 30,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-men-ji/step_7.jpg"
+      "image": "steps/meat_dish_huang-men-ji/step_7.jpg"
     },
     {
       "index": 8,
@@ -209,7 +209,7 @@
       "duration_sec": 30,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-men-ji/step_8.jpg"
+      "image": "steps/meat_dish_huang-men-ji/step_8.jpg"
     },
     {
       "index": 9,
@@ -220,7 +220,7 @@
         "水量控制在刚好淹没食材"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-men-ji/step_9.jpg"
+      "image": "steps/meat_dish_huang-men-ji/step_9.jpg"
     },
     {
       "index": 10,
@@ -229,7 +229,7 @@
       "duration_sec": 30,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-men-ji/step_10.jpg"
+      "image": "steps/meat_dish_huang-men-ji/step_10.jpg"
     },
     {
       "index": 11,
@@ -240,7 +240,7 @@
         "砂锅焖煮风味更佳"
       ],
       "produces": "软烂鸡肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-men-ji/step_11.jpg"
+      "image": "steps/meat_dish_huang-men-ji/step_11.jpg"
     },
     {
       "index": 12,
@@ -251,7 +251,7 @@
         "汤汁留着拌饭是绝配"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-men-ji/step_12.jpg"
+      "image": "steps/meat_dish_huang-men-ji/step_12.jpg"
     },
     {
       "index": 13,
@@ -262,15 +262,15 @@
         "青椒断生能保持爽脆感和翠绿色"
       ],
       "produces": "成品黄焖鸡",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-men-ji/step_13.jpg"
+      "image": "steps/meat_dish_huang-men-ji/step_13.jpg"
     }
   ],
   "tips": [
     "炒糖色环节稍有挑战，但可用老抽替代，整体难度不高",
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_huang-men-ji.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_huang-men-ji_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_huang-men-ji.jpg",
+  "overview_image": "overview/meat_dish_huang-men-ji_overview.jpg",
   "id": "meat_dish_huang-men-ji",
   "status": "published"
 }

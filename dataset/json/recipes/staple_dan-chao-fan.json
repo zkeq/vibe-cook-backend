@@ -152,7 +152,7 @@
         "铲碎可以防止下锅后粘连成团"
       ],
       "produces": "松散的冷饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_dan-chao-fan/step_1.jpg"
+      "image": "steps/staple_dan-chao-fan/step_1.jpg"
     },
     {
       "index": 2,
@@ -163,7 +163,7 @@
         "尽量切成大小一致的小丁，熟得更均匀"
       ],
       "produces": "配菜丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_dan-chao-fan/step_2.jpg"
+      "image": "steps/staple_dan-chao-fan/step_2.jpg"
     },
     {
       "index": 3,
@@ -174,7 +174,7 @@
         "熟肉能显著提升炒饭的咸香味"
       ],
       "produces": "熟肉备料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_dan-chao-fan/step_3.jpg"
+      "image": "steps/staple_dan-chao-fan/step_3.jpg"
     },
     {
       "index": 4,
@@ -185,7 +185,7 @@
         "蛋白蛋黄分开炒可以增加色彩层次感"
       ],
       "produces": "蛋黄液、蛋白液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_dan-chao-fan/step_4.jpg"
+      "image": "steps/staple_dan-chao-fan/step_4.jpg"
     },
     {
       "index": 5,
@@ -196,7 +196,7 @@
         "动作要快，保持蛋白的嫩滑"
       ],
       "produces": "熟蛋白块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_dan-chao-fan/step_5.jpg"
+      "image": "steps/staple_dan-chao-fan/step_5.jpg"
     },
     {
       "index": 6,
@@ -207,7 +207,7 @@
         "确保油温足够高再下蛋黄"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_dan-chao-fan/step_6.jpg"
+      "image": "steps/staple_dan-chao-fan/step_6.jpg"
     },
     {
       "index": 7,
@@ -218,7 +218,7 @@
         "中小火爆香配菜，防止烧焦"
       ],
       "produces": "蛋黄配菜混合物",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_dan-chao-fan/step_7.jpg"
+      "image": "steps/staple_dan-chao-fan/step_7.jpg"
     },
     {
       "index": 8,
@@ -229,7 +229,7 @@
         "此步需转大火，快速翻炒使蛋液裹住米粒"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_dan-chao-fan/step_8.jpg"
+      "image": "steps/staple_dan-chao-fan/step_8.jpg"
     },
     {
       "index": 9,
@@ -240,7 +240,7 @@
         "要有耐心，这是实现粒粒分明的关键"
       ],
       "produces": "均匀的炒饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_dan-chao-fan/step_9.jpg"
+      "image": "steps/staple_dan-chao-fan/step_9.jpg"
     },
     {
       "index": 10,
@@ -251,7 +251,7 @@
         "调成小火防止在调味时米饭糊锅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_dan-chao-fan/step_10.jpg"
+      "image": "steps/staple_dan-chao-fan/step_10.jpg"
     },
     {
       "index": 11,
@@ -262,7 +262,7 @@
         "米饭‘跳舞’说明水分已经基本炒干"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_dan-chao-fan/step_11.jpg"
+      "image": "steps/staple_dan-chao-fan/step_11.jpg"
     },
     {
       "index": 12,
@@ -273,7 +273,7 @@
         "葱花不宜久炒，出香味即可"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_dan-chao-fan/step_12.jpg"
+      "image": "steps/staple_dan-chao-fan/step_12.jpg"
     },
     {
       "index": 13,
@@ -284,7 +284,7 @@
         "趁热食用口感最佳"
       ],
       "produces": "成品蛋炒饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_dan-chao-fan/step_13.jpg"
+      "image": "steps/staple_dan-chao-fan/step_13.jpg"
     }
   ],
   "tips": [
@@ -292,8 +292,8 @@
     "没有冷饭可以现煮，但建议使用冰箱快速降温，且需要炒制更长时间来蒸发水分。",
     "炒饭要做到“粒粒分明”的核心在于将饭炒干。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_dan-chao-fan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_dan-chao-fan_overview.jpg",
+  "cover_image": "ai-generated/staple_dan-chao-fan.jpg",
+  "overview_image": "overview/staple_dan-chao-fan_overview.jpg",
   "id": "staple_dan-chao-fan",
   "status": "published"
 }

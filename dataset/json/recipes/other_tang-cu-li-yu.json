@@ -134,7 +134,7 @@
         "注意鱼腹内的黑膜也要清洗干净"
       ],
       "produces": "洗净的鲤鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_1.jpg"
+      "image": "steps/other_tang-cu-li-yu/step_1.jpg"
     },
     {
       "index": 2,
@@ -145,7 +145,7 @@
         "改刀是为了方便挂糊定型和入味"
       ],
       "produces": "改刀后的鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_2.jpg"
+      "image": "steps/other_tang-cu-li-yu/step_2.jpg"
     },
     {
       "index": 3,
@@ -156,7 +156,7 @@
         "切段即可，主要用于去腥"
       ],
       "produces": "葱姜块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_3.jpg"
+      "image": "steps/other_tang-cu-li-yu/step_3.jpg"
     },
     {
       "index": 4,
@@ -167,7 +167,7 @@
         "用力挤出汁水效果更好"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_4.jpg"
+      "image": "steps/other_tang-cu-li-yu/step_4.jpg"
     },
     {
       "index": 5,
@@ -178,7 +178,7 @@
         "推荐腌制 30 分钟以上，时间越长腥味越小"
       ],
       "produces": "腌制好的鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_5.jpg"
+      "image": "steps/other_tang-cu-li-yu/step_5.jpg"
     },
     {
       "index": 6,
@@ -189,7 +189,7 @@
         "面糊需粘稠且呈可拉丝状态"
       ],
       "produces": "面糊",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_6.jpg"
+      "image": "steps/other_tang-cu-li-yu/step_6.jpg"
     },
     {
       "index": 7,
@@ -200,7 +200,7 @@
         "擦干水可以使面糊挂得更牢固"
       ],
       "produces": "挂糊的鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_7.jpg"
+      "image": "steps/other_tang-cu-li-yu/step_7.jpg"
     },
     {
       "index": 8,
@@ -211,7 +211,7 @@
         "油温一定要够，否则鱼皮不酥且易脱糊"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_8.jpg"
+      "image": "steps/other_tang-cu-li-yu/step_8.jpg"
     },
     {
       "index": 9,
@@ -222,7 +222,7 @@
         "注意先淋油定型再入锅"
       ],
       "produces": "定型的炸鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_9.jpg"
+      "image": "steps/other_tang-cu-li-yu/step_9.jpg"
     },
     {
       "index": 10,
@@ -233,7 +233,7 @@
         "注意翻身动作要轻，保持鱼身完整"
       ],
       "produces": "金黄酥脆的鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_10.jpg"
+      "image": "steps/other_tang-cu-li-yu/step_10.jpg"
     },
     {
       "index": 11,
@@ -244,7 +244,7 @@
         "提前调好料汁防止操作时手忙脚乱"
       ],
       "produces": "料汁与水淀粉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_11.jpg"
+      "image": "steps/other_tang-cu-li-yu/step_11.jpg"
     },
     {
       "index": 12,
@@ -255,7 +255,7 @@
         "注意控制粘稠度，不要熬得太稠"
       ],
       "produces": "红亮糖醋汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_12.jpg"
+      "image": "steps/other_tang-cu-li-yu/step_12.jpg"
     },
     {
       "index": 13,
@@ -266,7 +266,7 @@
         "趁热浇汁口感最佳"
       ],
       "produces": "糖醋鲤鱼成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_13.jpg"
+      "image": "steps/other_tang-cu-li-yu/step_13.jpg"
     }
   ],
   "tips": [
@@ -275,8 +275,8 @@
     "炸鱼时要注意油温控制，防止底部炸糊",
     "糖醋汁的稠度要适中，以便能均匀挂在鱼身上"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_tang-cu-li-yu.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_tang-cu-li-yu_overview.jpg",
+  "cover_image": "ai-generated/other_tang-cu-li-yu.jpg",
+  "overview_image": "overview/other_tang-cu-li-yu_overview.jpg",
   "id": "other_tang-cu-li-yu",
   "status": "published"
 }

@@ -15,9 +15,9 @@ Vibe Cook **应用程序代码**仍是 [Business Source License 1.1](https://git
 | `images/ai-generated/` | 封面原图 |
 | `images/overview/` | 全解图原图 |
 | `images/steps/` | 步骤图原图 |
-| `manifest.tsv` | COS URL 与本地相对路径对照 |
+| `manifest.tsv` | 相对路径与文件大小 |
 
-图片均为 COS 原图，未重新压缩。体积较大，使用 **Git LFS** 存储。
+图片为原图，未重新压缩。体积较大，使用 **Git LFS** 存储。
 
 ## 获取
 
@@ -29,11 +29,16 @@ git lfs pull
 
 默认 `main` 分支不含原图，避免普通克隆下载数 GB。只想要数据时请拉 `dataset` 分支。
 
-## 本地对照
+## 图片路径
 
-线上地址 `https://cos.onmicrosoft.cn/cook/<相对路径>` 对应本目录 `images/<相对路径>`。
+JSON / SQLite 里只存相对路径，不含任何 CDN 前缀，自行拼接：
 
-例如：
+| 用法 | 拼法 |
+| --- | --- |
+| 本地文件 | `images/` + 相对路径 |
+| 自建 CDN | `https://your-cdn.example/` + 相对路径 |
 
-`https://cos.onmicrosoft.cn/cook/ai-generated/other_chao-hua-dan.jpg`  
-→ `images/ai-generated/other_chao-hua-dan.jpg`
+例如 `cover_image` 为 `ai-generated/other_chao-hua-dan.jpg`：
+
+- 本地：`images/ai-generated/other_chao-hua-dan.jpg`
+- 远程：`https://your-cdn.example/ai-generated/other_chao-hua-dan.jpg`

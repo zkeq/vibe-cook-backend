@@ -130,7 +130,7 @@
         "竖着切可以保持形状，且更容易入味"
       ],
       "produces": "娃娃菜段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shang-tang-wa-wa-cai/step_1.jpg"
+      "image": "steps/other_shang-tang-wa-wa-cai/step_1.jpg"
     },
     {
       "index": 2,
@@ -141,7 +141,7 @@
         "蒜切片比切末在煮汤时更清爽"
       ],
       "produces": "葱段、姜蒜片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shang-tang-wa-wa-cai/step_2.jpg"
+      "image": "steps/other_shang-tang-wa-wa-cai/step_2.jpg"
     },
     {
       "index": 3,
@@ -152,7 +152,7 @@
         "切皮蛋时刀上沾点凉开水可以防止粘连"
       ],
       "produces": "皮蛋丁、肉丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shang-tang-wa-wa-cai/step_3.jpg"
+      "image": "steps/other_shang-tang-wa-wa-cai/step_3.jpg"
     },
     {
       "index": 4,
@@ -163,7 +163,7 @@
         "撕成小簇更方便食用"
       ],
       "produces": "金针菇簇",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shang-tang-wa-wa-cai/step_4.jpg"
+      "image": "steps/other_shang-tang-wa-wa-cai/step_4.jpg"
     },
     {
       "index": 5,
@@ -174,7 +174,7 @@
         "焯水只需 10 秒，保持娃娃菜的脆嫩"
       ],
       "produces": "半熟娃娃菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shang-tang-wa-wa-cai/step_5.jpg"
+      "image": "steps/other_shang-tang-wa-wa-cai/step_5.jpg"
     },
     {
       "index": 6,
@@ -185,7 +185,7 @@
         "润锅可以防止后续炒制时粘锅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shang-tang-wa-wa-cai/step_6.jpg"
+      "image": "steps/other_shang-tang-wa-wa-cai/step_6.jpg"
     },
     {
       "index": 7,
@@ -196,7 +196,7 @@
         "火一定要小，避免姜蒜炒糊变苦"
       ],
       "produces": "香味底油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shang-tang-wa-wa-cai/step_7.jpg"
+      "image": "steps/other_shang-tang-wa-wa-cai/step_7.jpg"
     },
     {
       "index": 8,
@@ -207,7 +207,7 @@
         "如果有高汤，用高汤代替清水味道更佳"
       ],
       "produces": "汤料混合物",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shang-tang-wa-wa-cai/step_8.jpg"
+      "image": "steps/other_shang-tang-wa-wa-cai/step_8.jpg"
     },
     {
       "index": 9,
@@ -218,7 +218,7 @@
         "蚝油自带咸味，盐的用量需酌情减少"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shang-tang-wa-wa-cai/step_9.jpg"
+      "image": "steps/other_shang-tang-wa-wa-cai/step_9.jpg"
     },
     {
       "index": 10,
@@ -229,15 +229,15 @@
         "皮蛋最后放可以防止汤汁变浑浊"
       ],
       "produces": "成品上汤娃娃菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shang-tang-wa-wa-cai/step_10.jpg"
+      "image": "steps/other_shang-tang-wa-wa-cai/step_10.jpg"
     }
   ],
   "tips": [
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
     "拍照时注意光线，虽然味道好，但精美的摆盘能增加食欲。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_shang-tang-wa-wa-cai.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_shang-tang-wa-wa-cai_overview.jpg",
+  "cover_image": "ai-generated/other_shang-tang-wa-wa-cai.jpg",
+  "overview_image": "overview/other_shang-tang-wa-wa-cai_overview.jpg",
   "id": "other_shang-tang-wa-wa-cai",
   "status": "published"
 }

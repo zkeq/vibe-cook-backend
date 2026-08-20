@@ -125,7 +125,7 @@
         "焯水时间不要过长，以免蛏子肉质变老。"
       ],
       "produces": "熟蛏子肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cheng-bao-dan/step_1.jpg"
+      "image": "steps/other_cheng-bao-dan/step_1.jpg"
     },
     {
       "index": 2,
@@ -136,7 +136,7 @@
         "洋葱切成碎末更容易与蛏子融合。"
       ],
       "produces": "腌制好的蛏子料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cheng-bao-dan/step_2.jpg"
+      "image": "steps/other_cheng-bao-dan/step_2.jpg"
     },
     {
       "index": 3,
@@ -147,7 +147,7 @@
         "搅拌至蛋液均匀包裹住每一颗蛏子肉。"
       ],
       "produces": "蛏子蛋液混合物",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cheng-bao-dan/step_3.jpg"
+      "image": "steps/other_cheng-bao-dan/step_3.jpg"
     },
     {
       "index": 4,
@@ -158,7 +158,7 @@
         "煎炸时注意火候，保持中小火以防外焦里生。"
       ],
       "produces": "蛏抱蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cheng-bao-dan/step_4.jpg"
+      "image": "steps/other_cheng-bao-dan/step_4.jpg"
     }
   ],
   "tips": [
@@ -166,8 +166,8 @@
     "闽菜以甜为主，如果吃不惯的可以放弃白糖",
     "可以通过勺子敲打瘦肉块，听到声响来判断是否炸透瘦肉"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_cheng-bao-dan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_cheng-bao-dan_overview.jpg",
+  "cover_image": "ai-generated/other_cheng-bao-dan.jpg",
+  "overview_image": "overview/other_cheng-bao-dan_overview.jpg",
   "id": "other_cheng-bao-dan",
   "status": "published"
 }

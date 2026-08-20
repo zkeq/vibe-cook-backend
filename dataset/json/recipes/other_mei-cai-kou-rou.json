@@ -157,7 +157,7 @@
         "浸泡是为了去除泥沙和多余盐分。"
       ],
       "produces": "泡发的梅菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mei-cai-kou-rou/step_1.jpg"
+      "image": "steps/other_mei-cai-kou-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -168,7 +168,7 @@
         "此步骤可选，主要是为了让猪皮更干净。"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mei-cai-kou-rou/step_2.jpg"
+      "image": "steps/other_mei-cai-kou-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -179,7 +179,7 @@
         "煮熟程度以筷子能穿透为准。"
       ],
       "produces": "半熟五花肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mei-cai-kou-rou/step_3.jpg"
+      "image": "steps/other_mei-cai-kou-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -190,7 +190,7 @@
         "涂抹均匀有助于后续油炸上色。"
       ],
       "produces": "腌制的五花肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mei-cai-kou-rou/step_4.jpg"
+      "image": "steps/other_mei-cai-kou-rou/step_4.jpg"
     },
     {
       "index": 5,
@@ -201,7 +201,7 @@
         "炸的时候注意防溅油。"
       ],
       "produces": "金黄五花肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mei-cai-kou-rou/step_5.jpg"
+      "image": "steps/other_mei-cai-kou-rou/step_5.jpg"
     },
     {
       "index": 6,
@@ -212,7 +212,7 @@
         "炒干水分是为了后续能更好地吸收肉油。"
       ],
       "produces": "炒香的梅菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mei-cai-kou-rou/step_6.jpg"
+      "image": "steps/other_mei-cai-kou-rou/step_6.jpg"
     },
     {
       "index": 7,
@@ -223,7 +223,7 @@
         "肉片厚薄要均匀。"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mei-cai-kou-rou/step_7.jpg"
+      "image": "steps/other_mei-cai-kou-rou/step_7.jpg"
     },
     {
       "index": 8,
@@ -234,7 +234,7 @@
         "可以根据个人喜好调整时间，喜欢更软烂的可以多蒸会儿。"
       ],
       "produces": "熟扣肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mei-cai-kou-rou/step_8.jpg"
+      "image": "steps/other_mei-cai-kou-rou/step_8.jpg"
     },
     {
       "index": 9,
@@ -245,7 +245,7 @@
         "倒扣时动作要稳，小心烫手。"
       ],
       "produces": "梅菜扣肉成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mei-cai-kou-rou/step_9.jpg"
+      "image": "steps/other_mei-cai-kou-rou/step_9.jpg"
     }
   ],
   "tips": [
@@ -254,8 +254,8 @@
     "炒干梅干菜的作用是为了在蒸的过程中充分吸收五花肉出的油。",
     "油炸后的五花肉皮非常香，是这道菜的精华。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_mei-cai-kou-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_mei-cai-kou-rou_overview.jpg",
+  "cover_image": "ai-generated/other_mei-cai-kou-rou.jpg",
+  "overview_image": "overview/other_mei-cai-kou-rou_overview.jpg",
   "id": "other_mei-cai-kou-rou",
   "status": "published"
 }

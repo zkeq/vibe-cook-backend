@@ -79,7 +79,7 @@
         "静置可以使盐分充分融合"
       ],
       "produces": "调味蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_mei-shi-chao-dan/step_1.jpg"
+      "image": "steps/breakfast_mei-shi-chao-dan/step_1.jpg"
     },
     {
       "index": 2,
@@ -90,7 +90,7 @@
         "必须使用小火，防止鸡蛋过快凝固变老"
       ],
       "produces": "受热蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_mei-shi-chao-dan/step_2.jpg"
+      "image": "steps/breakfast_mei-shi-chao-dan/step_2.jpg"
     },
     {
       "index": 3,
@@ -101,7 +101,7 @@
         "利用余温加热是嫩滑的关键，切勿在火上完全炒熟"
       ],
       "produces": "半熟蛋碎",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_mei-shi-chao-dan/step_3.jpg"
+      "image": "steps/breakfast_mei-shi-chao-dan/step_3.jpg"
     },
     {
       "index": 4,
@@ -112,7 +112,7 @@
         "最后加入牛奶能迅速降温并形成绵密的质感"
       ],
       "produces": "成品美式炒蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_mei-shi-chao-dan/step_4.jpg"
+      "image": "steps/breakfast_mei-shi-chao-dan/step_4.jpg"
     }
   ],
   "tips": [
@@ -120,8 +120,8 @@
     "务必使用平底锅（不粘锅），否则容易粘锅导致失败",
     "若是一人食炒1-2个鸡蛋，建议使用口径较小的锅以便于均匀搅拌"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_mei-shi-chao-dan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_mei-shi-chao-dan_overview.jpg",
+  "cover_image": "ai-generated/breakfast_mei-shi-chao-dan.jpg",
+  "overview_image": "overview/breakfast_mei-shi-chao-dan_overview.jpg",
   "id": "breakfast_mei-shi-chao-dan",
   "status": "published"
 }

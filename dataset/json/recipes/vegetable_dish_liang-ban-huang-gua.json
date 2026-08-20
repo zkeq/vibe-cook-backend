@@ -123,7 +123,7 @@
         "推荐黄瓜去皮，口感更好"
       ],
       "produces": "黄瓜碎块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-huang-gua/step_1.jpg"
+      "image": "steps/vegetable_dish_liang-ban-huang-gua/step_1.jpg"
     },
     {
       "index": 2,
@@ -134,7 +134,7 @@
         "准备一个容量稍大的碗方便搅拌"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-huang-gua/step_2.jpg"
+      "image": "steps/vegetable_dish_liang-ban-huang-gua/step_2.jpg"
     },
     {
       "index": 3,
@@ -145,7 +145,7 @@
         "蒜末越细，味道散发越充分"
       ],
       "produces": "蒜末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-huang-gua/step_3.jpg"
+      "image": "steps/vegetable_dish_liang-ban-huang-gua/step_3.jpg"
     },
     {
       "index": 4,
@@ -156,7 +156,7 @@
         "用糖腌制更好吃，且成色更好不会蔫"
       ],
       "produces": "腌制后的黄瓜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-huang-gua/step_4.jpg"
+      "image": "steps/vegetable_dish_liang-ban-huang-gua/step_4.jpg"
     },
     {
       "index": 5,
@@ -167,7 +167,7 @@
         "搅拌时可以稍微用力，让调料渗入黄瓜裂隙"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-huang-gua/step_5.jpg"
+      "image": "steps/vegetable_dish_liang-ban-huang-gua/step_5.jpg"
     },
     {
       "index": 6,
@@ -178,7 +178,7 @@
         "香油最后放可以锁住水分和香气"
       ],
       "produces": "凉拌黄瓜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-huang-gua/step_6.jpg"
+      "image": "steps/vegetable_dish_liang-ban-huang-gua/step_6.jpg"
     }
   ],
   "tips": [
@@ -187,8 +187,8 @@
     "若放入冰箱冷藏，则需使用保鲜膜包紧，并在 8 小时内食用完毕，否则黄瓜会因过度腌制失去清脆口感",
     "推荐黄瓜去皮，口感更好"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_liang-ban-huang-gua.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_liang-ban-huang-gua_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_liang-ban-huang-gua.jpg",
+  "overview_image": "overview/vegetable_dish_liang-ban-huang-gua_overview.jpg",
   "id": "vegetable_dish_liang-ban-huang-gua",
   "status": "published"
 }

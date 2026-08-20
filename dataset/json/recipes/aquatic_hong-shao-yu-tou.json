@@ -159,7 +159,7 @@
         "姜片厚度保持一致"
       ],
       "produces": "备好的辅料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-yu-tou/step_1.jpg"
+      "image": "steps/aquatic_hong-shao-yu-tou/step_1.jpg"
     },
     {
       "index": 2,
@@ -171,7 +171,7 @@
         "血水必须洗净以减少腥味"
       ],
       "produces": "干净的鱼块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-yu-tou/step_2.jpg"
+      "image": "steps/aquatic_hong-shao-yu-tou/step_2.jpg"
     },
     {
       "index": 3,
@@ -182,7 +182,7 @@
         "腌制时间建议1-2小时以确保入味"
       ],
       "produces": "腌制好的鱼头",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-yu-tou/step_3.jpg"
+      "image": "steps/aquatic_hong-shao-yu-tou/step_3.jpg"
     },
     {
       "index": 4,
@@ -193,7 +193,7 @@
         "小火翻炒可以防止辅料炒糊"
       ],
       "produces": "香气浓郁的底油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-yu-tou/step_4.jpg"
+      "image": "steps/aquatic_hong-shao-yu-tou/step_4.jpg"
     },
     {
       "index": 5,
@@ -205,7 +205,7 @@
         "陈醋在此时加入可去腥"
       ],
       "produces": "待焖煮的鱼汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-yu-tou/step_5.jpg"
+      "image": "steps/aquatic_hong-shao-yu-tou/step_5.jpg"
     },
     {
       "index": 6,
@@ -217,7 +217,7 @@
         "收汁时注意观察防止粘锅"
       ],
       "produces": "熟透入味的红烧鱼头",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-yu-tou/step_6.jpg"
+      "image": "steps/aquatic_hong-shao-yu-tou/step_6.jpg"
     },
     {
       "index": 7,
@@ -228,7 +228,7 @@
         "汤汁均匀淋洒能让色泽更诱人"
       ],
       "produces": "成品红烧鱼头",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-yu-tou/step_7.jpg"
+      "image": "steps/aquatic_hong-shao-yu-tou/step_7.jpg"
     }
   ],
   "tips": [
@@ -237,8 +237,8 @@
     "鱼的处理细节如不清楚，建议搜索相关视频参考学习",
     "盛盘时将煮过的香菜垫底能增加风味和美感"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/aquatic_hong-shao-yu-tou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/aquatic_hong-shao-yu-tou_overview.jpg",
+  "cover_image": "ai-generated/aquatic_hong-shao-yu-tou.jpg",
+  "overview_image": "overview/aquatic_hong-shao-yu-tou_overview.jpg",
   "id": "aquatic_hong-shao-yu-tou",
   "status": "published"
 }

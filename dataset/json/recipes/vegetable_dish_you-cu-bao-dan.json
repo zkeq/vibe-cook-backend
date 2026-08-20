@@ -134,7 +134,7 @@
         "不需要搅拌鸡蛋，保持原样"
       ],
       "produces": "整蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_you-cu-bao-dan/step_1.jpg"
+      "image": "steps/vegetable_dish_you-cu-bao-dan/step_1.jpg"
     },
     {
       "index": 2,
@@ -145,7 +145,7 @@
         "葱白和葱绿可以分开，稍后分次放入"
       ],
       "produces": "葱段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_you-cu-bao-dan/step_2.jpg"
+      "image": "steps/vegetable_dish_you-cu-bao-dan/step_2.jpg"
     },
     {
       "index": 3,
@@ -156,7 +156,7 @@
         "如果没有打蒜器也可以手工切碎"
       ],
       "produces": "蒜辣沫",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_you-cu-bao-dan/step_3.jpg"
+      "image": "steps/vegetable_dish_you-cu-bao-dan/step_3.jpg"
     },
     {
       "index": 4,
@@ -167,7 +167,7 @@
         "水的量不要太多，以免收汁过慢"
       ],
       "produces": "糖醋料汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_you-cu-bao-dan/step_4.jpg"
+      "image": "steps/vegetable_dish_you-cu-bao-dan/step_4.jpg"
     },
     {
       "index": 5,
@@ -178,7 +178,7 @@
         "油温要高，鸡蛋才会蓬松焦香"
       ],
       "produces": "爆炒中的鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_you-cu-bao-dan/step_5.jpg"
+      "image": "steps/vegetable_dish_you-cu-bao-dan/step_5.jpg"
     },
     {
       "index": 6,
@@ -189,15 +189,15 @@
         "葱段最后放可以保持色泽和香气"
       ],
       "produces": "油醋爆蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_you-cu-bao-dan/step_6.jpg"
+      "image": "steps/vegetable_dish_you-cu-bao-dan/step_6.jpg"
     }
   ],
   "tips": [
     "亲测老恒和酿造香醋零添加口味最好，醋香是本菜灵魂所在。",
     "一份分量正好够2个人食用。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_you-cu-bao-dan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_you-cu-bao-dan_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_you-cu-bao-dan.jpg",
+  "overview_image": "overview/vegetable_dish_you-cu-bao-dan_overview.jpg",
   "id": "vegetable_dish_you-cu-bao-dan",
   "status": "published"
 }

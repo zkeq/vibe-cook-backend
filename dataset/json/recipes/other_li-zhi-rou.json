@@ -166,7 +166,7 @@
         "肉块大小要均匀，方便受热均匀"
       ],
       "produces": "腌制肉块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-zhi-rou/step_1.jpg"
+      "image": "steps/other_li-zhi-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -177,7 +177,7 @@
         "最后加点油可以防止下锅时肉块粘连"
       ],
       "produces": "挂糊肉块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-zhi-rou/step_2.jpg"
+      "image": "steps/other_li-zhi-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -188,7 +188,7 @@
         "充分搅拌确保淀粉不沉底"
       ],
       "produces": "糖醋酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-zhi-rou/step_3.jpg"
+      "image": "steps/other_li-zhi-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -199,7 +199,7 @@
         "凤梨块大小应略小于肉块"
       ],
       "produces": "凤梨块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-zhi-rou/step_4.jpg"
+      "image": "steps/other_li-zhi-rou/step_4.jpg"
     },
     {
       "index": 5,
@@ -210,7 +210,7 @@
         "可以用木筷子试油温，周围起细密小泡即可"
       ],
       "produces": "热油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-zhi-rou/step_5.jpg"
+      "image": "steps/other_li-zhi-rou/step_5.jpg"
     },
     {
       "index": 6,
@@ -221,7 +221,7 @@
         "保持中小火，防止外焦内生"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-zhi-rou/step_6.jpg"
+      "image": "steps/other_li-zhi-rou/step_6.jpg"
     },
     {
       "index": 7,
@@ -232,7 +232,7 @@
         "注意观察颜色变化"
       ],
       "produces": "初炸肉块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-zhi-rou/step_7.jpg"
+      "image": "steps/other_li-zhi-rou/step_7.jpg"
     },
     {
       "index": 8,
@@ -244,7 +244,7 @@
         "可以通过勺子敲打瘦肉块，听到声响来判断是否炸透"
       ],
       "produces": "酥脆肉块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-zhi-rou/step_8.jpg"
+      "image": "steps/other_li-zhi-rou/step_8.jpg"
     },
     {
       "index": 9,
@@ -255,7 +255,7 @@
         "动作要快，保证挂汁均匀且肉块保持酥脆"
       ],
       "produces": "成品荔枝肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-zhi-rou/step_9.jpg"
+      "image": "steps/other_li-zhi-rou/step_9.jpg"
     },
     {
       "index": 10,
@@ -266,7 +266,7 @@
         "趁热撒上芝麻更香"
       ],
       "produces": "最终成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-zhi-rou/step_10.jpg"
+      "image": "steps/other_li-zhi-rou/step_10.jpg"
     }
   ],
   "tips": [
@@ -274,8 +274,8 @@
     "闽菜以甜为主，如果吃不惯的可以减少或放弃白糖。",
     "可以通过勺子敲打瘦肉块，听到声响来判断是否炸透瘦肉。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_li-zhi-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_li-zhi-rou_overview.jpg",
+  "cover_image": "ai-generated/other_li-zhi-rou.jpg",
+  "overview_image": "overview/other_li-zhi-rou_overview.jpg",
   "id": "other_li-zhi-rou",
   "status": "published"
 }

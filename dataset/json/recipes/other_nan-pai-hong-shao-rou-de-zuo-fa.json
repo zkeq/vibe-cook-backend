@@ -149,7 +149,7 @@
         "不要切太小，焯水后再改刀更均匀"
       ],
       "produces": "五花肉大块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_1.jpg"
+      "image": "steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_1.jpg"
     },
     {
       "index": 2,
@@ -160,7 +160,7 @@
         "厚薄均匀有利于味道释放"
       ],
       "produces": "姜片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_2.jpg"
+      "image": "steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_2.jpg"
     },
     {
       "index": 3,
@@ -171,7 +171,7 @@
         "后续炖煮必须使用开水"
       ],
       "produces": "开水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_3.jpg"
+      "image": "steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_3.jpg"
     },
     {
       "index": 4,
@@ -182,7 +182,7 @@
         "葱绿部分可留作最后点缀"
       ],
       "produces": "葱段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_4.jpg"
+      "image": "steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_4.jpg"
     },
     {
       "index": 5,
@@ -193,7 +193,7 @@
         "拍扁的蒜容易散碎，难以捞出，会影响收汁味道"
       ],
       "produces": "蒜瓣",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_5.jpg"
+      "image": "steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_5.jpg"
     },
     {
       "index": 6,
@@ -204,7 +204,7 @@
         "提前准备可以避免操作时手忙脚乱"
       ],
       "produces": "辅料预备包",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_6.jpg"
+      "image": "steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_6.jpg"
     },
     {
       "index": 7,
@@ -215,7 +215,7 @@
         "一定要冷水入锅，才能煮出肉里的血水"
       ],
       "produces": "焯水后的肉块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_7.jpg"
+      "image": "steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_7.jpg"
     },
     {
       "index": 8,
@@ -226,7 +226,7 @@
         "3cm是入味与口感的最佳平衡点"
       ],
       "produces": "五花肉方块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_8.jpg"
+      "image": "steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_8.jpg"
     },
     {
       "index": 9,
@@ -237,7 +237,7 @@
         "动作要快，防止糖色变苦"
       ],
       "produces": "糖色底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_9.jpg"
+      "image": "steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_9.jpg"
     },
     {
       "index": 10,
@@ -248,7 +248,7 @@
         "一定要先煸炒出油脂，成菜才不腻"
       ],
       "produces": "炖煮中的红烧肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_10.jpg"
+      "image": "steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_10.jpg"
     },
     {
       "index": 11,
@@ -259,7 +259,7 @@
         "此时加料酒可进一步提鲜"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_11.jpg"
+      "image": "steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_11.jpg"
     },
     {
       "index": 12,
@@ -270,7 +270,7 @@
         "这样处理后汤汁更清爽"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_12.jpg"
+      "image": "steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_12.jpg"
     },
     {
       "index": 13,
@@ -281,7 +281,7 @@
         "捞出辅料可使成品外观更整洁"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_13.jpg"
+      "image": "steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_13.jpg"
     },
     {
       "index": 14,
@@ -292,7 +292,7 @@
         "汤汁变粘稠时要不停搅动，防止糊锅"
       ],
       "produces": "南派红烧肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_14.jpg"
+      "image": "steps/other_nan-pai-hong-shao-rou-de-zuo-fa/step_14.jpg"
     }
   ],
   "tips": [
@@ -302,8 +302,8 @@
     "焯水后再改刀小块，肉质收紧，形状更规整漂亮。",
     "如果发现有问题或改进建议，请提出 Issue 或 Pull request。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_nan-pai-hong-shao-rou-de-zuo-fa.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_nan-pai-hong-shao-rou-de-zuo-fa_overview.jpg",
+  "cover_image": "ai-generated/other_nan-pai-hong-shao-rou-de-zuo-fa.jpg",
+  "overview_image": "overview/other_nan-pai-hong-shao-rou-de-zuo-fa_overview.jpg",
   "id": "other_nan-pai-hong-shao-rou-de-zuo-fa",
   "status": "published"
 }

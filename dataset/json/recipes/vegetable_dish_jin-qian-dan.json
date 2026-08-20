@@ -156,7 +156,7 @@
         "冷水下锅可防止蛋壳破裂"
       ],
       "produces": "熟鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jin-qian-dan/step_1.jpg"
+      "image": "steps/vegetable_dish_jin-qian-dan/step_1.jpg"
     },
     {
       "index": 2,
@@ -167,7 +167,7 @@
         "充分冲凉后剥壳更完整"
       ],
       "produces": "剥壳熟蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jin-qian-dan/step_2.jpg"
+      "image": "steps/vegetable_dish_jin-qian-dan/step_2.jpg"
     },
     {
       "index": 3,
@@ -178,7 +178,7 @@
         "蒜末切细点更容易出香味"
       ],
       "produces": "蔬菜配料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jin-qian-dan/step_3.jpg"
+      "image": "steps/vegetable_dish_jin-qian-dan/step_3.jpg"
     },
     {
       "index": 4,
@@ -189,7 +189,7 @@
         "刀刃蘸点水切口会更平滑"
       ],
       "produces": "鸡蛋片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jin-qian-dan/step_4.jpg"
+      "image": "steps/vegetable_dish_jin-qian-dan/step_4.jpg"
     },
     {
       "index": 5,
@@ -200,7 +200,7 @@
         "裹粉可以增加焦脆感并防止散开"
       ],
       "produces": "裹粉蛋片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jin-qian-dan/step_5.jpg"
+      "image": "steps/vegetable_dish_jin-qian-dan/step_5.jpg"
     },
     {
       "index": 6,
@@ -211,7 +211,7 @@
         "推荐使用不粘锅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jin-qian-dan/step_6.jpg"
+      "image": "steps/vegetable_dish_jin-qian-dan/step_6.jpg"
     },
     {
       "index": 7,
@@ -222,7 +222,7 @@
         "补油可以保证第二面也煎出虎皮状"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jin-qian-dan/step_7.jpg"
+      "image": "steps/vegetable_dish_jin-qian-dan/step_7.jpg"
     },
     {
       "index": 8,
@@ -233,7 +233,7 @@
         "让辣椒和蒜的香味渗入蛋片"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jin-qian-dan/step_8.jpg"
+      "image": "steps/vegetable_dish_jin-qian-dan/step_8.jpg"
     },
     {
       "index": 9,
@@ -244,7 +244,7 @@
         "豆瓣酱含有盐分，注意火候不要糊锅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jin-qian-dan/step_9.jpg"
+      "image": "steps/vegetable_dish_jin-qian-dan/step_9.jpg"
     },
     {
       "index": 10,
@@ -255,7 +255,7 @@
         "动作要轻，避免把蛋片炒散"
       ],
       "produces": "金钱蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jin-qian-dan/step_10.jpg"
+      "image": "steps/vegetable_dish_jin-qian-dan/step_10.jpg"
     }
   ],
   "tips": [
@@ -264,8 +264,8 @@
     "应确保鸡蛋剥皮时已经完全凝固",
     "不宜过度翻炒，容易散"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_jin-qian-dan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_jin-qian-dan_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_jin-qian-dan.jpg",
+  "overview_image": "overview/vegetable_dish_jin-qian-dan_overview.jpg",
   "id": "vegetable_dish_jin-qian-dan",
   "status": "published"
 }

@@ -100,7 +100,7 @@
         "顺着一个方向搅拌可以使肉饼口感更劲道。"
       ],
       "produces": "调味肉馅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_rou-bing-dun-dan/step_1.jpg"
+      "image": "steps/meat_dish_rou-bing-dun-dan/step_1.jpg"
     },
     {
       "index": 2,
@@ -111,7 +111,7 @@
         "肉饼铺平一些受热更均匀，中间的洞不要挖到底。"
       ],
       "produces": "待蒸肉饼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_rou-bing-dun-dan/step_2.jpg"
+      "image": "steps/meat_dish_rou-bing-dun-dan/step_2.jpg"
     },
     {
       "index": 3,
@@ -122,15 +122,15 @@
         "蒸制时间不宜过长，否则鸡蛋和肉质会变老。"
       ],
       "produces": "肉饼炖蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_rou-bing-dun-dan/step_3.jpg"
+      "image": "steps/meat_dish_rou-bing-dun-dan/step_3.jpg"
     }
   ],
   "tips": [
     "在取出肉饼炖蛋时，注意盘子很烫，请小心操作。",
     "可以根据个人口味在出锅后撒上少许葱花增香。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_rou-bing-dun-dan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_rou-bing-dun-dan_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_rou-bing-dun-dan.jpg",
+  "overview_image": "overview/meat_dish_rou-bing-dun-dan_overview.jpg",
   "id": "meat_dish_rou-bing-dun-dan",
   "status": "published"
 }

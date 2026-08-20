@@ -137,7 +137,7 @@
         "注意防夹，对半劈开时动作要迅速"
       ],
       "produces": "处理好的螃蟹",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_jiang-dun-xie/step_1.jpg"
+      "image": "steps/aquatic_jiang-dun-xie/step_1.jpg"
     },
     {
       "index": 2,
@@ -148,7 +148,7 @@
         "建议使用中小火，避免豆瓣酱焦糊"
       ],
       "produces": "熟制酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_jiang-dun-xie/step_2.jpg"
+      "image": "steps/aquatic_jiang-dun-xie/step_2.jpg"
     },
     {
       "index": 3,
@@ -159,7 +159,7 @@
         "切口朝下可以使蟹肉更充分地吸收酱汁"
       ],
       "produces": "半成品拼盘",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_jiang-dun-xie/step_3.jpg"
+      "image": "steps/aquatic_jiang-dun-xie/step_3.jpg"
     },
     {
       "index": 4,
@@ -170,7 +170,7 @@
         "鸡蛋和肉末可以吸收螃蟹流出的鲜味汤汁"
       ],
       "produces": "待蒸拼盘",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_jiang-dun-xie/step_4.jpg"
+      "image": "steps/aquatic_jiang-dun-xie/step_4.jpg"
     },
     {
       "index": 5,
@@ -181,7 +181,7 @@
         "水开后放入，时间根据螃蟹大小微调"
       ],
       "produces": "酱炖蟹成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_jiang-dun-xie/step_5.jpg"
+      "image": "steps/aquatic_jiang-dun-xie/step_5.jpg"
     }
   ],
   "tips": [
@@ -189,8 +189,8 @@
     "出锅后再撒上一点葱花会更香也更好看",
     "参考资料源自平湖地方特色美味"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/aquatic_jiang-dun-xie.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/aquatic_jiang-dun-xie_overview.jpg",
+  "cover_image": "ai-generated/aquatic_jiang-dun-xie.jpg",
+  "overview_image": "overview/aquatic_jiang-dun-xie_overview.jpg",
   "id": "aquatic_jiang-dun-xie",
   "status": "published"
 }

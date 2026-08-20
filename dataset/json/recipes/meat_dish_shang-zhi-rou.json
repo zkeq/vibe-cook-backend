@@ -202,7 +202,7 @@
         "趁热抹蜜和醋可以使炸出的肉皮色泽更红润"
       ],
       "produces": "上色半熟五花肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shang-zhi-rou/step_1.jpg"
+      "image": "steps/meat_dish_shang-zhi-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -214,7 +214,7 @@
         "泡软后再切片不易破碎"
       ],
       "produces": "装碗肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shang-zhi-rou/step_2.jpg"
+      "image": "steps/meat_dish_shang-zhi-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -225,7 +225,7 @@
         "刀工整齐会影响成菜的美观度"
       ],
       "produces": "配料备用",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shang-zhi-rou/step_3.jpg"
+      "image": "steps/meat_dish_shang-zhi-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -236,7 +236,7 @@
         "长时间小火慢蒸是软嫩肥而不腻的关键"
       ],
       "produces": "蒸好的商芝肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shang-zhi-rou/step_4.jpg"
+      "image": "steps/meat_dish_shang-zhi-rou/step_4.jpg"
     },
     {
       "index": 5,
@@ -247,15 +247,15 @@
         "最后淋入的芝麻油能显著增加香气"
       ],
       "produces": "商芝肉成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shang-zhi-rou/step_5.jpg"
+      "image": "steps/meat_dish_shang-zhi-rou/step_5.jpg"
     }
   ],
   "tips": [
     "商芝属于小地方不特别有名的特产，在制作时可换成其他蕨类蔬菜。",
     "此菜对火候要求极高，蒸制时间必须充足才能达到质地软嫩的效果。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_shang-zhi-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_shang-zhi-rou_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_shang-zhi-rou.jpg",
+  "overview_image": "overview/meat_dish_shang-zhi-rou_overview.jpg",
   "id": "meat_dish_shang-zhi-rou",
   "status": "published"
 }

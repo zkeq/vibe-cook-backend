@@ -55,7 +55,7 @@
         "不可搓洗，否则会损失小米油"
       ],
       "produces": "干净的小米",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_xiao-mi-zhou/step_1.jpg"
+      "image": "steps/soup_xiao-mi-zhou/step_1.jpg"
     },
     {
       "index": 2,
@@ -66,7 +66,7 @@
         "水一定要完全沸腾"
       ],
       "produces": "沸水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_xiao-mi-zhou/step_2.jpg"
+      "image": "steps/soup_xiao-mi-zhou/step_2.jpg"
     },
     {
       "index": 3,
@@ -77,7 +77,7 @@
         "这是很重要的环节，必须水开下锅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_xiao-mi-zhou/step_3.jpg"
+      "image": "steps/soup_xiao-mi-zhou/step_3.jpg"
     },
     {
       "index": 4,
@@ -88,7 +88,7 @@
         "穿插搅拌防止粘底"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_xiao-mi-zhou/step_4.jpg"
+      "image": "steps/soup_xiao-mi-zhou/step_4.jpg"
     },
     {
       "index": 5,
@@ -100,7 +100,7 @@
         "保持米油不流失"
       ],
       "produces": "小米粥",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_xiao-mi-zhou/step_5.jpg"
+      "image": "steps/soup_xiao-mi-zhou/step_5.jpg"
     }
   ],
   "tips": [
@@ -109,8 +109,8 @@
     "千万记住小米需要在水开的时候下锅",
     "不建议放碱，原汁原味的小米香更佳"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/soup_xiao-mi-zhou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/soup_xiao-mi-zhou_overview.jpg",
+  "cover_image": "ai-generated/soup_xiao-mi-zhou.jpg",
+  "overview_image": "overview/soup_xiao-mi-zhou_overview.jpg",
   "id": "soup_xiao-mi-zhou",
   "status": "published"
 }

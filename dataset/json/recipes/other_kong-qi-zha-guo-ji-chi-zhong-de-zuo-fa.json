@@ -58,7 +58,7 @@
         "鸡翼面朝下有助于均匀受热"
       ],
       "produces": "解冻好的鸡翅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-ji-chi-zhong-de-zuo-fa/step_1.jpg"
+      "image": "steps/other_kong-qi-zha-guo-ji-chi-zhong-de-zuo-fa/step_1.jpg"
     },
     {
       "index": 2,
@@ -69,7 +69,7 @@
         "无需预热即可放入"
       ],
       "produces": "半熟鸡翅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-ji-chi-zhong-de-zuo-fa/step_2.jpg"
+      "image": "steps/other_kong-qi-zha-guo-ji-chi-zhong-de-zuo-fa/step_2.jpg"
     },
     {
       "index": 3,
@@ -80,15 +80,15 @@
         "翻面可以确保两面口感一致"
       ],
       "produces": "成品鸡翅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-ji-chi-zhong-de-zuo-fa/step_3.jpg"
+      "image": "steps/other_kong-qi-zha-guo-ji-chi-zhong-de-zuo-fa/step_3.jpg"
     }
   ],
   "tips": [
     "推荐购买温控比较好的空气炸锅，不然可能会糊",
     "如果使用未腌制的鸡翅，需要提前自行腌制入味"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_kong-qi-zha-guo-ji-chi-zhong-de-zuo-fa.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_kong-qi-zha-guo-ji-chi-zhong-de-zuo-fa_overview.jpg",
+  "cover_image": "ai-generated/other_kong-qi-zha-guo-ji-chi-zhong-de-zuo-fa.jpg",
+  "overview_image": "overview/other_kong-qi-zha-guo-ji-chi-zhong-de-zuo-fa_overview.jpg",
   "id": "other_kong-qi-zha-guo-ji-chi-zhong-de-zuo-fa",
   "status": "published"
 }

@@ -156,7 +156,7 @@
         "根部切除约1-2厘米即可"
       ],
       "produces": "初步处理的菌菇",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hao-you-san-xian-gu/step_1.jpg"
+      "image": "steps/other_hao-you-san-xian-gu/step_1.jpg"
     },
     {
       "index": 2,
@@ -167,7 +167,7 @@
         "厚点相对薄点更有嚼劲"
       ],
       "produces": "香菇片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hao-you-san-xian-gu/step_2.jpg"
+      "image": "steps/other_hao-you-san-xian-gu/step_2.jpg"
     },
     {
       "index": 3,
@@ -178,7 +178,7 @@
         "现调现用，防止沉淀"
       ],
       "produces": "水淀粉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hao-you-san-xian-gu/step_3.jpg"
+      "image": "steps/other_hao-you-san-xian-gu/step_3.jpg"
     },
     {
       "index": 4,
@@ -189,7 +189,7 @@
         "煮时可加少许盐保持颜色翠绿"
       ],
       "produces": "熟西蓝花",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hao-you-san-xian-gu/step_4.jpg"
+      "image": "steps/other_hao-you-san-xian-gu/step_4.jpg"
     },
     {
       "index": 5,
@@ -200,7 +200,7 @@
         "焯水可以去除菌菇的草酸和异味"
       ],
       "produces": "焯水后的菌菇",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hao-you-san-xian-gu/step_5.jpg"
+      "image": "steps/other_hao-you-san-xian-gu/step_5.jpg"
     },
     {
       "index": 6,
@@ -211,7 +211,7 @@
         "水分尽量沥干，以免炒制时出水过多"
       ],
       "produces": "沥干的菌菇",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hao-you-san-xian-gu/step_6.jpg"
+      "image": "steps/other_hao-you-san-xian-gu/step_6.jpg"
     },
     {
       "index": 7,
@@ -222,7 +222,7 @@
         "注意火候，不要把辣椒炒焦"
       ],
       "produces": "香味底油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hao-you-san-xian-gu/step_7.jpg"
+      "image": "steps/other_hao-you-san-xian-gu/step_7.jpg"
     },
     {
       "index": 8,
@@ -233,7 +233,7 @@
         "倒入水淀粉前先搅拌一下，防止淀粉沉底"
       ],
       "produces": "调味中的菌菇",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hao-you-san-xian-gu/step_8.jpg"
+      "image": "steps/other_hao-you-san-xian-gu/step_8.jpg"
     },
     {
       "index": 9,
@@ -244,7 +244,7 @@
         "汁水包裹在菌菇上即可，不要收得太干"
       ],
       "produces": "蚝油三鲜菇",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hao-you-san-xian-gu/step_9.jpg"
+      "image": "steps/other_hao-you-san-xian-gu/step_9.jpg"
     },
     {
       "index": 10,
@@ -255,15 +255,15 @@
         "西蓝花围边更有仪式感"
       ],
       "produces": "成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hao-you-san-xian-gu/step_10.jpg"
+      "image": "steps/other_hao-you-san-xian-gu/step_10.jpg"
     }
   ],
   "tips": [
     "制作简单，新手也能轻松掌握",
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_hao-you-san-xian-gu.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_hao-you-san-xian-gu_overview.jpg",
+  "cover_image": "ai-generated/other_hao-you-san-xian-gu.jpg",
+  "overview_image": "overview/other_hao-you-san-xian-gu_overview.jpg",
   "id": "other_hao-you-san-xian-gu",
   "status": "published"
 }

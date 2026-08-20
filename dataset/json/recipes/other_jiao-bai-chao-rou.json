@@ -134,7 +134,7 @@
         "尽量保证厚度均匀，方便受热均匀"
       ],
       "produces": "茭白片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiao-bai-chao-rou/step_1.jpg"
+      "image": "steps/other_jiao-bai-chao-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -145,7 +145,7 @@
         "加少许水搅拌可以让肉质更嫩"
       ],
       "produces": "腌制好的肉条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiao-bai-chao-rou/step_2.jpg"
+      "image": "steps/other_jiao-bai-chao-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -156,7 +156,7 @@
         "蒜头剁碎更易出味"
       ],
       "produces": "姜片和蒜末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiao-bai-chao-rou/step_3.jpg"
+      "image": "steps/other_jiao-bai-chao-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -167,7 +167,7 @@
         "焯水可以去除茭白的草酸和涩味"
       ],
       "produces": "半熟茭白",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiao-bai-chao-rou/step_4.jpg"
+      "image": "steps/other_jiao-bai-chao-rou/step_4.jpg"
     },
     {
       "index": 5,
@@ -178,7 +178,7 @@
         "变色即可盛出，防止肉质变老"
       ],
       "produces": "半熟肉条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiao-bai-chao-rou/step_5.jpg"
+      "image": "steps/other_jiao-bai-chao-rou/step_5.jpg"
     },
     {
       "index": 6,
@@ -189,7 +189,7 @@
         "保持中火，避免姜蒜炒焦"
       ],
       "produces": "香气底料及茭白",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiao-bai-chao-rou/step_6.jpg"
+      "image": "steps/other_jiao-bai-chao-rou/step_6.jpg"
     },
     {
       "index": 7,
@@ -200,7 +200,7 @@
         "最后大火快炒收汁"
       ],
       "produces": "茭白炒肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiao-bai-chao-rou/step_7.jpg"
+      "image": "steps/other_jiao-bai-chao-rou/step_7.jpg"
     }
   ],
   "tips": [
@@ -208,8 +208,8 @@
     "腌肉时加入适量淀粉（生粉）是肉质鲜嫩的关键",
     "茭白焯水时间不宜过长，以免失去爽脆口感"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_jiao-bai-chao-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_jiao-bai-chao-rou_overview.jpg",
+  "cover_image": "ai-generated/other_jiao-bai-chao-rou.jpg",
+  "overview_image": "overview/other_jiao-bai-chao-rou_overview.jpg",
   "id": "other_jiao-bai-chao-rou",
   "status": "published"
 }

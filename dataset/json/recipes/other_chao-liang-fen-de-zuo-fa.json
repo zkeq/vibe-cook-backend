@@ -155,7 +155,7 @@
         "块不要切得太小，否则翻炒时容易碎"
       ],
       "produces": "凉粉块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-liang-fen-de-zuo-fa/step_1.jpg"
+      "image": "steps/other_chao-liang-fen-de-zuo-fa/step_1.jpg"
     },
     {
       "index": 2,
@@ -166,7 +166,7 @@
         "火一定要小，防止豆瓣酱炒糊变苦"
       ],
       "produces": "红油底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-liang-fen-de-zuo-fa/step_2.jpg"
+      "image": "steps/other_chao-liang-fen-de-zuo-fa/step_2.jpg"
     },
     {
       "index": 3,
@@ -177,7 +177,7 @@
         "动作轻柔，让凉粉均匀裹上红油"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-liang-fen-de-zuo-fa/step_3.jpg"
+      "image": "steps/other_chao-liang-fen-de-zuo-fa/step_3.jpg"
     },
     {
       "index": 4,
@@ -188,7 +188,7 @@
         "辣椒面根据个人耐受度调整用量"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-liang-fen-de-zuo-fa/step_4.jpg"
+      "image": "steps/other_chao-liang-fen-de-zuo-fa/step_4.jpg"
     },
     {
       "index": 5,
@@ -199,7 +199,7 @@
         "十三香是这道菜的灵魂调料"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-liang-fen-de-zuo-fa/step_5.jpg"
+      "image": "steps/other_chao-liang-fen-de-zuo-fa/step_5.jpg"
     },
     {
       "index": 6,
@@ -210,7 +210,7 @@
         "加少量水可以让凉粉口感更滑嫩且入味"
       ],
       "produces": "炒凉粉成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-liang-fen-de-zuo-fa/step_6.jpg"
+      "image": "steps/other_chao-liang-fen-de-zuo-fa/step_6.jpg"
     },
     {
       "index": 7,
@@ -221,15 +221,15 @@
         "葱花最后撒能保持色泽和清香味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-liang-fen-de-zuo-fa/step_7.jpg"
+      "image": "steps/other_chao-liang-fen-de-zuo-fa/step_7.jpg"
     }
   ],
   "tips": [
     "选择凉粉时最好选用豌豆淀粉制作成的凉粉，条件不允许的话红薯淀粉或其他也可",
     "炒制过程中尽量使用中小火，避免凉粉粘锅或调料焦化"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_chao-liang-fen-de-zuo-fa.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_chao-liang-fen-de-zuo-fa_overview.jpg",
+  "cover_image": "ai-generated/other_chao-liang-fen-de-zuo-fa.jpg",
+  "overview_image": "overview/other_chao-liang-fen-de-zuo-fa_overview.jpg",
   "id": "other_chao-liang-fen-de-zuo-fa",
   "status": "published"
 }

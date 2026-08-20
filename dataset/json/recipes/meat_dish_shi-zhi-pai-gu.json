@@ -171,7 +171,7 @@
         "吸干水分是腌制入味的关键"
       ],
       "produces": "洁净干爽的排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shi-zhi-pai-gu/step_1.jpg"
+      "image": "steps/meat_dish_shi-zhi-pai-gu/step_1.jpg"
     },
     {
       "index": 2,
@@ -182,7 +182,7 @@
         "豆豉浸泡后稍微剁碎会更入味"
       ],
       "produces": "泡发的豆豉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shi-zhi-pai-gu/step_2.jpg"
+      "image": "steps/meat_dish_shi-zhi-pai-gu/step_2.jpg"
     },
     {
       "index": 3,
@@ -193,7 +193,7 @@
         "生粉能锁住水分，保持排骨滑嫩"
       ],
       "produces": "腌制中的排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shi-zhi-pai-gu/step_3.jpg"
+      "image": "steps/meat_dish_shi-zhi-pai-gu/step_3.jpg"
     },
     {
       "index": 4,
@@ -204,7 +204,7 @@
         "一定要水开后再上锅"
       ],
       "produces": "初熟的排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shi-zhi-pai-gu/step_4.jpg"
+      "image": "steps/meat_dish_shi-zhi-pai-gu/step_4.jpg"
     },
     {
       "index": 5,
@@ -215,7 +215,7 @@
         "焖制能让肉质更松软"
       ],
       "produces": "蒸熟的排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shi-zhi-pai-gu/step_5.jpg"
+      "image": "steps/meat_dish_shi-zhi-pai-gu/step_5.jpg"
     },
     {
       "index": 6,
@@ -226,7 +226,7 @@
         "油温一定要够高，起轻烟即可"
       ],
       "produces": "高温热油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shi-zhi-pai-gu/step_6.jpg"
+      "image": "steps/meat_dish_shi-zhi-pai-gu/step_6.jpg"
     },
     {
       "index": 7,
@@ -237,7 +237,7 @@
         "浇油时注意避开水汽，防止溅油"
       ],
       "produces": "豉汁排骨成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shi-zhi-pai-gu/step_7.jpg"
+      "image": "steps/meat_dish_shi-zhi-pai-gu/step_7.jpg"
     }
   ],
   "tips": [
@@ -246,8 +246,8 @@
     "传统的豉汁排骨不放撒料和淋热油，可根据个人喜好选择",
     "吃剩的汤汁可以用来拌饭或者拌面，非常鲜美"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_shi-zhi-pai-gu.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_shi-zhi-pai-gu_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_shi-zhi-pai-gu.jpg",
+  "overview_image": "overview/meat_dish_shi-zhi-pai-gu_overview.jpg",
   "id": "meat_dish_shi-zhi-pai-gu",
   "status": "published"
 }

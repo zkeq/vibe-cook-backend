@@ -135,7 +135,7 @@
         "拍一下更容易释放葱香"
       ],
       "produces": "葱段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-mi-pai-gu-tang/step_1.jpg"
+      "image": "steps/other_yu-mi-pai-gu-tang/step_1.jpg"
     },
     {
       "index": 2,
@@ -146,7 +146,7 @@
         "注意安全，用力要稳"
       ],
       "produces": "玉米块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-mi-pai-gu-tang/step_2.jpg"
+      "image": "steps/other_yu-mi-pai-gu-tang/step_2.jpg"
     },
     {
       "index": 3,
@@ -157,7 +157,7 @@
         "滚刀块受热更均匀且不易碎"
       ],
       "produces": "胡萝卜块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-mi-pai-gu-tang/step_3.jpg"
+      "image": "steps/other_yu-mi-pai-gu-tang/step_3.jpg"
     },
     {
       "index": 4,
@@ -168,7 +168,7 @@
         "大片方便最后挑出"
       ],
       "produces": "姜片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-mi-pai-gu-tang/step_4.jpg"
+      "image": "steps/other_yu-mi-pai-gu-tang/step_4.jpg"
     },
     {
       "index": 5,
@@ -179,7 +179,7 @@
         "砍块时注意避开碎骨"
       ],
       "produces": "排骨块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-mi-pai-gu-tang/step_5.jpg"
+      "image": "steps/other_yu-mi-pai-gu-tang/step_5.jpg"
     },
     {
       "index": 6,
@@ -190,7 +190,7 @@
         "必须凉水下锅才能彻底逼出血水"
       ],
       "produces": "净排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-mi-pai-gu-tang/step_6.jpg"
+      "image": "steps/other_yu-mi-pai-gu-tang/step_6.jpg"
     },
     {
       "index": 7,
@@ -201,7 +201,7 @@
         "加醋不仅去腥，还能加速肉质软烂"
       ],
       "produces": "煸香排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-mi-pai-gu-tang/step_7.jpg"
+      "image": "steps/other_yu-mi-pai-gu-tang/step_7.jpg"
     },
     {
       "index": 8,
@@ -212,7 +212,7 @@
         "一定要用开水，否则肉质会迅速收缩变柴"
       ],
       "produces": "汤底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-mi-pai-gu-tang/step_8.jpg"
+      "image": "steps/other_yu-mi-pai-gu-tang/step_8.jpg"
     },
     {
       "index": 9,
@@ -223,7 +223,7 @@
         "保持微沸状态即可"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-mi-pai-gu-tang/step_9.jpg"
+      "image": "steps/other_yu-mi-pai-gu-tang/step_9.jpg"
     },
     {
       "index": 10,
@@ -234,7 +234,7 @@
         "胡萝卜不宜过早放入，避免煮成泥"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-mi-pai-gu-tang/step_10.jpg"
+      "image": "steps/other_yu-mi-pai-gu-tang/step_10.jpg"
     },
     {
       "index": 11,
@@ -245,7 +245,7 @@
         "盐要最后放，以免肉质变紧不入味"
       ],
       "produces": "成品玉米排骨汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-mi-pai-gu-tang/step_11.jpg"
+      "image": "steps/other_yu-mi-pai-gu-tang/step_11.jpg"
     }
   ],
   "tips": [
@@ -253,8 +253,8 @@
     "适合降温的时候来上一大碗",
     "水要一次性加足，中途加水会冲淡汤的鲜味"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_yu-mi-pai-gu-tang.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_yu-mi-pai-gu-tang_overview.jpg",
+  "cover_image": "ai-generated/other_yu-mi-pai-gu-tang.jpg",
+  "overview_image": "overview/other_yu-mi-pai-gu-tang_overview.jpg",
   "id": "other_yu-mi-pai-gu-tang",
   "status": "published"
 }

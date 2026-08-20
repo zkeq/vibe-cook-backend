@@ -134,7 +134,7 @@
         "可以缓慢倒入以尝试形成渐层效果"
       ],
       "produces": "咖啡菠萝苏打基底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bo-luo-ka-fei-te-diao/step_1.jpg"
+      "image": "steps/other_bo-luo-ka-fei-te-diao/step_1.jpg"
     },
     {
       "index": 2,
@@ -146,7 +146,7 @@
         "不要打发过度，保持流动感"
       ],
       "produces": "流动性奶盖",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bo-luo-ka-fei-te-diao/step_2.jpg"
+      "image": "steps/other_bo-luo-ka-fei-te-diao/step_2.jpg"
     },
     {
       "index": 3,
@@ -157,7 +157,7 @@
         "倒入奶油时，高度尽量放低，让奶油能均匀漂浮在饮料表面形成奶盖"
       ],
       "produces": "带奶盖的咖啡特调",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bo-luo-ka-fei-te-diao/step_3.jpg"
+      "image": "steps/other_bo-luo-ka-fei-te-diao/step_3.jpg"
     },
     {
       "index": 4,
@@ -168,7 +168,7 @@
         "海盐可以中和甜腻并提升风味层次"
       ],
       "produces": "菠萝咖啡特调成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bo-luo-ka-fei-te-diao/step_4.jpg"
+      "image": "steps/other_bo-luo-ka-fei-te-diao/step_4.jpg"
     }
   ],
   "tips": [
@@ -176,8 +176,8 @@
     "倒入奶油时，高度尽量放低，让奶油能均匀漂浮在饮料表面形成奶盖",
     "用新鲜的咖啡液和菠萝汁能大大提升整体风味口感"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_bo-luo-ka-fei-te-diao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_bo-luo-ka-fei-te-diao_overview.jpg",
+  "cover_image": "ai-generated/other_bo-luo-ka-fei-te-diao.jpg",
+  "overview_image": "overview/other_bo-luo-ka-fei-te-diao_overview.jpg",
   "id": "other_bo-luo-ka-fei-te-diao",
   "status": "published"
 }

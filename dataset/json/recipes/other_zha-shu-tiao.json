@@ -50,7 +50,7 @@
         "开口要小，可以有效减少长久储藏下薯条表面结霜"
       ],
       "produces": "开口的冷冻薯条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zha-shu-tiao/step_1.jpg"
+      "image": "steps/other_zha-shu-tiao/step_1.jpg"
     },
     {
       "index": 2,
@@ -62,7 +62,7 @@
         "预热完再从冰箱拿出薯条，防止薯条软化"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zha-shu-tiao/step_2.jpg"
+      "image": "steps/other_zha-shu-tiao/step_2.jpg"
     },
     {
       "index": 3,
@@ -74,7 +74,7 @@
         "半成品薯条自带油脂，建议使用夹持工具"
       ],
       "produces": "熟薯条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zha-shu-tiao/step_3.jpg"
+      "image": "steps/other_zha-shu-tiao/step_3.jpg"
     },
     {
       "index": 4,
@@ -85,7 +85,7 @@
         "喷油面积约为薯条表面积的 2/3"
       ],
       "produces": "更酥脆的薯条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zha-shu-tiao/step_4.jpg"
+      "image": "steps/other_zha-shu-tiao/step_4.jpg"
     },
     {
       "index": 5,
@@ -97,7 +97,7 @@
         "配合番茄酱等蘸酱更佳"
       ],
       "produces": "成品炸薯条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zha-shu-tiao/step_5.jpg"
+      "image": "steps/other_zha-shu-tiao/step_5.jpg"
     }
   ],
   "tips": [
@@ -105,8 +105,8 @@
     "不同品牌的空气炸锅火力不同，需根据实际情况微调时间",
     "不建议等薯条软化后再炸制，否则会影响口感"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_zha-shu-tiao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_zha-shu-tiao_overview.jpg",
+  "cover_image": "ai-generated/other_zha-shu-tiao.jpg",
+  "overview_image": "overview/other_zha-shu-tiao_overview.jpg",
   "id": "other_zha-shu-tiao",
   "status": "published"
 }

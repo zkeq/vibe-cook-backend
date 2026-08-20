@@ -144,7 +144,7 @@
         "斜刀切可以增加辣椒的受热面积，更易入味"
       ],
       "produces": "辣椒段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-mi-la-chao-rou/step_1.jpg"
+      "image": "steps/meat_dish_xiao-mi-la-chao-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -155,7 +155,7 @@
         "腌制能让肉质更鲜嫩且提前入味"
       ],
       "produces": "腌制好的肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-mi-la-chao-rou/step_2.jpg"
+      "image": "steps/meat_dish_xiao-mi-la-chao-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -166,7 +166,7 @@
         "大火快炒，变色即盛出，防止肉质变老"
       ],
       "produces": "熟肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-mi-la-chao-rou/step_3.jpg"
+      "image": "steps/meat_dish_xiao-mi-la-chao-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -177,7 +177,7 @@
         "豆瓣酱一定要炒出红油，味道才浓郁"
       ],
       "produces": "小米辣炒肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-mi-la-chao-rou/step_4.jpg"
+      "image": "steps/meat_dish_xiao-mi-la-chao-rou/step_4.jpg"
     }
   ],
   "tips": [
@@ -185,8 +185,8 @@
     "这道菜辣味突出，不建议清淡饮食者尝试。",
     "掌握好爆香和翻炒的火候是成功的关键。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_xiao-mi-la-chao-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_xiao-mi-la-chao-rou_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_xiao-mi-la-chao-rou.jpg",
+  "overview_image": "overview/meat_dish_xiao-mi-la-chao-rou_overview.jpg",
   "id": "meat_dish_xiao-mi-la-chao-rou",
   "status": "published"
 }

@@ -143,7 +143,7 @@
         "注意区分葱姜的切法，用于不同步骤"
       ],
       "produces": "处理好的食材",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiao-chao-ji-gan/step_1.jpg"
+      "image": "steps/other_xiao-chao-ji-gan/step_1.jpg"
     },
     {
       "index": 2,
@@ -155,7 +155,7 @@
         "过凉水（推荐冰水）可使口感更好"
       ],
       "produces": "熟鸡肝片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiao-chao-ji-gan/step_2.jpg"
+      "image": "steps/other_xiao-chao-ji-gan/step_2.jpg"
     },
     {
       "index": 3,
@@ -166,7 +166,7 @@
         "油温不要过高以免葱姜糊掉"
       ],
       "produces": "香油底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiao-chao-ji-gan/step_3.jpg"
+      "image": "steps/other_xiao-chao-ji-gan/step_3.jpg"
     },
     {
       "index": 4,
@@ -177,7 +177,7 @@
         "鸡肝炒至微黄口感更焦香"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiao-chao-ji-gan/step_4.jpg"
+      "image": "steps/other_xiao-chao-ji-gan/step_4.jpg"
     },
     {
       "index": 5,
@@ -188,15 +188,15 @@
         "大火快炒是关键，防止调料焦化"
       ],
       "produces": "小炒鸡肝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiao-chao-ji-gan/step_5.jpg"
+      "image": "steps/other_xiao-chao-ji-gan/step_5.jpg"
     }
   ],
   "tips": [
     "焯水时，需要注意观察沸腾的水位线，不要让水溢出避免发生危险。",
     "焯完水的鸡肝建议用凉水冲洗，更推荐冰水，可以让口感更好。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_xiao-chao-ji-gan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_xiao-chao-ji-gan_overview.jpg",
+  "cover_image": "ai-generated/other_xiao-chao-ji-gan.jpg",
+  "overview_image": "overview/other_xiao-chao-ji-gan_overview.jpg",
   "id": "other_xiao-chao-ji-gan",
   "status": "published"
 }

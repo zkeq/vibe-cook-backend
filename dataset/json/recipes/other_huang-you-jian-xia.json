@@ -124,7 +124,7 @@
         "处理时切记小心用刀，新手容易伤到手"
       ],
       "produces": "处理好的虾",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_huang-you-jian-xia/step_1.jpg"
+      "image": "steps/other_huang-you-jian-xia/step_1.jpg"
     },
     {
       "index": 2,
@@ -135,7 +135,7 @@
         "确保糖和盐充分溶解"
       ],
       "produces": "复合调味汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_huang-you-jian-xia/step_2.jpg"
+      "image": "steps/other_huang-you-jian-xia/step_2.jpg"
     },
     {
       "index": 3,
@@ -146,7 +146,7 @@
         "锅要足够热，防止虾肉粘锅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_huang-you-jian-xia/step_3.jpg"
+      "image": "steps/other_huang-you-jian-xia/step_3.jpg"
     },
     {
       "index": 4,
@@ -157,7 +157,7 @@
         "黑胡椒现磨的味道更香"
       ],
       "produces": "半熟黑胡椒虾",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_huang-you-jian-xia/step_4.jpg"
+      "image": "steps/other_huang-you-jian-xia/step_4.jpg"
     },
     {
       "index": 5,
@@ -168,7 +168,7 @@
         "黄油不宜过早加入，以免焦糊"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_huang-you-jian-xia/step_5.jpg"
+      "image": "steps/other_huang-you-jian-xia/step_5.jpg"
     },
     {
       "index": 6,
@@ -179,15 +179,15 @@
         "收汁不要收得太干，留一点点汁液口感更润"
       ],
       "produces": "黄油煎虾",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_huang-you-jian-xia/step_6.jpg"
+      "image": "steps/other_huang-you-jian-xia/step_6.jpg"
     }
   ],
   "tips": [
     "虾开背才更好入味，不过处理时切记切记小心用刀，新手容易伤到手",
     "参考视频：https://www.bilibili.com/video/BV1g541177cd"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_huang-you-jian-xia.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_huang-you-jian-xia_overview.jpg",
+  "cover_image": "ai-generated/other_huang-you-jian-xia.jpg",
+  "overview_image": "overview/other_huang-you-jian-xia_overview.jpg",
   "id": "other_huang-you-jian-xia",
   "status": "published"
 }

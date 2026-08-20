@@ -176,7 +176,7 @@
         "小苏打一定要冲洗干净否则有苦味"
       ],
       "produces": "处理好的肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-shi-guo-bao-rou/step_1.jpg"
+      "image": "steps/other_lao-shi-guo-bao-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -187,7 +187,7 @@
         "腌制可使肉片底味更足"
       ],
       "produces": "腌制好的肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-shi-guo-bao-rou/step_2.jpg"
+      "image": "steps/other_lao-shi-guo-bao-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -199,7 +199,7 @@
         "加少量油可防止炸时粘连"
       ],
       "produces": "挂浆肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-shi-guo-bao-rou/step_3.jpg"
+      "image": "steps/other_lao-shi-guo-bao-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -210,7 +210,7 @@
         "老式口味不放番茄酱"
       ],
       "produces": "糖醋汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-shi-guo-bao-rou/step_4.jpg"
+      "image": "steps/other_lao-shi-guo-bao-rou/step_4.jpg"
     },
     {
       "index": 5,
@@ -221,7 +221,7 @@
         "丝要切得细一些，方便快速断生"
       ],
       "produces": "配菜丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-shi-guo-bao-rou/step_5.jpg"
+      "image": "steps/other_lao-shi-guo-bao-rou/step_5.jpg"
     },
     {
       "index": 6,
@@ -233,7 +233,7 @@
         "油温控制是酥脆的关键"
       ],
       "produces": "酥脆肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-shi-guo-bao-rou/step_6.jpg"
+      "image": "steps/other_lao-shi-guo-bao-rou/step_6.jpg"
     },
     {
       "index": 7,
@@ -244,7 +244,7 @@
         "翻炒动作要快，以免外皮泡软"
       ],
       "produces": "锅包肉成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-shi-guo-bao-rou/step_7.jpg"
+      "image": "steps/other_lao-shi-guo-bao-rou/step_7.jpg"
     },
     {
       "index": 8,
@@ -255,7 +255,7 @@
         "趁热食用口感最佳"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-shi-guo-bao-rou/step_8.jpg"
+      "image": "steps/other_lao-shi-guo-bao-rou/step_8.jpg"
     }
   ],
   "tips": [
@@ -263,8 +263,8 @@
     "炸制时控制油温，避免外壳过深或不酥脆，这点非常重要。",
     "熬糖醋汁时，注意熬至粘稠但不结块，避免变成糖浆。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_lao-shi-guo-bao-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_lao-shi-guo-bao-rou_overview.jpg",
+  "cover_image": "ai-generated/other_lao-shi-guo-bao-rou.jpg",
+  "overview_image": "overview/other_lao-shi-guo-bao-rou_overview.jpg",
   "id": "other_lao-shi-guo-bao-rou",
   "status": "published"
 }

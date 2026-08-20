@@ -131,7 +131,7 @@
         "撕净老筋能保证口感脆嫩"
       ],
       "produces": "四季豆丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lan-cai-rou-mo-si-ji-dou/step_1.jpg"
+      "image": "steps/other_lan-cai-rou-mo-si-ji-dou/step_1.jpg"
     },
     {
       "index": 2,
@@ -142,7 +142,7 @@
         "拍碎后再剁蒜味更浓"
       ],
       "produces": "蒜末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lan-cai-rou-mo-si-ji-dou/step_2.jpg"
+      "image": "steps/other_lan-cai-rou-mo-si-ji-dou/step_2.jpg"
     },
     {
       "index": 3,
@@ -153,7 +153,7 @@
         "怕辣可以去籽"
       ],
       "produces": "辣椒末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lan-cai-rou-mo-si-ji-dou/step_3.jpg"
+      "image": "steps/other_lan-cai-rou-mo-si-ji-dou/step_3.jpg"
     },
     {
       "index": 4,
@@ -164,7 +164,7 @@
         "手工剁的肉末比机器打的口感更好"
       ],
       "produces": "肉末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lan-cai-rou-mo-si-ji-dou/step_4.jpg"
+      "image": "steps/other_lan-cai-rou-mo-si-ji-dou/step_4.jpg"
     },
     {
       "index": 5,
@@ -175,7 +175,7 @@
         "热锅冷油能有效防止肉末粘锅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lan-cai-rou-mo-si-ji-dou/step_5.jpg"
+      "image": "steps/other_lan-cai-rou-mo-si-ji-dou/step_5.jpg"
     },
     {
       "index": 6,
@@ -186,7 +186,7 @@
         "煸出猪油是这道菜香气的来源"
       ],
       "produces": "煸香的肉末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lan-cai-rou-mo-si-ji-dou/step_6.jpg"
+      "image": "steps/other_lan-cai-rou-mo-si-ji-dou/step_6.jpg"
     },
     {
       "index": 7,
@@ -197,7 +197,7 @@
         "橄榄菜本身有咸味，需注意后续盐量"
       ],
       "produces": "底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lan-cai-rou-mo-si-ji-dou/step_7.jpg"
+      "image": "steps/other_lan-cai-rou-mo-si-ji-dou/step_7.jpg"
     },
     {
       "index": 8,
@@ -208,7 +208,7 @@
         "四季豆一定要彻底熟透，否则会有食物中毒风险"
       ],
       "produces": "熟透的四季豆",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lan-cai-rou-mo-si-ji-dou/step_8.jpg"
+      "image": "steps/other_lan-cai-rou-mo-si-ji-dou/step_8.jpg"
     },
     {
       "index": 9,
@@ -219,7 +219,7 @@
         "酱油沿锅边淋入能激发酱香"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lan-cai-rou-mo-si-ji-dou/step_9.jpg"
+      "image": "steps/other_lan-cai-rou-mo-si-ji-dou/step_9.jpg"
     },
     {
       "index": 10,
@@ -230,7 +230,7 @@
         "快速大火翻炒，锁住香味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lan-cai-rou-mo-si-ji-dou/step_10.jpg"
+      "image": "steps/other_lan-cai-rou-mo-si-ji-dou/step_10.jpg"
     },
     {
       "index": 11,
@@ -241,7 +241,7 @@
         null
       ],
       "produces": "成品菜肴",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lan-cai-rou-mo-si-ji-dou/step_11.jpg"
+      "image": "steps/other_lan-cai-rou-mo-si-ji-dou/step_11.jpg"
     }
   ],
   "tips": [
@@ -250,8 +250,8 @@
     "橄榄菜自带咸鲜，调味时盐量需谨慎控制。",
     "如果不吃辣，可以省略小米辣，不影响基本风味。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_lan-cai-rou-mo-si-ji-dou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_lan-cai-rou-mo-si-ji-dou_overview.jpg",
+  "cover_image": "ai-generated/other_lan-cai-rou-mo-si-ji-dou.jpg",
+  "overview_image": "overview/other_lan-cai-rou-mo-si-ji-dou_overview.jpg",
   "id": "other_lan-cai-rou-mo-si-ji-dou",
   "status": "published"
 }

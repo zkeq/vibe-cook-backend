@@ -100,7 +100,7 @@
         "切片厚度要均匀，方便受热一致"
       ],
       "produces": "豆腐片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_cong-jian-dou-fu/step_1.jpg"
+      "image": "steps/vegetable_dish_cong-jian-dou-fu/step_1.jpg"
     },
     {
       "index": 2,
@@ -111,7 +111,7 @@
         "葱花可以切得细碎一些更出味"
       ],
       "produces": "葱花",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_cong-jian-dou-fu/step_2.jpg"
+      "image": "steps/vegetable_dish_cong-jian-dou-fu/step_2.jpg"
     },
     {
       "index": 3,
@@ -122,7 +122,7 @@
         "去籽可以降低辣度"
       ],
       "produces": "辣椒块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_cong-jian-dou-fu/step_3.jpg"
+      "image": "steps/vegetable_dish_cong-jian-dou-fu/step_3.jpg"
     },
     {
       "index": 4,
@@ -133,7 +133,7 @@
         "先热锅再倒油，可以防止粘锅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_cong-jian-dou-fu/step_4.jpg"
+      "image": "steps/vegetable_dish_cong-jian-dou-fu/step_4.jpg"
     },
     {
       "index": 5,
@@ -144,7 +144,7 @@
         "必须掌握小火慢煎，不要急于翻面"
       ],
       "produces": "单面金黄豆腐",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_cong-jian-dou-fu/step_5.jpg"
+      "image": "steps/vegetable_dish_cong-jian-dou-fu/step_5.jpg"
     },
     {
       "index": 6,
@@ -155,7 +155,7 @@
         "翻面时动作要轻，避免弄碎豆腐"
       ],
       "produces": "煎好的豆腐片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_cong-jian-dou-fu/step_6.jpg"
+      "image": "steps/vegetable_dish_cong-jian-dou-fu/step_6.jpg"
     },
     {
       "index": 7,
@@ -166,7 +166,7 @@
         "铲碾辣椒能让其辣味和香味充分释放"
       ],
       "produces": "熟辣椒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_cong-jian-dou-fu/step_7.jpg"
+      "image": "steps/vegetable_dish_cong-jian-dou-fu/step_7.jpg"
     },
     {
       "index": 8,
@@ -177,7 +177,7 @@
         "收汁能让豆腐更好地吸收调料的味道"
       ],
       "produces": "入味的豆腐",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_cong-jian-dou-fu/step_8.jpg"
+      "image": "steps/vegetable_dish_cong-jian-dou-fu/step_8.jpg"
     },
     {
       "index": 9,
@@ -188,7 +188,7 @@
         "葱花最后撒，可以保持其翠绿的颜色和浓郁的香味"
       ],
       "produces": "葱煎豆腐成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_cong-jian-dou-fu/step_9.jpg"
+      "image": "steps/vegetable_dish_cong-jian-dou-fu/step_9.jpg"
     }
   ],
   "tips": [
@@ -196,8 +196,8 @@
     "切豆腐时厚度保持在5mm左右，口感最佳",
     "如对流程有改进建议，欢迎提出 Issue 或 Pull request"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_cong-jian-dou-fu.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_cong-jian-dou-fu_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_cong-jian-dou-fu.jpg",
+  "overview_image": "overview/vegetable_dish_cong-jian-dou-fu_overview.jpg",
   "id": "vegetable_dish_cong-jian-dou-fu",
   "status": "published"
 }

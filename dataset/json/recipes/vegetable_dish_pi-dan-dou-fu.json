@@ -144,7 +144,7 @@
         "皮蛋切瓣时刀上可以抹点香油防止粘刀"
       ],
       "produces": "切好的皮蛋瓣",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_pi-dan-dou-fu/step_1.jpg"
+      "image": "steps/vegetable_dish_pi-dan-dou-fu/step_1.jpg"
     },
     {
       "index": 2,
@@ -155,7 +155,7 @@
         "豆腐先焯水可以去除豆腥味"
       ],
       "produces": "切好的豆腐底座",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_pi-dan-dou-fu/step_2.jpg"
+      "image": "steps/vegetable_dish_pi-dan-dou-fu/step_2.jpg"
     },
     {
       "index": 3,
@@ -166,7 +166,7 @@
         "确保糖分充分搅拌均匀"
       ],
       "produces": "浇好汁的皮蛋豆腐",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_pi-dan-dou-fu/step_3.jpg"
+      "image": "steps/vegetable_dish_pi-dan-dou-fu/step_3.jpg"
     },
     {
       "index": 4,
@@ -177,7 +177,7 @@
         "配料可根据个人口味自由增减"
       ],
       "produces": "最终成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_pi-dan-dou-fu/step_4.jpg"
+      "image": "steps/vegetable_dish_pi-dan-dou-fu/step_4.jpg"
     }
   ],
   "tips": [
@@ -185,8 +185,8 @@
     "皮蛋切瓣时刀上可以抹点香油防止粘刀",
     "参考资料：涼拌皮蛋豆腐 by 低配版小當家 - 愛料理"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_pi-dan-dou-fu.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_pi-dan-dou-fu_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_pi-dan-dou-fu.jpg",
+  "overview_image": "overview/vegetable_dish_pi-dan-dou-fu_overview.jpg",
   "id": "vegetable_dish_pi-dan-dou-fu",
   "status": "published"
 }

@@ -110,7 +110,7 @@
         "开洋必须彻底沥干或用厨房纸擦干，否则入油锅会剧烈溅油"
       ],
       "produces": "去腥开洋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_cong-you/step_1.jpg"
+      "image": "steps/condiment_cong-you/step_1.jpg"
     },
     {
       "index": 2,
@@ -121,7 +121,7 @@
         "水分是溅油的元凶，请务必保证食材干燥"
       ],
       "produces": "葱段与香菜段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_cong-you/step_2.jpg"
+      "image": "steps/condiment_cong-you/step_2.jpg"
     },
     {
       "index": 3,
@@ -132,7 +132,7 @@
         "水煮可以去除洋葱的辛辣味，使其在炸制过程中更易释放甜香"
       ],
       "produces": "半熟洋葱丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_cong-you/step_3.jpg"
+      "image": "steps/condiment_cong-you/step_3.jpg"
     },
     {
       "index": 4,
@@ -143,7 +143,7 @@
         "姜片可以切得略厚一些，防止过快炸糊"
       ],
       "produces": "姜片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_cong-you/step_4.jpg"
+      "image": "steps/condiment_cong-you/step_4.jpg"
     },
     {
       "index": 5,
@@ -155,7 +155,7 @@
         "熬制过程中可偶尔搅拌，确保受热均匀"
       ],
       "produces": "成品葱油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_cong-you/step_5.jpg"
+      "image": "steps/condiment_cong-you/step_5.jpg"
     }
   ],
   "tips": [
@@ -163,8 +163,8 @@
     "开洋可以极大提升葱油鲜香，并增加鲜甜风味",
     "保存葱油建议使用干燥洁净的玻璃瓶，冷却后密封冷藏"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/condiment_cong-you.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/condiment_cong-you_overview.jpg",
+  "cover_image": "ai-generated/condiment_cong-you.jpg",
+  "overview_image": "overview/condiment_cong-you_overview.jpg",
   "id": "condiment_cong-you",
   "status": "published"
 }

@@ -132,7 +132,7 @@
         "必须冷水下锅，才能更好地逼出猪蹄中的血水"
       ],
       "produces": "焯水后的猪蹄",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-zhu-ti/step_1.jpg"
+      "image": "steps/other_hong-shao-zhu-ti/step_1.jpg"
     },
     {
       "index": 2,
@@ -143,7 +143,7 @@
         "全程小火，避免糖色发苦"
       ],
       "produces": "焦糖色油脂",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-zhu-ti/step_2.jpg"
+      "image": "steps/other_hong-shao-zhu-ti/step_2.jpg"
     },
     {
       "index": 3,
@@ -154,7 +154,7 @@
         "均匀翻炒，让每一块猪蹄都裹上糖色"
       ],
       "produces": "上色后的猪蹄",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-zhu-ti/step_3.jpg"
+      "image": "steps/other_hong-shao-zhu-ti/step_3.jpg"
     },
     {
       "index": 4,
@@ -165,7 +165,7 @@
         "中火翻炒能激发出香料的香味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-zhu-ti/step_4.jpg"
+      "image": "steps/other_hong-shao-zhu-ti/step_4.jpg"
     },
     {
       "index": 5,
@@ -176,7 +176,7 @@
         "建议加开水，肉质不易收缩变柴"
       ],
       "produces": "半成品猪蹄汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-zhu-ti/step_5.jpg"
+      "image": "steps/other_hong-shao-zhu-ti/step_5.jpg"
     },
     {
       "index": 6,
@@ -187,7 +187,7 @@
         "如果没有高压锅，可放在锅中大火转小火熬制，但需增加时长"
       ],
       "produces": "软糯的猪蹄",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-zhu-ti/step_6.jpg"
+      "image": "steps/other_hong-shao-zhu-ti/step_6.jpg"
     },
     {
       "index": 7,
@@ -198,7 +198,7 @@
         "收汁过程要注意翻动，防止糊锅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-zhu-ti/step_7.jpg"
+      "image": "steps/other_hong-shao-zhu-ti/step_7.jpg"
     },
     {
       "index": 8,
@@ -209,7 +209,7 @@
         "汤汁浓稠度可根据个人喜好调整"
       ],
       "produces": "红烧猪蹄",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-zhu-ti/step_8.jpg"
+      "image": "steps/other_hong-shao-zhu-ti/step_8.jpg"
     }
   ],
   "tips": [
@@ -217,8 +217,8 @@
     "借助高压锅可以极大简化流程并确保肉质软糯",
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_hong-shao-zhu-ti.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_hong-shao-zhu-ti_overview.jpg",
+  "cover_image": "ai-generated/other_hong-shao-zhu-ti.jpg",
+  "overview_image": "overview/other_hong-shao-zhu-ti_overview.jpg",
   "id": "other_hong-shao-zhu-ti",
   "status": "published"
 }

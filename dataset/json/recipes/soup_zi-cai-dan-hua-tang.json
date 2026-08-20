@@ -111,7 +111,7 @@
         "泡发后冲洗一下可以去除泥沙"
       ],
       "produces": "泡发的紫菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_zi-cai-dan-hua-tang/step_1.jpg"
+      "image": "steps/soup_zi-cai-dan-hua-tang/step_1.jpg"
     },
     {
       "index": 2,
@@ -122,7 +122,7 @@
         "先放油盐可以使汤底更有底味"
       ],
       "produces": "紫菜汤底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_zi-cai-dan-hua-tang/step_2.jpg"
+      "image": "steps/soup_zi-cai-dan-hua-tang/step_2.jpg"
     },
     {
       "index": 3,
@@ -134,7 +134,7 @@
         "为了使蛋花比较嫩，可盖上锅盖熄火等半分钟后再打开"
       ],
       "produces": "初成的蛋花汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_zi-cai-dan-hua-tang/step_3.jpg"
+      "image": "steps/soup_zi-cai-dan-hua-tang/step_3.jpg"
     },
     {
       "index": 4,
@@ -145,7 +145,7 @@
         "葱花不宜久煮，否则会失去香味和色泽"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_zi-cai-dan-hua-tang/step_4.jpg"
+      "image": "steps/soup_zi-cai-dan-hua-tang/step_4.jpg"
     },
     {
       "index": 5,
@@ -156,7 +156,7 @@
         "虾皮可以提前用温水略微清洗"
       ],
       "produces": "紫菜蛋花汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_zi-cai-dan-hua-tang/step_5.jpg"
+      "image": "steps/soup_zi-cai-dan-hua-tang/step_5.jpg"
     }
   ],
   "tips": [
@@ -164,8 +164,8 @@
     "如果喜欢浓稠口感，可加入 2g 淀粉进行勾芡",
     "紫菜份量可根据个人喜好调整"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/soup_zi-cai-dan-hua-tang.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/soup_zi-cai-dan-hua-tang_overview.jpg",
+  "cover_image": "ai-generated/soup_zi-cai-dan-hua-tang.jpg",
+  "overview_image": "overview/soup_zi-cai-dan-hua-tang_overview.jpg",
   "id": "soup_zi-cai-dan-hua-tang",
   "status": "published"
 }

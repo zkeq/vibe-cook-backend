@@ -90,7 +90,7 @@
         "不要弄得太碎，否则影响口感和截面美观"
       ],
       "produces": "饼干碎块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xue-hua-su/step_1.jpg"
+      "image": "steps/other_xue-hua-su/step_1.jpg"
     },
     {
       "index": 2,
@@ -101,7 +101,7 @@
         "必须全程小火，防止黄油焦化"
       ],
       "produces": "液态黄油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xue-hua-su/step_2.jpg"
+      "image": "steps/other_xue-hua-su/step_2.jpg"
     },
     {
       "index": 3,
@@ -112,7 +112,7 @@
         "搅拌要快，确保受热均匀"
       ],
       "produces": "棉花糖黄油糊",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xue-hua-su/step_3.jpg"
+      "image": "steps/other_xue-hua-su/step_3.jpg"
     },
     {
       "index": 4,
@@ -123,7 +123,7 @@
         "奶粉混合均匀即关火，避免过度加热导致成品变硬"
       ],
       "produces": "雪花酥基底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xue-hua-su/step_4.jpg"
+      "image": "steps/other_xue-hua-su/step_4.jpg"
     },
     {
       "index": 5,
@@ -134,7 +134,7 @@
         "动作要快，利用余温混合"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xue-hua-su/step_5.jpg"
+      "image": "steps/other_xue-hua-su/step_5.jpg"
     },
     {
       "index": 6,
@@ -145,7 +145,7 @@
         "拉扯动作能让雪花酥层次更均匀"
       ],
       "produces": "雪花酥团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xue-hua-su/step_6.jpg"
+      "image": "steps/other_xue-hua-su/step_6.jpg"
     },
     {
       "index": 7,
@@ -156,7 +156,7 @@
         "一定要压紧实，否则切块时容易散"
       ],
       "produces": "成型雪花酥块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xue-hua-su/step_7.jpg"
+      "image": "steps/other_xue-hua-su/step_7.jpg"
     },
     {
       "index": 8,
@@ -167,7 +167,7 @@
         "必须完全冷却后再切，截面才会整齐"
       ],
       "produces": "成品雪花酥",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xue-hua-su/step_8.jpg"
+      "image": "steps/other_xue-hua-su/step_8.jpg"
     }
   ],
   "tips": [
@@ -175,8 +175,8 @@
     "必须使用不粘锅，否则清理会非常困难",
     "制作过程中注意火候，全程建议使用小火"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_xue-hua-su.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_xue-hua-su_overview.jpg",
+  "cover_image": "ai-generated/other_xue-hua-su.jpg",
+  "overview_image": "overview/other_xue-hua-su_overview.jpg",
   "id": "other_xue-hua-su",
   "status": "published"
 }

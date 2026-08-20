@@ -151,7 +151,7 @@
         "蒜末可以稍微切细一点，方便出味"
       ],
       "produces": "葱姜蒜末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shan-bei-ao-dou-jiao/step_1.jpg"
+      "image": "steps/vegetable_dish_shan-bei-ao-dou-jiao/step_1.jpg"
     },
     {
       "index": 2,
@@ -162,7 +162,7 @@
         "去筋可以保证口感不塞牙"
       ],
       "produces": "豆角段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shan-bei-ao-dou-jiao/step_2.jpg"
+      "image": "steps/vegetable_dish_shan-bei-ao-dou-jiao/step_2.jpg"
     },
     {
       "index": 3,
@@ -173,7 +173,7 @@
         "土豆块不要切太大，否则不易煮烂"
       ],
       "produces": "土豆块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shan-bei-ao-dou-jiao/step_3.jpg"
+      "image": "steps/vegetable_dish_shan-bei-ao-dou-jiao/step_3.jpg"
     },
     {
       "index": 4,
@@ -184,7 +184,7 @@
         "可以用开水烫一下西红柿表皮方便剥皮"
       ],
       "produces": "西红柿块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shan-bei-ao-dou-jiao/step_4.jpg"
+      "image": "steps/vegetable_dish_shan-bei-ao-dou-jiao/step_4.jpg"
     },
     {
       "index": 5,
@@ -195,7 +195,7 @@
         "怕辣的可以把辣椒筋也去掉"
       ],
       "produces": "辣椒条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shan-bei-ao-dou-jiao/step_5.jpg"
+      "image": "steps/vegetable_dish_shan-bei-ao-dou-jiao/step_5.jpg"
     },
     {
       "index": 6,
@@ -206,7 +206,7 @@
         "油热后再下锅，香味激发更快"
       ],
       "produces": "底油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shan-bei-ao-dou-jiao/step_6.jpg"
+      "image": "steps/vegetable_dish_shan-bei-ao-dou-jiao/step_6.jpg"
     },
     {
       "index": 7,
@@ -217,7 +217,7 @@
         "充分翻炒豆角可以去除豆腥味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shan-bei-ao-dou-jiao/step_7.jpg"
+      "image": "steps/vegetable_dish_shan-bei-ao-dou-jiao/step_7.jpg"
     },
     {
       "index": 8,
@@ -228,7 +228,7 @@
         "让土豆表面均匀沾上油色"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shan-bei-ao-dou-jiao/step_8.jpg"
+      "image": "steps/vegetable_dish_shan-bei-ao-dou-jiao/step_8.jpg"
     },
     {
       "index": 9,
@@ -239,7 +239,7 @@
         "一定要加热水，冷水会让豆角变硬"
       ],
       "produces": "初步炖煮的菜肴",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shan-bei-ao-dou-jiao/step_9.jpg"
+      "image": "steps/vegetable_dish_shan-bei-ao-dou-jiao/step_9.jpg"
     },
     {
       "index": 10,
@@ -250,7 +250,7 @@
         "西红柿熬成汁后汤底会变得浓稠酸香"
       ],
       "produces": "熟成的熬豆角",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shan-bei-ao-dou-jiao/step_10.jpg"
+      "image": "steps/vegetable_dish_shan-bei-ao-dou-jiao/step_10.jpg"
     },
     {
       "index": 11,
@@ -261,7 +261,7 @@
         "香菜不宜久煮，拌匀即可"
       ],
       "produces": "陕北熬豆角成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shan-bei-ao-dou-jiao/step_11.jpg"
+      "image": "steps/vegetable_dish_shan-bei-ao-dou-jiao/step_11.jpg"
     }
   ],
   "tips": [
@@ -269,8 +269,8 @@
     "土豆块的大小决定了炖煮时间，建议切得均匀",
     "水量控制在刚好没过食材即可，不宜过多变成汤菜"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_shan-bei-ao-dou-jiao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_shan-bei-ao-dou-jiao_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_shan-bei-ao-dou-jiao.jpg",
+  "overview_image": "overview/vegetable_dish_shan-bei-ao-dou-jiao_overview.jpg",
   "id": "vegetable_dish_shan-bei-ao-dou-jiao",
   "status": "published"
 }

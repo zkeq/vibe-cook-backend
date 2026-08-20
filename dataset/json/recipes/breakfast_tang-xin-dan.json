@@ -54,7 +54,7 @@
         "确保鸡蛋铺平在底部，不要重叠以保证受热均匀"
       ],
       "produces": "待煮鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tang-xin-dan/step_1.jpg"
+      "image": "steps/breakfast_tang-xin-dan/step_1.jpg"
     },
     {
       "index": 2,
@@ -65,7 +65,7 @@
         "水量需没过鸡蛋表面"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tang-xin-dan/step_2.jpg"
+      "image": "steps/breakfast_tang-xin-dan/step_2.jpg"
     },
     {
       "index": 3,
@@ -76,7 +76,7 @@
         "注意观察水温，不需要完全沸腾"
       ],
       "produces": "受热鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tang-xin-dan/step_3.jpg"
+      "image": "steps/breakfast_tang-xin-dan/step_3.jpg"
     },
     {
       "index": 4,
@@ -87,7 +87,7 @@
         "想要流动蛋黄静置 6 分钟，想要全熟蛋黄静置 10 分钟"
       ],
       "produces": "已熟鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tang-xin-dan/step_4.jpg"
+      "image": "steps/breakfast_tang-xin-dan/step_4.jpg"
     },
     {
       "index": 5,
@@ -98,7 +98,7 @@
         "冷水冲洗能让蛋壳更容易剥落"
       ],
       "produces": "成品溏心蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tang-xin-dan/step_5.jpg"
+      "image": "steps/breakfast_tang-xin-dan/step_5.jpg"
     }
   ],
   "tips": [
@@ -106,8 +106,8 @@
     "警告：溏心蛋有沙门氏菌感染的风险。不建议静置 5 分钟以内。",
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_tang-xin-dan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_tang-xin-dan_overview.jpg",
+  "cover_image": "ai-generated/breakfast_tang-xin-dan.jpg",
+  "overview_image": "overview/breakfast_tang-xin-dan_overview.jpg",
   "id": "breakfast_tang-xin-dan",
   "status": "published"
 }

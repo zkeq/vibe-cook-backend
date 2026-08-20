@@ -139,7 +139,7 @@
         "牛肉要逆着纹路切，这样口感才不会柴"
       ],
       "produces": "牛肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shui-zhu-niu-rou/step_1.jpg"
+      "image": "steps/other_shui-zhu-niu-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -150,7 +150,7 @@
         "顺着一个方向搅拌，让牛肉充分吸收水分"
       ],
       "produces": "腌好的牛肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shui-zhu-niu-rou/step_2.jpg"
+      "image": "steps/other_shui-zhu-niu-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -161,7 +161,7 @@
         "香菜梗和叶可以分开存放"
       ],
       "produces": "香菜段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shui-zhu-niu-rou/step_3.jpg"
+      "image": "steps/other_shui-zhu-niu-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -172,7 +172,7 @@
         "小火慢炒出红油，注意不要炒糊"
       ],
       "produces": "红油底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shui-zhu-niu-rou/step_4.jpg"
+      "image": "steps/other_shui-zhu-niu-rou/step_4.jpg"
     },
     {
       "index": 5,
@@ -183,7 +183,7 @@
         "水量要没过待会儿要煮的牛肉"
       ],
       "produces": "红汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shui-zhu-niu-rou/step_5.jpg"
+      "image": "steps/other_shui-zhu-niu-rou/step_5.jpg"
     },
     {
       "index": 6,
@@ -194,7 +194,7 @@
         "豆芽断生即可捞出，保持脆感"
       ],
       "produces": "熟豆芽",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shui-zhu-niu-rou/step_6.jpg"
+      "image": "steps/other_shui-zhu-niu-rou/step_6.jpg"
     },
     {
       "index": 7,
@@ -205,7 +205,7 @@
         "尽量铺平，方便后续放牛肉"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shui-zhu-niu-rou/step_7.jpg"
+      "image": "steps/other_shui-zhu-niu-rou/step_7.jpg"
     },
     {
       "index": 8,
@@ -216,7 +216,7 @@
         "牛肉片变色即可捞出，煮久了会老"
       ],
       "produces": "熟牛肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shui-zhu-niu-rou/step_8.jpg"
+      "image": "steps/other_shui-zhu-niu-rou/step_8.jpg"
     },
     {
       "index": 9,
@@ -227,7 +227,7 @@
         "均匀覆盖在豆芽上"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shui-zhu-niu-rou/step_9.jpg"
+      "image": "steps/other_shui-zhu-niu-rou/step_9.jpg"
     },
     {
       "index": 10,
@@ -238,7 +238,7 @@
         "辣椒粉放在最中间，方便泼油"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shui-zhu-niu-rou/step_10.jpg"
+      "image": "steps/other_shui-zhu-niu-rou/step_10.jpg"
     },
     {
       "index": 11,
@@ -249,7 +249,7 @@
         "油温要足够高，淋油时会有滋滋声，注意防烫"
       ],
       "produces": "水煮牛肉成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shui-zhu-niu-rou/step_11.jpg"
+      "image": "steps/other_shui-zhu-niu-rou/step_11.jpg"
     }
   ],
   "tips": [
@@ -258,8 +258,8 @@
     "牛肉切片尽量厚薄均匀",
     "豆瓣酱已有盐分，一般无需额外加盐"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_shui-zhu-niu-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_shui-zhu-niu-rou_overview.jpg",
+  "cover_image": "ai-generated/other_shui-zhu-niu-rou.jpg",
+  "overview_image": "overview/other_shui-zhu-niu-rou_overview.jpg",
   "id": "other_shui-zhu-niu-rou",
   "status": "published"
 }

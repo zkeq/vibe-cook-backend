@@ -99,7 +99,7 @@
         "注意刷掉外壳上的泥沙和附着物"
       ],
       "produces": "洗净的生蚝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_qing-zheng-sheng-hao/step_1.jpg"
+      "image": "steps/aquatic_qing-zheng-sheng-hao/step_1.jpg"
     },
     {
       "index": 2,
@@ -110,7 +110,7 @@
         "平铺可以确保受热均匀"
       ],
       "produces": "半熟的生蚝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_qing-zheng-sheng-hao/step_2.jpg"
+      "image": "steps/aquatic_qing-zheng-sheng-hao/step_2.jpg"
     },
     {
       "index": 3,
@@ -122,7 +122,7 @@
         "凸面向下可以保留生蚝内的鲜美原汤"
       ],
       "produces": "处理好佐料的生蚝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_qing-zheng-sheng-hao/step_3.jpg"
+      "image": "steps/aquatic_qing-zheng-sheng-hao/step_3.jpg"
     },
     {
       "index": 4,
@@ -133,7 +133,7 @@
         "全功率大火蒸制能锁住鲜味"
       ],
       "produces": "蒸熟的生蚝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_qing-zheng-sheng-hao/step_4.jpg"
+      "image": "steps/aquatic_qing-zheng-sheng-hao/step_4.jpg"
     },
     {
       "index": 5,
@@ -144,7 +144,7 @@
         "酱油量可根据个人咸淡喜好微调"
       ],
       "produces": "调好味的生蚝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_qing-zheng-sheng-hao/step_5.jpg"
+      "image": "steps/aquatic_qing-zheng-sheng-hao/step_5.jpg"
     },
     {
       "index": 6,
@@ -155,15 +155,15 @@
         "趁热食用口感最佳"
       ],
       "produces": "成品清蒸生蚝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_qing-zheng-sheng-hao/step_6.jpg"
+      "image": "steps/aquatic_qing-zheng-sheng-hao/step_6.jpg"
     }
   ],
   "tips": [
     "掀开滚烫锅盖和处理蚝壳需要稍加小心，谨防烫伤",
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/aquatic_qing-zheng-sheng-hao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/aquatic_qing-zheng-sheng-hao_overview.jpg",
+  "cover_image": "ai-generated/aquatic_qing-zheng-sheng-hao.jpg",
+  "overview_image": "overview/aquatic_qing-zheng-sheng-hao_overview.jpg",
   "id": "aquatic_qing-zheng-sheng-hao",
   "status": "published"
 }

@@ -165,7 +165,7 @@
         "水温非常关键，绝对不能沸腾"
       ],
       "produces": "半熟血肠",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_sha-zhu-cai/step_1.jpg"
+      "image": "steps/meat_dish_sha-zhu-cai/step_1.jpg"
     },
     {
       "index": 2,
@@ -176,7 +176,7 @@
         "切的时候动作要轻，防止血肠碎裂"
       ],
       "produces": "血肠块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_sha-zhu-cai/step_2.jpg"
+      "image": "steps/meat_dish_sha-zhu-cai/step_2.jpg"
     },
     {
       "index": 3,
@@ -187,7 +187,7 @@
         "冷水入锅能更好去除血水"
       ],
       "produces": "净排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_sha-zhu-cai/step_3.jpg"
+      "image": "steps/meat_dish_sha-zhu-cai/step_3.jpg"
     },
     {
       "index": 4,
@@ -198,7 +198,7 @@
         "中小火炒香，防止辣椒炒糊"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_sha-zhu-cai/step_4.jpg"
+      "image": "steps/meat_dish_sha-zhu-cai/step_4.jpg"
     },
     {
       "index": 5,
@@ -209,7 +209,7 @@
         "炒至表面微焦能增加肉香味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_sha-zhu-cai/step_5.jpg"
+      "image": "steps/meat_dish_sha-zhu-cai/step_5.jpg"
     },
     {
       "index": 6,
@@ -221,7 +221,7 @@
         "一定要拧干水分再炒"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_sha-zhu-cai/step_6.jpg"
+      "image": "steps/meat_dish_sha-zhu-cai/step_6.jpg"
     },
     {
       "index": 7,
@@ -232,7 +232,7 @@
         "必须用热水，保证汤底醇厚"
       ],
       "produces": "酸菜排骨汤基底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_sha-zhu-cai/step_7.jpg"
+      "image": "steps/meat_dish_sha-zhu-cai/step_7.jpg"
     },
     {
       "index": 8,
@@ -243,7 +243,7 @@
         "确认压力锅密封圈放置正确"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_sha-zhu-cai/step_8.jpg"
+      "image": "steps/meat_dish_sha-zhu-cai/step_8.jpg"
     },
     {
       "index": 9,
@@ -254,7 +254,7 @@
         "浓香模式能让排骨软烂入味"
       ],
       "produces": "炖好的酸菜排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_sha-zhu-cai/step_9.jpg"
+      "image": "steps/meat_dish_sha-zhu-cai/step_9.jpg"
     },
     {
       "index": 10,
@@ -265,7 +265,7 @@
         "血肠已经是熟的，不需再加热，利用余温焖透即可"
       ],
       "produces": "成品杀猪菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_sha-zhu-cai/step_10.jpg"
+      "image": "steps/meat_dish_sha-zhu-cai/step_10.jpg"
     },
     {
       "index": 11,
@@ -276,7 +276,7 @@
         "蘸料是吃血肠的灵魂，不可省略"
       ],
       "produces": "蘸料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_sha-zhu-cai/step_11.jpg"
+      "image": "steps/meat_dish_sha-zhu-cai/step_11.jpg"
     }
   ],
   "tips": [
@@ -285,8 +285,8 @@
     "建议使用电压力锅以缩短烹饪时间并保证肉质软烂",
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_sha-zhu-cai.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_sha-zhu-cai_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_sha-zhu-cai.jpg",
+  "overview_image": "overview/meat_dish_sha-zhu-cai_overview.jpg",
   "id": "meat_dish_sha-zhu-cai",
   "status": "published"
 }

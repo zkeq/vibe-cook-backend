@@ -113,7 +113,7 @@
         "切下的边可以烤脆后作为零食食用"
       ],
       "produces": "去边吐司",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_ji-dan-san-ming-zhi/step_1.jpg"
+      "image": "steps/breakfast_ji-dan-san-ming-zhi/step_1.jpg"
     },
     {
       "index": 2,
@@ -124,7 +124,7 @@
         "全熟蛋捣碎后口感更绵密"
       ],
       "produces": "碎鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_ji-dan-san-ming-zhi/step_2.jpg"
+      "image": "steps/breakfast_ji-dan-san-ming-zhi/step_2.jpg"
     },
     {
       "index": 3,
@@ -135,7 +135,7 @@
         "可以根据个人口味调整盐和胡椒的比例"
       ],
       "produces": "鸡蛋酱",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_ji-dan-san-ming-zhi/step_3.jpg"
+      "image": "steps/breakfast_ji-dan-san-ming-zhi/step_3.jpg"
     },
     {
       "index": 4,
@@ -146,7 +146,7 @@
         "中小火煎制，避免黄油焦糊"
       ],
       "produces": "熟培根",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_ji-dan-san-ming-zhi/step_4.jpg"
+      "image": "steps/breakfast_ji-dan-san-ming-zhi/step_4.jpg"
     },
     {
       "index": 5,
@@ -157,7 +157,7 @@
         "尽量铺平以便后续切开"
       ],
       "produces": "三明治初成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_ji-dan-san-ming-zhi/step_5.jpg"
+      "image": "steps/breakfast_ji-dan-san-ming-zhi/step_5.jpg"
     },
     {
       "index": 6,
@@ -168,15 +168,15 @@
         "使用锯齿刀切口会更整齐"
       ],
       "produces": "鸡蛋三明治成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_ji-dan-san-ming-zhi/step_6.jpg"
+      "image": "steps/breakfast_ji-dan-san-ming-zhi/step_6.jpg"
     }
   ],
   "tips": [
     "也可加入芝士、酸黄瓜等食材丰富口感",
     "吐司可以提前略微烘烤，口感会更加酥脆"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_ji-dan-san-ming-zhi.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_ji-dan-san-ming-zhi_overview.jpg",
+  "cover_image": "ai-generated/breakfast_ji-dan-san-ming-zhi.jpg",
+  "overview_image": "overview/breakfast_ji-dan-san-ming-zhi_overview.jpg",
   "id": "breakfast_ji-dan-san-ming-zhi",
   "status": "published"
 }

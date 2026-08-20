@@ -82,7 +82,7 @@
         "尽量打均匀，不要有大块的蛋清"
       ],
       "produces": "蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_zheng-shui-dan/step_1.jpg"
+      "image": "steps/breakfast_zheng-shui-dan/step_1.jpg"
     },
     {
       "index": 2,
@@ -93,7 +93,7 @@
         "水温不可过高，以免把蛋液烫熟变成蛋花"
       ],
       "produces": "温盐水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_zheng-shui-dan/step_2.jpg"
+      "image": "steps/breakfast_zheng-shui-dan/step_2.jpg"
     },
     {
       "index": 3,
@@ -104,7 +104,7 @@
         "过筛是保证成品滑嫩无气孔的关键步骤"
       ],
       "produces": "混合蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_zheng-shui-dan/step_3.jpg"
+      "image": "steps/breakfast_zheng-shui-dan/step_3.jpg"
     },
     {
       "index": 4,
@@ -115,7 +115,7 @@
         "密封是为了防止水蒸气滴落在蛋液表面形成蜂窝状"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_zheng-shui-dan/step_4.jpg"
+      "image": "steps/breakfast_zheng-shui-dan/step_4.jpg"
     },
     {
       "index": 5,
@@ -126,7 +126,7 @@
         "全程小火慢蒸是保证口感细腻的诀窍"
       ],
       "produces": "成品水蒸蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_zheng-shui-dan/step_5.jpg"
+      "image": "steps/breakfast_zheng-shui-dan/step_5.jpg"
     }
   ],
   "tips": [
@@ -134,8 +134,8 @@
     "也可加入蒸鱼豉油，葱花香油作为佐料",
     "蛋水比例保持在 1:1.5 是口感最平衡的状态"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_zheng-shui-dan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_zheng-shui-dan_overview.jpg",
+  "cover_image": "ai-generated/breakfast_zheng-shui-dan.jpg",
+  "overview_image": "overview/breakfast_zheng-shui-dan_overview.jpg",
   "id": "breakfast_zheng-shui-dan",
   "status": "published"
 }

@@ -113,7 +113,7 @@
         "去皮后口感更软糯"
       ],
       "produces": "去皮茄段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_pu-shao-qie-zi/step_1.jpg"
+      "image": "steps/vegetable_dish_pu-shao-qie-zi/step_1.jpg"
     },
     {
       "index": 2,
@@ -124,7 +124,7 @@
         "蒸制是为了让茄子变软，方便后续划开摊平"
       ],
       "produces": "熟软茄段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_pu-shao-qie-zi/step_2.jpg"
+      "image": "steps/vegetable_dish_pu-shao-qie-zi/step_2.jpg"
     },
     {
       "index": 3,
@@ -135,7 +135,7 @@
         "划刀时注意力度，不要切透底部皮层"
       ],
       "produces": "摊平的茄子排",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_pu-shao-qie-zi/step_3.jpg"
+      "image": "steps/vegetable_dish_pu-shao-qie-zi/step_3.jpg"
     },
     {
       "index": 4,
@@ -146,7 +146,7 @@
         "不粘锅油量汇聚成滴后散布即可，铁锅油量需刚好覆盖锅底"
       ],
       "produces": "金黄茄子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_pu-shao-qie-zi/step_4.jpg"
+      "image": "steps/vegetable_dish_pu-shao-qie-zi/step_4.jpg"
     },
     {
       "index": 5,
@@ -157,7 +157,7 @@
         "蒲烧汁由蜂蜜、白糖、生抽、老抽、料酒和水预先混合"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_pu-shao-qie-zi/step_5.jpg"
+      "image": "steps/vegetable_dish_pu-shao-qie-zi/step_5.jpg"
     },
     {
       "index": 6,
@@ -168,7 +168,7 @@
         "若无法自然收汁，可加入比例为 1:4 到 1:10 的水淀粉辅助"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_pu-shao-qie-zi/step_6.jpg"
+      "image": "steps/vegetable_dish_pu-shao-qie-zi/step_6.jpg"
     },
     {
       "index": 7,
@@ -179,7 +179,7 @@
         "让茄子充分吸收剩余酱汁的香味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_pu-shao-qie-zi/step_7.jpg"
+      "image": "steps/vegetable_dish_pu-shao-qie-zi/step_7.jpg"
     },
     {
       "index": 8,
@@ -190,7 +190,7 @@
         "可以撒上小葱碎增加美观度和清爽感"
       ],
       "produces": "蒲烧茄子成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_pu-shao-qie-zi/step_8.jpg"
+      "image": "steps/vegetable_dish_pu-shao-qie-zi/step_8.jpg"
     }
   ],
   "tips": [
@@ -199,8 +199,8 @@
     "装盘后撒点小葱（2~5mm）可以缓解甜腻感并丰富色彩。",
     "浙茄皮嫩适合做鱼香茄子，但做这道菜建议去皮并使用普通长茄子。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_pu-shao-qie-zi.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_pu-shao-qie-zi_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_pu-shao-qie-zi.jpg",
+  "overview_image": "overview/vegetable_dish_pu-shao-qie-zi_overview.jpg",
   "id": "vegetable_dish_pu-shao-qie-zi",
   "status": "published"
 }

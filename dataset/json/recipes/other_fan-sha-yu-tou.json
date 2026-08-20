@@ -82,7 +82,7 @@
         "稍微大条一点，翻炒过程不容易烂"
       ],
       "produces": "芋头条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_fan-sha-yu-tou/step_1.jpg"
+      "image": "steps/other_fan-sha-yu-tou/step_1.jpg"
     },
     {
       "index": 2,
@@ -93,7 +93,7 @@
         "插入筷子冒小泡即可判断油温"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_fan-sha-yu-tou/step_2.jpg"
+      "image": "steps/other_fan-sha-yu-tou/step_2.jpg"
     },
     {
       "index": 3,
@@ -104,7 +104,7 @@
         "一般炸至微微泛黄且可以用筷子很轻松戳洞即可"
       ],
       "produces": "炸熟的芋头",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_fan-sha-yu-tou/step_3.jpg"
+      "image": "steps/other_fan-sha-yu-tou/step_3.jpg"
     },
     {
       "index": 4,
@@ -115,7 +115,7 @@
         "炸油别浪费，后面炒菜等都能用"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_fan-sha-yu-tou/step_4.jpg"
+      "image": "steps/other_fan-sha-yu-tou/step_4.jpg"
     },
     {
       "index": 5,
@@ -126,7 +126,7 @@
         "加热至不变色且冒小泡"
       ],
       "produces": "糖浆",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_fan-sha-yu-tou/step_5.jpg"
+      "image": "steps/other_fan-sha-yu-tou/step_5.jpg"
     },
     {
       "index": 6,
@@ -137,7 +137,7 @@
         "此时等温度下来，糖就会有反沙的效果"
       ],
       "produces": "反沙芋头",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_fan-sha-yu-tou/step_6.jpg"
+      "image": "steps/other_fan-sha-yu-tou/step_6.jpg"
     },
     {
       "index": 7,
@@ -146,15 +146,15 @@
       "duration_sec": 60,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_fan-sha-yu-tou/step_7.jpg"
+      "image": "steps/other_fan-sha-yu-tou/step_7.jpg"
     }
   ],
   "tips": [
     "刚做好的反沙芋头很烫，小心烫嘴哦",
     "再配上茶，啊~真惬意啊"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_fan-sha-yu-tou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_fan-sha-yu-tou_overview.jpg",
+  "cover_image": "ai-generated/other_fan-sha-yu-tou.jpg",
+  "overview_image": "overview/other_fan-sha-yu-tou_overview.jpg",
   "id": "other_fan-sha-yu-tou",
   "status": "published"
 }

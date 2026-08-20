@@ -93,7 +93,7 @@
         "洗净血水可以减少腥味"
       ],
       "produces": "清洗后的羊排",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-yang-pai/step_1.jpg"
+      "image": "steps/other_kong-qi-zha-guo-yang-pai/step_1.jpg"
     },
     {
       "index": 2,
@@ -104,7 +104,7 @@
         "一定要吸干水分，否则影响调料附着"
       ],
       "produces": "腌制好的羊排",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-yang-pai/step_2.jpg"
+      "image": "steps/other_kong-qi-zha-guo-yang-pai/step_2.jpg"
     },
     {
       "index": 3,
@@ -116,7 +116,7 @@
         "不用烤架则更入味，洗起来也方便"
       ],
       "produces": "半熟羊排",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-yang-pai/step_3.jpg"
+      "image": "steps/other_kong-qi-zha-guo-yang-pai/step_3.jpg"
     },
     {
       "index": 4,
@@ -127,15 +127,15 @@
         "可以视个人喜好加一点时间，5 分钟是保证不会焦的时间"
       ],
       "produces": "成品羊排",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-yang-pai/step_4.jpg"
+      "image": "steps/other_kong-qi-zha-guo-yang-pai/step_4.jpg"
     }
   ],
   "tips": [
     "推荐购买温控比较好的空气炸锅，不然可能会糊",
     "洗架子比较麻烦，可根据个人对油脂和入味程度的偏好选择是否使用烤架"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_kong-qi-zha-guo-yang-pai.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_kong-qi-zha-guo-yang-pai_overview.jpg",
+  "cover_image": "ai-generated/other_kong-qi-zha-guo-yang-pai.jpg",
+  "overview_image": "overview/other_kong-qi-zha-guo-yang-pai_overview.jpg",
   "id": "other_kong-qi-zha-guo-yang-pai",
   "status": "published"
 }

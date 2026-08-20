@@ -59,7 +59,7 @@
         "切块均匀有助于后续腌制出水"
       ],
       "produces": "冬瓜块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_dong-gua-cha/step_1.jpg"
+      "image": "steps/drink_dong-gua-cha/step_1.jpg"
     },
     {
       "index": 2,
@@ -70,7 +70,7 @@
         "腌制时间越长，出的水越多，熬煮时不需要额外加水"
       ],
       "produces": "腌制好的冬瓜及糖液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_dong-gua-cha/step_2.jpg"
+      "image": "steps/drink_dong-gua-cha/step_2.jpg"
     },
     {
       "index": 3,
@@ -81,7 +81,7 @@
         "熬至冬瓜呈透明状且汁液浓稠即可"
       ],
       "produces": "冬瓜茶原液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_dong-gua-cha/step_3.jpg"
+      "image": "steps/drink_dong-gua-cha/step_3.jpg"
     },
     {
       "index": 4,
@@ -92,7 +92,7 @@
         "过滤出的冬瓜块也可以作为蜜饯食用"
       ],
       "produces": "纯净冬瓜茶浓缩液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_dong-gua-cha/step_4.jpg"
+      "image": "steps/drink_dong-gua-cha/step_4.jpg"
     },
     {
       "index": 5,
@@ -103,7 +103,7 @@
         "容器需提前洗净晾干，保证保存时间"
       ],
       "produces": "冷藏冬瓜茶浓缩液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_dong-gua-cha/step_5.jpg"
+      "image": "steps/drink_dong-gua-cha/step_5.jpg"
     },
     {
       "index": 6,
@@ -114,15 +114,15 @@
         "冰镇后口感更佳，推荐兑水比例为 1:3"
       ],
       "produces": "冬瓜茶饮品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_dong-gua-cha/step_6.jpg"
+      "image": "steps/drink_dong-gua-cha/step_6.jpg"
     }
   ],
   "tips": [
     "冰糖的用量可以调整，以达到个人喜好的甜度。",
     "冷藏保存，建议 1 周内喝完。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/drink_dong-gua-cha.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/drink_dong-gua-cha_overview.jpg",
+  "cover_image": "ai-generated/drink_dong-gua-cha.jpg",
+  "overview_image": "overview/drink_dong-gua-cha_overview.jpg",
   "id": "drink_dong-gua-cha",
   "status": "published"
 }

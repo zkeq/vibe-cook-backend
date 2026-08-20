@@ -140,7 +140,7 @@
         "肉皮所在平面为长宽面"
       ],
       "produces": "五花肉条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tai-shi-lu-rou-fan/step_1.jpg"
+      "image": "steps/other_tai-shi-lu-rou-fan/step_1.jpg"
     },
     {
       "index": 2,
@@ -151,7 +151,7 @@
         "尽量切碎，便于爆香"
       ],
       "produces": "葱蒜末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tai-shi-lu-rou-fan/step_2.jpg"
+      "image": "steps/other_tai-shi-lu-rou-fan/step_2.jpg"
     },
     {
       "index": 3,
@@ -162,7 +162,7 @@
         "划痕不要太深，以免蛋黄散落"
       ],
       "produces": "预处理熟蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tai-shi-lu-rou-fan/step_3.jpg"
+      "image": "steps/other_tai-shi-lu-rou-fan/step_3.jpg"
     },
     {
       "index": 4,
@@ -174,7 +174,7 @@
         "等待5秒使油温稍微升高"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tai-shi-lu-rou-fan/step_4.jpg"
+      "image": "steps/other_tai-shi-lu-rou-fan/step_4.jpg"
     },
     {
       "index": 5,
@@ -185,7 +185,7 @@
         "煸出多余油脂，口感更清爽"
       ],
       "produces": "煸好的肉条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tai-shi-lu-rou-fan/step_5.jpg"
+      "image": "steps/other_tai-shi-lu-rou-fan/step_5.jpg"
     },
     {
       "index": 6,
@@ -196,7 +196,7 @@
         "注意火候，不要炒糊"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tai-shi-lu-rou-fan/step_6.jpg"
+      "image": "steps/other_tai-shi-lu-rou-fan/step_6.jpg"
     },
     {
       "index": 7,
@@ -207,7 +207,7 @@
         "蒜末后放是为了防止变苦"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tai-shi-lu-rou-fan/step_7.jpg"
+      "image": "steps/other_tai-shi-lu-rou-fan/step_7.jpg"
     },
     {
       "index": 8,
@@ -218,7 +218,7 @@
         "观察气泡大小，呈焦糖色即刻翻拌"
       ],
       "produces": "上色肉条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tai-shi-lu-rou-fan/step_8.jpg"
+      "image": "steps/other_tai-shi-lu-rou-fan/step_8.jpg"
     },
     {
       "index": 9,
@@ -229,7 +229,7 @@
         "高温下酱油香气更浓郁"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tai-shi-lu-rou-fan/step_9.jpg"
+      "image": "steps/other_tai-shi-lu-rou-fan/step_9.jpg"
     },
     {
       "index": 10,
@@ -242,7 +242,7 @@
         "如过干可补充 100ml 清水"
       ],
       "produces": "卤肉及卤蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tai-shi-lu-rou-fan/step_10.jpg"
+      "image": "steps/other_tai-shi-lu-rou-fan/step_10.jpg"
     },
     {
       "index": 11,
@@ -253,7 +253,7 @@
         "收汁时要勤搅拌，防止焦糊"
       ],
       "produces": "浓郁卤肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tai-shi-lu-rou-fan/step_11.jpg"
+      "image": "steps/other_tai-shi-lu-rou-fan/step_11.jpg"
     },
     {
       "index": 12,
@@ -264,7 +264,7 @@
         "趁热食用口感最佳"
       ],
       "produces": "台式卤肉饭成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tai-shi-lu-rou-fan/step_12.jpg"
+      "image": "steps/other_tai-shi-lu-rou-fan/step_12.jpg"
     }
   ],
   "tips": [
@@ -274,8 +274,8 @@
     "切割技巧：切条时以较小力度将刀刃与肉快速摩擦，能保护肥瘦相间的结构不被压碎。",
     "注意细肉条更易于炖煮软糯。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_tai-shi-lu-rou-fan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_tai-shi-lu-rou-fan_overview.jpg",
+  "cover_image": "ai-generated/other_tai-shi-lu-rou-fan.jpg",
+  "overview_image": "overview/other_tai-shi-lu-rou-fan_overview.jpg",
   "id": "other_tai-shi-lu-rou-fan",
   "status": "published"
 }

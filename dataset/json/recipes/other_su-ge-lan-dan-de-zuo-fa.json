@@ -80,7 +80,7 @@
         "冷水下锅可以防止蛋壳受热过快破裂"
       ],
       "produces": "半熟鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_su-ge-lan-dan-de-zuo-fa/step_1.jpg"
+      "image": "steps/other_su-ge-lan-dan-de-zuo-fa/step_1.jpg"
     },
     {
       "index": 2,
@@ -91,7 +91,7 @@
         "冰水浸泡使蛋壳与蛋白收缩分离，更易剥壳"
       ],
       "produces": "去壳鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_su-ge-lan-dan-de-zuo-fa/step_2.jpg"
+      "image": "steps/other_su-ge-lan-dan-de-zuo-fa/step_2.jpg"
     },
     {
       "index": 3,
@@ -102,7 +102,7 @@
         "尽量紧贴鸡蛋包裹"
       ],
       "produces": "芝士裹蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_su-ge-lan-dan-de-zuo-fa/step_3.jpg"
+      "image": "steps/other_su-ge-lan-dan-de-zuo-fa/step_3.jpg"
     },
     {
       "index": 4,
@@ -113,7 +113,7 @@
         "缠绕紧实，固定好芝士层"
       ],
       "produces": "培根芝士蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_su-ge-lan-dan-de-zuo-fa/step_4.jpg"
+      "image": "steps/other_su-ge-lan-dan-de-zuo-fa/step_4.jpg"
     },
     {
       "index": 5,
@@ -124,7 +124,7 @@
         "接口处捏紧，防止加热时油脂渗漏"
       ],
       "produces": "待烹饪生坯",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_su-ge-lan-dan-de-zuo-fa/step_5.jpg"
+      "image": "steps/other_su-ge-lan-dan-de-zuo-fa/step_5.jpg"
     },
     {
       "index": 6,
@@ -135,7 +135,7 @@
         "油面波动，有青烟，筷子插入油中周围泛起气泡即是 6 成温度"
       ],
       "produces": "油炸苏格兰蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_su-ge-lan-dan-de-zuo-fa/step_6.jpg"
+      "image": "steps/other_su-ge-lan-dan-de-zuo-fa/step_6.jpg"
     },
     {
       "index": 7,
@@ -146,7 +146,7 @@
         "无需额外刷油，手抓饼自带油脂"
       ],
       "produces": "低脂苏格兰蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_su-ge-lan-dan-de-zuo-fa/step_7.jpg"
+      "image": "steps/other_su-ge-lan-dan-de-zuo-fa/step_7.jpg"
     },
     {
       "index": 8,
@@ -157,15 +157,15 @@
         "对半切开展示糖心效果更佳"
       ],
       "produces": "成品苏格兰蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_su-ge-lan-dan-de-zuo-fa/step_8.jpg"
+      "image": "steps/other_su-ge-lan-dan-de-zuo-fa/step_8.jpg"
     }
   ],
   "tips": [
     "芝士片、培根片、手抓饼直接淘宝购买即可",
     "手抓饼的用量需根据鸡蛋的大小灵活调整"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_su-ge-lan-dan-de-zuo-fa.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_su-ge-lan-dan-de-zuo-fa_overview.jpg",
+  "cover_image": "ai-generated/other_su-ge-lan-dan-de-zuo-fa.jpg",
+  "overview_image": "overview/other_su-ge-lan-dan-de-zuo-fa_overview.jpg",
   "id": "other_su-ge-lan-dan-de-zuo-fa",
   "status": "published"
 }

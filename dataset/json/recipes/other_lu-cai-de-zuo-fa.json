@@ -168,7 +168,7 @@
         "中间可以换几次水，效果更好"
       ],
       "produces": "去血水牛腱子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lu-cai-de-zuo-fa/step_1.jpg"
+      "image": "steps/other_lu-cai-de-zuo-fa/step_1.jpg"
     },
     {
       "index": 2,
@@ -180,7 +180,7 @@
         "熬糖色建议参考专门教程防止发苦"
       ],
       "produces": "糖色水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lu-cai-de-zuo-fa/step_2.jpg"
+      "image": "steps/other_lu-cai-de-zuo-fa/step_2.jpg"
     },
     {
       "index": 3,
@@ -191,7 +191,7 @@
         "大蒜不用剥得太干净，拍碎即可"
       ],
       "produces": "辅料盘",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lu-cai-de-zuo-fa/step_3.jpg"
+      "image": "steps/other_lu-cai-de-zuo-fa/step_3.jpg"
     },
     {
       "index": 4,
@@ -202,7 +202,7 @@
         "水一定要足，保证后续能没过牛肉"
       ],
       "produces": "初步卤水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lu-cai-de-zuo-fa/step_4.jpg"
+      "image": "steps/other_lu-cai-de-zuo-fa/step_4.jpg"
     },
     {
       "index": 5,
@@ -213,7 +213,7 @@
         "每加一种调料建议搅拌均匀"
       ],
       "produces": "调味卤水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lu-cai-de-zuo-fa/step_5.jpg"
+      "image": "steps/other_lu-cai-de-zuo-fa/step_5.jpg"
     },
     {
       "index": 6,
@@ -224,7 +224,7 @@
         "一定要用热水冲洗，冷水会让肉质紧缩变柴"
       ],
       "produces": "干净牛腱子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lu-cai-de-zuo-fa/step_6.jpg"
+      "image": "steps/other_lu-cai-de-zuo-fa/step_6.jpg"
     },
     {
       "index": 7,
@@ -235,7 +235,7 @@
         "确保卤水没过肉类"
       ],
       "produces": "卤熟牛肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lu-cai-de-zuo-fa/step_7.jpg"
+      "image": "steps/other_lu-cai-de-zuo-fa/step_7.jpg"
     },
     {
       "index": 8,
@@ -246,7 +246,7 @@
         "这是入味的关键步骤"
       ],
       "produces": "入味卤牛肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lu-cai-de-zuo-fa/step_8.jpg"
+      "image": "steps/other_lu-cai-de-zuo-fa/step_8.jpg"
     },
     {
       "index": 9,
@@ -257,7 +257,7 @@
         "冷藏后的牛肉更好切，不易散"
       ],
       "produces": "成品卤牛肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lu-cai-de-zuo-fa/step_9.jpg"
+      "image": "steps/other_lu-cai-de-zuo-fa/step_9.jpg"
     }
   ],
   "tips": [
@@ -266,8 +266,8 @@
     "卤水可作为牛肉面的汤底，味道极佳",
     "凉拌时可按蒜末、葱花、白芝麻、辣椒粉 1:1:1:1 比例配制调料，加入热油和卤汤"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_lu-cai-de-zuo-fa.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_lu-cai-de-zuo-fa_overview.jpg",
+  "cover_image": "ai-generated/other_lu-cai-de-zuo-fa.jpg",
+  "overview_image": "overview/other_lu-cai-de-zuo-fa_overview.jpg",
   "id": "other_lu-cai-de-zuo-fa",
   "status": "published"
 }

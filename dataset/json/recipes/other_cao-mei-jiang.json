@@ -58,7 +58,7 @@
         "确保彻底洗净表面泥沙"
       ],
       "produces": "洗净的草莓",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cao-mei-jiang/step_1.jpg"
+      "image": "steps/other_cao-mei-jiang/step_1.jpg"
     },
     {
       "index": 2,
@@ -69,7 +69,7 @@
         "可以根据个人喜好保留一些大颗粒增加口感"
       ],
       "produces": "草莓碎",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cao-mei-jiang/step_2.jpg"
+      "image": "steps/other_cao-mei-jiang/step_2.jpg"
     },
     {
       "index": 3,
@@ -80,7 +80,7 @@
         "确保每一块草莓都沾上白糖"
       ],
       "produces": "草莓糖混合物",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cao-mei-jiang/step_3.jpg"
+      "image": "steps/other_cao-mei-jiang/step_3.jpg"
     },
     {
       "index": 4,
@@ -91,7 +91,7 @@
         "静置是为了让草莓中的果胶和果汁充分析出"
       ],
       "produces": "腌制好的草莓",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cao-mei-jiang/step_4.jpg"
+      "image": "steps/other_cao-mei-jiang/step_4.jpg"
     },
     {
       "index": 5,
@@ -102,7 +102,7 @@
         "必须使用不粘锅以防糊底"
       ],
       "produces": "煮沸的果酱液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cao-mei-jiang/step_5.jpg"
+      "image": "steps/other_cao-mei-jiang/step_5.jpg"
     },
     {
       "index": 6,
@@ -113,7 +113,7 @@
         "熬煮过程中要不停搅拌，防止粘底烧焦"
       ],
       "produces": "草莓酱",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cao-mei-jiang/step_6.jpg"
+      "image": "steps/other_cao-mei-jiang/step_6.jpg"
     },
     {
       "index": 7,
@@ -124,15 +124,15 @@
         "密封罐建议提前高温消毒并擦干"
       ],
       "produces": "成品草莓酱",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cao-mei-jiang/step_7.jpg"
+      "image": "steps/other_cao-mei-jiang/step_7.jpg"
     }
   ],
   "tips": [
     "如需要低糖饮食，可以考虑将白糖降低到 200g",
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_cao-mei-jiang.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_cao-mei-jiang_overview.jpg",
+  "cover_image": "ai-generated/other_cao-mei-jiang.jpg",
+  "overview_image": "overview/other_cao-mei-jiang_overview.jpg",
   "id": "other_cao-mei-jiang",
   "status": "published"
 }

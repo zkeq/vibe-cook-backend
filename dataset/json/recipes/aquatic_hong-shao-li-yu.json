@@ -148,7 +148,7 @@
         "确保蔬菜表面无泥沙"
       ],
       "produces": "洗净的辅料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-li-yu/step_1.jpg"
+      "image": "steps/aquatic_hong-shao-li-yu/step_1.jpg"
     },
     {
       "index": 2,
@@ -159,7 +159,7 @@
         "葱段劈开更容易出味"
       ],
       "produces": "葱段、姜片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-li-yu/step_2.jpg"
+      "image": "steps/aquatic_hong-shao-li-yu/step_2.jpg"
     },
     {
       "index": 3,
@@ -170,7 +170,7 @@
         "蒜末留到最后收汁用"
       ],
       "produces": "蒜瓣、蒜末、辣椒段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-li-yu/step_3.jpg"
+      "image": "steps/aquatic_hong-shao-li-yu/step_3.jpg"
     },
     {
       "index": 4,
@@ -181,7 +181,7 @@
         "斜口可帮助鱼肉入味"
       ],
       "produces": "肉片、处理好的鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-li-yu/step_4.jpg"
+      "image": "steps/aquatic_hong-shao-li-yu/step_4.jpg"
     },
     {
       "index": 5,
@@ -192,7 +192,7 @@
         "下锅后不要立即拨弄，防止破皮"
       ],
       "produces": "初炸鲤鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-li-yu/step_5.jpg"
+      "image": "steps/aquatic_hong-shao-li-yu/step_5.jpg"
     },
     {
       "index": 6,
@@ -203,7 +203,7 @@
         "五花肉煸至微焦出油最香"
       ],
       "produces": "香料肉底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-li-yu/step_6.jpg"
+      "image": "steps/aquatic_hong-shao-li-yu/step_6.jpg"
     },
     {
       "index": 7,
@@ -214,7 +214,7 @@
         "沿锅边淋入醋和酒可激发香味"
       ],
       "produces": "待炖煮的鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-li-yu/step_7.jpg"
+      "image": "steps/aquatic_hong-shao-li-yu/step_7.jpg"
     },
     {
       "index": 8,
@@ -225,7 +225,7 @@
         "保持微沸状态入味更好"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-li-yu/step_8.jpg"
+      "image": "steps/aquatic_hong-shao-li-yu/step_8.jpg"
     },
     {
       "index": 9,
@@ -236,7 +236,7 @@
         "收汁时注意观察，不要糊锅"
       ],
       "produces": "成品红烧鲤鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-li-yu/step_9.jpg"
+      "image": "steps/aquatic_hong-shao-li-yu/step_9.jpg"
     }
   ],
   "tips": [
@@ -244,8 +244,8 @@
     "鱼类脂肪少，加入动物油脂（猪油）是汤汁奶白香醇的关键",
     "煸炒至金黄的五花肉在炖煮后可作为美味的配菜食用"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/aquatic_hong-shao-li-yu.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/aquatic_hong-shao-li-yu_overview.jpg",
+  "cover_image": "ai-generated/aquatic_hong-shao-li-yu.jpg",
+  "overview_image": "overview/aquatic_hong-shao-li-yu_overview.jpg",
   "id": "aquatic_hong-shao-li-yu",
   "status": "published"
 }

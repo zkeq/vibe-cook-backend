@@ -199,7 +199,7 @@
         "腌制过夜效果更佳，能让肉质更嫩更入味。"
       ],
       "produces": "腌制鸡肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-men-fan--biryani/step_1.jpg"
+      "image": "steps/staple_yin-du-men-fan--biryani/step_1.jpg"
     },
     {
       "index": 2,
@@ -210,7 +210,7 @@
         "炸洋葱需要耐心，火候不能太大以免发苦。"
       ],
       "produces": "炸洋葱酥与藏红花液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-men-fan--biryani/step_2.jpg"
+      "image": "steps/staple_yin-du-men-fan--biryani/step_2.jpg"
     },
     {
       "index": 3,
@@ -221,7 +221,7 @@
         "七成熟的标准是外部软、芯部仍有硬度，煮过头会导致成品糊烂。"
       ],
       "produces": "七成熟香料饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-men-fan--biryani/step_3.jpg"
+      "image": "steps/staple_yin-du-men-fan--biryani/step_3.jpg"
     },
     {
       "index": 4,
@@ -232,7 +232,7 @@
         "密封是Dum烹饪法的精髓，必须保证不漏气。"
       ],
       "produces": "待焖制组合锅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-men-fan--biryani/step_4.jpg"
+      "image": "steps/staple_yin-du-men-fan--biryani/step_4.jpg"
     },
     {
       "index": 5,
@@ -243,7 +243,7 @@
         "全程不要开盖，利用内部蒸汽压力焖熟底部鸡肉。"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-men-fan--biryani/step_5.jpg"
+      "image": "steps/staple_yin-du-men-fan--biryani/step_5.jpg"
     },
     {
       "index": 6,
@@ -254,7 +254,7 @@
         "翻拌动作要轻，保持米粒完整。"
       ],
       "produces": "印度焖饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-men-fan--biryani/step_6.jpg"
+      "image": "steps/staple_yin-du-men-fan--biryani/step_6.jpg"
     }
   ],
   "tips": [
@@ -264,8 +264,8 @@
     "本食谱采用的是最常见的混合做法，鸡肉生肉铺底，米饭半熟组装。",
     "此菜在印度是婚礼和节日的必备菜品，被誉为“印度的国菜”。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_yin-du-men-fan--biryani.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_yin-du-men-fan--biryani_overview.jpg",
+  "cover_image": "ai-generated/staple_yin-du-men-fan--biryani.jpg",
+  "overview_image": "overview/staple_yin-du-men-fan--biryani_overview.jpg",
   "id": "staple_yin-du-men-fan--biryani",
   "status": "published"
 }

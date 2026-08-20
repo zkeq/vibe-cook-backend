@@ -129,7 +129,7 @@
         "蒜末越细，香味越容易散发。"
       ],
       "produces": "蒜末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-you-mai-cai/step_1.jpg"
+      "image": "steps/vegetable_dish_liang-ban-you-mai-cai/step_1.jpg"
     },
     {
       "index": 2,
@@ -140,7 +140,7 @@
         "芝麻酱如果太稠，可以分次少量加入香油或凉白开泄开。"
       ],
       "produces": "调味酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-you-mai-cai/step_2.jpg"
+      "image": "steps/vegetable_dish_liang-ban-you-mai-cai/step_2.jpg"
     },
     {
       "index": 3,
@@ -151,7 +151,7 @@
         "切段不宜过长，方便食用。"
       ],
       "produces": "油麦菜段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-you-mai-cai/step_3.jpg"
+      "image": "steps/vegetable_dish_liang-ban-you-mai-cai/step_3.jpg"
     },
     {
       "index": 4,
@@ -162,15 +162,15 @@
         "一定要搅拌均匀，让每一根菜叶都裹上酱汁。"
       ],
       "produces": "凉拌油麦菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-you-mai-cai/step_4.jpg"
+      "image": "steps/vegetable_dish_liang-ban-you-mai-cai/step_4.jpg"
     }
   ],
   "tips": [
     "芝麻酱可以用花生酱代替，风味略有不同。",
     "芝麻酱一定要和油麦菜混合均匀才更好吃。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_liang-ban-you-mai-cai.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_liang-ban-you-mai-cai_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_liang-ban-you-mai-cai.jpg",
+  "overview_image": "overview/vegetable_dish_liang-ban-you-mai-cai_overview.jpg",
   "id": "vegetable_dish_liang-ban-you-mai-cai",
   "status": "published"
 }

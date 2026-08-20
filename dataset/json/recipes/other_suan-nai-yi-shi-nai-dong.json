@@ -80,7 +80,7 @@
         "必须使用冷水，防止吉利丁在水中融化"
       ],
       "produces": "泡软的吉利丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-nai-yi-shi-nai-dong/step_1.jpg"
+      "image": "steps/other_suan-nai-yi-shi-nai-dong/step_1.jpg"
     },
     {
       "index": 2,
@@ -91,7 +91,7 @@
         "控制火候，避免煮沸"
       ],
       "produces": "热淡奶油液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-nai-yi-shi-nai-dong/step_2.jpg"
+      "image": "steps/other_suan-nai-yi-shi-nai-dong/step_2.jpg"
     },
     {
       "index": 3,
@@ -102,7 +102,7 @@
         "利用余温充分溶解吉利丁"
       ],
       "produces": "吉利丁奶油混合液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-nai-yi-shi-nai-dong/step_3.jpg"
+      "image": "steps/other_suan-nai-yi-shi-nai-dong/step_3.jpg"
     },
     {
       "index": 4,
@@ -113,7 +113,7 @@
         "温度不宜过高，防止酸奶油水分离或失去活性"
       ],
       "produces": "酸奶奶冻液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-nai-yi-shi-nai-dong/step_4.jpg"
+      "image": "steps/other_suan-nai-yi-shi-nai-dong/step_4.jpg"
     },
     {
       "index": 5,
@@ -124,7 +124,7 @@
         "过筛能去除未溶解的颗粒和气泡，使口感更顺滑"
       ],
       "produces": "细腻奶冻液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-nai-yi-shi-nai-dong/step_5.jpg"
+      "image": "steps/other_suan-nai-yi-shi-nai-dong/step_5.jpg"
     },
     {
       "index": 6,
@@ -135,14 +135,14 @@
         "冷藏时间足够才能确保完全凝固"
       ],
       "produces": "酸奶意式奶冻",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-nai-yi-shi-nai-dong/step_6.jpg"
+      "image": "steps/other_suan-nai-yi-shi-nai-dong/step_6.jpg"
     }
   ],
   "tips": [
     "传统版本的意式奶冻只用淡奶油，且糖量更大，比较甜腻。此版本做了改良，吃起来负担更小。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_suan-nai-yi-shi-nai-dong.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_suan-nai-yi-shi-nai-dong_overview.jpg",
+  "cover_image": "ai-generated/other_suan-nai-yi-shi-nai-dong.jpg",
+  "overview_image": "overview/other_suan-nai-yi-shi-nai-dong_overview.jpg",
   "id": "other_suan-nai-yi-shi-nai-dong",
   "status": "published"
 }

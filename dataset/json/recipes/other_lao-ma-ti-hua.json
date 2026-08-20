@@ -184,7 +184,7 @@
         "必须充分浸泡才能保证口感绵密"
       ],
       "produces": "泡发的白芸豆",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-ma-ti-hua/step_1.jpg"
+      "image": "steps/other_lao-ma-ti-hua/step_1.jpg"
     },
     {
       "index": 2,
@@ -195,7 +195,7 @@
         "喷火枪去毛能去除异味"
       ],
       "produces": "洁净的猪蹄块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-ma-ti-hua/step_2.jpg"
+      "image": "steps/other_lao-ma-ti-hua/step_2.jpg"
     },
     {
       "index": 3,
@@ -206,7 +206,7 @@
         "一定要冷水下锅，才能逼出脏东西"
       ],
       "produces": "焯水后的猪蹄",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-ma-ti-hua/step_3.jpg"
+      "image": "steps/other_lao-ma-ti-hua/step_3.jpg"
     },
     {
       "index": 4,
@@ -217,7 +217,7 @@
         "如果中途发现水少需要加水，只能加热水"
       ],
       "produces": "奶白色蹄花汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-ma-ti-hua/step_4.jpg"
+      "image": "steps/other_lao-ma-ti-hua/step_4.jpg"
     },
     {
       "index": 5,
@@ -228,7 +228,7 @@
         "最后放盐可以保持肉质鲜嫩"
       ],
       "produces": "调味好的老妈蹄花",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-ma-ti-hua/step_5.jpg"
+      "image": "steps/other_lao-ma-ti-hua/step_5.jpg"
     },
     {
       "index": 6,
@@ -239,7 +239,7 @@
         "加入猪蹄原汤是蘸汁好吃的秘诀"
       ],
       "produces": "灵魂蘸水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-ma-ti-hua/step_6.jpg"
+      "image": "steps/other_lao-ma-ti-hua/step_6.jpg"
     },
     {
       "index": 7,
@@ -250,7 +250,7 @@
         "趁热食用口感最佳"
       ],
       "produces": "老妈蹄花套餐",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-ma-ti-hua/step_7.jpg"
+      "image": "steps/other_lao-ma-ti-hua/step_7.jpg"
     }
   ],
   "tips": [
@@ -259,8 +259,8 @@
     "汤色奶白的关键在于大火焯水和高压压煮的过程。",
     "中途加水必须加热水，否则冷水会使肉质收缩变柴。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_lao-ma-ti-hua.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_lao-ma-ti-hua_overview.jpg",
+  "cover_image": "ai-generated/other_lao-ma-ti-hua.jpg",
+  "overview_image": "overview/other_lao-ma-ti-hua_overview.jpg",
   "id": "other_lao-ma-ti-hua",
   "status": "published"
 }

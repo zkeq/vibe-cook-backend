@@ -116,7 +116,7 @@
         "米与水的比例建议控制在 1:2 左右"
       ],
       "produces": "浸泡的米",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wei-bo-lu-la-chang-bao-zai-fan/step_1.jpg"
+      "image": "steps/other_wei-bo-lu-la-chang-bao-zai-fan/step_1.jpg"
     },
     {
       "index": 2,
@@ -127,7 +127,7 @@
         "切腊肠时尽量斜切成薄片，更易出油入味"
       ],
       "produces": "八分熟米饭及预备配料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wei-bo-lu-la-chang-bao-zai-fan/step_2.jpg"
+      "image": "steps/other_wei-bo-lu-la-chang-bao-zai-fan/step_2.jpg"
     },
     {
       "index": 3,
@@ -138,7 +138,7 @@
         "取出碗时务必使用隔热手套，防止烫伤"
       ],
       "produces": "腊肠饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wei-bo-lu-la-chang-bao-zai-fan/step_3.jpg"
+      "image": "steps/other_wei-bo-lu-la-chang-bao-zai-fan/step_3.jpg"
     },
     {
       "index": 4,
@@ -149,7 +149,7 @@
         "青菜碗也要记得盖盖或使用微波炉专用保鲜膜"
       ],
       "produces": "熟青菜与红萝卜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wei-bo-lu-la-chang-bao-zai-fan/step_4.jpg"
+      "image": "steps/other_wei-bo-lu-la-chang-bao-zai-fan/step_4.jpg"
     },
     {
       "index": 5,
@@ -160,7 +160,7 @@
         "喜欢流心蛋的可以缩短至 40 秒"
       ],
       "produces": "初步完成的煲仔饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wei-bo-lu-la-chang-bao-zai-fan/step_5.jpg"
+      "image": "steps/other_wei-bo-lu-la-chang-bao-zai-fan/step_5.jpg"
     },
     {
       "index": 6,
@@ -171,7 +171,7 @@
         "叮热的生抽能激发出更浓郁的香气"
       ],
       "produces": "微波炉腊肠煲仔饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wei-bo-lu-la-chang-bao-zai-fan/step_6.jpg"
+      "image": "steps/other_wei-bo-lu-la-chang-bao-zai-fan/step_6.jpg"
     }
   ],
   "tips": [
@@ -179,8 +179,8 @@
     "多余的青菜可以沾着叮热的酱油食用",
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_wei-bo-lu-la-chang-bao-zai-fan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_wei-bo-lu-la-chang-bao-zai-fan_overview.jpg",
+  "cover_image": "ai-generated/other_wei-bo-lu-la-chang-bao-zai-fan.jpg",
+  "overview_image": "overview/other_wei-bo-lu-la-chang-bao-zai-fan_overview.jpg",
   "id": "other_wei-bo-lu-la-chang-bao-zai-fan",
   "status": "published"
 }

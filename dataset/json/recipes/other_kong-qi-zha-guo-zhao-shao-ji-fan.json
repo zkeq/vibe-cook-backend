@@ -101,7 +101,7 @@
         "确保糖分充分溶解"
       ],
       "produces": "照烧料汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-zhao-shao-ji-fan/step_1.jpg"
+      "image": "steps/other_kong-qi-zha-guo-zhao-shao-ji-fan/step_1.jpg"
     },
     {
       "index": 2,
@@ -112,7 +112,7 @@
         "饼干要压碎以便更好地吸收水分"
       ],
       "produces": "鸡肉混合物",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-zhao-shao-ji-fan/step_2.jpg"
+      "image": "steps/other_kong-qi-zha-guo-zhao-shao-ji-fan/step_2.jpg"
     },
     {
       "index": 3,
@@ -123,7 +123,7 @@
         "使用箔纸碗可以锁住肉汁"
       ],
       "produces": "待烤肉饼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-zhao-shao-ji-fan/step_3.jpg"
+      "image": "steps/other_kong-qi-zha-guo-zhao-shao-ji-fan/step_3.jpg"
     },
     {
       "index": 4,
@@ -134,7 +134,7 @@
         "注意观察表面上色情况"
       ],
       "produces": "熟鸡肉饼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-zhao-shao-ji-fan/step_4.jpg"
+      "image": "steps/other_kong-qi-zha-guo-zhao-shao-ji-fan/step_4.jpg"
     },
     {
       "index": 5,
@@ -145,7 +145,7 @@
         "切块时注意防烫"
       ],
       "produces": "照烧鸡饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-zhao-shao-ji-fan/step_5.jpg"
+      "image": "steps/other_kong-qi-zha-guo-zhao-shao-ji-fan/step_5.jpg"
     }
   ],
   "tips": [
@@ -153,8 +153,8 @@
     "操作时，需要注意温度以免烫伤",
     "参考资料源自库克美食教程: Air fryer Teriyaki Chicken Meatloaf"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_kong-qi-zha-guo-zhao-shao-ji-fan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_kong-qi-zha-guo-zhao-shao-ji-fan_overview.jpg",
+  "cover_image": "ai-generated/other_kong-qi-zha-guo-zhao-shao-ji-fan.jpg",
+  "overview_image": "overview/other_kong-qi-zha-guo-zhao-shao-ji-fan_overview.jpg",
   "id": "other_kong-qi-zha-guo-zhao-shao-ji-fan",
   "status": "published"
 }

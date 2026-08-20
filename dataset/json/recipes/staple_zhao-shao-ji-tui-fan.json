@@ -200,7 +200,7 @@
         "确保砧板平稳"
       ],
       "produces": "待处理鸡腿",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhao-shao-ji-tui-fan/step_1.jpg"
+      "image": "steps/staple_zhao-shao-ji-tui-fan/step_1.jpg"
     },
     {
       "index": 2,
@@ -211,7 +211,7 @@
         "用刀尖操作时注意安全"
       ],
       "produces": "露出骨头的鸡腿",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhao-shao-ji-tui-fan/step_2.jpg"
+      "image": "steps/staple_zhao-shao-ji-tui-fan/step_2.jpg"
     },
     {
       "index": 3,
@@ -222,7 +222,7 @@
         "尽量贴着骨头剔肉减少浪费"
       ],
       "produces": "骨肉分离的鸡腿",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhao-shao-ji-tui-fan/step_3.jpg"
+      "image": "steps/staple_zhao-shao-ji-tui-fan/step_3.jpg"
     },
     {
       "index": 4,
@@ -233,7 +233,7 @@
         "注意不要被碎骨刺到手"
       ],
       "produces": "去骨鸡腿肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhao-shao-ji-tui-fan/step_4.jpg"
+      "image": "steps/staple_zhao-shao-ji-tui-fan/step_4.jpg"
     },
     {
       "index": 5,
@@ -244,7 +244,7 @@
         "熟能生巧"
       ],
       "produces": "全部去骨鸡腿肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhao-shao-ji-tui-fan/step_5.jpg"
+      "image": "steps/staple_zhao-shao-ji-tui-fan/step_5.jpg"
     },
     {
       "index": 6,
@@ -255,7 +255,7 @@
         "可以稍微抓揉一下让调料分布均匀"
       ],
       "produces": "腌制好的鸡腿",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhao-shao-ji-tui-fan/step_6.jpg"
+      "image": "steps/staple_zhao-shao-ji-tui-fan/step_6.jpg"
     },
     {
       "index": 7,
@@ -266,7 +266,7 @@
         "如果用白糖代替蜂蜜，需搅拌至完全溶解"
       ],
       "produces": "照烧酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhao-shao-ji-tui-fan/step_7.jpg"
+      "image": "steps/staple_zhao-shao-ji-tui-fan/step_7.jpg"
     },
     {
       "index": 8,
@@ -277,7 +277,7 @@
         "水中加少许盐和油可保持蔬菜色泽"
       ],
       "produces": "熟蔬菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhao-shao-ji-tui-fan/step_8.jpg"
+      "image": "steps/staple_zhao-shao-ji-tui-fan/step_8.jpg"
     },
     {
       "index": 9,
@@ -288,7 +288,7 @@
         "小火爆香，避免蒜瓣焦糊"
       ],
       "produces": "香油蒜瓣",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhao-shao-ji-tui-fan/step_9.jpg"
+      "image": "steps/staple_zhao-shao-ji-tui-fan/step_9.jpg"
     },
     {
       "index": 10,
@@ -299,7 +299,7 @@
         "先煎鸡皮那一面，可以逼出鸡油"
       ],
       "produces": "金黄鸡腿",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhao-shao-ji-tui-fan/step_10.jpg"
+      "image": "steps/staple_zhao-shao-ji-tui-fan/step_10.jpg"
     },
     {
       "index": 11,
@@ -310,7 +310,7 @@
         "每隔3-5分钟翻搅一下防止糊锅"
       ],
       "produces": "照烧鸡腿",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhao-shao-ji-tui-fan/step_11.jpg"
+      "image": "steps/staple_zhao-shao-ji-tui-fan/step_11.jpg"
     },
     {
       "index": 12,
@@ -321,7 +321,7 @@
         "鸡腿稍微放凉一点更好切"
       ],
       "produces": "照烧鸡腿饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhao-shao-ji-tui-fan/step_12.jpg"
+      "image": "steps/staple_zhao-shao-ji-tui-fan/step_12.jpg"
     }
   ],
   "tips": [
@@ -329,8 +329,8 @@
     "焖煮时每隔 3-5 分钟翻搅一下，避免局部过热",
     "如果酱汁冒大泡、颜色变深褐，或边缘出现细密焦糖结晶，立即关火"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_zhao-shao-ji-tui-fan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_zhao-shao-ji-tui-fan_overview.jpg",
+  "cover_image": "ai-generated/staple_zhao-shao-ji-tui-fan.jpg",
+  "overview_image": "overview/staple_zhao-shao-ji-tui-fan_overview.jpg",
   "id": "staple_zhao-shao-ji-tui-fan",
   "status": "published"
 }

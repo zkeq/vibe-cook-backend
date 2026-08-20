@@ -116,7 +116,7 @@
         "切片厚薄均匀更好看"
       ],
       "produces": "柠檬装饰片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hai-bian-luo-ri/step_1.jpg"
+      "image": "steps/other_hai-bian-luo-ri/step_1.jpg"
     },
     {
       "index": 2,
@@ -127,7 +127,7 @@
         "透明杯子能完美展示分层效果"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hai-bian-luo-ri/step_2.jpg"
+      "image": "steps/other_hai-bian-luo-ri/step_2.jpg"
     },
     {
       "index": 3,
@@ -138,7 +138,7 @@
         "冰杯可以延长冰爽口感"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hai-bian-luo-ri/step_3.jpg"
+      "image": "steps/other_hai-bian-luo-ri/step_3.jpg"
     },
     {
       "index": 4,
@@ -149,7 +149,7 @@
         "糖浆密度大，会沉在底部"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hai-bian-luo-ri/step_4.jpg"
+      "image": "steps/other_hai-bian-luo-ri/step_4.jpg"
     },
     {
       "index": 5,
@@ -160,7 +160,7 @@
         "这是分层的关键，速度要慢"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hai-bian-luo-ri/step_5.jpg"
+      "image": "steps/other_hai-bian-luo-ri/step_5.jpg"
     },
     {
       "index": 6,
@@ -171,7 +171,7 @@
         "不要过度搅拌，否则会混合"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hai-bian-luo-ri/step_6.jpg"
+      "image": "steps/other_hai-bian-luo-ri/step_6.jpg"
     },
     {
       "index": 7,
@@ -182,7 +182,7 @@
         "增加清爽的口感"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hai-bian-luo-ri/step_7.jpg"
+      "image": "steps/other_hai-bian-luo-ri/step_7.jpg"
     },
     {
       "index": 8,
@@ -193,7 +193,7 @@
         "shake 可以让酒液充分冷却并混合"
       ],
       "produces": "蓝色混合酒液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hai-bian-luo-ri/step_8.jpg"
+      "image": "steps/other_hai-bian-luo-ri/step_8.jpg"
     },
     {
       "index": 9,
@@ -204,7 +204,7 @@
         "动作要轻柔，避免冲散下层"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hai-bian-luo-ri/step_9.jpg"
+      "image": "steps/other_hai-bian-luo-ri/step_9.jpg"
     },
     {
       "index": 10,
@@ -215,7 +215,7 @@
         "拍照后搅拌均匀饮用口感更佳"
       ],
       "produces": "成品鸡尾酒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hai-bian-luo-ri/step_10.jpg"
+      "image": "steps/other_hai-bian-luo-ri/step_10.jpg"
     }
   ],
   "tips": [
@@ -223,8 +223,8 @@
     "建议使用大冰块，融化速度慢，不会过快稀释酒精",
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_hai-bian-luo-ri.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_hai-bian-luo-ri_overview.jpg",
+  "cover_image": "ai-generated/other_hai-bian-luo-ri.jpg",
+  "overview_image": "overview/other_hai-bian-luo-ri_overview.jpg",
   "id": "other_hai-bian-luo-ri",
   "status": "published"
 }

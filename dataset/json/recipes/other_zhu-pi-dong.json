@@ -181,7 +181,7 @@
         "浸泡能有效泡出皮中血水"
       ],
       "produces": "初步去腥的猪皮块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-pi-dong/step_1.jpg"
+      "image": "steps/other_zhu-pi-dong/step_1.jpg"
     },
     {
       "index": 2,
@@ -192,7 +192,7 @@
         "白肉必须剔除干净，否则皮冻会浑浊且油腻"
       ],
       "produces": "纯净猪皮条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-pi-dong/step_2.jpg"
+      "image": "steps/other_zhu-pi-dong/step_2.jpg"
     },
     {
       "index": 3,
@@ -203,7 +203,7 @@
         "这是去除猪皮残留腥味和油脂的核心步骤"
       ],
       "produces": "完全净化的猪皮条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-pi-dong/step_3.jpg"
+      "image": "steps/other_zhu-pi-dong/step_3.jpg"
     },
     {
       "index": 4,
@@ -214,7 +214,7 @@
         "全程小火，避免汤汁过于浑浊"
       ],
       "produces": "皮冻汤底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-pi-dong/step_4.jpg"
+      "image": "steps/other_zhu-pi-dong/step_4.jpg"
     },
     {
       "index": 5,
@@ -226,7 +226,7 @@
         "室温晾凉后再移入冰箱"
       ],
       "produces": "半成品猪皮冻",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-pi-dong/step_5.jpg"
+      "image": "steps/other_zhu-pi-dong/step_5.jpg"
     },
     {
       "index": 6,
@@ -237,15 +237,15 @@
         "冷藏时间越久，口感越 Q 弹"
       ],
       "produces": "猪皮冻成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-pi-dong/step_6.jpg"
+      "image": "steps/other_zhu-pi-dong/step_6.jpg"
     }
   ],
   "tips": [
     "做猪皮冻最忌讳直接下锅煮，一定要先处理干净",
     "一定要用白醋和盐不断搓洗猪皮，这样保证煮好的猪皮晶莹剔透，而且还没腥味"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_zhu-pi-dong.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_zhu-pi-dong_overview.jpg",
+  "cover_image": "ai-generated/other_zhu-pi-dong.jpg",
+  "overview_image": "overview/other_zhu-pi-dong_overview.jpg",
   "id": "other_zhu-pi-dong",
   "status": "published"
 }

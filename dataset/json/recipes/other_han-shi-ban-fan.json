@@ -141,7 +141,7 @@
         "炒制时可加极少量盐提味"
       ],
       "produces": "熟蔬菜丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_han-shi-ban-fan/step_1.jpg"
+      "image": "steps/other_han-shi-ban-fan/step_1.jpg"
     },
     {
       "index": 2,
@@ -152,7 +152,7 @@
         "捞出后可以稍微沥干水分"
       ],
       "produces": "熟牛肉卷",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_han-shi-ban-fan/step_2.jpg"
+      "image": "steps/other_han-shi-ban-fan/step_2.jpg"
     },
     {
       "index": 3,
@@ -163,7 +163,7 @@
         "小火慢煎可以保证蛋黄不破"
       ],
       "produces": "溏心蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_han-shi-ban-fan/step_3.jpg"
+      "image": "steps/other_han-shi-ban-fan/step_3.jpg"
     },
     {
       "index": 4,
@@ -174,7 +174,7 @@
         "倒扣造型更美观"
       ],
       "produces": "碗装米饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_han-shi-ban-fan/step_4.jpg"
+      "image": "steps/other_han-shi-ban-fan/step_4.jpg"
     },
     {
       "index": 5,
@@ -185,7 +185,7 @@
         "颜色交错摆放视觉效果更佳"
       ],
       "produces": "摆盘半成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_han-shi-ban-fan/step_5.jpg"
+      "image": "steps/other_han-shi-ban-fan/step_5.jpg"
     },
     {
       "index": 6,
@@ -196,7 +196,7 @@
         "减肥人群可以使用无糖雪碧"
       ],
       "produces": "拌饭酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_han-shi-ban-fan/step_6.jpg"
+      "image": "steps/other_han-shi-ban-fan/step_6.jpg"
     },
     {
       "index": 7,
@@ -207,15 +207,15 @@
         "吃之前一定要搅拌均匀，让每一粒米饭都沾上酱汁"
       ],
       "produces": "韩式拌饭成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_han-shi-ban-fan/step_7.jpg"
+      "image": "steps/other_han-shi-ban-fan/step_7.jpg"
     }
   ],
   "tips": [
     "虽然备菜过程稍显繁琐，但搅拌均匀后口感非常丰富满足",
     "如果对外观有更高要求，可以用砂锅代替普通瓷碗，甚至可以加热出锅巴"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_han-shi-ban-fan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_han-shi-ban-fan_overview.jpg",
+  "cover_image": "ai-generated/other_han-shi-ban-fan.jpg",
+  "overview_image": "overview/other_han-shi-ban-fan_overview.jpg",
   "id": "other_han-shi-ban-fan",
   "status": "published"
 }

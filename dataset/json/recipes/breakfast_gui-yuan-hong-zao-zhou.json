@@ -67,7 +67,7 @@
         "浸泡可以使桂圆在煮制时更易出味"
       ],
       "produces": "浸泡后的桂圆肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_gui-yuan-hong-zao-zhou/step_1.jpg"
+      "image": "steps/breakfast_gui-yuan-hong-zao-zhou/step_1.jpg"
     },
     {
       "index": 2,
@@ -78,7 +78,7 @@
         "红枣褶皱处需仔细清洗"
       ],
       "produces": "浸泡后的红枣",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_gui-yuan-hong-zao-zhou/step_2.jpg"
+      "image": "steps/breakfast_gui-yuan-hong-zao-zhou/step_2.jpg"
     },
     {
       "index": 3,
@@ -89,7 +89,7 @@
         "淘米次数不宜过多，以免营养流失"
       ],
       "produces": "米水混合物",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_gui-yuan-hong-zao-zhou/step_3.jpg"
+      "image": "steps/breakfast_gui-yuan-hong-zao-zhou/step_3.jpg"
     },
     {
       "index": 4,
@@ -100,7 +100,7 @@
         "连同浸泡的水一并倒入可增加风味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_gui-yuan-hong-zao-zhou/step_4.jpg"
+      "image": "steps/breakfast_gui-yuan-hong-zao-zhou/step_4.jpg"
     },
     {
       "index": 5,
@@ -111,15 +111,15 @@
         "煮好后可焖 5-10 分钟，口感会更粘稠"
       ],
       "produces": "桂圆红枣粥",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_gui-yuan-hong-zao-zhou/step_5.jpg"
+      "image": "steps/breakfast_gui-yuan-hong-zao-zhou/step_5.jpg"
     }
   ],
   "tips": [
     "对粥的稀稠程度有不同喜好的朋友可以酌情增加或减少水的用量",
     "煮出来的粥是甜的，可以通过控制加入桂圆的数量控制甜度"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_gui-yuan-hong-zao-zhou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_gui-yuan-hong-zao-zhou_overview.jpg",
+  "cover_image": "ai-generated/breakfast_gui-yuan-hong-zao-zhou.jpg",
+  "overview_image": "overview/breakfast_gui-yuan-hong-zao-zhou_overview.jpg",
   "id": "breakfast_gui-yuan-hong-zao-zhou",
   "status": "published"
 }

@@ -115,7 +115,7 @@
         "注意清洗叶片根部的泥沙"
       ],
       "produces": "洗净的生菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_hao-you-sheng-cai/step_1.jpg"
+      "image": "steps/vegetable_dish_hao-you-sheng-cai/step_1.jpg"
     },
     {
       "index": 2,
@@ -126,7 +126,7 @@
         "水中加油盐可以保持生菜翠绿"
       ],
       "produces": "沸腾的调味水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_hao-you-sheng-cai/step_2.jpg"
+      "image": "steps/vegetable_dish_hao-you-sheng-cai/step_2.jpg"
     },
     {
       "index": 3,
@@ -137,7 +137,7 @@
         "时间不宜过长，否则生菜会变软失去脆感"
       ],
       "produces": "熟生菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_hao-you-sheng-cai/step_3.jpg"
+      "image": "steps/vegetable_dish_hao-you-sheng-cai/step_3.jpg"
     },
     {
       "index": 4,
@@ -148,7 +148,7 @@
         "尽量控干水分，避免稀释酱汁"
       ],
       "produces": "摆盘好的生菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_hao-you-sheng-cai/step_4.jpg"
+      "image": "steps/vegetable_dish_hao-you-sheng-cai/step_4.jpg"
     },
     {
       "index": 5,
@@ -159,7 +159,7 @@
         "加入适量清水可以中和蚝油的咸度"
       ],
       "produces": "调味汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_hao-you-sheng-cai/step_5.jpg"
+      "image": "steps/vegetable_dish_hao-you-sheng-cai/step_5.jpg"
     },
     {
       "index": 6,
@@ -170,7 +170,7 @@
         "中小火爆香，防止蒜泥炒焦变苦"
       ],
       "produces": "蒜油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_hao-you-sheng-cai/step_6.jpg"
+      "image": "steps/vegetable_dish_hao-you-sheng-cai/step_6.jpg"
     },
     {
       "index": 7,
@@ -181,7 +181,7 @@
         "煮沸即关火，保持蒜香和酱油的鲜味"
       ],
       "produces": "热蚝油蒜汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_hao-you-sheng-cai/step_7.jpg"
+      "image": "steps/vegetable_dish_hao-you-sheng-cai/step_7.jpg"
     },
     {
       "index": 8,
@@ -192,7 +192,7 @@
         "确保每片生菜都能沾到酱汁"
       ],
       "produces": "蚝油生菜成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_hao-you-sheng-cai/step_8.jpg"
+      "image": "steps/vegetable_dish_hao-you-sheng-cai/step_8.jpg"
     }
   ],
   "tips": [
@@ -200,8 +200,8 @@
     "焯水时加入油盐是蔬菜亮绿的关键秘诀。",
     "蒜泥的用量可以根据个人口味适当增减。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_hao-you-sheng-cai.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_hao-you-sheng-cai_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_hao-you-sheng-cai.jpg",
+  "overview_image": "overview/vegetable_dish_hao-you-sheng-cai_overview.jpg",
   "id": "vegetable_dish_hao-you-sheng-cai",
   "status": "published"
 }

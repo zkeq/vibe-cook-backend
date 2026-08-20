@@ -58,7 +58,7 @@
         "南瓜皮含有营养，如果喜欢也可以不去皮蒸，但需要彻底洗净"
       ],
       "produces": "处理好的南瓜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-zheng-nan-gua/step_1.jpg"
+      "image": "steps/vegetable_dish_qing-zheng-nan-gua/step_1.jpg"
     },
     {
       "index": 2,
@@ -69,7 +69,7 @@
         "切片厚度要均匀，保证受热同步"
       ],
       "produces": "南瓜片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-zheng-nan-gua/step_2.jpg"
+      "image": "steps/vegetable_dish_qing-zheng-nan-gua/step_2.jpg"
     },
     {
       "index": 3,
@@ -80,7 +80,7 @@
         "水量要充足防止干烧"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-zheng-nan-gua/step_3.jpg"
+      "image": "steps/vegetable_dish_qing-zheng-nan-gua/step_3.jpg"
     },
     {
       "index": 4,
@@ -91,7 +91,7 @@
         "尽量不要重叠太多，方便蒸透"
       ],
       "produces": "待蒸南瓜盘",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-zheng-nan-gua/step_4.jpg"
+      "image": "steps/vegetable_dish_qing-zheng-nan-gua/step_4.jpg"
     },
     {
       "index": 5,
@@ -102,7 +102,7 @@
         "水开后再入锅效果更好"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-zheng-nan-gua/step_5.jpg"
+      "image": "steps/vegetable_dish_qing-zheng-nan-gua/step_5.jpg"
     },
     {
       "index": 6,
@@ -113,7 +113,7 @@
         "用筷子测试是判断是否蒸熟的好方法，能轻松穿透即为熟了"
       ],
       "produces": "熟南瓜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-zheng-nan-gua/step_6.jpg"
+      "image": "steps/vegetable_dish_qing-zheng-nan-gua/step_6.jpg"
     },
     {
       "index": 7,
@@ -124,7 +124,7 @@
         "注意防烫"
       ],
       "produces": "清蒸南瓜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-zheng-nan-gua/step_7.jpg"
+      "image": "steps/vegetable_dish_qing-zheng-nan-gua/step_7.jpg"
     }
   ],
   "tips": [
@@ -132,8 +132,8 @@
     "南瓜皮含有营养，如果喜欢也可以不去皮蒸，但需要彻底洗净。",
     "蒸的时间取决于南瓜块的大小和厚度，以及南瓜的品种。用筷子测试是判断是否蒸熟的好方法。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_qing-zheng-nan-gua.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_qing-zheng-nan-gua_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_qing-zheng-nan-gua.jpg",
+  "overview_image": "overview/vegetable_dish_qing-zheng-nan-gua_overview.jpg",
   "id": "vegetable_dish_qing-zheng-nan-gua",
   "status": "published"
 }

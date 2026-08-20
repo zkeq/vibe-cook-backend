@@ -96,7 +96,7 @@
         "切块大小均匀可以保证同时煮熟"
       ],
       "produces": "切好的食材",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_tang-mian/step_1.jpg"
+      "image": "steps/staple_tang-mian/step_1.jpg"
     },
     {
       "index": 2,
@@ -107,7 +107,7 @@
         "冷水下锅更容易煮出血沫"
       ],
       "produces": "半熟肉类",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_tang-mian/step_2.jpg"
+      "image": "steps/staple_tang-mian/step_2.jpg"
     },
     {
       "index": 3,
@@ -118,7 +118,7 @@
         "水量需足够浸没后续加入的面条"
       ],
       "produces": "沸水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_tang-mian/step_3.jpg"
+      "image": "steps/staple_tang-mian/step_3.jpg"
     },
     {
       "index": 4,
@@ -129,7 +129,7 @@
         "确保肉类和硬质蔬菜完全熟透"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_tang-mian/step_4.jpg"
+      "image": "steps/staple_tang-mian/step_4.jpg"
     },
     {
       "index": 5,
@@ -140,7 +140,7 @@
         "加入面后若产生白色泡沫，可抬起锅盖通气或撤下锅盖"
       ],
       "produces": "软滑的面条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_tang-mian/step_5.jpg"
+      "image": "steps/staple_tang-mian/step_5.jpg"
     },
     {
       "index": 6,
@@ -151,7 +151,7 @@
         "青菜不宜久煮，以免变色流失营养"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_tang-mian/step_6.jpg"
+      "image": "steps/staple_tang-mian/step_6.jpg"
     },
     {
       "index": 7,
@@ -162,15 +162,15 @@
         "关火后再调味可以更好控制咸淡"
       ],
       "produces": "汤面成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_tang-mian/step_7.jpg"
+      "image": "steps/staple_tang-mian/step_7.jpg"
     }
   ],
   "tips": [
     "操作流程可根据自己喜好更改，多多尝试会有惊喜",
     "如掌握不好加盐量，可采用少量多次添加的方法，以免过量"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_tang-mian.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_tang-mian_overview.jpg",
+  "cover_image": "ai-generated/staple_tang-mian.jpg",
+  "overview_image": "overview/staple_tang-mian_overview.jpg",
   "id": "staple_tang-mian",
   "status": "published"
 }

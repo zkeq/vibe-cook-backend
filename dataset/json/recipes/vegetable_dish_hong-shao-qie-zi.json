@@ -165,7 +165,7 @@
         "确保洗净表面的农药残留和杂质"
       ],
       "produces": "洗净的蔬菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_hong-shao-qie-zi/step_1.jpg"
+      "image": "steps/vegetable_dish_hong-shao-qie-zi/step_1.jpg"
     },
     {
       "index": 2,
@@ -176,7 +176,7 @@
         "蔬菜大小尽量一致，受热更均匀"
       ],
       "produces": "切好的葱蒜及蔬果块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_hong-shao-qie-zi/step_2.jpg"
+      "image": "steps/vegetable_dish_hong-shao-qie-zi/step_2.jpg"
     },
     {
       "index": 3,
@@ -187,7 +187,7 @@
         "茄子切好后如果不立即挂糊，可以撒少许盐防止变色"
       ],
       "produces": "茄子菱形块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_hong-shao-qie-zi/step_3.jpg"
+      "image": "steps/vegetable_dish_hong-shao-qie-zi/step_3.jpg"
     },
     {
       "index": 4,
@@ -198,7 +198,7 @@
         "水要分次加入，避免面糊过稀"
       ],
       "produces": "粘稠面糊",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_hong-shao-qie-zi/step_4.jpg"
+      "image": "steps/vegetable_dish_hong-shao-qie-zi/step_4.jpg"
     },
     {
       "index": 5,
@@ -209,7 +209,7 @@
         "淀粉能增加茄块炸后的酥脆感"
       ],
       "produces": "淀粉面糊",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_hong-shao-qie-zi/step_5.jpg"
+      "image": "steps/vegetable_dish_hong-shao-qie-zi/step_5.jpg"
     },
     {
       "index": 6,
@@ -220,7 +220,7 @@
         "加入鸡蛋能增加面糊的粘附力和色泽"
       ],
       "produces": "最终面糊",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_hong-shao-qie-zi/step_6.jpg"
+      "image": "steps/vegetable_dish_hong-shao-qie-zi/step_6.jpg"
     },
     {
       "index": 7,
@@ -231,7 +231,7 @@
         "确保每个面都挂上糊，防止炸的时候吸油过多"
       ],
       "produces": "挂糊的茄块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_hong-shao-qie-zi/step_7.jpg"
+      "image": "steps/vegetable_dish_hong-shao-qie-zi/step_7.jpg"
     },
     {
       "index": 8,
@@ -242,7 +242,7 @@
         "小火下锅防止烫伤和受热不均，中火炸透上色"
       ],
       "produces": "金黄酥脆的茄块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_hong-shao-qie-zi/step_8.jpg"
+      "image": "steps/vegetable_dish_hong-shao-qie-zi/step_8.jpg"
     },
     {
       "index": 9,
@@ -253,7 +253,7 @@
         "西红柿炒出沙后味道更好"
       ],
       "produces": "炒香的配菜基底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_hong-shao-qie-zi/step_9.jpg"
+      "image": "steps/vegetable_dish_hong-shao-qie-zi/step_9.jpg"
     },
     {
       "index": 10,
@@ -264,7 +264,7 @@
         "水量决定了最后的汤汁多少"
       ],
       "produces": "炖煮中的菜肴",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_hong-shao-qie-zi/step_10.jpg"
+      "image": "steps/vegetable_dish_hong-shao-qie-zi/step_10.jpg"
     },
     {
       "index": 11,
@@ -275,7 +275,7 @@
         "盐量可根据个人口味微调"
       ],
       "produces": "调味后的菜肴",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_hong-shao-qie-zi/step_11.jpg"
+      "image": "steps/vegetable_dish_hong-shao-qie-zi/step_11.jpg"
     },
     {
       "index": 12,
@@ -286,7 +286,7 @@
         "收汁时注意观察，避免糊锅"
       ],
       "produces": "红烧茄子成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_hong-shao-qie-zi/step_12.jpg"
+      "image": "steps/vegetable_dish_hong-shao-qie-zi/step_12.jpg"
     }
   ],
   "tips": [
@@ -294,8 +294,8 @@
     "茄子挂糊油炸是关键，油温控制决定了茄子是否油腻",
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_hong-shao-qie-zi.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_hong-shao-qie-zi_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_hong-shao-qie-zi.jpg",
+  "overview_image": "overview/vegetable_dish_hong-shao-qie-zi_overview.jpg",
   "id": "vegetable_dish_hong-shao-qie-zi",
   "status": "published"
 }

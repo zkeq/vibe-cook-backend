@@ -160,7 +160,7 @@
         "划刀有助于入味"
       ],
       "produces": "处理过的鸡全翅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_tian-la-kao-quan-chi/step_1.jpg"
+      "image": "steps/meat_dish_tian-la-kao-quan-chi/step_1.jpg"
     },
     {
       "index": 2,
@@ -171,7 +171,7 @@
         "确保所有调料都已加入"
       ],
       "produces": "待腌制的鸡翅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_tian-la-kao-quan-chi/step_2.jpg"
+      "image": "steps/meat_dish_tian-la-kao-quan-chi/step_2.jpg"
     },
     {
       "index": 3,
@@ -182,7 +182,7 @@
         "刀口处多涂抹一些更入味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_tian-la-kao-quan-chi/step_3.jpg"
+      "image": "steps/meat_dish_tian-la-kao-quan-chi/step_3.jpg"
     },
     {
       "index": 4,
@@ -193,7 +193,7 @@
         "腌制时间建议在 60 到 180 分钟之间"
       ],
       "produces": "腌制好的鸡翅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_tian-la-kao-quan-chi/step_4.jpg"
+      "image": "steps/meat_dish_tian-la-kao-quan-chi/step_4.jpg"
     },
     {
       "index": 5,
@@ -204,7 +204,7 @@
         "如不喜欢焦褐色外观可不倒残余酱汁"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_tian-la-kao-quan-chi/step_5.jpg"
+      "image": "steps/meat_dish_tian-la-kao-quan-chi/step_5.jpg"
     },
     {
       "index": 6,
@@ -215,7 +215,7 @@
         "实际效果请根据炸锅功率微调"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_tian-la-kao-quan-chi/step_6.jpg"
+      "image": "steps/meat_dish_tian-la-kao-quan-chi/step_6.jpg"
     },
     {
       "index": 7,
@@ -226,7 +226,7 @@
         "刚出锅的锡纸盘很烫，请使用夹子或隔热材料"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_tian-la-kao-quan-chi/step_7.jpg"
+      "image": "steps/meat_dish_tian-la-kao-quan-chi/step_7.jpg"
     },
     {
       "index": 8,
@@ -237,7 +237,7 @@
         "如不喜欢微焦感，每面只需烤 20 分钟"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_tian-la-kao-quan-chi/step_8.jpg"
+      "image": "steps/meat_dish_tian-la-kao-quan-chi/step_8.jpg"
     },
     {
       "index": 9,
@@ -248,7 +248,7 @@
         "趁热食用口感最佳"
       ],
       "produces": "甜辣烤全翅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_tian-la-kao-quan-chi/step_9.jpg"
+      "image": "steps/meat_dish_tian-la-kao-quan-chi/step_9.jpg"
     }
   ],
   "tips": [
@@ -260,8 +260,8 @@
     "腌制时间在 60 分钟到 180 分钟之间为宜",
     "操作时注意防烫，使用夹子或隔热手套拿取锡纸盘"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_tian-la-kao-quan-chi.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_tian-la-kao-quan-chi_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_tian-la-kao-quan-chi.jpg",
+  "overview_image": "overview/meat_dish_tian-la-kao-quan-chi_overview.jpg",
   "id": "meat_dish_tian-la-kao-quan-chi",
   "status": "published"
 }

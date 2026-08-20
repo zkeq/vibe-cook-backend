@@ -146,7 +146,7 @@
         "姜分为段和末两种用途"
       ],
       "produces": "切好的葱姜蒜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zhu-rou-hui-suan-cai/step_1.jpg"
+      "image": "steps/meat_dish_zhu-rou-hui-suan-cai/step_1.jpg"
     },
     {
       "index": 2,
@@ -157,7 +157,7 @@
         "冲洗次数取决于口味：喜欢酸冲2遍，怕酸冲3-4遍，不能不冲。"
       ],
       "produces": "酸菜丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zhu-rou-hui-suan-cai/step_2.jpg"
+      "image": "steps/meat_dish_zhu-rou-hui-suan-cai/step_2.jpg"
     },
     {
       "index": 3,
@@ -168,7 +168,7 @@
         "冷水入锅更有利于去除血水"
       ],
       "produces": "焯水后的肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zhu-rou-hui-suan-cai/step_3.jpg"
+      "image": "steps/meat_dish_zhu-rou-hui-suan-cai/step_3.jpg"
     },
     {
       "index": 4,
@@ -179,7 +179,7 @@
         "切片厚度要均匀"
       ],
       "produces": "切好的五花肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zhu-rou-hui-suan-cai/step_4.jpg"
+      "image": "steps/meat_dish_zhu-rou-hui-suan-cai/step_4.jpg"
     },
     {
       "index": 5,
@@ -190,7 +190,7 @@
         "一定要擦干，否则加入油会崩溅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zhu-rou-hui-suan-cai/step_5.jpg"
+      "image": "steps/meat_dish_zhu-rou-hui-suan-cai/step_5.jpg"
     },
     {
       "index": 6,
@@ -201,7 +201,7 @@
         "将五花肉油脂煎出后口感更香"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zhu-rou-hui-suan-cai/step_6.jpg"
+      "image": "steps/meat_dish_zhu-rou-hui-suan-cai/step_6.jpg"
     },
     {
       "index": 7,
@@ -212,7 +212,7 @@
         "酸菜炒过后会更入味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zhu-rou-hui-suan-cai/step_7.jpg"
+      "image": "steps/meat_dish_zhu-rou-hui-suan-cai/step_7.jpg"
     },
     {
       "index": 8,
@@ -223,7 +223,7 @@
         "水量要一次加足"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zhu-rou-hui-suan-cai/step_8.jpg"
+      "image": "steps/meat_dish_zhu-rou-hui-suan-cai/step_8.jpg"
     },
     {
       "index": 9,
@@ -234,7 +234,7 @@
         "可以用筷子轻松扎穿来判断软烂程度"
       ],
       "produces": "炖好的猪肉酸菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zhu-rou-hui-suan-cai/step_9.jpg"
+      "image": "steps/meat_dish_zhu-rou-hui-suan-cai/step_9.jpg"
     },
     {
       "index": 10,
@@ -245,7 +245,7 @@
         "收汤时注意不要糊锅，可以适当翻动"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zhu-rou-hui-suan-cai/step_10.jpg"
+      "image": "steps/meat_dish_zhu-rou-hui-suan-cai/step_10.jpg"
     },
     {
       "index": 11,
@@ -256,7 +256,7 @@
         "盐可以一点一点加，边加边尝味道"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zhu-rou-hui-suan-cai/step_11.jpg"
+      "image": "steps/meat_dish_zhu-rou-hui-suan-cai/step_11.jpg"
     },
     {
       "index": 12,
@@ -267,7 +267,7 @@
         "盛出后即可享用"
       ],
       "produces": "猪肉烩酸菜成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zhu-rou-hui-suan-cai/step_12.jpg"
+      "image": "steps/meat_dish_zhu-rou-hui-suan-cai/step_12.jpg"
     }
   ],
   "tips": [
@@ -275,8 +275,8 @@
     "调味的技巧，最后加盐时，可以一点一点加入，搅拌后品尝味道，直到可以接受的口味。",
     "本菜品有酸菜的特殊风味。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_zhu-rou-hui-suan-cai.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_zhu-rou-hui-suan-cai_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_zhu-rou-hui-suan-cai.jpg",
+  "overview_image": "overview/meat_dish_zhu-rou-hui-suan-cai_overview.jpg",
   "id": "meat_dish_zhu-rou-hui-suan-cai",
   "status": "published"
 }

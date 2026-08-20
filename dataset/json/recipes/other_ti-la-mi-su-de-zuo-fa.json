@@ -112,7 +112,7 @@
         "装蛋白的碗必须无油无水"
       ],
       "produces": "分离好的蛋黄和蛋清",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ti-la-mi-su-de-zuo-fa/step_1.jpg"
+      "image": "steps/other_ti-la-mi-su-de-zuo-fa/step_1.jpg"
     },
     {
       "index": 2,
@@ -123,7 +123,7 @@
         "打发程度决定了成品的轻盈感"
       ],
       "produces": "打发蛋白霜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ti-la-mi-su-de-zuo-fa/step_2.jpg"
+      "image": "steps/other_ti-la-mi-su-de-zuo-fa/step_2.jpg"
     },
     {
       "index": 3,
@@ -134,7 +134,7 @@
         "分次加入有助于砂糖充分溶解"
       ],
       "produces": "蛋黄糖液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ti-la-mi-su-de-zuo-fa/step_3.jpg"
+      "image": "steps/other_ti-la-mi-su-de-zuo-fa/step_3.jpg"
     },
     {
       "index": 4,
@@ -145,7 +145,7 @@
         "芝士提前室温软化会更容易搅拌"
       ],
       "produces": "蛋黄芝士糊",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ti-la-mi-su-de-zuo-fa/step_4.jpg"
+      "image": "steps/other_ti-la-mi-su-de-zuo-fa/step_4.jpg"
     },
     {
       "index": 5,
@@ -156,7 +156,7 @@
         "不喜酒味可省略此步"
       ],
       "produces": "风味芝士糊",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ti-la-mi-su-de-zuo-fa/step_5.jpg"
+      "image": "steps/other_ti-la-mi-su-de-zuo-fa/step_5.jpg"
     },
     {
       "index": 6,
@@ -167,7 +167,7 @@
         "严禁转圈搅拌，防止蛋白消泡"
       ],
       "produces": "提拉米苏奶酪液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ti-la-mi-su-de-zuo-fa/step_6.jpg"
+      "image": "steps/other_ti-la-mi-su-de-zuo-fa/step_6.jpg"
     },
     {
       "index": 7,
@@ -178,7 +178,7 @@
         "速度要快，饼干泡太久会断裂软烂"
       ],
       "produces": "咖啡手指饼干底层",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ti-la-mi-su-de-zuo-fa/step_7.jpg"
+      "image": "steps/other_ti-la-mi-su-de-zuo-fa/step_7.jpg"
     },
     {
       "index": 8,
@@ -189,7 +189,7 @@
         "可根据容器高度酌情调整层数"
       ],
       "produces": "待冷藏的提拉米苏",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ti-la-mi-su-de-zuo-fa/step_8.jpg"
+      "image": "steps/other_ti-la-mi-su-de-zuo-fa/step_8.jpg"
     },
     {
       "index": 9,
@@ -200,7 +200,7 @@
         "冷藏时间越久，风味融合越好，心急可提前取出"
       ],
       "produces": "凝固的提拉米苏",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ti-la-mi-su-de-zuo-fa/step_9.jpg"
+      "image": "steps/other_ti-la-mi-su-de-zuo-fa/step_9.jpg"
     },
     {
       "index": 10,
@@ -211,7 +211,7 @@
         "吃之前再筛粉可以防止粉末受潮变黑"
       ],
       "produces": "成品提拉米苏",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ti-la-mi-su-de-zuo-fa/step_10.jpg"
+      "image": "steps/other_ti-la-mi-su-de-zuo-fa/step_10.jpg"
     }
   ],
   "tips": [
@@ -219,8 +219,8 @@
     "如对制作流程有改进建议，欢迎提出 Issue 或 Pull request",
     "容器建议使用玻璃乐扣，方便观察分层且密封性好"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ti-la-mi-su-de-zuo-fa.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ti-la-mi-su-de-zuo-fa_overview.jpg",
+  "cover_image": "ai-generated/other_ti-la-mi-su-de-zuo-fa.jpg",
+  "overview_image": "overview/other_ti-la-mi-su-de-zuo-fa_overview.jpg",
   "id": "other_ti-la-mi-su-de-zuo-fa",
   "status": "published"
 }

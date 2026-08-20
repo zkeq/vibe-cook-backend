@@ -124,7 +124,7 @@
         "切丁大小要一致，方便受热均匀"
       ],
       "produces": "馒头丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-mo/step_1.jpg"
+      "image": "steps/staple_chao-mo/step_1.jpg"
     },
     {
       "index": 2,
@@ -135,7 +135,7 @@
         "可在此步加入盐和五香粉各1g调味"
       ],
       "produces": "蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-mo/step_2.jpg"
+      "image": "steps/staple_chao-mo/step_2.jpg"
     },
     {
       "index": 3,
@@ -146,7 +146,7 @@
         "蛋液不宜过多，保证每块馒头均匀挂糊即可"
       ],
       "produces": "裹蛋馒头丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-mo/step_3.jpg"
+      "image": "steps/staple_chao-mo/step_3.jpg"
     },
     {
       "index": 4,
@@ -157,7 +157,7 @@
         "不锈钢锅建议先倒油再烧热，防止粘锅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-mo/step_4.jpg"
+      "image": "steps/staple_chao-mo/step_4.jpg"
     },
     {
       "index": 5,
@@ -168,7 +168,7 @@
         "动作要快，防止局部过热"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-mo/step_5.jpg"
+      "image": "steps/staple_chao-mo/step_5.jpg"
     },
     {
       "index": 6,
@@ -179,7 +179,7 @@
         "此步骤是酥脆的关键，要有耐心"
       ],
       "produces": "金黄馍丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-mo/step_6.jpg"
+      "image": "steps/staple_chao-mo/step_6.jpg"
     },
     {
       "index": 7,
@@ -190,7 +190,7 @@
         "撒粉要均匀，快速翻炒均匀"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-mo/step_7.jpg"
+      "image": "steps/staple_chao-mo/step_7.jpg"
     },
     {
       "index": 8,
@@ -201,7 +201,7 @@
         "葱花断生即可，保留清香味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-mo/step_8.jpg"
+      "image": "steps/staple_chao-mo/step_8.jpg"
     },
     {
       "index": 9,
@@ -212,7 +212,7 @@
         "趁热食用口感最佳"
       ],
       "produces": "炒馍",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-mo/step_9.jpg"
+      "image": "steps/staple_chao-mo/step_9.jpg"
     }
   ],
   "tips": [
@@ -222,8 +222,8 @@
     "如果喜欢吃脆的，可以将火开到最小多翻炒一会，关火后趁锅热再放置一会再倒出",
     "辅料可根据个人口味放入蒜末、蒜苗等，可以单独爆香后再混合"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_chao-mo.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_chao-mo_overview.jpg",
+  "cover_image": "ai-generated/staple_chao-mo.jpg",
+  "overview_image": "overview/staple_chao-mo_overview.jpg",
   "id": "staple_chao-mo",
   "status": "published"
 }

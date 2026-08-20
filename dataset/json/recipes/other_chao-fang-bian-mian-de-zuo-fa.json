@@ -94,7 +94,7 @@
         "切块均匀有利于受热一致"
       ],
       "produces": "火腿肠丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-fang-bian-mian-de-zuo-fa/step_1.jpg"
+      "image": "steps/other_chao-fang-bian-mian-de-zuo-fa/step_1.jpg"
     },
     {
       "index": 2,
@@ -106,7 +106,7 @@
         "不要煮熟"
       ],
       "produces": "半熟面条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-fang-bian-mian-de-zuo-fa/step_2.jpg"
+      "image": "steps/other_chao-fang-bian-mian-de-zuo-fa/step_2.jpg"
     },
     {
       "index": 3,
@@ -118,7 +118,7 @@
         "不要长时间浸泡"
       ],
       "produces": "Q弹面条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-fang-bian-mian-de-zuo-fa/step_3.jpg"
+      "image": "steps/other_chao-fang-bian-mian-de-zuo-fa/step_3.jpg"
     },
     {
       "index": 4,
@@ -129,7 +129,7 @@
         "粉包全放会太咸"
       ],
       "produces": "混合调料汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-fang-bian-mian-de-zuo-fa/step_4.jpg"
+      "image": "steps/other_chao-fang-bian-mian-de-zuo-fa/step_4.jpg"
     },
     {
       "index": 5,
@@ -141,7 +141,7 @@
         "盛出后不需洗锅"
       ],
       "produces": "熟鸡蛋块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-fang-bian-mian-de-zuo-fa/step_5.jpg"
+      "image": "steps/other_chao-fang-bian-mian-de-zuo-fa/step_5.jpg"
     },
     {
       "index": 6,
@@ -152,7 +152,7 @@
         "保持大火翻炒"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-fang-bian-mian-de-zuo-fa/step_6.jpg"
+      "image": "steps/other_chao-fang-bian-mian-de-zuo-fa/step_6.jpg"
     },
     {
       "index": 7,
@@ -163,7 +163,7 @@
         "确保调料均匀裹在面条上"
       ],
       "produces": "炒方便面成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-fang-bian-mian-de-zuo-fa/step_7.jpg"
+      "image": "steps/other_chao-fang-bian-mian-de-zuo-fa/step_7.jpg"
     }
   ],
   "tips": [
@@ -171,8 +171,8 @@
     "冷水冲面是保证面条下锅炒不坨、不粘锅、保持 Q 弹的核心原理。",
     "进阶方案：将面饼凉水浸泡 2 分钟后捞出沥干，上锅大火蒸 8 分钟，口感更劲道。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_chao-fang-bian-mian-de-zuo-fa.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_chao-fang-bian-mian-de-zuo-fa_overview.jpg",
+  "cover_image": "ai-generated/other_chao-fang-bian-mian-de-zuo-fa.jpg",
+  "overview_image": "overview/other_chao-fang-bian-mian-de-zuo-fa_overview.jpg",
   "id": "other_chao-fang-bian-mian-de-zuo-fa",
   "status": "published"
 }

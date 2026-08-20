@@ -150,7 +150,7 @@
         "西红柿切小块一点更容易炒出汁"
       ],
       "produces": "备好的食材",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-ji-dan-gua-mian/step_1.jpg"
+      "image": "steps/other_xi-hong-shi-ji-dan-gua-mian/step_1.jpg"
     },
     {
       "index": 2,
@@ -162,7 +162,7 @@
         "炒蛋时间不宜过长，刚凝固即可"
       ],
       "produces": "炒好的鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-ji-dan-gua-mian/step_2.jpg"
+      "image": "steps/other_xi-hong-shi-ji-dan-gua-mian/step_2.jpg"
     },
     {
       "index": 3,
@@ -174,7 +174,7 @@
         "加糖是为了平衡西红柿的酸味"
       ],
       "produces": "西红柿鸡蛋臊子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-ji-dan-gua-mian/step_3.jpg"
+      "image": "steps/other_xi-hong-shi-ji-dan-gua-mian/step_3.jpg"
     },
     {
       "index": 4,
@@ -186,7 +186,7 @@
         "看到面条两侧呈透明状即代表熟透"
       ],
       "produces": "西红柿鸡蛋挂面",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-ji-dan-gua-mian/step_4.jpg"
+      "image": "steps/other_xi-hong-shi-ji-dan-gua-mian/step_4.jpg"
     }
   ],
   "tips": [
@@ -194,8 +194,8 @@
     "熬臊子过程中加入 2g 白胡椒粉提升香辛口味",
     "煮面条技巧在于煮沸就加冷水，循环往复两三次，面条不粘且口感劲道"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_xi-hong-shi-ji-dan-gua-mian.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_xi-hong-shi-ji-dan-gua-mian_overview.jpg",
+  "cover_image": "ai-generated/other_xi-hong-shi-ji-dan-gua-mian.jpg",
+  "overview_image": "overview/other_xi-hong-shi-ji-dan-gua-mian_overview.jpg",
   "id": "other_xi-hong-shi-ji-dan-gua-mian",
   "status": "published"
 }

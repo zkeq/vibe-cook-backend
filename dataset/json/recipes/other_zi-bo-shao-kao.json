@@ -100,7 +100,7 @@
         "建议放入冰箱冷冻 30 分钟后再切，更易成型"
       ],
       "produces": "五花肉串",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zi-bo-shao-kao/step_1.jpg"
+      "image": "steps/other_zi-bo-shao-kao/step_1.jpg"
     },
     {
       "index": 2,
@@ -111,7 +111,7 @@
         "葱段长度应与小饼宽度相适应"
       ],
       "produces": "葱段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zi-bo-shao-kao/step_2.jpg"
+      "image": "steps/other_zi-bo-shao-kao/step_2.jpg"
     },
     {
       "index": 3,
@@ -123,7 +123,7 @@
         "也可以直接换成芝麻盐"
       ],
       "produces": "混合酱料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zi-bo-shao-kao/step_3.jpg"
+      "image": "steps/other_zi-bo-shao-kao/step_3.jpg"
     },
     {
       "index": 4,
@@ -135,7 +135,7 @@
         "无明火状态能防止肉串烤焦"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zi-bo-shao-kao/step_4.jpg"
+      "image": "steps/other_zi-bo-shao-kao/step_4.jpg"
     },
     {
       "index": 5,
@@ -146,7 +146,7 @@
         "注意观察出油情况，及时翻面"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zi-bo-shao-kao/step_5.jpg"
+      "image": "steps/other_zi-bo-shao-kao/step_5.jpg"
     },
     {
       "index": 6,
@@ -157,7 +157,7 @@
         "边缘微焦会有更浓郁的焦香味"
       ],
       "produces": "烤五花肉串",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zi-bo-shao-kao/step_6.jpg"
+      "image": "steps/other_zi-bo-shao-kao/step_6.jpg"
     },
     {
       "index": 7,
@@ -168,7 +168,7 @@
         "酱料不宜过多，以免掩盖肉香"
       ],
       "produces": "抹酱小饼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zi-bo-shao-kao/step_7.jpg"
+      "image": "steps/other_zi-bo-shao-kao/step_7.jpg"
     },
     {
       "index": 8,
@@ -179,7 +179,7 @@
         "趁热食用口感最佳"
       ],
       "produces": "淄博烧烤卷饼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zi-bo-shao-kao/step_8.jpg"
+      "image": "steps/other_zi-bo-shao-kao/step_8.jpg"
     }
   ],
   "tips": [
@@ -187,8 +187,8 @@
     "炭火烤制风味优于燃气，有条件建议使用木炭。",
     "酱料可根据个人口味调整芝麻酱与甜面酱的比例，也可以换成芝麻盐。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_zi-bo-shao-kao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_zi-bo-shao-kao_overview.jpg",
+  "cover_image": "ai-generated/other_zi-bo-shao-kao.jpg",
+  "overview_image": "overview/other_zi-bo-shao-kao_overview.jpg",
   "id": "other_zi-bo-shao-kao",
   "status": "published"
 }

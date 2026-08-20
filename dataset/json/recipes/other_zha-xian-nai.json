@@ -88,7 +88,7 @@
       "duration_sec": 30,
       "tips": [],
       "produces": "牛奶液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zha-xian-nai/step_1.jpg"
+      "image": "steps/other_zha-xian-nai/step_1.jpg"
     },
     {
       "index": 2,
@@ -99,7 +99,7 @@
         "确保淀粉完全溶解无颗粒"
       ],
       "produces": "淀粉牛奶液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zha-xian-nai/step_2.jpg"
+      "image": "steps/other_zha-xian-nai/step_2.jpg"
     },
     {
       "index": 3,
@@ -110,7 +110,7 @@
         "刷油是为了方便后期脱模"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zha-xian-nai/step_3.jpg"
+      "image": "steps/other_zha-xian-nai/step_3.jpg"
     },
     {
       "index": 4,
@@ -119,7 +119,7 @@
       "duration_sec": 120,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zha-xian-nai/step_4.jpg"
+      "image": "steps/other_zha-xian-nai/step_4.jpg"
     },
     {
       "index": 5,
@@ -130,7 +130,7 @@
         "必须小火慢煮，并持续搅拌防止糊锅"
       ],
       "produces": "粘稠奶糊",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zha-xian-nai/step_5.jpg"
+      "image": "steps/other_zha-xian-nai/step_5.jpg"
     },
     {
       "index": 6,
@@ -141,7 +141,7 @@
         "趁热倒入并抹平表面"
       ],
       "produces": "待定型奶块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zha-xian-nai/step_6.jpg"
+      "image": "steps/other_zha-xian-nai/step_6.jpg"
     },
     {
       "index": 7,
@@ -152,7 +152,7 @@
         "冷藏至完全凝固，否则切块时易散"
       ],
       "produces": "定型奶块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zha-xian-nai/step_7.jpg"
+      "image": "steps/other_zha-xian-nai/step_7.jpg"
     },
     {
       "index": 8,
@@ -161,7 +161,7 @@
       "duration_sec": 60,
       "tips": [],
       "produces": "奶条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zha-xian-nai/step_8.jpg"
+      "image": "steps/other_zha-xian-nai/step_8.jpg"
     },
     {
       "index": 9,
@@ -170,7 +170,7 @@
       "duration_sec": 60,
       "tips": [],
       "produces": "初裹奶条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zha-xian-nai/step_9.jpg"
+      "image": "steps/other_zha-xian-nai/step_9.jpg"
     },
     {
       "index": 10,
@@ -179,7 +179,7 @@
       "duration_sec": 30,
       "tips": [],
       "produces": "蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zha-xian-nai/step_10.jpg"
+      "image": "steps/other_zha-xian-nai/step_10.jpg"
     },
     {
       "index": 11,
@@ -190,7 +190,7 @@
         "按顺序裹匀，确保面包糠完全覆盖"
       ],
       "produces": "待炸奶条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zha-xian-nai/step_11.jpg"
+      "image": "steps/other_zha-xian-nai/step_11.jpg"
     },
     {
       "index": 12,
@@ -201,7 +201,7 @@
         "油温最好保持在 5 分热，不能过高或过低"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zha-xian-nai/step_12.jpg"
+      "image": "steps/other_zha-xian-nai/step_12.jpg"
     },
     {
       "index": 13,
@@ -212,7 +212,7 @@
         "沥干余油后口感更好"
       ],
       "produces": "炸鲜奶成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zha-xian-nai/step_13.jpg"
+      "image": "steps/other_zha-xian-nai/step_13.jpg"
     }
   ],
   "tips": [
@@ -220,8 +220,8 @@
     "奶糊下锅时油温不能过高或过低，最好保持在 5 分热",
     "冷藏定型的时间必须保证，否则难以切块"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_zha-xian-nai.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_zha-xian-nai_overview.jpg",
+  "cover_image": "ai-generated/other_zha-xian-nai.jpg",
+  "overview_image": "overview/other_zha-xian-nai_overview.jpg",
   "id": "other_zha-xian-nai",
   "status": "published"
 }

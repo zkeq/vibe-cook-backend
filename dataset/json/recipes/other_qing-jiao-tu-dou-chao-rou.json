@@ -138,7 +138,7 @@
         "水淀粉在使用前需再次搅拌防止沉淀"
       ],
       "produces": "切好的食材及水淀粉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-jiao-tu-dou-chao-rou/step_1.jpg"
+      "image": "steps/other_qing-jiao-tu-dou-chao-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -150,7 +150,7 @@
         "肉片炒至变色即可上色"
       ],
       "produces": "上色的熟肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-jiao-tu-dou-chao-rou/step_2.jpg"
+      "image": "steps/other_qing-jiao-tu-dou-chao-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -162,7 +162,7 @@
         "保持翻炒防止土豆粘锅"
       ],
       "produces": "熟土豆肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-jiao-tu-dou-chao-rou/step_3.jpg"
+      "image": "steps/other_qing-jiao-tu-dou-chao-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -174,7 +174,7 @@
         "勾芡时沿锅边倒入效果更好"
       ],
       "produces": "待出锅的菜肴",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-jiao-tu-dou-chao-rou/step_4.jpg"
+      "image": "steps/other_qing-jiao-tu-dou-chao-rou/step_4.jpg"
     },
     {
       "index": 5,
@@ -185,14 +185,14 @@
         "粘稠度适中即可关火，避免过干"
       ],
       "produces": "青椒土豆炒肉成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-jiao-tu-dou-chao-rou/step_5.jpg"
+      "image": "steps/other_qing-jiao-tu-dou-chao-rou/step_5.jpg"
     }
   ],
   "tips": [
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_qing-jiao-tu-dou-chao-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_qing-jiao-tu-dou-chao-rou_overview.jpg",
+  "cover_image": "ai-generated/other_qing-jiao-tu-dou-chao-rou.jpg",
+  "overview_image": "overview/other_qing-jiao-tu-dou-chao-rou_overview.jpg",
   "id": "other_qing-jiao-tu-dou-chao-rou",
   "status": "published"
 }

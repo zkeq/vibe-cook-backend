@@ -96,7 +96,7 @@
         "水一定要完全沸腾"
       ],
       "produces": "开水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tai-guo-shou-biao-hong-cha-de-zuo-fa/step_1.jpg"
+      "image": "steps/other_tai-guo-shou-biao-hong-cha-de-zuo-fa/step_1.jpg"
     },
     {
       "index": 2,
@@ -108,7 +108,7 @@
         "注意防烫"
       ],
       "produces": "浓郁茶汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tai-guo-shou-biao-hong-cha-de-zuo-fa/step_2.jpg"
+      "image": "steps/other_tai-guo-shou-biao-hong-cha-de-zuo-fa/step_2.jpg"
     },
     {
       "index": 3,
@@ -119,7 +119,7 @@
         "使用电子秤可确保口味一致性"
       ],
       "produces": "奶糖混合基底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tai-guo-shou-biao-hong-cha-de-zuo-fa/step_3.jpg"
+      "image": "steps/other_tai-guo-shou-biao-hong-cha-de-zuo-fa/step_3.jpg"
     },
     {
       "index": 4,
@@ -130,7 +130,7 @@
         "利用茶水的余温融化砂糖"
       ],
       "produces": "热泰式奶茶",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tai-guo-shou-biao-hong-cha-de-zuo-fa/step_4.jpg"
+      "image": "steps/other_tai-guo-shou-biao-hong-cha-de-zuo-fa/step_4.jpg"
     },
     {
       "index": 5,
@@ -141,7 +141,7 @@
         "长时间冷藏能使茶奶风味更融合"
       ],
       "produces": "冰镇泰式奶茶",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tai-guo-shou-biao-hong-cha-de-zuo-fa/step_5.jpg"
+      "image": "steps/other_tai-guo-shou-biao-hong-cha-de-zuo-fa/step_5.jpg"
     },
     {
       "index": 6,
@@ -152,7 +152,7 @@
         "加入冰块口感更佳"
       ],
       "produces": "成品泰式奶茶",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tai-guo-shou-biao-hong-cha-de-zuo-fa/step_6.jpg"
+      "image": "steps/other_tai-guo-shou-biao-hong-cha-de-zuo-fa/step_6.jpg"
     }
   ],
   "tips": [
@@ -160,8 +160,8 @@
     "对新手稍有耐心即可完成",
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_tai-guo-shou-biao-hong-cha-de-zuo-fa.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_tai-guo-shou-biao-hong-cha-de-zuo-fa_overview.jpg",
+  "cover_image": "ai-generated/other_tai-guo-shou-biao-hong-cha-de-zuo-fa.jpg",
+  "overview_image": "overview/other_tai-guo-shou-biao-hong-cha-de-zuo-fa_overview.jpg",
   "id": "other_tai-guo-shou-biao-hong-cha-de-zuo-fa",
   "status": "published"
 }

@@ -164,7 +164,7 @@
         "鸭肉块不宜切得过大，以便入味"
       ],
       "produces": "处理好的鸭肉块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xue-jiang-ya/step_1.jpg"
+      "image": "steps/other_xue-jiang-ya/step_1.jpg"
     },
     {
       "index": 2,
@@ -176,7 +176,7 @@
         "翻炒要均匀"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xue-jiang-ya/step_2.jpg"
+      "image": "steps/other_xue-jiang-ya/step_2.jpg"
     },
     {
       "index": 3,
@@ -187,7 +187,7 @@
         "注意观察水位，防止烧干"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xue-jiang-ya/step_3.jpg"
+      "image": "steps/other_xue-jiang-ya/step_3.jpg"
     },
     {
       "index": 4,
@@ -198,7 +198,7 @@
         "姜蒜在中间环节加入能更好提味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xue-jiang-ya/step_4.jpg"
+      "image": "steps/other_xue-jiang-ya/step_4.jpg"
     },
     {
       "index": 5,
@@ -210,7 +210,7 @@
         "加入鸭血后必须不停翻炒，防止结块"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xue-jiang-ya/step_5.jpg"
+      "image": "steps/other_xue-jiang-ya/step_5.jpg"
     },
     {
       "index": 6,
@@ -221,7 +221,7 @@
         "鸭血变黑表示已熟透"
       ],
       "produces": "血浆鸭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xue-jiang-ya/step_6.jpg"
+      "image": "steps/other_xue-jiang-ya/step_6.jpg"
     },
     {
       "index": 7,
@@ -232,15 +232,15 @@
         "趁热食用口感最佳"
       ],
       "produces": "成品血浆鸭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xue-jiang-ya/step_7.jpg"
+      "image": "steps/other_xue-jiang-ya/step_7.jpg"
     }
   ],
   "tips": [
     "操作时，需要注意观察水位线，调整炉火大小，以防水烧干粘锅。",
     "放入鲜鸭血时，需要不断翻炒搅拌，防止鸭血抱团凝固成块。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_xue-jiang-ya.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_xue-jiang-ya_overview.jpg",
+  "cover_image": "ai-generated/other_xue-jiang-ya.jpg",
+  "overview_image": "overview/other_xue-jiang-ya_overview.jpg",
   "id": "other_xue-jiang-ya",
   "status": "published"
 }

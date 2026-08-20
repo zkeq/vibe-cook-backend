@@ -169,7 +169,7 @@
         "必须冷水下锅，以便逼出血水"
       ],
       "produces": "初步去腥的五花肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hu-nan-jia-chang-hong-shao-rou/step_1.jpg"
+      "image": "steps/other_hu-nan-jia-chang-hong-shao-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -180,7 +180,7 @@
         "切块大小尽量保持一致"
       ],
       "produces": "五花肉块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hu-nan-jia-chang-hong-shao-rou/step_2.jpg"
+      "image": "steps/other_hu-nan-jia-chang-hong-shao-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -191,7 +191,7 @@
         "炒糖色时火要小，避免发苦"
       ],
       "produces": "上好色的五花肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hu-nan-jia-chang-hong-shao-rou/step_3.jpg"
+      "image": "steps/other_hu-nan-jia-chang-hong-shao-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -202,7 +202,7 @@
         "加开水可以防止肉质紧缩，保持口感软糯"
       ],
       "produces": "待炖煮的肉汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hu-nan-jia-chang-hong-shao-rou/step_4.jpg"
+      "image": "steps/other_hu-nan-jia-chang-hong-shao-rou/step_4.jpg"
     },
     {
       "index": 5,
@@ -213,7 +213,7 @@
         "慢炖是入味和口感软糯的关键"
       ],
       "produces": "熟透的五花肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hu-nan-jia-chang-hong-shao-rou/step_5.jpg"
+      "image": "steps/other_hu-nan-jia-chang-hong-shao-rou/step_5.jpg"
     },
     {
       "index": 6,
@@ -224,7 +224,7 @@
         "收汁时要勤搅拌，防止焦糊"
       ],
       "produces": "湖南家常红烧肉成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hu-nan-jia-chang-hong-shao-rou/step_6.jpg"
+      "image": "steps/other_hu-nan-jia-chang-hong-shao-rou/step_6.jpg"
     }
   ],
   "tips": [
@@ -232,8 +232,8 @@
     "炖煮过程中必须观察水量，防止干锅。",
     "小米椒的量可以根据个人耐受程度增减。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_hu-nan-jia-chang-hong-shao-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_hu-nan-jia-chang-hong-shao-rou_overview.jpg",
+  "cover_image": "ai-generated/other_hu-nan-jia-chang-hong-shao-rou.jpg",
+  "overview_image": "overview/other_hu-nan-jia-chang-hong-shao-rou_overview.jpg",
   "id": "other_hu-nan-jia-chang-hong-shao-rou",
   "status": "published"
 }

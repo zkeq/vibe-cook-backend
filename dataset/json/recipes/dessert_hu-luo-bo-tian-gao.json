@@ -121,7 +121,7 @@
         "刨成细丝口感更佳"
       ],
       "produces": "胡萝卜丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/dessert_hu-luo-bo-tian-gao/step_1.jpg"
+      "image": "steps/dessert_hu-luo-bo-tian-gao/step_1.jpg"
     },
     {
       "index": 2,
@@ -132,7 +132,7 @@
         "厚底锅导热均匀且不易糊底"
       ],
       "produces": "融化的酥油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/dessert_hu-luo-bo-tian-gao/step_2.jpg"
+      "image": "steps/dessert_hu-luo-bo-tian-gao/step_2.jpg"
     },
     {
       "index": 3,
@@ -143,7 +143,7 @@
         "炒出胡萝卜的香味是关键"
       ],
       "produces": "炒软的胡萝卜丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/dessert_hu-luo-bo-tian-gao/step_3.jpg"
+      "image": "steps/dessert_hu-luo-bo-tian-gao/step_3.jpg"
     },
     {
       "index": 4,
@@ -152,7 +152,7 @@
       "duration_sec": 30,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/dessert_hu-luo-bo-tian-gao/step_4.jpg"
+      "image": "steps/dessert_hu-luo-bo-tian-gao/step_4.jpg"
     },
     {
       "index": 5,
@@ -163,7 +163,7 @@
         "注意观察不要溢锅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/dessert_hu-luo-bo-tian-gao/step_5.jpg"
+      "image": "steps/dessert_hu-luo-bo-tian-gao/step_5.jpg"
     },
     {
       "index": 6,
@@ -174,7 +174,7 @@
         "这是最关键的步骤，需要耐心且不断搅拌防止糊底"
       ],
       "produces": "浓缩胡萝卜糊",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/dessert_hu-luo-bo-tian-gao/step_6.jpg"
+      "image": "steps/dessert_hu-luo-bo-tian-gao/step_6.jpg"
     },
     {
       "index": 7,
@@ -185,7 +185,7 @@
         "加糖后会重新出水"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/dessert_hu-luo-bo-tian-gao/step_7.jpg"
+      "image": "steps/dessert_hu-luo-bo-tian-gao/step_7.jpg"
     },
     {
       "index": 8,
@@ -196,7 +196,7 @@
         "炒到水分收干，质地浓稠"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/dessert_hu-luo-bo-tian-gao/step_8.jpg"
+      "image": "steps/dessert_hu-luo-bo-tian-gao/step_8.jpg"
     },
     {
       "index": 9,
@@ -207,7 +207,7 @@
         "最后加入酥油可以增加成品色泽"
       ],
       "produces": "基础甜糕",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/dessert_hu-luo-bo-tian-gao/step_9.jpg"
+      "image": "steps/dessert_hu-luo-bo-tian-gao/step_9.jpg"
     },
     {
       "index": 10,
@@ -219,7 +219,7 @@
         "炸至金黄即可"
       ],
       "produces": "炸香的坚果",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/dessert_hu-luo-bo-tian-gao/step_10.jpg"
+      "image": "steps/dessert_hu-luo-bo-tian-gao/step_10.jpg"
     },
     {
       "index": 11,
@@ -228,7 +228,7 @@
       "duration_sec": 30,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/dessert_hu-luo-bo-tian-gao/step_11.jpg"
+      "image": "steps/dessert_hu-luo-bo-tian-gao/step_11.jpg"
     },
     {
       "index": 12,
@@ -239,7 +239,7 @@
         "胡萝卜甜糕可以热吃也可以冷吃"
       ],
       "produces": "胡萝卜甜糕成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/dessert_hu-luo-bo-tian-gao/step_12.jpg"
+      "image": "steps/dessert_hu-luo-bo-tian-gao/step_12.jpg"
     }
   ],
   "tips": [
@@ -249,8 +249,8 @@
     "密封冷藏可保存 4-5 天。食用前可用微波炉加热 1 分钟。",
     "这道甜品在印度几乎每个家庭都会做，是排灯节(Diwali)和婚礼上必不可少的甜品。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/dessert_hu-luo-bo-tian-gao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/dessert_hu-luo-bo-tian-gao_overview.jpg",
+  "cover_image": "ai-generated/dessert_hu-luo-bo-tian-gao.jpg",
+  "overview_image": "overview/dessert_hu-luo-bo-tian-gao_overview.jpg",
   "id": "dessert_hu-luo-bo-tian-gao",
   "status": "published"
 }
