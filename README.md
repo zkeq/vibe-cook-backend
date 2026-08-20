@@ -128,6 +128,6 @@ import_howtocook.py  # Markdown → SQLite
 - 可以查看、修改、再分发，以及**非生产**使用
 - **禁止**将本软件或其修改版上架任何应用商店，**禁止**出售或作为商业产品对外提供
 - 生产使用须向权利人取得商业授权：`admin@icodeq.com`
-- 本版本自 **2030-08-19** 起改为 Apache License 2.0
+- 本版本自 **2030-08-19** 起改为 GNU GPL v2 或更高版本
 
 菜谱原文来自 [HowToCook](https://github.com/Anduin2017/HowToCook)（The Unlicense），不受本仓库 BSL 约束。
