@@ -209,5 +209,6 @@
   "cover_image": "ai-generated/vegetable_dish_xi-hong-shi-chao-ji-dan.jpg",
   "overview_image": "overview/vegetable_dish_xi-hong-shi-chao-ji-dan_overview.jpg",
   "id": "vegetable_dish_xi-hong-shi-chao-ji-dan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/西红柿炒鸡蛋.md"
 }

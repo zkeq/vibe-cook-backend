@@ -252,5 +252,6 @@
   "cover_image": "ai-generated/other_tang-cu-pai-gu.jpg",
   "overview_image": "overview/other_tang-cu-pai-gu_overview.jpg",
   "id": "other_tang-cu-pai-gu",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/糖醋排骨/糖醋排骨.md"
 }

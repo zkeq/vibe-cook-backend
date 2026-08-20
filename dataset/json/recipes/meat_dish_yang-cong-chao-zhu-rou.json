@@ -191,5 +191,6 @@
   "cover_image": "ai-generated/meat_dish_yang-cong-chao-zhu-rou.jpg",
   "overview_image": "overview/meat_dish_yang-cong-chao-zhu-rou_overview.jpg",
   "id": "meat_dish_yang-cong-chao-zhu-rou",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/洋葱炒猪肉.md"
 }

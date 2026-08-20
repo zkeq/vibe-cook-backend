@@ -231,5 +231,6 @@
   "cover_image": "ai-generated/aquatic_ga-li-chao-xie.jpg",
   "overview_image": "overview/aquatic_ga-li-chao-xie_overview.jpg",
   "id": "aquatic_ga-li-chao-xie",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/aquatic/咖喱炒蟹.md"
 }

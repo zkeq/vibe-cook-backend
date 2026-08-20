@@ -223,5 +223,6 @@
   "cover_image": "ai-generated/drink_mojito-mo-ji-tuo.jpg",
   "overview_image": "overview/drink_mojito-mo-ji-tuo_overview.jpg",
   "id": "drink_mojito-mo-ji-tuo",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/drink/Mojito莫吉托.md"
 }

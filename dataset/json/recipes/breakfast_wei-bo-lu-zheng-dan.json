@@ -149,5 +149,6 @@
   "cover_image": "ai-generated/breakfast_wei-bo-lu-zheng-dan.jpg",
   "overview_image": "overview/breakfast_wei-bo-lu-zheng-dan_overview.jpg",
   "id": "breakfast_wei-bo-lu-zheng-dan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/breakfast/微波炉蒸蛋.md"
 }

@@ -252,5 +252,6 @@
   "cover_image": "ai-generated/dessert_hu-luo-bo-tian-gao.jpg",
   "overview_image": "overview/dessert_hu-luo-bo-tian-gao_overview.jpg",
   "id": "dessert_hu-luo-bo-tian-gao",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/dessert/胡萝卜甜糕.md"
 }

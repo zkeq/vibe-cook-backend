@@ -239,5 +239,6 @@
   "cover_image": "ai-generated/other_cong-shao-hai-shen.jpg",
   "overview_image": "overview/other_cong-shao-hai-shen_overview.jpg",
   "id": "other_cong-shao-hai-shen",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/aquatic/葱烧海参/葱烧海参.md"
 }

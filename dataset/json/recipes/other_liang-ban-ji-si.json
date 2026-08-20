@@ -287,5 +287,6 @@
   "cover_image": "ai-generated/other_liang-ban-ji-si.jpg",
   "overview_image": "overview/other_liang-ban-ji-si_overview.jpg",
   "id": "other_liang-ban-ji-si",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md"
 }

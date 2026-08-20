@@ -119,5 +119,6 @@
   "cover_image": "ai-generated/other_chao-hua-dan.jpg",
   "overview_image": "overview/other_chao-hua-dan_overview.jpg",
   "id": "other_chao-hua-dan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/炒滑蛋/炒滑蛋.md"
 }

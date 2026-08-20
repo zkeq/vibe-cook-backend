@@ -211,5 +211,6 @@
   "cover_image": "ai-generated/other_jiao-bai-chao-rou.jpg",
   "overview_image": "overview/other_jiao-bai-chao-rou_overview.jpg",
   "id": "other_jiao-bai-chao-rou",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/茭白炒肉/茭白炒肉.md"
 }

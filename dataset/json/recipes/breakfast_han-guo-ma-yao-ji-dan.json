@@ -201,5 +201,6 @@
   "cover_image": "ai-generated/breakfast_han-guo-ma-yao-ji-dan.jpg",
   "overview_image": "overview/breakfast_han-guo-ma-yao-ji-dan_overview.jpg",
   "id": "breakfast_han-guo-ma-yao-ji-dan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/breakfast/韩国麻药鸡蛋.md"
 }

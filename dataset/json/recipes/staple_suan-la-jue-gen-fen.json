@@ -174,5 +174,6 @@
   "cover_image": "ai-generated/staple_suan-la-jue-gen-fen.jpg",
   "overview_image": "overview/staple_suan-la-jue-gen-fen_overview.jpg",
   "id": "staple_suan-la-jue-gen-fen",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/酸辣蕨根粉.md"
 }

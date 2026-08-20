@@ -213,5 +213,6 @@
   "cover_image": "ai-generated/soup_nai-you-mo-gu-tang.jpg",
   "overview_image": "overview/soup_nai-you-mo-gu-tang_overview.jpg",
   "id": "soup_nai-you-mo-gu-tang",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/soup/奶油蘑菇汤.md"
 }

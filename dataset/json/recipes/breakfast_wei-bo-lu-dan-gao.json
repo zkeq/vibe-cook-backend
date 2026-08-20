@@ -149,5 +149,6 @@
   "cover_image": "ai-generated/breakfast_wei-bo-lu-dan-gao.jpg",
   "overview_image": "overview/breakfast_wei-bo-lu-dan-gao_overview.jpg",
   "id": "breakfast_wei-bo-lu-dan-gao",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/breakfast/微波炉蛋糕.md"
 }

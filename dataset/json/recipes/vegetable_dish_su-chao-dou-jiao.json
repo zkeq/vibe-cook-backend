@@ -240,5 +240,6 @@
   "cover_image": "ai-generated/vegetable_dish_su-chao-dou-jiao.jpg",
   "overview_image": "overview/vegetable_dish_su-chao-dou-jiao_overview.jpg",
   "id": "vegetable_dish_su-chao-dou-jiao",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/素炒豆角.md"
 }

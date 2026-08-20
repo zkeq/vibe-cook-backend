@@ -179,5 +179,6 @@
   "cover_image": "ai-generated/soup_fan-qie-niu-rou-dan-hua-tang.jpg",
   "overview_image": "overview/soup_fan-qie-niu-rou-dan-hua-tang_overview.jpg",
   "id": "soup_fan-qie-niu-rou-dan-hua-tang",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/soup/番茄牛肉蛋花汤.md"
 }

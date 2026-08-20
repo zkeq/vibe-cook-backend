@@ -277,5 +277,6 @@
   "cover_image": "ai-generated/other_tian-luo-niang.jpg",
   "overview_image": "overview/other_tian-luo-niang_overview.jpg",
   "id": "other_tian-luo-niang",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/田螺酿/田螺酿.md"
 }

@@ -161,5 +161,6 @@
   "cover_image": "ai-generated/staple_jiu-cai-he-zi.jpg",
   "overview_image": "overview/staple_jiu-cai-he-zi_overview.jpg",
   "id": "staple_jiu-cai-he-zi",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/韭菜盒子.md"
 }

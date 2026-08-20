@@ -153,5 +153,6 @@
   "cover_image": "ai-generated/breakfast_wan-mei-shui-zhu-dan.jpg",
   "overview_image": "overview/breakfast_wan-mei-shui-zhu-dan_overview.jpg",
   "id": "breakfast_wan-mei-shui-zhu-dan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/breakfast/完美水煮蛋.md"
 }

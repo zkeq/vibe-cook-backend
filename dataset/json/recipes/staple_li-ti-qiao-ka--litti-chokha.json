@@ -283,5 +283,6 @@
   "cover_image": "ai-generated/staple_li-ti-qiao-ka--litti-chokha.jpg",
   "overview_image": "overview/staple_li-ti-qiao-ka--litti-chokha_overview.jpg",
   "id": "staple_li-ti-qiao-ka--litti-chokha",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/利提巧卡.md"
 }

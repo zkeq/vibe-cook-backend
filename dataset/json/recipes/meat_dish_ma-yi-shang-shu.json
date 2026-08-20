@@ -251,5 +251,6 @@
   "cover_image": "ai-generated/meat_dish_ma-yi-shang-shu.jpg",
   "overview_image": "overview/meat_dish_ma-yi-shang-shu_overview.jpg",
   "id": "meat_dish_ma-yi-shang-shu",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/蚂蚁上树.md"
 }

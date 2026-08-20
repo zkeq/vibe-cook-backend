@@ -129,5 +129,6 @@
   "cover_image": "ai-generated/condiment_tang-cu-zhi.jpg",
   "overview_image": "overview/condiment_tang-cu-zhi_overview.jpg",
   "id": "condiment_tang-cu-zhi",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/condiment/糖醋汁.md"
 }

@@ -225,5 +225,6 @@
   "cover_image": "ai-generated/other_jiang-pai-gu.jpg",
   "overview_image": "overview/other_jiang-pai-gu_overview.jpg",
   "id": "other_jiang-pai-gu",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/酱排骨/酱排骨.md"
 }

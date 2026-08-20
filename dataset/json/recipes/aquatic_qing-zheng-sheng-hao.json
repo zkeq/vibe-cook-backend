@@ -165,5 +165,6 @@
   "cover_image": "ai-generated/aquatic_qing-zheng-sheng-hao.jpg",
   "overview_image": "overview/aquatic_qing-zheng-sheng-hao_overview.jpg",
   "id": "aquatic_qing-zheng-sheng-hao",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/aquatic/清蒸生蚝.md"
 }

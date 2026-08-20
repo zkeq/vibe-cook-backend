@@ -176,5 +176,6 @@
   "cover_image": "ai-generated/breakfast_yan-mai-ji-dan-bing.jpg",
   "overview_image": "overview/breakfast_yan-mai-ji-dan-bing_overview.jpg",
   "id": "breakfast_yan-mai-ji-dan-bing",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/breakfast/燕麦鸡蛋饼.md"
 }

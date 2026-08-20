@@ -210,5 +210,6 @@
   "cover_image": "ai-generated/drink_zhang-dao-bing-cha.jpg",
   "overview_image": "overview/drink_zhang-dao-bing-cha_overview.jpg",
   "id": "drink_zhang-dao-bing-cha",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/drink/长岛冰茶.md"
 }

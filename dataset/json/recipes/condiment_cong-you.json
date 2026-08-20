@@ -166,5 +166,6 @@
   "cover_image": "ai-generated/condiment_cong-you.jpg",
   "overview_image": "overview/condiment_cong-you_overview.jpg",
   "id": "condiment_cong-you",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/condiment/葱油.md"
 }

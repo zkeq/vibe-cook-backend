@@ -166,5 +166,6 @@
   "cover_image": "ai-generated/drink_yang-zhi-gan-lu.jpg",
   "overview_image": "overview/drink_yang-zhi-gan-lu_overview.jpg",
   "id": "drink_yang-zhi-gan-lu",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/drink/杨枝甘露.md"
 }

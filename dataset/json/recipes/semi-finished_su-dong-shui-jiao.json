@@ -176,5 +176,6 @@
   "cover_image": "ai-generated/semi-finished_su-dong-shui-jiao.jpg",
   "overview_image": "overview/semi-finished_su-dong-shui-jiao_overview.jpg",
   "id": "semi-finished_su-dong-shui-jiao",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/semi-finished/速冻水饺.md"
 }

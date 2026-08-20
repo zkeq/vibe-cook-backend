@@ -403,5 +403,6 @@
   "cover_image": "ai-generated/other_chuan-wei-kao-yu.jpg",
   "overview_image": "overview/other_chuan-wei-kao-yu_overview.jpg",
   "id": "other_chuan-wei-kao-yu",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/aquatic/混合烤鱼/烤鱼.md"
 }

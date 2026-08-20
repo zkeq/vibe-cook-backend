@@ -202,5 +202,6 @@
   "cover_image": "ai-generated/other_hong-you-dan-gao.jpg",
   "overview_image": "overview/other_hong-you-dan-gao_overview.jpg",
   "id": "other_hong-you-dan-gao",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/dessert/红柚蛋糕/红柚蛋糕.md"
 }

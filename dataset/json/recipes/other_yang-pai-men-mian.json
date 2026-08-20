@@ -235,5 +235,6 @@
   "cover_image": "ai-generated/other_yang-pai-men-mian.jpg",
   "overview_image": "overview/other_yang-pai-men-mian_overview.jpg",
   "id": "other_yang-pai-men-mian",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/羊排焖面/羊排焖面.md"
 }

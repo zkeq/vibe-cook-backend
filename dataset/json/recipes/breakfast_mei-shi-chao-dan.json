@@ -123,5 +123,6 @@
   "cover_image": "ai-generated/breakfast_mei-shi-chao-dan.jpg",
   "overview_image": "overview/breakfast_mei-shi-chao-dan_overview.jpg",
   "id": "breakfast_mei-shi-chao-dan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/breakfast/美式炒蛋.md"
 }

@@ -263,5 +263,6 @@
   "cover_image": "ai-generated/meat_dish_tian-la-kao-quan-chi.jpg",
   "overview_image": "overview/meat_dish_tian-la-kao-quan-chi_overview.jpg",
   "id": "meat_dish_tian-la-kao-quan-chi",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/甜辣烤全翅.md"
 }

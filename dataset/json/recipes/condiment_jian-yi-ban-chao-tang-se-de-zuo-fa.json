@@ -154,5 +154,6 @@
   "cover_image": "ai-generated/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa.jpg",
   "overview_image": "overview/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa_overview.jpg",
   "id": "condiment_jian-yi-ban-chao-tang-se-de-zuo-fa",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/condiment/简易版炒糖色.md"
 }

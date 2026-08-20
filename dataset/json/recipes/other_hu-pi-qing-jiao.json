@@ -210,5 +210,6 @@
   "cover_image": "ai-generated/other_hu-pi-qing-jiao.jpg",
   "overview_image": "overview/other_hu-pi-qing-jiao_overview.jpg",
   "id": "other_hu-pi-qing-jiao",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/虎皮青椒/虎皮青椒.md"
 }

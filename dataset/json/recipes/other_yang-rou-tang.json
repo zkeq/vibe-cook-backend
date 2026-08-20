@@ -221,5 +221,6 @@
   "cover_image": "ai-generated/other_yang-rou-tang.jpg",
   "overview_image": "overview/other_yang-rou-tang_overview.jpg",
   "id": "other_yang-rou-tang",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/soup/羊肉汤/羊肉汤.md"
 }

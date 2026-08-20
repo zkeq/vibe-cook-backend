@@ -169,5 +169,6 @@
   "cover_image": "ai-generated/vegetable_dish_jin-zhen-gu-ri-ben-dou-fu-bao.jpg",
   "overview_image": "overview/vegetable_dish_jin-zhen-gu-ri-ben-dou-fu-bao_overview.jpg",
   "id": "vegetable_dish_jin-zhen-gu-ri-ben-dou-fu-bao",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/金针菇日本豆腐煲.md"
 }

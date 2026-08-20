@@ -217,5 +217,6 @@
   "cover_image": "ai-generated/other_han-shi-ban-fan.jpg",
   "overview_image": "overview/other_han-shi-ban-fan_overview.jpg",
   "id": "other_han-shi-ban-fan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/韩式拌饭/韩式拌饭.md"
 }

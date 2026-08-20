@@ -372,5 +372,6 @@
   "cover_image": "ai-generated/semi-finished_niu-you-huo-guo-di-liao.jpg",
   "overview_image": "overview/semi-finished_niu-you-huo-guo-di-liao_overview.jpg",
   "id": "semi-finished_niu-you-huo-guo-di-liao",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/semi-finished/牛油火锅底料.md"
 }

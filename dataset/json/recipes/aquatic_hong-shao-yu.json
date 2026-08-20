@@ -261,5 +261,6 @@
   "cover_image": "ai-generated/aquatic_hong-shao-yu.jpg",
   "overview_image": "overview/aquatic_hong-shao-yu_overview.jpg",
   "id": "aquatic_hong-shao-yu",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/aquatic/红烧鱼.md"
 }

@@ -126,5 +126,6 @@
   "cover_image": "ai-generated/other_wen-quan-dan.jpg",
   "overview_image": "overview/other_wen-quan-dan_overview.jpg",
   "id": "other_wen-quan-dan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/breakfast/温泉蛋/温泉蛋.md"
 }

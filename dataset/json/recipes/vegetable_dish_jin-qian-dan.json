@@ -267,5 +267,6 @@
   "cover_image": "ai-generated/vegetable_dish_jin-qian-dan.jpg",
   "overview_image": "overview/vegetable_dish_jin-qian-dan_overview.jpg",
   "id": "vegetable_dish_jin-qian-dan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/金钱蛋.md"
 }

@@ -144,5 +144,6 @@
   "cover_image": "ai-generated/drink_ke-le-tong.jpg",
   "overview_image": "overview/drink_ke-le-tong_overview.jpg",
   "id": "drink_ke-le-tong",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/drink/可乐桶.md"
 }

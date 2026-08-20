@@ -240,5 +240,6 @@
   "cover_image": "ai-generated/other_zhong-shi-xian-bing.jpg",
   "overview_image": "overview/other_zhong-shi-xian-bing_overview.jpg",
   "id": "other_zhong-shi-xian-bing",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/中式馅饼/中式馅饼.md"
 }

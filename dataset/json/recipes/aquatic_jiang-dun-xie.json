@@ -192,5 +192,6 @@
   "cover_image": "ai-generated/aquatic_jiang-dun-xie.jpg",
   "overview_image": "overview/aquatic_jiang-dun-xie_overview.jpg",
   "id": "aquatic_jiang-dun-xie",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/aquatic/酱炖蟹.md"
 }

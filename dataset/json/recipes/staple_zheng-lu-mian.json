@@ -236,5 +236,6 @@
   "cover_image": "ai-generated/staple_zheng-lu-mian.jpg",
   "overview_image": "overview/staple_zheng-lu-mian_overview.jpg",
   "id": "staple_zheng-lu-mian",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/蒸卤面.md"
 }

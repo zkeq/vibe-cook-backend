@@ -225,5 +225,6 @@
   "cover_image": "ai-generated/meat_dish_zi-ran-niu-rou.jpg",
   "overview_image": "overview/meat_dish_zi-ran-niu-rou_overview.jpg",
   "id": "meat_dish_zi-ran-niu-rou",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/孜然牛肉.md"
 }

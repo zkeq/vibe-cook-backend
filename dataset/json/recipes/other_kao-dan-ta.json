@@ -220,5 +220,6 @@
   "cover_image": "ai-generated/other_kao-dan-ta.jpg",
   "overview_image": "overview/other_kao-dan-ta_overview.jpg",
   "id": "other_kao-dan-ta",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/dessert/烤蛋挞/烤蛋挞.md"
 }

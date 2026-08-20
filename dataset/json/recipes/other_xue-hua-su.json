@@ -178,5 +178,6 @@
   "cover_image": "ai-generated/other_xue-hua-su.jpg",
   "overview_image": "overview/other_xue-hua-su_overview.jpg",
   "id": "other_xue-hua-su",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/dessert/雪花酥/雪花酥.md"
 }

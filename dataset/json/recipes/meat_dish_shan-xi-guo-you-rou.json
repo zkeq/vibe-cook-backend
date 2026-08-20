@@ -227,5 +227,6 @@
   "cover_image": "ai-generated/meat_dish_shan-xi-guo-you-rou.jpg",
   "overview_image": "overview/meat_dish_shan-xi-guo-you-rou_overview.jpg",
   "id": "meat_dish_shan-xi-guo-you-rou",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/山西过油肉.md"
 }

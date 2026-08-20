@@ -231,5 +231,6 @@
   "cover_image": "ai-generated/soup_pi-dan-shou-rou-zhou.jpg",
   "overview_image": "overview/soup_pi-dan-shou-rou-zhou_overview.jpg",
   "id": "soup_pi-dan-shou-rou-zhou",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/soup/皮蛋瘦肉粥.md"
 }

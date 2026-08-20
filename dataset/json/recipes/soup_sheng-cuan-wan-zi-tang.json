@@ -201,5 +201,6 @@
   "cover_image": "ai-generated/soup_sheng-cuan-wan-zi-tang.jpg",
   "overview_image": "overview/soup_sheng-cuan-wan-zi-tang_overview.jpg",
   "id": "soup_sheng-cuan-wan-zi-tang",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/soup/生汆丸子汤.md"
 }

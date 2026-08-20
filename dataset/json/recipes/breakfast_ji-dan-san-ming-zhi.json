@@ -178,5 +178,6 @@
   "cover_image": "ai-generated/breakfast_ji-dan-san-ming-zhi.jpg",
   "overview_image": "overview/breakfast_ji-dan-san-ming-zhi_overview.jpg",
   "id": "breakfast_ji-dan-san-ming-zhi",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/breakfast/鸡蛋三明治.md"
 }

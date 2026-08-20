@@ -273,5 +273,6 @@
   "cover_image": "ai-generated/vegetable_dish_jia-chang-ri-ben-dou-fu.jpg",
   "overview_image": "overview/vegetable_dish_jia-chang-ri-ben-dou-fu_overview.jpg",
   "id": "vegetable_dish_jia-chang-ri-ben-dou-fu",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/家常日本豆腐.md"
 }

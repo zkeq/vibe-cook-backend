@@ -159,5 +159,6 @@
   "cover_image": "ai-generated/meat_dish_yi-shi-kao-ji.jpg",
   "overview_image": "overview/meat_dish_yi-shi-kao-ji_overview.jpg",
   "id": "meat_dish_yi-shi-kao-ji",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/意式烤鸡.md"
 }

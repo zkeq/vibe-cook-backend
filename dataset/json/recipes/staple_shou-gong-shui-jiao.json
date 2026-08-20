@@ -252,5 +252,6 @@
   "cover_image": "ai-generated/staple_shou-gong-shui-jiao.jpg",
   "overview_image": "overview/staple_shou-gong-shui-jiao_overview.jpg",
   "id": "staple_shou-gong-shui-jiao",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/手工水饺.md"
 }

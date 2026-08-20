@@ -183,5 +183,6 @@
   "cover_image": "ai-generated/vegetable_dish_chao-qing-cai.jpg",
   "overview_image": "overview/vegetable_dish_chao-qing-cai_overview.jpg",
   "id": "vegetable_dish_chao-qing-cai",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/炒青菜.md"
 }

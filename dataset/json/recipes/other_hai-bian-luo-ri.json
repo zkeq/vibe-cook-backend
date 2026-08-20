@@ -226,5 +226,6 @@
   "cover_image": "ai-generated/other_hai-bian-luo-ri.jpg",
   "overview_image": "overview/other_hai-bian-luo-ri_overview.jpg",
   "id": "other_hai-bian-luo-ri",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/drink/海边落日/海边落日.md"
 }

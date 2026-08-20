@@ -204,5 +204,6 @@
   "cover_image": "ai-generated/meat_dish_ke-le-ji-chi.jpg",
   "overview_image": "overview/meat_dish_ke-le-ji-chi_overview.jpg",
   "id": "meat_dish_ke-le-ji-chi",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/可乐鸡翅.md"
 }

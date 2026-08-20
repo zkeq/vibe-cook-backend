@@ -234,5 +234,6 @@
   "cover_image": "ai-generated/other_kao-qie-zi.jpg",
   "overview_image": "overview/other_kao-qie-zi_overview.jpg",
   "id": "other_kao-qie-zi",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/烤茄子/烤茄子.md"
 }

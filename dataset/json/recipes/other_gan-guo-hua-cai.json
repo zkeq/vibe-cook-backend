@@ -218,5 +218,6 @@
   "cover_image": "ai-generated/other_gan-guo-hua-cai.jpg",
   "overview_image": "overview/other_gan-guo-hua-cai_overview.jpg",
   "id": "other_gan-guo-hua-cai",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/干锅花菜/干锅花菜.md"
 }

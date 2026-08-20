@@ -232,5 +232,6 @@
   "cover_image": "ai-generated/staple_rou-dan-gai-fan.jpg",
   "overview_image": "overview/staple_rou-dan-gai-fan_overview.jpg",
   "id": "staple_rou-dan-gai-fan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/肉蛋盖饭.md"
 }

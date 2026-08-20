@@ -123,5 +123,6 @@
   "cover_image": "ai-generated/drink_b52-hong-zha-ji.jpg",
   "overview_image": "overview/drink_b52-hong-zha-ji_overview.jpg",
   "id": "drink_b52-hong-zha-ji",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/drink/B52轰炸机.md"
 }

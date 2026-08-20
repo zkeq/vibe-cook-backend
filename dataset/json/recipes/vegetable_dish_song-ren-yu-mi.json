@@ -189,5 +189,6 @@
   "cover_image": "ai-generated/vegetable_dish_song-ren-yu-mi.jpg",
   "overview_image": "overview/vegetable_dish_song-ren-yu-mi_overview.jpg",
   "id": "vegetable_dish_song-ren-yu-mi",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/松仁玉米.md"
 }

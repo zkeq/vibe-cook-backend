@@ -147,5 +147,6 @@
   "cover_image": "ai-generated/other_zhi-ma-shao-bing.jpg",
   "overview_image": "overview/other_zhi-ma-shao-bing_overview.jpg",
   "id": "other_zhi-ma-shao-bing",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/烧饼/芝麻烧饼.md"
 }

@@ -279,5 +279,6 @@
   "cover_image": "ai-generated/drink_yin-du-nai-cha--masala-chai.jpg",
   "overview_image": "overview/drink_yin-du-nai-cha--masala-chai_overview.jpg",
   "id": "drink_yin-du-nai-cha--masala-chai",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/drink/奶茶.md"
 }

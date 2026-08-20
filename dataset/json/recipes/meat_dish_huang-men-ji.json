@@ -272,5 +272,6 @@
   "cover_image": "ai-generated/meat_dish_huang-men-ji.jpg",
   "overview_image": "overview/meat_dish_huang-men-ji_overview.jpg",
   "id": "meat_dish_huang-men-ji",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/黄焖鸡.md"
 }

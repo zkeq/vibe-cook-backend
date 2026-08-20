@@ -247,5 +247,6 @@
   "cover_image": "ai-generated/aquatic_hong-shao-li-yu.jpg",
   "overview_image": "overview/aquatic_hong-shao-li-yu_overview.jpg",
   "id": "aquatic_hong-shao-li-yu",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/aquatic/红烧鲤鱼.md"
 }

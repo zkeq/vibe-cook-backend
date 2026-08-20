@@ -292,5 +292,6 @@
   "cover_image": "ai-generated/staple_xian-rou-shao-mai.jpg",
   "overview_image": "overview/staple_xian-rou-shao-mai_overview.jpg",
   "id": "staple_xian-rou-shao-mai",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/鲜肉烧卖.md"
 }

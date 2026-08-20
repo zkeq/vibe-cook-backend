@@ -160,5 +160,6 @@
   "cover_image": "ai-generated/drink_niu-you-guo-la-xi.jpg",
   "overview_image": "overview/drink_niu-you-guo-la-xi_overview.jpg",
   "id": "drink_niu-you-guo-la-xi",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/drink/牛油果拉西.md"
 }

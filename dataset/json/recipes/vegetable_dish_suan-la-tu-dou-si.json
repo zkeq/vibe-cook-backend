@@ -222,5 +222,6 @@
   "cover_image": "ai-generated/vegetable_dish_suan-la-tu-dou-si.jpg",
   "overview_image": "overview/vegetable_dish_suan-la-tu-dou-si_overview.jpg",
   "id": "vegetable_dish_suan-la-tu-dou-si",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/酸辣土豆丝.md"
 }

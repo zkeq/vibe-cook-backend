@@ -199,5 +199,6 @@
   "cover_image": "ai-generated/meat_dish_jian-jiao-chao-niu-rou.jpg",
   "overview_image": "overview/meat_dish_jian-jiao-chao-niu-rou_overview.jpg",
   "id": "meat_dish_jian-jiao-chao-niu-rou",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/尖椒炒牛肉.md"
 }

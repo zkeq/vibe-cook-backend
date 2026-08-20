@@ -145,5 +145,6 @@
   "cover_image": "ai-generated/other_ji-dan-hua.jpg",
   "overview_image": "overview/other_ji-dan-hua_overview.jpg",
   "id": "other_ji-dan-hua",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/鸡蛋花/鸡蛋花.md"
 }

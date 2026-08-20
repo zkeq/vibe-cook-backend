@@ -128,5 +128,6 @@
   "cover_image": "ai-generated/vegetable_dish_shui-you-men-shu-cai.jpg",
   "overview_image": "overview/vegetable_dish_shui-you-men-shu-cai_overview.jpg",
   "id": "vegetable_dish_shui-you-men-shu-cai",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/水油焖蔬菜.md"
 }

@@ -224,5 +224,6 @@
   "cover_image": "ai-generated/meat_dish_huang-you-ji.jpg",
   "overview_image": "overview/meat_dish_huang-you-ji_overview.jpg",
   "id": "meat_dish_huang-you-ji",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/黄油鸡.md"
 }

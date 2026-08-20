@@ -109,5 +109,6 @@
   "cover_image": "ai-generated/breakfast_tu-si-guo-jiang-de-zuo-fa.jpg",
   "overview_image": "overview/breakfast_tu-si-guo-jiang-de-zuo-fa_overview.jpg",
   "id": "breakfast_tu-si-guo-jiang-de-zuo-fa",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/breakfast/吐司果酱.md"
 }

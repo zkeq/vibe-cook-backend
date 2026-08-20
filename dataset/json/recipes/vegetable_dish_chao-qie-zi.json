@@ -231,5 +231,6 @@
   "cover_image": "ai-generated/vegetable_dish_chao-qie-zi.jpg",
   "overview_image": "overview/vegetable_dish_chao-qie-zi_overview.jpg",
   "id": "vegetable_dish_chao-qie-zi",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/炒茄子.md"
 }

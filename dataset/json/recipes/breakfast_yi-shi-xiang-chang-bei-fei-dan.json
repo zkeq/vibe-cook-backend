@@ -240,5 +240,6 @@
   "cover_image": "ai-generated/breakfast_yi-shi-xiang-chang-bei-fei-dan.jpg",
   "overview_image": "overview/breakfast_yi-shi-xiang-chang-bei-fei-dan_overview.jpg",
   "id": "breakfast_yi-shi-xiang-chang-bei-fei-dan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/breakfast/意式香肠北非蛋.md"
 }

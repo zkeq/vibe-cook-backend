@@ -320,5 +320,6 @@
   "cover_image": "ai-generated/staple_chao-he-fen.jpg",
   "overview_image": "overview/staple_chao-he-fen_overview.jpg",
   "id": "staple_chao-he-fen",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/炒河粉.md"
 }

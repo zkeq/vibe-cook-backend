@@ -232,7 +232,8 @@
     "cover_image": "ai-generated/aquatic_ga-li-chao-xie.jpg",
     "overview_image": "overview/aquatic_ga-li-chao-xie_overview.jpg",
     "id": "aquatic_ga-li-chao-xie",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/咖喱炒蟹.md"
   },
   {
     "title": "红烧鲤鱼",
@@ -483,7 +484,8 @@
     "cover_image": "ai-generated/aquatic_hong-shao-li-yu.jpg",
     "overview_image": "overview/aquatic_hong-shao-li-yu_overview.jpg",
     "id": "aquatic_hong-shao-li-yu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/红烧鲤鱼.md"
   },
   {
     "title": "红烧鱼",
@@ -748,7 +750,8 @@
     "cover_image": "ai-generated/aquatic_hong-shao-yu.jpg",
     "overview_image": "overview/aquatic_hong-shao-yu_overview.jpg",
     "id": "aquatic_hong-shao-yu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/红烧鱼.md"
   },
   {
     "title": "红烧鱼头",
@@ -992,7 +995,8 @@
     "cover_image": "ai-generated/aquatic_hong-shao-yu-tou.jpg",
     "overview_image": "overview/aquatic_hong-shao-yu-tou_overview.jpg",
     "id": "aquatic_hong-shao-yu-tou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/红烧鱼头.md"
   },
   {
     "title": "酱炖蟹",
@@ -1188,7 +1192,8 @@
     "cover_image": "ai-generated/aquatic_jiang-dun-xie.jpg",
     "overview_image": "overview/aquatic_jiang-dun-xie_overview.jpg",
     "id": "aquatic_jiang-dun-xie",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/酱炖蟹.md"
   },
   {
     "title": "清蒸生蚝",
@@ -1357,7 +1362,8 @@
     "cover_image": "ai-generated/aquatic_qing-zheng-sheng-hao.jpg",
     "overview_image": "overview/aquatic_qing-zheng-sheng-hao_overview.jpg",
     "id": "aquatic_qing-zheng-sheng-hao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/清蒸生蚝.md"
   },
   {
     "title": "肉蟹煲",
@@ -1671,7 +1677,8 @@
     "cover_image": "ai-generated/aquatic_rou-xie-bao.jpg",
     "overview_image": "overview/aquatic_rou-xie-bao_overview.jpg",
     "id": "aquatic_rou-xie-bao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/肉蟹煲.md"
   },
   {
     "title": "水煮鱼",
@@ -1921,7 +1928,8 @@
     "cover_image": "ai-generated/aquatic_shui-zhu-yu.jpg",
     "overview_image": "overview/aquatic_shui-zhu-yu_overview.jpg",
     "id": "aquatic_shui-zhu-yu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/水煮鱼.md"
   },
   {
     "title": "微波葱姜黑鳕鱼",
@@ -2149,7 +2157,8 @@
     "cover_image": "ai-generated/aquatic_wei-bo-cong-jiang-hei-xue-yu.jpg",
     "overview_image": "overview/aquatic_wei-bo-cong-jiang-hei-xue-yu_overview.jpg",
     "id": "aquatic_wei-bo-cong-jiang-hei-xue-yu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/微波葱姜黑鳕鱼.md"
   },
   {
     "title": "响油鳝丝",
@@ -2462,7 +2471,8 @@
     "cover_image": "ai-generated/aquatic_xiang-you-shan-si.jpg",
     "overview_image": "overview/aquatic_xiang-you-shan-si_overview.jpg",
     "id": "aquatic_xiang-you-shan-si",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/响油鳝丝.md"
   },
   {
     "title": "茶叶蛋",
@@ -2676,7 +2686,8 @@
     "cover_image": "ai-generated/breakfast_cha-ye-dan.jpg",
     "overview_image": "overview/breakfast_cha-ye-dan_overview.jpg",
     "id": "breakfast_cha-ye-dan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/breakfast/茶叶蛋.md"
   },
   {
     "title": "蛋煎糍粑",
@@ -2838,7 +2849,8 @@
     "cover_image": "ai-generated/breakfast_dan-jian-ci-ba.jpg",
     "overview_image": "overview/breakfast_dan-jian-ci-ba_overview.jpg",
     "id": "breakfast_dan-jian-ci-ba",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/breakfast/蛋煎糍粑.md"
   },
   {
     "title": "桂圆红枣粥",
@@ -2963,7 +2975,8 @@
     "cover_image": "ai-generated/breakfast_gui-yuan-hong-zao-zhou.jpg",
     "overview_image": "overview/breakfast_gui-yuan-hong-zao-zhou_overview.jpg",
     "id": "breakfast_gui-yuan-hong-zao-zhou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/breakfast/桂圆红枣粥.md"
   },
   {
     "title": "韩国麻药鸡蛋",
@@ -3168,7 +3181,8 @@
     "cover_image": "ai-generated/breakfast_han-guo-ma-yao-ji-dan.jpg",
     "overview_image": "overview/breakfast_han-guo-ma-yao-ji-dan_overview.jpg",
     "id": "breakfast_han-guo-ma-yao-ji-dan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/breakfast/韩国麻药鸡蛋.md"
   },
   {
     "title": "鸡蛋三明治",
@@ -3350,7 +3364,8 @@
     "cover_image": "ai-generated/breakfast_ji-dan-san-ming-zhi.jpg",
     "overview_image": "overview/breakfast_ji-dan-san-ming-zhi_overview.jpg",
     "id": "breakfast_ji-dan-san-ming-zhi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/breakfast/鸡蛋三明治.md"
   },
   {
     "title": "煎饺的做法",
@@ -3533,7 +3548,8 @@
     "cover_image": "ai-generated/breakfast_jian-jiao-de-zuo-fa.jpg",
     "overview_image": "overview/breakfast_jian-jiao-de-zuo-fa_overview.jpg",
     "id": "breakfast_jian-jiao-de-zuo-fa",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/breakfast/煎饺.md"
   },
   {
     "title": "金枪鱼酱三明治",
@@ -3683,7 +3699,8 @@
     "cover_image": "ai-generated/breakfast_jin-qiang-yu-jiang-san-ming-zhi.jpg",
     "overview_image": "overview/breakfast_jin-qiang-yu-jiang-san-ming-zhi_overview.jpg",
     "id": "breakfast_jin-qiang-yu-jiang-san-ming-zhi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/breakfast/金枪鱼酱三明治.md"
   },
   {
     "title": "空气炸锅面包片",
@@ -3773,7 +3790,8 @@
     "cover_image": "ai-generated/breakfast_kong-qi-zha-guo-mian-bao-pian.jpg",
     "overview_image": "overview/breakfast_kong-qi-zha-guo-mian-bao-pian_overview.jpg",
     "id": "breakfast_kong-qi-zha-guo-mian-bao-pian",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/breakfast/空气炸锅面包片.md"
   },
   {
     "title": "美式炒蛋",
@@ -3900,7 +3918,8 @@
     "cover_image": "ai-generated/breakfast_mei-shi-chao-dan.jpg",
     "overview_image": "overview/breakfast_mei-shi-chao-dan_overview.jpg",
     "id": "breakfast_mei-shi-chao-dan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/breakfast/美式炒蛋.md"
   },
   {
     "title": "牛奶燕麦",
@@ -4050,7 +4069,8 @@
     "cover_image": "ai-generated/breakfast_niu-nai-yan-mai.jpg",
     "overview_image": "overview/breakfast_niu-nai-yan-mai_overview.jpg",
     "id": "breakfast_niu-nai-yan-mai",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/breakfast/牛奶燕麦.md"
   },
   {
     "title": "手抓饼",
@@ -4256,7 +4276,8 @@
     "cover_image": "ai-generated/breakfast_shou-zhua-bing.jpg",
     "overview_image": "overview/breakfast_shou-zhua-bing_overview.jpg",
     "id": "breakfast_shou-zhua-bing",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/breakfast/手抓饼.md"
   },
   {
     "title": "水煮玉米",
@@ -4373,7 +4394,8 @@
     "cover_image": "ai-generated/breakfast_shui-zhu-yu-mi.jpg",
     "overview_image": "overview/breakfast_shui-zhu-yu-mi_overview.jpg",
     "id": "breakfast_shui-zhu-yu-mi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/水煮鱼.md"
   },
   {
     "title": "太阳蛋",
@@ -4487,7 +4509,8 @@
     "cover_image": "ai-generated/breakfast_tai-yang-dan.jpg",
     "overview_image": "overview/breakfast_tai-yang-dan_overview.jpg",
     "id": "breakfast_tai-yang-dan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/breakfast/太阳蛋.md"
   },
   {
     "title": "溏心蛋",
@@ -4600,7 +4623,8 @@
     "cover_image": "ai-generated/breakfast_tang-xin-dan.jpg",
     "overview_image": "overview/breakfast_tang-xin-dan_overview.jpg",
     "id": "breakfast_tang-xin-dan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/breakfast/溏心蛋.md"
   },
   {
     "title": "吐司果酱的做法",
@@ -4713,7 +4737,8 @@
     "cover_image": "ai-generated/breakfast_tu-si-guo-jiang-de-zuo-fa.jpg",
     "overview_image": "overview/breakfast_tu-si-guo-jiang-de-zuo-fa_overview.jpg",
     "id": "breakfast_tu-si-guo-jiang-de-zuo-fa",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/breakfast/吐司果酱.md"
   },
   {
     "title": "完美水煮蛋",
@@ -4870,7 +4895,8 @@
     "cover_image": "ai-generated/breakfast_wan-mei-shui-zhu-dan.jpg",
     "overview_image": "overview/breakfast_wan-mei-shui-zhu-dan_overview.jpg",
     "id": "breakfast_wan-mei-shui-zhu-dan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/breakfast/完美水煮蛋.md"
   },
   {
     "title": "微波炉蛋糕",
@@ -5023,7 +5049,8 @@
     "cover_image": "ai-generated/breakfast_wei-bo-lu-dan-gao.jpg",
     "overview_image": "overview/breakfast_wei-bo-lu-dan-gao_overview.jpg",
     "id": "breakfast_wei-bo-lu-dan-gao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/breakfast/微波炉蛋糕.md"
   },
   {
     "title": "微波炉荷包蛋",
@@ -5168,7 +5195,8 @@
     "cover_image": "ai-generated/breakfast_wei-bo-lu-he-bao-dan.jpg",
     "overview_image": "overview/breakfast_wei-bo-lu-he-bao-dan_overview.jpg",
     "id": "breakfast_wei-bo-lu-he-bao-dan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/breakfast/微波炉荷包蛋.md"
   },
   {
     "title": "微波炉蒸蛋",
@@ -5321,7 +5349,8 @@
     "cover_image": "ai-generated/breakfast_wei-bo-lu-zheng-dan.jpg",
     "overview_image": "overview/breakfast_wei-bo-lu-zheng-dan_overview.jpg",
     "id": "breakfast_wei-bo-lu-zheng-dan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/breakfast/微波炉蒸蛋.md"
   },
   {
     "title": "燕麦鸡蛋饼",
@@ -5501,7 +5530,8 @@
     "cover_image": "ai-generated/breakfast_yan-mai-ji-dan-bing.jpg",
     "overview_image": "overview/breakfast_yan-mai-ji-dan-bing_overview.jpg",
     "id": "breakfast_yan-mai-ji-dan-bing",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/breakfast/燕麦鸡蛋饼.md"
   },
   {
     "title": "意式香肠北非蛋",
@@ -5745,7 +5775,8 @@
     "cover_image": "ai-generated/breakfast_yi-shi-xiang-chang-bei-fei-dan.jpg",
     "overview_image": "overview/breakfast_yi-shi-xiang-chang-bei-fei-dan_overview.jpg",
     "id": "breakfast_yi-shi-xiang-chang-bei-fei-dan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/breakfast/意式香肠北非蛋.md"
   },
   {
     "title": "蒸花卷",
@@ -5873,7 +5904,8 @@
     "cover_image": "ai-generated/breakfast_zheng-hua-juan.jpg",
     "overview_image": "overview/breakfast_zheng-hua-juan_overview.jpg",
     "id": "breakfast_zheng-hua-juan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/breakfast/蒸花卷.md"
   },
   {
     "title": "蒸水蛋",
@@ -6014,7 +6046,8 @@
     "cover_image": "ai-generated/breakfast_zheng-shui-dan.jpg",
     "overview_image": "overview/breakfast_zheng-shui-dan_overview.jpg",
     "id": "breakfast_zheng-shui-dan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/breakfast/蒸水蛋.md"
   },
   {
     "title": "葱油",
@@ -6184,7 +6217,8 @@
     "cover_image": "ai-generated/condiment_cong-you.jpg",
     "overview_image": "overview/condiment_cong-you_overview.jpg",
     "id": "condiment_cong-you",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/condiment/葱油.md"
   },
   {
     "title": "简易版炒糖色的做法",
@@ -6342,7 +6376,8 @@
     "cover_image": "ai-generated/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa.jpg",
     "overview_image": "overview/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa_overview.jpg",
     "id": "condiment_jian-yi-ban-chao-tang-se-de-zuo-fa",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/condiment/简易版炒糖色.md"
   },
   {
     "title": "蒜香酱油",
@@ -6468,7 +6503,8 @@
     "cover_image": "ai-generated/condiment_suan-xiang-jiang-you.jpg",
     "overview_image": "overview/condiment_suan-xiang-jiang-you_overview.jpg",
     "id": "condiment_suan-xiang-jiang-you",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/condiment/蒜香酱油.md"
   },
   {
     "title": "糖醋汁",
@@ -6601,7 +6637,8 @@
     "cover_image": "ai-generated/condiment_tang-cu-zhi.jpg",
     "overview_image": "overview/condiment_tang-cu-zhi_overview.jpg",
     "id": "condiment_tang-cu-zhi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/condiment/糖醋汁.md"
   },
   {
     "title": "油酥",
@@ -6702,7 +6739,8 @@
     "cover_image": "ai-generated/condiment_you-su.jpg",
     "overview_image": "overview/condiment_you-su_overview.jpg",
     "id": "condiment_you-su",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/condiment/油酥.md"
   },
   {
     "title": "炸串酱料",
@@ -6928,7 +6966,8 @@
     "cover_image": "ai-generated/condiment_zha-chuan-jiang-liao.jpg",
     "overview_image": "overview/condiment_zha-chuan-jiang-liao_overview.jpg",
     "id": "condiment_zha-chuan-jiang-liao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/condiment/炸串酱料.md"
   },
   {
     "title": "胡萝卜甜糕",
@@ -7184,7 +7223,8 @@
     "cover_image": "ai-generated/dessert_hu-luo-bo-tian-gao.jpg",
     "overview_image": "overview/dessert_hu-luo-bo-tian-gao_overview.jpg",
     "id": "dessert_hu-luo-bo-tian-gao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/dessert/胡萝卜甜糕.md"
   },
   {
     "title": "B52轰炸机",
@@ -7311,7 +7351,8 @@
     "cover_image": "ai-generated/drink_b52-hong-zha-ji.jpg",
     "overview_image": "overview/drink_b52-hong-zha-ji_overview.jpg",
     "id": "drink_b52-hong-zha-ji",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/drink/B52轰炸机.md"
   },
   {
     "title": "冬瓜茶",
@@ -7439,7 +7480,8 @@
     "cover_image": "ai-generated/drink_dong-gua-cha.jpg",
     "overview_image": "overview/drink_dong-gua-cha_overview.jpg",
     "id": "drink_dong-gua-cha",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/drink/冬瓜茶.md"
   },
   {
     "title": "可乐桶",
@@ -7587,7 +7629,8 @@
     "cover_image": "ai-generated/drink_ke-le-tong.jpg",
     "overview_image": "overview/drink_ke-le-tong_overview.jpg",
     "id": "drink_ke-le-tong",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/drink/可乐桶.md"
   },
   {
     "title": "Mojito莫吉托",
@@ -7814,7 +7857,8 @@
     "cover_image": "ai-generated/drink_mojito-mo-ji-tuo.jpg",
     "overview_image": "overview/drink_mojito-mo-ji-tuo_overview.jpg",
     "id": "drink_mojito-mo-ji-tuo",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/drink/Mojito莫吉托.md"
   },
   {
     "title": "奶茶的做法",
@@ -7926,7 +7970,8 @@
     "cover_image": "ai-generated/drink_nai-cha-de-zuo-fa.jpg",
     "overview_image": "overview/drink_nai-cha-de-zuo-fa_overview.jpg",
     "id": "drink_nai-cha-de-zuo-fa",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/drink/奶茶.md"
   },
   {
     "title": "牛油果拉西",
@@ -8090,7 +8135,8 @@
     "cover_image": "ai-generated/drink_niu-you-guo-la-xi.jpg",
     "overview_image": "overview/drink_niu-you-guo-la-xi_overview.jpg",
     "id": "drink_niu-you-guo-la-xi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/drink/牛油果拉西.md"
   },
   {
     "title": "酸梅汤（半成品加工）",
@@ -8227,7 +8273,8 @@
     "cover_image": "ai-generated/drink_suan-mei-tang-（-ban-cheng-pin-jia-gong-）.jpg",
     "overview_image": "overview/drink_suan-mei-tang-（-ban-cheng-pin-jia-gong-）_overview.jpg",
     "id": "drink_suan-mei-tang-（-ban-cheng-pin-jia-gong-）",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/drink/酸梅汤（半成品加工）.md"
   },
   {
     "title": "杨枝甘露",
@@ -8397,7 +8444,8 @@
     "cover_image": "ai-generated/drink_yang-zhi-gan-lu.jpg",
     "overview_image": "overview/drink_yang-zhi-gan-lu_overview.jpg",
     "id": "drink_yang-zhi-gan-lu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/drink/杨枝甘露.md"
   },
   {
     "title": "印度奶茶 (Masala Chai)",
@@ -8680,7 +8728,8 @@
     "cover_image": "ai-generated/drink_yin-du-nai-cha--masala-chai.jpg",
     "overview_image": "overview/drink_yin-du-nai-cha--masala-chai_overview.jpg",
     "id": "drink_yin-du-nai-cha--masala-chai",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/drink/奶茶.md"
   },
   {
     "title": "长岛冰茶",
@@ -8894,7 +8943,8 @@
     "cover_image": "ai-generated/drink_zhang-dao-bing-cha.jpg",
     "overview_image": "overview/drink_zhang-dao-bing-cha_overview.jpg",
     "id": "drink_zhang-dao-bing-cha",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/drink/长岛冰茶.md"
   },
   {
     "title": "白菜猪肉炖粉条",
@@ -9149,7 +9199,8 @@
     "cover_image": "ai-generated/meat_dish_bai-cai-zhu-rou-dun-fen-tiao.jpg",
     "overview_image": "overview/meat_dish_bai-cai-zhu-rou-dun-fen-tiao_overview.jpg",
     "id": "meat_dish_bai-cai-zhu-rou-dun-fen-tiao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/白菜猪肉炖粉条.md"
   },
   {
     "title": "带把肘子",
@@ -9392,7 +9443,8 @@
     "cover_image": "ai-generated/meat_dish_dai-ba-zhou-zi.jpg",
     "overview_image": "overview/meat_dish_dai-ba-zhou-zi_overview.jpg",
     "id": "meat_dish_dai-ba-zhou-zi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/带把肘子.md"
   },
   {
     "title": "番茄红酱",
@@ -9615,7 +9667,8 @@
     "cover_image": "ai-generated/meat_dish_fan-qie-hong-jiang.jpg",
     "overview_image": "overview/meat_dish_fan-qie-hong-jiang_overview.jpg",
     "id": "meat_dish_fan-qie-hong-jiang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/番茄红酱.md"
   },
   {
     "title": "粉蒸肉",
@@ -9897,7 +9950,8 @@
     "cover_image": "ai-generated/meat_dish_fen-zheng-rou.jpg",
     "overview_image": "overview/meat_dish_fen-zheng-rou_overview.jpg",
     "id": "meat_dish_fen-zheng-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/粉蒸肉.md"
   },
   {
     "title": "腐乳肉",
@@ -10136,7 +10190,8 @@
     "cover_image": "ai-generated/meat_dish_fu-ru-rou.jpg",
     "overview_image": "overview/meat_dish_fu-ru-rou_overview.jpg",
     "id": "meat_dish_fu-ru-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/腐乳肉.md"
   },
   {
     "title": "咕噜肉",
@@ -10412,7 +10467,8 @@
     "cover_image": "ai-generated/meat_dish_gu-lu-rou.jpg",
     "overview_image": "overview/meat_dish_gu-lu-rou_overview.jpg",
     "id": "meat_dish_gu-lu-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/咕噜肉.md"
   },
   {
     "title": "红烧鸡翅",
@@ -10814,7 +10870,8 @@
     "cover_image": "ai-generated/meat_dish_hong-shao-ji-chi.jpg",
     "overview_image": "overview/meat_dish_hong-shao-ji-chi_overview.jpg",
     "id": "meat_dish_hong-shao-ji-chi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/红烧鸡翅.md"
   },
   {
     "title": "虎皮肘子",
@@ -11090,7 +11147,8 @@
     "cover_image": "ai-generated/meat_dish_hu-pi-zhou-zi.jpg",
     "overview_image": "overview/meat_dish_hu-pi-zhou-zi_overview.jpg",
     "id": "meat_dish_hu-pi-zhou-zi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/虎皮肘子.md"
   },
   {
     "title": "黄瓜炒肉",
@@ -11291,7 +11349,8 @@
     "cover_image": "ai-generated/meat_dish_huang-gua-chao-rou.jpg",
     "overview_image": "overview/meat_dish_huang-gua-chao-rou_overview.jpg",
     "id": "meat_dish_huang-gua-chao-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/黄瓜炒肉.md"
   },
   {
     "title": "黄焖鸡",
@@ -11567,7 +11626,8 @@
     "cover_image": "ai-generated/meat_dish_huang-men-ji.jpg",
     "overview_image": "overview/meat_dish_huang-men-ji_overview.jpg",
     "id": "meat_dish_huang-men-ji",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/黄焖鸡.md"
   },
   {
     "title": "黄油鸡",
@@ -11795,7 +11855,8 @@
     "cover_image": "ai-generated/meat_dish_huang-you-ji.jpg",
     "overview_image": "overview/meat_dish_huang-you-ji_overview.jpg",
     "id": "meat_dish_huang-you-ji",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/黄油鸡.md"
   },
   {
     "title": "尖椒炒牛肉",
@@ -11998,7 +12059,8 @@
     "cover_image": "ai-generated/meat_dish_jian-jiao-chao-niu-rou.jpg",
     "overview_image": "overview/meat_dish_jian-jiao-chao-niu-rou_overview.jpg",
     "id": "meat_dish_jian-jiao-chao-niu-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/尖椒炒牛肉.md"
   },
   {
     "title": "椒盐排条",
@@ -12239,7 +12301,8 @@
     "cover_image": "ai-generated/meat_dish_jiao-yan-pai-tiao.jpg",
     "overview_image": "overview/meat_dish_jiao-yan-pai-tiao_overview.jpg",
     "id": "meat_dish_jiao-yan-pai-tiao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/椒盐排条.md"
   },
   {
     "title": "烤鸡翅",
@@ -12398,7 +12461,8 @@
     "cover_image": "ai-generated/meat_dish_kao-ji-chi.jpg",
     "overview_image": "overview/meat_dish_kao-ji-chi_overview.jpg",
     "id": "meat_dish_kao-ji-chi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/烤鸡翅.md"
   },
   {
     "title": "可乐鸡翅",
@@ -12606,7 +12670,8 @@
     "cover_image": "ai-generated/meat_dish_ke-le-ji-chi.jpg",
     "overview_image": "overview/meat_dish_ke-le-ji-chi_overview.jpg",
     "id": "meat_dish_ke-le-ji-chi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/可乐鸡翅.md"
   },
   {
     "title": "辣椒炒肉",
@@ -12851,7 +12916,8 @@
     "cover_image": "ai-generated/meat_dish_la-jiao-chao-rou.jpg",
     "overview_image": "overview/meat_dish_la-jiao-chao-rou_overview.jpg",
     "id": "meat_dish_la-jiao-chao-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/辣椒炒肉.md"
   },
   {
     "title": "冷吃兔",
@@ -13192,7 +13258,8 @@
     "cover_image": "ai-generated/meat_dish_leng-chi-tu.jpg",
     "overview_image": "overview/meat_dish_leng-chi-tu_overview.jpg",
     "id": "meat_dish_leng-chi-tu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/冷吃兔.md"
   },
   {
     "title": "萝卜炖羊排",
@@ -13413,7 +13480,8 @@
     "cover_image": "ai-generated/meat_dish_luo-bo-dun-yang-pai.jpg",
     "overview_image": "overview/meat_dish_luo-bo-dun-yang-pai_overview.jpg",
     "id": "meat_dish_luo-bo-dun-yang-pai",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/萝卜炖羊排.md"
   },
   {
     "title": "麻辣香锅",
@@ -13646,7 +13714,8 @@
     "cover_image": "ai-generated/meat_dish_ma-la-xiang-guo.jpg",
     "overview_image": "overview/meat_dish_ma-la-xiang-guo_overview.jpg",
     "id": "meat_dish_ma-la-xiang-guo",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/麻辣香锅.md"
   },
   {
     "title": "蚂蚁上树",
@@ -13901,7 +13970,8 @@
     "cover_image": "ai-generated/meat_dish_ma-yi-shang-shu.jpg",
     "overview_image": "overview/meat_dish_ma-yi-shang-shu_overview.jpg",
     "id": "meat_dish_ma-yi-shang-shu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/蚂蚁上树.md"
   },
   {
     "title": "肉饼炖蛋",
@@ -14037,7 +14107,8 @@
     "cover_image": "ai-generated/meat_dish_rou-bing-dun-dan.jpg",
     "overview_image": "overview/meat_dish_rou-bing-dun-dan_overview.jpg",
     "id": "meat_dish_rou-bing-dun-dan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/肉饼炖蛋.md"
   },
   {
     "title": "杀猪菜",
@@ -14329,7 +14400,8 @@
     "cover_image": "ai-generated/meat_dish_sha-zhu-cai.jpg",
     "overview_image": "overview/meat_dish_sha-zhu-cai_overview.jpg",
     "id": "meat_dish_sha-zhu-cai",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/杀猪菜.md"
   },
   {
     "title": "山西过油肉",
@@ -14560,7 +14632,8 @@
     "cover_image": "ai-generated/meat_dish_shan-xi-guo-you-rou.jpg",
     "overview_image": "overview/meat_dish_shan-xi-guo-you-rou_overview.jpg",
     "id": "meat_dish_shan-xi-guo-you-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/山西过油肉.md"
   },
   {
     "title": "商芝肉",
@@ -14821,7 +14894,8 @@
     "cover_image": "ai-generated/meat_dish_shang-zhi-rou.jpg",
     "overview_image": "overview/meat_dish_shang-zhi-rou_overview.jpg",
     "id": "meat_dish_shang-zhi-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/商芝肉.md"
   },
   {
     "title": "豉汁排骨",
@@ -15074,7 +15148,8 @@
     "cover_image": "ai-generated/meat_dish_shi-zhi-pai-gu.jpg",
     "overview_image": "overview/meat_dish_shi-zhi-pai-gu_overview.jpg",
     "id": "meat_dish_shi-zhi-pai-gu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/豉汁排骨.md"
   },
   {
     "title": "水煮肉片",
@@ -15422,7 +15497,8 @@
     "cover_image": "ai-generated/meat_dish_shui-zhu-rou-pian.jpg",
     "overview_image": "overview/meat_dish_shui-zhu-rou-pian_overview.jpg",
     "id": "meat_dish_shui-zhu-rou-pian",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/水煮肉片.md"
   },
   {
     "title": "蒜苔炒肉末",
@@ -15624,7 +15700,8 @@
     "cover_image": "ai-generated/meat_dish_suan-tai-chao-rou-mo.jpg",
     "overview_image": "overview/meat_dish_suan-tai-chao-rou-mo_overview.jpg",
     "id": "meat_dish_suan-tai-chao-rou-mo",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/蒜苔炒肉末.md"
   },
   {
     "title": "糖醋里脊",
@@ -15840,7 +15917,8 @@
     "cover_image": "ai-generated/meat_dish_tang-cu-li-ji.jpg",
     "overview_image": "overview/meat_dish_tang-cu-li-ji_overview.jpg",
     "id": "meat_dish_tang-cu-li-ji",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/糖醋里脊.md"
   },
   {
     "title": "甜辣烤全翅",
@@ -16107,7 +16185,8 @@
     "cover_image": "ai-generated/meat_dish_tian-la-kao-quan-chi.jpg",
     "overview_image": "overview/meat_dish_tian-la-kao-quan-chi_overview.jpg",
     "id": "meat_dish_tian-la-kao-quan-chi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/甜辣烤全翅.md"
   },
   {
     "title": "乡村啤酒鸭",
@@ -16370,7 +16449,8 @@
     "cover_image": "ai-generated/meat_dish_xiang-cun-pi-jiu-ya.jpg",
     "overview_image": "overview/meat_dish_xiang-cun-pi-jiu-ya_overview.jpg",
     "id": "meat_dish_xiang-cun-pi-jiu-ya",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/乡村啤酒鸭.md"
   },
   {
     "title": "香干肉丝",
@@ -16595,7 +16675,8 @@
     "cover_image": "ai-generated/meat_dish_xiang-gan-rou-si.jpg",
     "overview_image": "overview/meat_dish_xiang-gan-rou-si_overview.jpg",
     "id": "meat_dish_xiang-gan-rou-si",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/香干肉丝.md"
   },
   {
     "title": "小炒肉",
@@ -16851,7 +16932,8 @@
     "cover_image": "ai-generated/meat_dish_xiao-chao-rou.jpg",
     "overview_image": "overview/meat_dish_xiao-chao-rou_overview.jpg",
     "id": "meat_dish_xiao-chao-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/小炒肉.md"
   },
   {
     "title": "小米辣炒肉",
@@ -17043,7 +17125,8 @@
     "cover_image": "ai-generated/meat_dish_xiao-mi-la-chao-rou.jpg",
     "overview_image": "overview/meat_dish_xiao-mi-la-chao-rou_overview.jpg",
     "id": "meat_dish_xiao-mi-la-chao-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/小米辣炒肉.md"
   },
   {
     "title": "小酥肉",
@@ -17306,7 +17389,8 @@
     "cover_image": "ai-generated/meat_dish_xiao-su-rou.jpg",
     "overview_image": "overview/meat_dish_xiao-su-rou_overview.jpg",
     "id": "meat_dish_xiao-su-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/小酥肉.md"
   },
   {
     "title": "洋葱炒猪肉",
@@ -17501,7 +17585,8 @@
     "cover_image": "ai-generated/meat_dish_yang-cong-chao-zhu-rou.jpg",
     "overview_image": "overview/meat_dish_yang-cong-chao-zhu-rou_overview.jpg",
     "id": "meat_dish_yang-cong-chao-zhu-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/洋葱炒猪肉.md"
   },
   {
     "title": "意式烤鸡",
@@ -17664,7 +17749,8 @@
     "cover_image": "ai-generated/meat_dish_yi-shi-kao-ji.jpg",
     "overview_image": "overview/meat_dish_yi-shi-kao-ji_overview.jpg",
     "id": "meat_dish_yi-shi-kao-ji",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/意式烤鸡.md"
   },
   {
     "title": "鱼香肉丝",
@@ -17945,7 +18031,8 @@
     "cover_image": "ai-generated/meat_dish_yu-xiang-rou-si.jpg",
     "overview_image": "overview/meat_dish_yu-xiang-rou-si_overview.jpg",
     "id": "meat_dish_yu-xiang-rou-si",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/鱼香肉丝.md"
   },
   {
     "title": "猪肉烩酸菜",
@@ -18227,7 +18314,8 @@
     "cover_image": "ai-generated/meat_dish_zhu-rou-hui-suan-cai.jpg",
     "overview_image": "overview/meat_dish_zhu-rou-hui-suan-cai_overview.jpg",
     "id": "meat_dish_zhu-rou-hui-suan-cai",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/猪肉烩酸菜.md"
   },
   {
     "title": "孜然牛肉",
@@ -18456,7 +18544,8 @@
     "cover_image": "ai-generated/meat_dish_zi-ran-niu-rou.jpg",
     "overview_image": "overview/meat_dish_zi-ran-niu-rou_overview.jpg",
     "id": "meat_dish_zi-ran-niu-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/孜然牛肉.md"
   },
   {
     "title": "昂刺鱼豆腐汤",
@@ -18634,7 +18723,8 @@
     "cover_image": "ai-generated/other_ang-ci-yu-dou-fu-tang.jpg",
     "overview_image": "overview/other_ang-ci-yu-dou-fu-tang_overview.jpg",
     "id": "other_ang-ci-yu-dou-fu-tang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md"
   },
   {
     "title": "奥利奥冰淇淋",
@@ -18786,7 +18876,8 @@
     "cover_image": "ai-generated/other_ao-li-ao-bing-qi-lin.jpg",
     "overview_image": "overview/other_ao-li-ao-bing-qi-lin_overview.jpg",
     "id": "other_ao-li-ao-bing-qi-lin",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md"
   },
   {
     "title": "澳门湿版免治牛肉饭",
@@ -19038,7 +19129,8 @@
     "cover_image": "ai-generated/other_ao-men-shi-ban-mian-zhi-niu-rou-fan.jpg",
     "overview_image": "overview/other_ao-men-shi-ban-mian-zhi-niu-rou-fan_overview.jpg",
     "id": "other_ao-men-shi-ban-mian-zhi-niu-rou-fan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/澳门湿版免治牛肉饭/澳门湿版免治牛肉饭.md"
   },
   {
     "title": "耙耙柑茶",
@@ -19151,7 +19243,8 @@
     "cover_image": "ai-generated/other_ba-ba-gan-cha.jpg",
     "overview_image": "overview/other_ba-ba-gan-cha_overview.jpg",
     "id": "other_ba-ba-gan-cha",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/drink/耙耙柑茶/耙耙柑茶.md"
   },
   {
     "title": "巴基斯坦牛肉咖喱",
@@ -19392,7 +19485,8 @@
     "cover_image": "ai-generated/other_ba-ji-si-tan-niu-rou-ga-li.jpg",
     "overview_image": "overview/other_ba-ji-si-tan-niu-rou-ga-li_overview.jpg",
     "id": "other_ba-ji-si-tan-niu-rou-ga-li",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md"
   },
   {
     "title": "拔丝土豆",
@@ -19568,7 +19662,8 @@
     "cover_image": "ai-generated/other_ba-si-tu-dou.jpg",
     "overview_image": "overview/other_ba-si-tu-dou_overview.jpg",
     "id": "other_ba-si-tu-dou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/拔丝土豆/拔丝土豆.md"
   },
   {
     "title": "百香果橙子特调",
@@ -19728,7 +19823,8 @@
     "cover_image": "ai-generated/other_bai-xiang-guo-cheng-zi-te-diao.jpg",
     "overview_image": "overview/other_bai-xiang-guo-cheng-zi-te-diao_overview.jpg",
     "id": "other_bai-xiang-guo-cheng-zi-te-diao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/drink/百香果橙子特调/百香果橙子特调.md"
   },
   {
     "title": "白灼菜心的做法",
@@ -19925,7 +20021,8 @@
     "cover_image": "ai-generated/other_bai-zhuo-cai-xin-de-zuo-fa.jpg",
     "overview_image": "overview/other_bai-zhuo-cai-xin-de-zuo-fa_overview.jpg",
     "id": "other_bai-zhuo-cai-xin-de-zuo-fa",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/白灼菜心/白灼菜心.md"
   },
   {
     "title": "白灼虾",
@@ -20105,7 +20202,8 @@
     "cover_image": "ai-generated/other_bai-zhuo-xia.jpg",
     "overview_image": "overview/other_bai-zhuo-xia_overview.jpg",
     "id": "other_bai-zhuo-xia",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/白灼虾/白灼虾.md"
   },
   {
     "title": "包菜炒鸡蛋粉丝",
@@ -20398,7 +20496,8 @@
     "cover_image": "ai-generated/other_bao-cai-chao-ji-dan-fen-si.jpg",
     "overview_image": "overview/other_bao-cai-chao-ji-dan-fen-si_overview.jpg",
     "id": "other_bao-cai-chao-ji-dan-fen-si",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md"
   },
   {
     "title": "鳊鱼炖豆腐",
@@ -20641,7 +20740,8 @@
     "cover_image": "ai-generated/other_bian-yu-dun-dou-fu.jpg",
     "overview_image": "overview/other_bian-yu-dun-dou-fu_overview.jpg",
     "id": "other_bian-yu-dun-dou-fu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md"
   },
   {
     "title": "冰粉的做法",
@@ -20774,7 +20874,8 @@
     "cover_image": "ai-generated/other_bing-fen-de-zuo-fa.jpg",
     "overview_image": "overview/other_bing-fen-de-zuo-fa_overview.jpg",
     "id": "other_bing-fen-de-zuo-fa",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/drink/冰粉/冰粉.md"
   },
   {
     "title": "菠菜炒鸡蛋",
@@ -20942,7 +21043,8 @@
     "cover_image": "ai-generated/other_bo-cai-chao-ji-dan.jpg",
     "overview_image": "overview/other_bo-cai-chao-ji-dan_overview.jpg",
     "id": "other_bo-cai-chao-ji-dan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md"
   },
   {
     "title": "菠萝咖啡特调",
@@ -21125,7 +21227,8 @@
     "cover_image": "ai-generated/other_bo-luo-ka-fei-te-diao.jpg",
     "overview_image": "overview/other_bo-luo-ka-fei-te-diao_overview.jpg",
     "id": "other_bo-luo-ka-fei-te-diao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/drink/菠萝咖啡特调/菠萝咖啡特调.md"
   },
   {
     "title": "草莓冰淇淋",
@@ -21318,7 +21421,8 @@
     "cover_image": "ai-generated/other_cao-mei-bing-qi-lin.jpg",
     "overview_image": "overview/other_cao-mei-bing-qi-lin_overview.jpg",
     "id": "other_cao-mei-bing-qi-lin",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/dessert/草莓冰淇淋/草莓冰淇淋.md"
   },
   {
     "title": "草莓酱",
@@ -21456,7 +21560,8 @@
     "cover_image": "ai-generated/other_cao-mei-jiang.jpg",
     "overview_image": "overview/other_cao-mei-jiang_overview.jpg",
     "id": "other_cao-mei-jiang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/condiment/草莓酱/草莓酱.md"
   },
   {
     "title": "炒方便面的做法",
@@ -21634,7 +21739,8 @@
     "cover_image": "ai-generated/other_chao-fang-bian-mian-de-zuo-fa.jpg",
     "overview_image": "overview/other_chao-fang-bian-mian-de-zuo-fa_overview.jpg",
     "id": "other_chao-fang-bian-mian-de-zuo-fa",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/炒方便面/炒方便面.md"
   },
   {
     "title": "炒滑蛋",
@@ -21757,7 +21863,8 @@
     "cover_image": "ai-generated/other_chao-hua-dan.jpg",
     "overview_image": "overview/other_chao-hua-dan_overview.jpg",
     "id": "other_chao-hua-dan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/炒滑蛋/炒滑蛋.md"
   },
   {
     "title": "炒凉粉的做法",
@@ -21992,7 +22099,8 @@
     "cover_image": "ai-generated/other_chao-liang-fen-de-zuo-fa.jpg",
     "overview_image": "overview/other_chao-liang-fen-de-zuo-fa_overview.jpg",
     "id": "other_chao-liang-fen-de-zuo-fa",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/炒凉粉/炒凉粉.md"
   },
   {
     "title": "炒意大利面",
@@ -22150,7 +22258,8 @@
     "cover_image": "ai-generated/other_chao-yi-da-li-mian.jpg",
     "overview_image": "overview/other_chao-yi-da-li-mian_overview.jpg",
     "id": "other_chao-yi-da-li-mian",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/炒意大利面/炒意大利面.md"
   },
   {
     "title": "陈皮排骨汤",
@@ -22339,7 +22448,8 @@
     "cover_image": "ai-generated/other_chen-pi-pai-gu-tang.jpg",
     "overview_image": "overview/other_chen-pi-pai-gu-tang_overview.jpg",
     "id": "other_chen-pi-pai-gu-tang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/soup/陈皮排骨汤/陈皮排骨汤.md"
   },
   {
     "title": "蛏抱蛋",
@@ -22512,7 +22622,8 @@
     "cover_image": "ai-generated/other_cheng-bao-dan.jpg",
     "overview_image": "overview/other_cheng-bao-dan_overview.jpg",
     "id": "other_cheng-bao-dan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/蛏抱蛋/蛏抱蛋.md"
   },
   {
     "title": "川味烤鱼",
@@ -22919,7 +23030,8 @@
     "cover_image": "ai-generated/other_chuan-wei-kao-yu.jpg",
     "overview_image": "overview/other_chuan-wei-kao-yu_overview.jpg",
     "id": "other_chuan-wei-kao-yu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/混合烤鱼/烤鱼.md"
   },
   {
     "title": "葱烧海参",
@@ -23162,7 +23274,8 @@
     "cover_image": "ai-generated/other_cong-shao-hai-shen.jpg",
     "overview_image": "overview/other_cong-shao-hai-shen_overview.jpg",
     "id": "other_cong-shao-hai-shen",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/葱烧海参/葱烧海参.md"
   },
   {
     "title": "葱油桂鱼",
@@ -23440,7 +23553,8 @@
     "cover_image": "ai-generated/other_cong-you-gui-yu.jpg",
     "overview_image": "overview/other_cong-you-gui-yu_overview.jpg",
     "id": "other_cong-you-gui-yu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/葱油桂鱼/葱油桂鱼.md"
   },
   {
     "title": "地三鲜",
@@ -23692,7 +23806,8 @@
     "cover_image": "ai-generated/other_di-san-xian.jpg",
     "overview_image": "overview/other_di-san-xian_overview.jpg",
     "id": "other_di-san-xian",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/地三鲜/地三鲜.md"
   },
   {
     "title": "电饭煲三文鱼炊饭",
@@ -23856,7 +23971,8 @@
     "cover_image": "ai-generated/other_dian-fan-bao-san-wen-yu-chui-fan.jpg",
     "overview_image": "overview/other_dian-fan-bao-san-wen-yu-chui-fan_overview.jpg",
     "id": "other_dian-fan-bao-san-wen-yu-chui-fan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/电饭煲三文鱼炊饭/电饭煲三文鱼炊饭.md"
   },
   {
     "title": "电饭煲蒸米饭",
@@ -23979,7 +24095,8 @@
     "cover_image": "ai-generated/other_dian-fan-bao-zheng-mi-fan.jpg",
     "overview_image": "overview/other_dian-fan-bao-zheng-mi-fan_overview.jpg",
     "id": "other_dian-fan-bao-zheng-mi-fan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/米饭/煮锅蒸米饭.md"
   },
   {
     "title": "冬瓜酿肉的做法",
@@ -24258,7 +24375,8 @@
     "cover_image": "ai-generated/other_dong-gua-niang-rou-de-zuo-fa.jpg",
     "overview_image": "overview/other_dong-gua-niang-rou-de-zuo-fa_overview.jpg",
     "id": "other_dong-gua-niang-rou-de-zuo-fa",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md"
   },
   {
     "title": "豆豉鲮鱼油麦菜",
@@ -24417,7 +24535,8 @@
     "cover_image": "ai-generated/other_dou-chi-ling-yu-you-mai-cai.jpg",
     "overview_image": "overview/other_dou-chi-ling-yu-you-mai-cai_overview.jpg",
     "id": "other_dou-chi-ling-yu-you-mai-cai",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md"
   },
   {
     "title": "豆角焖面",
@@ -24731,7 +24850,8 @@
     "cover_image": "ai-generated/other_dou-jiao-men-mian.jpg",
     "overview_image": "overview/other_dou-jiao-men-mian_overview.jpg",
     "id": "other_dou-jiao-men-mian",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/豆角焖面/豆角焖面.md"
   },
   {
     "title": "反沙芋头",
@@ -24891,7 +25011,8 @@
     "cover_image": "ai-generated/other_fan-sha-yu-tou.jpg",
     "overview_image": "overview/other_fan-sha-yu-tou_overview.jpg",
     "id": "other_fan-sha-yu-tou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/dessert/反沙芋头/反沙芋头.md"
   },
   {
     "title": "咖喱肥牛",
@@ -25113,7 +25234,8 @@
     "cover_image": "ai-generated/other_ga-li-fei-niu.jpg",
     "overview_image": "overview/other_ga-li-fei-niu_overview.jpg",
     "id": "other_ga-li-fei-niu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/咖喱肥牛/咖喱肥牛.md"
   },
   {
     "title": "干煸仔鸡",
@@ -25417,7 +25539,8 @@
     "cover_image": "ai-generated/other_gan-bian-zi-ji.jpg",
     "overview_image": "overview/other_gan-bian-zi-ji_overview.jpg",
     "id": "other_gan-bian-zi-ji",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/干煸仔鸡/干煸仔鸡.md"
   },
   {
     "title": "干锅花菜",
@@ -25639,7 +25762,8 @@
     "cover_image": "ai-generated/other_gan-guo-hua-cai.jpg",
     "overview_image": "overview/other_gan-guo-hua-cai_overview.jpg",
     "id": "other_gan-guo-hua-cai",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/干锅花菜/干锅花菜.md"
   },
   {
     "title": "干煎阿根廷红虾",
@@ -25911,7 +26035,8 @@
     "cover_image": "ai-generated/other_gan-jian-a-gen-ting-hong-xia.jpg",
     "overview_image": "overview/other_gan-jian-a-gen-ting-hong-xia_overview.jpg",
     "id": "other_gan-jian-a-gen-ting-hong-xia",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md"
   },
   {
     "title": "宫保鸡丁",
@@ -26203,7 +26328,8 @@
     "cover_image": "ai-generated/other_gong-bao-ji-ding.jpg",
     "overview_image": "overview/other_gong-bao-ji-ding_overview.jpg",
     "id": "other_gong-bao-ji-ding",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/宫保鸡丁/宫保鸡丁.md"
   },
   {
     "title": "勾芡香菇汤",
@@ -26387,7 +26513,8 @@
     "cover_image": "ai-generated/other_gou-qian-xiang-gu-tang.jpg",
     "overview_image": "overview/other_gou-qian-xiang-gu-tang_overview.jpg",
     "id": "other_gou-qian-xiang-gu-tang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/soup/勾芡香菇汤/勾芡香菇汤.md"
   },
   {
     "title": "广式萝卜牛腩",
@@ -26651,7 +26778,8 @@
     "cover_image": "ai-generated/other_guang-shi-luo-bo-niu-nan.jpg",
     "overview_image": "overview/other_guang-shi-luo-bo-niu-nan_overview.jpg",
     "id": "other_guang-shi-luo-bo-niu-nan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md"
   },
   {
     "title": "桂林十八酿的做法",
@@ -26798,7 +26926,8 @@
     "cover_image": "ai-generated/other_gui-lin-shi-ba-niang-de-zuo-fa.jpg",
     "overview_image": "overview/other_gui-lin-shi-ba-niang-de-zuo-fa_overview.jpg",
     "id": "other_gui-lin-shi-ba-niang-de-zuo-fa",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/桂林十八酿/桂林十八酿.md"
   },
   {
     "title": "龟苓膏",
@@ -26946,7 +27075,8 @@
     "cover_image": "ai-generated/other_gui-ling-gao.jpg",
     "overview_image": "overview/other_gui-ling-gao_overview.jpg",
     "id": "other_gui-ling-gao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/dessert/龟苓膏/龟苓膏.md"
   },
   {
     "title": "贵州辣子鸡",
@@ -27164,7 +27294,8 @@
     "cover_image": "ai-generated/other_gui-zhou-la-zi-ji.jpg",
     "overview_image": "overview/other_gui-zhou-la-zi-ji_overview.jpg",
     "id": "other_gui-zhou-la-zi-ji",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md"
   },
   {
     "title": "海边落日",
@@ -27394,7 +27525,8 @@
     "cover_image": "ai-generated/other_hai-bian-luo-ri.jpg",
     "overview_image": "overview/other_hai-bian-luo-ri_overview.jpg",
     "id": "other_hai-bian-luo-ri",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/drink/海边落日/海边落日.md"
   },
   {
     "title": "韩式拌饭",
@@ -27615,7 +27747,8 @@
     "cover_image": "ai-generated/other_han-shi-ban-fan.jpg",
     "overview_image": "overview/other_han-shi-ban-fan_overview.jpg",
     "id": "other_han-shi-ban-fan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/韩式拌饭/韩式拌饭.md"
   },
   {
     "title": "蚝油三鲜菇",
@@ -27884,7 +28017,8 @@
     "cover_image": "ai-generated/other_hao-you-san-xian-gu.jpg",
     "overview_image": "overview/other_hao-you-san-xian-gu_overview.jpg",
     "id": "other_hao-you-san-xian-gu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md"
   },
   {
     "title": "荷兰豆炒腊肠",
@@ -28031,7 +28165,8 @@
     "cover_image": "ai-generated/other_he-lan-dou-chao-la-chang.jpg",
     "overview_image": "overview/other_he-lan-dou-chao-la-chang_overview.jpg",
     "id": "other_he-lan-dou-chao-la-chang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/荷兰豆炒腊肠/荷兰豆炒腊肠.md"
   },
   {
     "title": "河南蒸面条",
@@ -28261,7 +28396,8 @@
     "cover_image": "ai-generated/other_he-nan-zheng-mian-tiao.jpg",
     "overview_image": "overview/other_he-nan-zheng-mian-tiao_overview.jpg",
     "id": "other_he-nan-zheng-mian-tiao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/河南蒸面条/河南蒸面条.md"
   },
   {
     "title": "黑椒牛柳",
@@ -28476,7 +28612,8 @@
     "cover_image": "ai-generated/other_hei-jiao-niu-liu.jpg",
     "overview_image": "overview/other_hei-jiao-niu-liu_overview.jpg",
     "id": "other_hei-jiao-niu-liu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/黑椒牛柳/黑椒牛柳.md"
   },
   {
     "title": "红烧冬瓜",
@@ -28713,7 +28850,8 @@
     "cover_image": "ai-generated/other_hong-shao-dong-gua.jpg",
     "overview_image": "overview/other_hong-shao-dong-gua_overview.jpg",
     "id": "other_hong-shao-dong-gua",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md"
   },
   {
     "title": "红烧猪蹄",
@@ -28937,7 +29075,8 @@
     "cover_image": "ai-generated/other_hong-shao-zhu-ti.jpg",
     "overview_image": "overview/other_hong-shao-zhu-ti_overview.jpg",
     "id": "other_hong-shao-zhu-ti",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/红烧猪蹄/红烧猪蹄.md"
   },
   {
     "title": "红柚蛋糕",
@@ -29143,7 +29282,8 @@
     "cover_image": "ai-generated/other_hong-you-dan-gao.jpg",
     "overview_image": "overview/other_hong-you-dan-gao_overview.jpg",
     "id": "other_hong-you-dan-gao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/dessert/红柚蛋糕/红柚蛋糕.md"
   },
   {
     "title": "湖南家常红烧肉",
@@ -29382,7 +29522,8 @@
     "cover_image": "ai-generated/other_hu-nan-jia-chang-hong-shao-rou.jpg",
     "overview_image": "overview/other_hu-nan-jia-chang-hong-shao-rou_overview.jpg",
     "id": "other_hu-nan-jia-chang-hong-shao-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md"
   },
   {
     "title": "虎皮青椒",
@@ -29596,7 +29737,8 @@
     "cover_image": "ai-generated/other_hu-pi-qing-jiao.jpg",
     "overview_image": "overview/other_hu-pi-qing-jiao_overview.jpg",
     "id": "other_hu-pi-qing-jiao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/虎皮青椒/虎皮青椒.md"
   },
   {
     "title": "话梅煮毛豆",
@@ -29699,7 +29841,8 @@
     "cover_image": "ai-generated/other_hua-mei-zhu-mao-dou.jpg",
     "overview_image": "overview/other_hua-mei-zhu-mao-dou_overview.jpg",
     "id": "other_hua-mei-zhu-mao-dou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/话梅煮毛豆/话梅煮毛豆.md"
   },
   {
     "title": "黄油煎虾",
@@ -29892,7 +30035,8 @@
     "cover_image": "ai-generated/other_huang-you-jian-xia.jpg",
     "overview_image": "overview/other_huang-you-jian-xia_overview.jpg",
     "id": "other_huang-you-jian-xia",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/黄油鸡.md"
   },
   {
     "title": "回锅肉",
@@ -30097,7 +30241,8 @@
     "cover_image": "ai-generated/other_hui-guo-rou.jpg",
     "overview_image": "overview/other_hui-guo-rou_overview.jpg",
     "id": "other_hui-guo-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/回锅肉/回锅肉.md"
   },
   {
     "title": "徽派红烧肉",
@@ -30345,7 +30490,8 @@
     "cover_image": "ai-generated/other_hui-pai-hong-shao-rou.jpg",
     "overview_image": "overview/other_hui-pai-hong-shao-rou_overview.jpg",
     "id": "other_hui-pai-hong-shao-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/徽派红烧肉/徽派红烧肉.md"
   },
   {
     "title": "火腿饭团",
@@ -30540,7 +30686,8 @@
     "cover_image": "ai-generated/other_huo-tui-fan-tuan.jpg",
     "overview_image": "overview/other_huo-tui-fan-tuan_overview.jpg",
     "id": "other_huo-tui-fan-tuan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/火腿饭团/火腿饭团.md"
   },
   {
     "title": "基础牛奶面包",
@@ -30801,7 +30948,8 @@
     "cover_image": "ai-generated/other_ji-chu-niu-nai-mian-bao.jpg",
     "overview_image": "overview/other_ji-chu-niu-nai-mian-bao_overview.jpg",
     "id": "other_ji-chu-niu-nai-mian-bao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/基础牛奶面包/基础牛奶面包.md"
   },
   {
     "title": "鸡蛋羹",
@@ -31006,7 +31154,8 @@
     "cover_image": "ai-generated/other_ji-dan-geng.jpg",
     "overview_image": "overview/other_ji-dan-geng_overview.jpg",
     "id": "other_ji-dan-geng",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md"
   },
   {
     "title": "鸡蛋花",
@@ -31155,7 +31304,8 @@
     "cover_image": "ai-generated/other_ji-dan-hua.jpg",
     "overview_image": "overview/other_ji-dan-hua_overview.jpg",
     "id": "other_ji-dan-hua",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/鸡蛋花/鸡蛋花.md"
   },
   {
     "title": "家常烙饼",
@@ -31333,7 +31483,8 @@
     "cover_image": "ai-generated/other_jia-chang-lao-bing.jpg",
     "overview_image": "overview/other_jia-chang-lao-bing_overview.jpg",
     "id": "other_jia-chang-lao-bing",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/烙饼/烙饼.md"
   },
   {
     "title": "尖叫牛蛙",
@@ -31606,7 +31757,8 @@
     "cover_image": "ai-generated/other_jian-jiao-niu-wa.jpg",
     "overview_image": "overview/other_jian-jiao-niu-wa_overview.jpg",
     "id": "other_jian-jiao-niu-wa",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/尖叫牛蛙/尖叫牛蛙.md"
   },
   {
     "title": "煎烤羊排的做法",
@@ -31901,7 +32053,8 @@
     "cover_image": "ai-generated/other_jian-kao-yang-pai-de-zuo-fa.jpg",
     "overview_image": "overview/other_jian-kao-yang-pai-de-zuo-fa_overview.jpg",
     "id": "other_jian-kao-yang-pai-de-zuo-fa",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/煎烤羊排/煎烤羊排.md"
   },
   {
     "title": "简易红烧肉",
@@ -32131,7 +32284,8 @@
     "cover_image": "ai-generated/other_jian-yi-hong-shao-rou.jpg",
     "overview_image": "overview/other_jian-yi-hong-shao-rou_overview.jpg",
     "id": "other_jian-yi-hong-shao-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/红烧肉/简易红烧肉.md"
   },
   {
     "title": "鲣鱼海苔玉米饭",
@@ -32228,7 +32382,8 @@
     "cover_image": "ai-generated/other_jian-yu-hai-tai-yu-mi-fan.jpg",
     "overview_image": "overview/other_jian-yu-hai-tai-yu-mi-fan_overview.jpg",
     "id": "other_jian-yu-hai-tai-yu-mi-fan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/米饭/煮锅蒸米饭.md"
   },
   {
     "title": "酱拌荞麦面",
@@ -32347,7 +32502,8 @@
     "cover_image": "ai-generated/other_jiang-ban-qiao-mai-mian.jpg",
     "overview_image": "overview/other_jiang-ban-qiao-mai-mian_overview.jpg",
     "id": "other_jiang-ban-qiao-mai-mian",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/酱拌荞麦面/酱拌荞麦面.md"
   },
   {
     "title": "姜炒鸡",
@@ -32583,7 +32739,8 @@
     "cover_image": "ai-generated/other_jiang-chao-ji.jpg",
     "overview_image": "overview/other_jiang-chao-ji_overview.jpg",
     "id": "other_jiang-chao-ji",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/姜炒鸡/姜炒鸡.md"
   },
   {
     "title": "姜葱捞鸡",
@@ -32821,7 +32978,8 @@
     "cover_image": "ai-generated/other_jiang-cong-lao-ji.jpg",
     "overview_image": "overview/other_jiang-cong-lao-ji_overview.jpg",
     "id": "other_jiang-cong-lao-ji",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/姜葱捞鸡/姜葱捞鸡.md"
   },
   {
     "title": "酱牛肉",
@@ -33104,7 +33262,8 @@
     "cover_image": "ai-generated/other_jiang-niu-rou.jpg",
     "overview_image": "overview/other_jiang-niu-rou_overview.jpg",
     "id": "other_jiang-niu-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/酱牛肉/酱牛肉.md"
   },
   {
     "title": "酱排骨",
@@ -33333,7 +33492,8 @@
     "cover_image": "ai-generated/other_jiang-pai-gu.jpg",
     "overview_image": "overview/other_jiang-pai-gu_overview.jpg",
     "id": "other_jiang-pai-gu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/酱排骨/酱排骨.md"
   },
   {
     "title": "茭白炒肉",
@@ -33548,7 +33708,8 @@
     "cover_image": "ai-generated/other_jiao-bai-chao-rou.jpg",
     "overview_image": "overview/other_jiao-bai-chao-rou_overview.jpg",
     "id": "other_jiao-bai-chao-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/茭白炒肉/茭白炒肉.md"
   },
   {
     "title": "椒盐玉米",
@@ -33736,7 +33897,8 @@
     "cover_image": "ai-generated/other_jiao-yan-yu-mi.jpg",
     "overview_image": "overview/other_jiao-yan-yu-mi_overview.jpg",
     "id": "other_jiao-yan-yu-mi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/椒盐玉米/椒盐玉米.md"
   },
   {
     "title": "芥末黄油罗氏虾",
@@ -33962,7 +34124,8 @@
     "cover_image": "ai-generated/other_jie-mo-huang-you-luo-shi-xia.jpg",
     "overview_image": "overview/other_jie-mo-huang-you-luo-shi-xia_overview.jpg",
     "id": "other_jie-mo-huang-you-luo-shi-xia",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md"
   },
   {
     "title": "芥末罗氏虾",
@@ -34175,7 +34338,8 @@
     "cover_image": "ai-generated/other_jie-mo-luo-shi-xia.jpg",
     "overview_image": "overview/other_jie-mo-luo-shi-xia_overview.jpg",
     "id": "other_jie-mo-luo-shi-xia",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/芥末罗氏虾/芥末罗氏虾.md"
   },
   {
     "title": "金菲士",
@@ -34320,7 +34484,8 @@
     "cover_image": "ai-generated/other_jin-fei-shi.jpg",
     "overview_image": "overview/other_jin-fei-shi_overview.jpg",
     "id": "other_jin-fei-shi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/drink/金菲士/金菲士.md"
   },
   {
     "title": "金汤力",
@@ -34500,7 +34665,8 @@
     "cover_image": "ai-generated/other_jin-tang-li.jpg",
     "overview_image": "overview/other_jin-tang-li_overview.jpg",
     "id": "other_jin-tang-li",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/drink/金汤力/金汤力.md"
   },
   {
     "title": "酒酿醪糟",
@@ -34688,7 +34854,8 @@
     "cover_image": "ai-generated/other_jiu-niang-lao-zao.jpg",
     "overview_image": "overview/other_jiu-niang-lao-zao_overview.jpg",
     "id": "other_jiu-niang-lao-zao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/drink/酒酿醪糟/酒酿醪糟.md"
   },
   {
     "title": "菌菇炖乳鸽",
@@ -34836,7 +35003,8 @@
     "cover_image": "ai-generated/other_jun-gu-dun-ru-ge.jpg",
     "overview_image": "overview/other_jun-gu-dun-ru-ge_overview.jpg",
     "id": "other_jun-gu-dun-ru-ge",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md"
   },
   {
     "title": "咖啡椰奶冻",
@@ -35040,7 +35208,8 @@
     "cover_image": "ai-generated/other_ka-fei-ye-nai-dong.jpg",
     "overview_image": "overview/other_ka-fei-ye-nai-dong_overview.jpg",
     "id": "other_ka-fei-ye-nai-dong",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.md"
   },
   {
     "title": "烤蛋挞",
@@ -35264,7 +35433,8 @@
     "cover_image": "ai-generated/other_kao-dan-ta.jpg",
     "overview_image": "overview/other_kao-dan-ta_overview.jpg",
     "id": "other_kao-dan-ta",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/dessert/烤蛋挞/烤蛋挞.md"
   },
   {
     "title": "烤茄子",
@@ -35502,7 +35672,8 @@
     "cover_image": "ai-generated/other_kao-qie-zi.jpg",
     "overview_image": "overview/other_kao-qie-zi_overview.jpg",
     "id": "other_kao-qie-zi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/烤茄子/烤茄子.md"
   },
   {
     "title": "烤箱版巴斯克芝士蛋糕",
@@ -35673,7 +35844,8 @@
     "cover_image": "ai-generated/other_kao-xiang-ban-ba-si-ke-zhi-shi-dan-gao.jpg",
     "overview_image": "overview/other_kao-xiang-ban-ba-si-ke-zhi-shi-dan-gao_overview.jpg",
     "id": "other_kao-xiang-ban-ba-si-ke-zhi-shi-dan-gao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/dessert/烤箱版巴斯克芝士蛋糕/烤箱版巴斯克芝士蛋糕.md"
   },
   {
     "title": "空气炸锅脆皮现腌炸鸡",
@@ -35933,7 +36105,8 @@
     "cover_image": "ai-generated/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji.jpg",
     "overview_image": "overview/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji_overview.jpg",
     "id": "other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/空气炸锅脆皮现腌炸鸡/空气炸锅脆皮现腌炸鸡.md"
   },
   {
     "title": "空气炸锅鸡翅中的做法",
@@ -36027,7 +36200,8 @@
     "cover_image": "ai-generated/other_kong-qi-zha-guo-ji-chi-zhong-de-zuo-fa.jpg",
     "overview_image": "overview/other_kong-qi-zha-guo-ji-chi-zhong-de-zuo-fa_overview.jpg",
     "id": "other_kong-qi-zha-guo-ji-chi-zhong-de-zuo-fa",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/semi-finished/空气炸锅鸡翅中/空气炸锅鸡翅中.md"
   },
   {
     "title": "空气炸锅羊排",
@@ -36168,7 +36342,8 @@
     "cover_image": "ai-generated/other_kong-qi-zha-guo-yang-pai.jpg",
     "overview_image": "overview/other_kong-qi-zha-guo-yang-pai_overview.jpg",
     "id": "other_kong-qi-zha-guo-yang-pai",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/semi-finished/空气炸锅羊排/空气炸锅羊排.md"
   },
   {
     "title": "空气炸锅照烧鸡饭",
@@ -36328,7 +36503,8 @@
     "cover_image": "ai-generated/other_kong-qi-zha-guo-zhao-shao-ji-fan.jpg",
     "overview_image": "overview/other_kong-qi-zha-guo-zhao-shao-ji-fan_overview.jpg",
     "id": "other_kong-qi-zha-guo-zhao-shao-ji-fan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/空气炸锅照烧鸡饭/空气炸锅照烧鸡饭.md"
   },
   {
     "title": "口水鸡",
@@ -36657,7 +36833,8 @@
     "cover_image": "ai-generated/other_kou-shui-ji.jpg",
     "overview_image": "overview/other_kou-shui-ji_overview.jpg",
     "id": "other_kou-shui-ji",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/口水鸡/口水鸡.md"
   },
   {
     "title": "榄菜肉末四季豆",
@@ -36914,7 +37091,8 @@
     "cover_image": "ai-generated/other_lan-cai-rou-mo-si-ji-dou.jpg",
     "overview_image": "overview/other_lan-cai-rou-mo-si-ji-dou_overview.jpg",
     "id": "other_lan-cai-rou-mo-si-ji-dou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md"
   },
   {
     "title": "懒人蛋挞",
@@ -37027,7 +37205,8 @@
     "cover_image": "ai-generated/other_lan-ren-dan-ta.jpg",
     "overview_image": "overview/other_lan-ren-dan-ta_overview.jpg",
     "id": "other_lan-ren-dan-ta",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/semi-finished/懒人蛋挞/懒人蛋挞.md"
   },
   {
     "title": "老妈蹄花",
@@ -37293,7 +37472,8 @@
     "cover_image": "ai-generated/other_lao-ma-ti-hua.jpg",
     "overview_image": "overview/other_lao-ma-ti-hua_overview.jpg",
     "id": "other_lao-ma-ti-hua",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/老妈蹄花/老妈蹄花.md"
   },
   {
     "title": "老式锅包肉",
@@ -37563,7 +37743,8 @@
     "cover_image": "ai-generated/other_lao-shi-guo-bao-rou.jpg",
     "overview_image": "overview/other_lao-shi-guo-bao-rou_overview.jpg",
     "id": "other_lao-shi-guo-bao-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/老式锅包肉/老式锅包肉.md"
   },
   {
     "title": "老友猪肉粉",
@@ -37821,7 +38002,8 @@
     "cover_image": "ai-generated/other_lao-you-zhu-rou-fen.jpg",
     "overview_image": "overview/other_lao-you-zhu-rou-fen_overview.jpg",
     "id": "other_lao-you-zhu-rou-fen",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/老友猪肉粉/老友猪肉粉.md"
   },
   {
     "title": "鲤鱼炖白菜",
@@ -38022,7 +38204,8 @@
     "cover_image": "ai-generated/other_li-yu-dun-bai-cai.jpg",
     "overview_image": "overview/other_li-yu-dun-bai-cai_overview.jpg",
     "id": "other_li-yu-dun-bai-cai",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md"
   },
   {
     "title": "荔枝肉",
@@ -38303,7 +38486,8 @@
     "cover_image": "ai-generated/other_li-zhi-rou.jpg",
     "overview_image": "overview/other_li-zhi-rou_overview.jpg",
     "id": "other_li-zhi-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/荔枝肉/荔枝肉.md"
   },
   {
     "title": "凉拌鸡丝",
@@ -38594,7 +38778,8 @@
     "cover_image": "ai-generated/other_liang-ban-ji-si.jpg",
     "overview_image": "overview/other_liang-ban-ji-si_overview.jpg",
     "id": "other_liang-ban-ji-si",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md"
   },
   {
     "title": "凉拌木耳",
@@ -38811,7 +38996,8 @@
     "cover_image": "ai-generated/other_liang-ban-mu-er.jpg",
     "overview_image": "overview/other_liang-ban-mu-er_overview.jpg",
     "id": "other_liang-ban-mu-er",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/凉拌木耳/凉拌木耳.md"
   },
   {
     "title": "凉拌莴笋",
@@ -38985,7 +39171,8 @@
     "cover_image": "ai-generated/other_liang-ban-wo-sun.jpg",
     "overview_image": "overview/other_liang-ban-wo-sun_overview.jpg",
     "id": "other_liang-ban-wo-sun",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md"
   },
   {
     "title": "凉粉",
@@ -39258,7 +39445,8 @@
     "cover_image": "ai-generated/other_liang-fen.jpg",
     "overview_image": "overview/other_liang-fen_overview.jpg",
     "id": "other_liang-fen",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/凉粉/凉粉.md"
   },
   {
     "title": "卤菜的做法",
@@ -39531,7 +39719,8 @@
     "cover_image": "ai-generated/other_lu-cai-de-zuo-fa.jpg",
     "overview_image": "overview/other_lu-cai-de-zuo-fa_overview.jpg",
     "id": "other_lu-cai-de-zuo-fa",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/卤菜/卤菜.md"
   },
   {
     "title": "玛格丽特饼干",
@@ -39714,7 +39903,8 @@
     "cover_image": "ai-generated/other_ma-ge-li-te-bing-gan.jpg",
     "overview_image": "overview/other_ma-ge-li-te-bing-gan_overview.jpg",
     "id": "other_ma-ge-li-te-bing-gan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/dessert/玛格丽特饼干/玛格丽特饼干.md"
   },
   {
     "title": "麻婆豆腐",
@@ -40008,7 +40198,8 @@
     "cover_image": "ai-generated/other_ma-po-dou-fu.jpg",
     "overview_image": "overview/other_ma-po-dou-fu_overview.jpg",
     "id": "other_ma-po-dou-fu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/麻婆豆腐/麻婆豆腐.md"
   },
   {
     "title": "梅菜扣肉",
@@ -40269,7 +40460,8 @@
     "cover_image": "ai-generated/other_mei-cai-kou-rou.jpg",
     "overview_image": "overview/other_mei-cai-kou-rou_overview.jpg",
     "id": "other_mei-cai-kou-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/梅菜扣肉/梅菜扣肉.md"
   },
   {
     "title": "魔芋蛋糕",
@@ -40438,7 +40630,8 @@
     "cover_image": "ai-generated/other_mo-yu-dan-gao.jpg",
     "overview_image": "overview/other_mo-yu-dan-gao_overview.jpg",
     "id": "other_mo-yu-dan-gao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/dessert/魔芋蛋糕/魔芋蛋糕.md"
   },
   {
     "title": "奶酪培根通心粉",
@@ -40678,7 +40871,8 @@
     "cover_image": "ai-generated/other_nai-lao-pei-gen-tong-xin-fen.jpg",
     "overview_image": "overview/other_nai-lao-pei-gen-tong-xin-fen_overview.jpg",
     "id": "other_nai-lao-pei-gen-tong-xin-fen",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/奶酪培根通心粉/奶酪培根通心粉.md"
   },
   {
     "title": "南派红烧肉的做法",
@@ -40987,7 +41181,8 @@
     "cover_image": "ai-generated/other_nan-pai-hong-shao-rou-de-zuo-fa.jpg",
     "overview_image": "overview/other_nan-pai-hong-shao-rou-de-zuo-fa_overview.jpg",
     "id": "other_nan-pai-hong-shao-rou-de-zuo-fa",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/红烧肉/简易红烧肉.md"
   },
   {
     "title": "柠檬水的做法",
@@ -41123,7 +41318,8 @@
     "cover_image": "ai-generated/other_ning-meng-shui-de-zuo-fa.jpg",
     "overview_image": "overview/other_ning-meng-shui-de-zuo-fa_overview.jpg",
     "id": "other_ning-meng-shui-de-zuo-fa",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/drink/柠檬水/柠檬水.md"
   },
   {
     "title": "牛排的做法",
@@ -41431,7 +41627,8 @@
     "cover_image": "ai-generated/other_niu-pai-de-zuo-fa.jpg",
     "overview_image": "overview/other_niu-pai-de-zuo-fa_overview.jpg",
     "id": "other_niu-pai-de-zuo-fa",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/牛排/牛排.md"
   },
   {
     "title": "农家一碗香",
@@ -41643,7 +41840,8 @@
     "cover_image": "ai-generated/other_nong-jia-yi-wan-xiang.jpg",
     "overview_image": "overview/other_nong-jia-yi-wan-xiang_overview.jpg",
     "id": "other_nong-jia-yi-wan-xiang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/农家一碗香/农家一碗香.md"
   },
   {
     "title": "排骨苦瓜汤",
@@ -41797,7 +41995,8 @@
     "cover_image": "ai-generated/other_pai-gu-ku-gua-tang.jpg",
     "overview_image": "overview/other_pai-gu-ku-gua-tang_overview.jpg",
     "id": "other_pai-gu-ku-gua-tang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/soup/排骨苦瓜汤/排骨苦瓜汤.md"
   },
   {
     "title": "排骨山药玉米汤",
@@ -41982,7 +42181,8 @@
     "cover_image": "ai-generated/other_pai-gu-shan-yao-yu-mi-tang.jpg",
     "overview_image": "overview/other_pai-gu-shan-yao-yu-mi-tang_overview.jpg",
     "id": "other_pai-gu-shan-yao-yu-mi-tang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/soup/排骨山药玉米汤/排骨山药玉米汤.md"
   },
   {
     "title": "啤酒鸭",
@@ -42204,7 +42404,8 @@
     "cover_image": "ai-generated/other_pi-jiu-ya.jpg",
     "overview_image": "overview/other_pi-jiu-ya_overview.jpg",
     "id": "other_pi-jiu-ya",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/啤酒鸭/啤酒鸭.md"
   },
   {
     "title": "披萨饼皮的做法",
@@ -42445,7 +42646,8 @@
     "cover_image": "ai-generated/other_pi-sa-bing-pi-de-zuo-fa.jpg",
     "overview_image": "overview/other_pi-sa-bing-pi-de-zuo-fa_overview.jpg",
     "id": "other_pi-sa-bing-pi-de-zuo-fa",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/披萨饼皮/披萨饼皮.md"
   },
   {
     "title": "戚风蛋糕的做法",
@@ -42622,7 +42824,8 @@
     "cover_image": "ai-generated/other_qi-feng-dan-gao-de-zuo-fa.jpg",
     "overview_image": "overview/other_qi-feng-dan-gao-de-zuo-fa_overview.jpg",
     "id": "other_qi-feng-dan-gao-de-zuo-fa",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/dessert/戚风蛋糕/戚风蛋糕.md"
   },
   {
     "title": "奇异果菠菜特调",
@@ -42802,7 +43005,8 @@
     "cover_image": "ai-generated/other_qi-yi-guo-bo-cai-te-diao.jpg",
     "overview_image": "overview/other_qi-yi-guo-bo-cai-te-diao_overview.jpg",
     "id": "other_qi-yi-guo-bo-cai-te-diao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/drink/奇异果菠菜特调/奇异果菠菜特调.md"
   },
   {
     "title": "乾隆白菜",
@@ -42985,7 +43189,8 @@
     "cover_image": "ai-generated/other_qian-long-bai-cai.jpg",
     "overview_image": "overview/other_qian-long-bai-cai_overview.jpg",
     "id": "other_qian-long-bai-cai",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/乾隆白菜/乾隆白菜.md"
   },
   {
     "title": "黔式腊肠娃娃菜",
@@ -43111,7 +43316,8 @@
     "cover_image": "ai-generated/other_qian-shi-la-chang-wa-wa-cai.jpg",
     "overview_image": "overview/other_qian-shi-la-chang-wa-wa-cai_overview.jpg",
     "id": "other_qian-shi-la-chang-wa-wa-cai",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.md"
   },
   {
     "title": "茄子肉煎饼",
@@ -43289,7 +43495,8 @@
     "cover_image": "ai-generated/other_qie-zi-rou-jian-bing.jpg",
     "overview_image": "overview/other_qie-zi-rou-jian-bing_overview.jpg",
     "id": "other_qie-zi-rou-jian-bing",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/茄子肉煎饼/茄子肉煎饼.md"
   },
   {
     "title": "芹菜拌茶树菇",
@@ -43505,7 +43712,8 @@
     "cover_image": "ai-generated/other_qin-cai-ban-cha-shu-gu.jpg",
     "overview_image": "overview/other_qin-cai-ban-cha-shu-gu_overview.jpg",
     "id": "other_qin-cai-ban-cha-shu-gu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md"
   },
   {
     "title": "青椒酿",
@@ -43782,7 +43990,8 @@
     "cover_image": "ai-generated/other_qing-jiao-niang.jpg",
     "overview_image": "overview/other_qing-jiao-niang_overview.jpg",
     "id": "other_qing-jiao-niang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/青椒酿/青椒酿.md"
   },
   {
     "title": "青椒土豆炒肉",
@@ -43980,7 +44189,8 @@
     "cover_image": "ai-generated/other_qing-jiao-tu-dou-chao-rou.jpg",
     "overview_image": "overview/other_qing-jiao-tu-dou-chao-rou_overview.jpg",
     "id": "other_qing-jiao-tu-dou-chao-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md"
   },
   {
     "title": "清蒸鳜鱼",
@@ -44139,7 +44349,8 @@
     "cover_image": "ai-generated/other_qing-zheng-gui-yu.jpg",
     "overview_image": "overview/other_qing-zheng-gui-yu_overview.jpg",
     "id": "other_qing-zheng-gui-yu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/清蒸鳜鱼/清蒸鳜鱼.md"
   },
   {
     "title": "清蒸鲈鱼",
@@ -44334,7 +44545,8 @@
     "cover_image": "ai-generated/other_qing-zheng-lu-yu.jpg",
     "overview_image": "overview/other_qing-zheng-lu-yu_overview.jpg",
     "id": "other_qing-zheng-lu-yu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md"
   },
   {
     "title": "日式肥牛丼饭",
@@ -44573,7 +44785,8 @@
     "cover_image": "ai-generated/other_ri-shi-fei-niu-jing-fan.jpg",
     "overview_image": "overview/other_ri-shi-fei-niu-jing-fan_overview.jpg",
     "id": "other_ri-shi-fei-niu-jing-fan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/日式肥牛丼饭/日式肥牛丼饭.md"
   },
   {
     "title": "日式咖喱饭",
@@ -44779,7 +44992,8 @@
     "cover_image": "ai-generated/other_ri-shi-ga-li-fan.jpg",
     "overview_image": "overview/other_ri-shi-ga-li-fan_overview.jpg",
     "id": "other_ri-shi-ga-li-fan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/日式咖喱饭/日式咖喱饭.md"
   },
   {
     "title": "砂糖椰子冰沙",
@@ -44911,7 +45125,8 @@
     "cover_image": "ai-generated/other_sha-tang-ye-zi-bing-sha.jpg",
     "overview_image": "overview/other_sha-tang-ye-zi-bing-sha_overview.jpg",
     "id": "other_sha-tang-ye-zi-bing-sha",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/drink/砂糖椰子冰沙/砂糖椰子冰沙.md"
   },
   {
     "title": "陕西油泼面",
@@ -45139,7 +45354,8 @@
     "cover_image": "ai-generated/other_shan-xi-you-po-mian.jpg",
     "overview_image": "overview/other_shan-xi-you-po-mian_overview.jpg",
     "id": "other_shan-xi-you-po-mian",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/陕西油泼面/陕西油泼面.md"
   },
   {
     "title": "上汤娃娃菜",
@@ -45382,7 +45598,8 @@
     "cover_image": "ai-generated/other_shang-tang-wa-wa-cai.jpg",
     "overview_image": "overview/other_shang-tang-wa-wa-cai_overview.jpg",
     "id": "other_shang-tang-wa-wa-cai",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md"
   },
   {
     "title": "豉汁蒸白鱔",
@@ -45583,7 +45800,8 @@
     "cover_image": "ai-generated/other_shi-zhi-zheng-bai-shan.jpg",
     "overview_image": "overview/other_shi-zhi-zheng-bai-shan_overview.jpg",
     "id": "other_shi-zhi-zheng-bai-shan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/豉汁蒸白鱔/豉汁蒸白鱔.md"
   },
   {
     "title": "瘦肉土豆片",
@@ -45794,7 +46012,8 @@
     "cover_image": "ai-generated/other_shou-rou-tu-dou-pian.jpg",
     "overview_image": "overview/other_shou-rou-tu-dou-pian_overview.jpg",
     "id": "other_shou-rou-tu-dou-pian",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md"
   },
   {
     "title": "手撕包菜",
@@ -46052,7 +46271,8 @@
     "cover_image": "ai-generated/other_shou-si-bao-cai.jpg",
     "overview_image": "overview/other_shou-si-bao-cai_overview.jpg",
     "id": "other_shou-si-bao-cai",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/手撕包菜/手撕包菜.md"
   },
   {
     "title": "水煮牛肉",
@@ -46317,7 +46537,8 @@
     "cover_image": "ai-generated/other_shui-zhu-niu-rou.jpg",
     "overview_image": "overview/other_shui-zhu-niu-rou_overview.jpg",
     "id": "other_shui-zhu-niu-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/水煮牛肉/水煮牛肉.md"
   },
   {
     "title": "速冻汤圆",
@@ -46415,7 +46636,8 @@
     "cover_image": "ai-generated/other_su-dong-tang-yuan.jpg",
     "overview_image": "overview/other_su-dong-tang-yuan_overview.jpg",
     "id": "other_su-dong-tang-yuan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/semi-finished/速冻汤圆/速冻汤圆.md"
   },
   {
     "title": "苏格兰蛋的做法",
@@ -46586,7 +46808,8 @@
     "cover_image": "ai-generated/other_su-ge-lan-dan-de-zuo-fa.jpg",
     "overview_image": "overview/other_su-ge-lan-dan-de-zuo-fa_overview.jpg",
     "id": "other_su-ge-lan-dan-de-zuo-fa",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/breakfast/苏格兰蛋/苏格兰蛋.md"
   },
   {
     "title": "酸梅汤",
@@ -46791,7 +47014,8 @@
     "cover_image": "ai-generated/other_suan-mei-tang.jpg",
     "overview_image": "overview/other_suan-mei-tang_overview.jpg",
     "id": "other_suan-mei-tang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/drink/酸梅汤/酸梅汤.md"
   },
   {
     "title": "酸奶意式奶冻",
@@ -46939,7 +47163,8 @@
     "cover_image": "ai-generated/other_suan-nai-yi-shi-nai-dong.jpg",
     "overview_image": "overview/other_suan-nai-yi-shi-nai-dong_overview.jpg",
     "id": "other_suan-nai-yi-shi-nai-dong",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/dessert/酸奶意式奶冻/酸奶意式奶冻.md"
   },
   {
     "title": "蒜蓉空心菜",
@@ -47112,7 +47337,8 @@
     "cover_image": "ai-generated/other_suan-rong-kong-xin-cai.jpg",
     "overview_image": "overview/other_suan-rong-kong-xin-cai_overview.jpg",
     "id": "other_suan-rong-kong-xin-cai",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/蒜蓉空心菜/蒜蓉空心菜.md"
   },
   {
     "title": "蒜蓉虾",
@@ -47238,7 +47464,8 @@
     "cover_image": "ai-generated/other_suan-rong-xia.jpg",
     "overview_image": "overview/other_suan-rong-xia_overview.jpg",
     "id": "other_suan-rong-xia",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/蒜蓉虾/蒜蓉虾.md"
   },
   {
     "title": "蒜香黄油虾",
@@ -47442,7 +47669,8 @@
     "cover_image": "ai-generated/other_suan-xiang-huang-you-xia.jpg",
     "overview_image": "overview/other_suan-xiang-huang-you-xia_overview.jpg",
     "id": "other_suan-xiang-huang-you-xia",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/蒜香黄油虾/蒜香黄油虾.md"
   },
   {
     "title": "泰国手标红茶的做法",
@@ -47609,7 +47837,8 @@
     "cover_image": "ai-generated/other_tai-guo-shou-biao-hong-cha-de-zuo-fa.jpg",
     "overview_image": "overview/other_tai-guo-shou-biao-hong-cha-de-zuo-fa_overview.jpg",
     "id": "other_tai-guo-shou-biao-hong-cha-de-zuo-fa",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/drink/泰国手标红茶/泰国手标红茶.md"
   },
   {
     "title": "台式卤肉饭",
@@ -47890,7 +48119,8 @@
     "cover_image": "ai-generated/other_tai-shi-lu-rou-fan.jpg",
     "overview_image": "overview/other_tai-shi-lu-rou-fan_overview.jpg",
     "id": "other_tai-shi-lu-rou-fan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/台式卤肉饭/台式卤肉饭.md"
   },
   {
     "title": "糖拌西红柿",
@@ -48038,7 +48268,8 @@
     "cover_image": "ai-generated/other_tang-ban-xi-hong-shi.jpg",
     "overview_image": "overview/other_tang-ban-xi-hong-shi_overview.jpg",
     "id": "other_tang-ban-xi-hong-shi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md"
   },
   {
     "title": "糖醋鲤鱼",
@@ -48320,7 +48551,8 @@
     "cover_image": "ai-generated/other_tang-cu-li-yu.jpg",
     "overview_image": "overview/other_tang-cu-li-yu_overview.jpg",
     "id": "other_tang-cu-li-yu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md"
   },
   {
     "title": "糖醋排骨",
@@ -48576,7 +48808,8 @@
     "cover_image": "ai-generated/other_tang-cu-pai-gu.jpg",
     "overview_image": "overview/other_tang-cu-pai-gu_overview.jpg",
     "id": "other_tang-cu-pai-gu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/糖醋排骨/糖醋排骨.md"
   },
   {
     "title": "提拉米苏的做法",
@@ -48802,7 +49035,8 @@
     "cover_image": "ai-generated/other_ti-la-mi-su-de-zuo-fa.jpg",
     "overview_image": "overview/other_ti-la-mi-su-de-zuo-fa_overview.jpg",
     "id": "other_ti-la-mi-su-de-zuo-fa",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/dessert/提拉米苏/提拉米苏.md"
   },
   {
     "title": "田螺酿",
@@ -49083,7 +49317,8 @@
     "cover_image": "ai-generated/other_tian-luo-niang.jpg",
     "overview_image": "overview/other_tian-luo-niang_overview.jpg",
     "id": "other_tian-luo-niang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/田螺酿/田螺酿.md"
   },
   {
     "title": "土豆炖排骨",
@@ -49368,7 +49603,8 @@
     "cover_image": "ai-generated/other_tu-dou-dun-pai-gu.jpg",
     "overview_image": "overview/other_tu-dou-dun-pai-gu_overview.jpg",
     "id": "other_tu-dou-dun-pai-gu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/土豆炖排骨/土豆炖排骨.md"
   },
   {
     "title": "微波炉鸡蛋羹",
@@ -49599,7 +49835,8 @@
     "cover_image": "ai-generated/other_wei-bo-lu-ji-dan-geng.jpg",
     "overview_image": "overview/other_wei-bo-lu-ji-dan-geng_overview.jpg",
     "id": "other_wei-bo-lu-ji-dan-geng",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md"
   },
   {
     "title": "微波炉腊肠煲仔饭",
@@ -49785,7 +50022,8 @@
     "cover_image": "ai-generated/other_wei-bo-lu-la-chang-bao-zai-fan.jpg",
     "overview_image": "overview/other_wei-bo-lu-la-chang-bao-zai-fan_overview.jpg",
     "id": "other_wei-bo-lu-la-chang-bao-zai-fan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md"
   },
   {
     "title": "温泉蛋",
@@ -49915,7 +50153,8 @@
     "cover_image": "ai-generated/other_wen-quan-dan.jpg",
     "overview_image": "overview/other_wen-quan-dan_overview.jpg",
     "id": "other_wen-quan-dan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/breakfast/温泉蛋/温泉蛋.md"
   },
   {
     "title": "莴笋叶煎饼",
@@ -50051,7 +50290,8 @@
     "cover_image": "ai-generated/other_wo-sun-ye-jian-bing.jpg",
     "overview_image": "overview/other_wo-sun-ye-jian-bing_overview.jpg",
     "id": "other_wo-sun-ye-jian-bing",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md"
   },
   {
     "title": "无厨师机蜂蜜面包",
@@ -50351,7 +50591,8 @@
     "cover_image": "ai-generated/other_wu-chu-shi-ji-feng-mi-mian-bao.jpg",
     "overview_image": "overview/other_wu-chu-shi-ji-feng-mi-mian-bao_overview.jpg",
     "id": "other_wu-chu-shi-ji-feng-mi-mian-bao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/dessert/无厨师机蜂蜜面包/无厨师机蜂蜜面包.md"
   },
   {
     "title": "无骨鸡爪",
@@ -50623,7 +50864,8 @@
     "cover_image": "ai-generated/other_wu-gu-ji-zhao.jpg",
     "overview_image": "overview/other_wu-gu-ji-zhao_overview.jpg",
     "id": "other_wu-gu-ji-zhao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/无骨鸡爪/无骨鸡爪.md"
   },
   {
     "title": "西红柿豆腐汤羹",
@@ -50826,7 +51068,8 @@
     "cover_image": "ai-generated/other_xi-hong-shi-dou-fu-tang-geng.jpg",
     "overview_image": "overview/other_xi-hong-shi-dou-fu-tang-geng_overview.jpg",
     "id": "other_xi-hong-shi-dou-fu-tang-geng",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md"
   },
   {
     "title": "西红柿鸡蛋挂面",
@@ -51027,7 +51270,8 @@
     "cover_image": "ai-generated/other_xi-hong-shi-ji-dan-gua-mian.jpg",
     "overview_image": "overview/other_xi-hong-shi-ji-dan-gua-mian_overview.jpg",
     "id": "other_xi-hong-shi-ji-dan-gua-mian",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md"
   },
   {
     "title": "西红柿牛腩",
@@ -51245,7 +51489,8 @@
     "cover_image": "ai-generated/other_xi-hong-shi-niu-nan.jpg",
     "overview_image": "overview/other_xi-hong-shi-niu-nan_overview.jpg",
     "id": "other_xi-hong-shi-niu-nan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/西红柿牛腩/西红柿牛腩.md"
   },
   {
     "title": "西红柿土豆炖牛肉",
@@ -51465,7 +51710,8 @@
     "cover_image": "ai-generated/other_xi-hong-shi-tu-dou-dun-niu-rou.jpg",
     "overview_image": "overview/other_xi-hong-shi-tu-dou-dun-niu-rou_overview.jpg",
     "id": "other_xi-hong-shi-tu-dou-dun-niu-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md"
   },
   {
     "title": "西葫芦炒鸡蛋",
@@ -51660,7 +51906,8 @@
     "cover_image": "ai-generated/other_xi-hu-lu-chao-ji-dan.jpg",
     "overview_image": "overview/other_xi-hu-lu-chao-ji-dan_overview.jpg",
     "id": "other_xi-hu-lu-chao-ji-dan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md"
   },
   {
     "title": "香干芹菜炒肉",
@@ -51906,7 +52153,8 @@
     "cover_image": "ai-generated/other_xiang-gan-qin-cai-chao-rou.jpg",
     "overview_image": "overview/other_xiang-gan-qin-cai-chao-rou_overview.jpg",
     "id": "other_xiang-gan-qin-cai-chao-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md"
   },
   {
     "title": "香菇滑鸡",
@@ -52188,7 +52436,8 @@
     "cover_image": "ai-generated/other_xiang-gu-hua-ji.jpg",
     "overview_image": "overview/other_xiang-gu-hua-ji_overview.jpg",
     "id": "other_xiang-gu-hua-ji",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/香菇滑鸡/香菇滑鸡.md"
   },
   {
     "title": "香煎翘嘴鱼",
@@ -52480,7 +52729,8 @@
     "cover_image": "ai-generated/other_xiang-jian-qiao-zui-yu.jpg",
     "overview_image": "overview/other_xiang-jian-qiao-zui-yu_overview.jpg",
     "id": "other_xiang-jian-qiao-zui-yu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md"
   },
   {
     "title": "香煎五花肉",
@@ -52665,7 +52915,8 @@
     "cover_image": "ai-generated/other_xiang-jian-wu-hua-rou.jpg",
     "overview_image": "overview/other_xiang-jian-wu-hua-rou_overview.jpg",
     "id": "other_xiang-jian-wu-hua-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/香煎五花肉/香煎五花肉.md"
   },
   {
     "title": "香辣鸡爪煲",
@@ -52920,7 +53171,8 @@
     "cover_image": "ai-generated/other_xiang-la-ji-zhao-bao.jpg",
     "overview_image": "overview/other_xiang-la-ji-zhao-bao_overview.jpg",
     "id": "other_xiang-la-ji-zhao-bao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md"
   },
   {
     "title": "湘祁米夫鸭",
@@ -53158,7 +53410,8 @@
     "cover_image": "ai-generated/other_xiang-qi-mi-fu-ya.jpg",
     "overview_image": "overview/other_xiang-qi-mi-fu-ya_overview.jpg",
     "id": "other_xiang-qi-mi-fu-ya",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.md"
   },
   {
     "title": "小炒黄牛肉",
@@ -53372,7 +53625,8 @@
     "cover_image": "ai-generated/other_xiao-chao-huang-niu-rou.jpg",
     "overview_image": "overview/other_xiao-chao-huang-niu-rou_overview.jpg",
     "id": "other_xiao-chao-huang-niu-rou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md"
   },
   {
     "title": "小炒鸡肝",
@@ -53574,7 +53828,8 @@
     "cover_image": "ai-generated/other_xiao-chao-ji-gan.jpg",
     "overview_image": "overview/other_xiao-chao-ji-gan_overview.jpg",
     "id": "other_xiao-chao-ji-gan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/小炒鸡肝/小炒鸡肝.md"
   },
   {
     "title": "小炒藕丁",
@@ -53787,7 +54042,8 @@
     "cover_image": "ai-generated/other_xiao-chao-ou-ding.jpg",
     "overview_image": "overview/other_xiao-chao-ou-ding_overview.jpg",
     "id": "other_xiao-chao-ou-ding",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/小炒藕丁/小炒藕丁.md"
   },
   {
     "title": "小龙虾",
@@ -54076,7 +54332,8 @@
     "cover_image": "ai-generated/other_xiao-long-xia.jpg",
     "overview_image": "overview/other_xiao-long-xia_overview.jpg",
     "id": "other_xiao-long-xia",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/小龙虾/小龙虾.md"
   },
   {
     "title": "新疆大盘鸡",
@@ -54357,7 +54614,8 @@
     "cover_image": "ai-generated/other_xin-jiang-da-pan-ji.jpg",
     "overview_image": "overview/other_xin-jiang-da-pan-ji_overview.jpg",
     "id": "other_xin-jiang-da-pan-ji",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md"
   },
   {
     "title": "雪花酥",
@@ -54539,7 +54797,8 @@
     "cover_image": "ai-generated/other_xue-hua-su.jpg",
     "overview_image": "overview/other_xue-hua-su_overview.jpg",
     "id": "other_xue-hua-su",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/dessert/雪花酥/雪花酥.md"
   },
   {
     "title": "血浆鸭",
@@ -54785,7 +55044,8 @@
     "cover_image": "ai-generated/other_xue-jiang-ya.jpg",
     "overview_image": "overview/other_xue-jiang-ya_overview.jpg",
     "id": "other_xue-jiang-ya",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/血浆鸭/血浆鸭.md"
   },
   {
     "title": "洋葱炒鸡蛋",
@@ -54923,7 +55183,8 @@
     "cover_image": "ai-generated/other_yang-cong-chao-ji-dan.jpg",
     "overview_image": "overview/other_yang-cong-chao-ji-dan_overview.jpg",
     "id": "other_yang-cong-chao-ji-dan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md"
   },
   {
     "title": "羊排焖面",
@@ -55162,7 +55423,8 @@
     "cover_image": "ai-generated/other_yang-pai-men-mian.jpg",
     "overview_image": "overview/other_yang-pai-men-mian_overview.jpg",
     "id": "other_yang-pai-men-mian",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/羊排焖面/羊排焖面.md"
   },
   {
     "title": "羊肉汤",
@@ -55387,7 +55649,8 @@
     "cover_image": "ai-generated/other_yang-rou-tang.jpg",
     "overview_image": "overview/other_yang-rou-tang_overview.jpg",
     "id": "other_yang-rou-tang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/soup/羊肉汤/羊肉汤.md"
   },
   {
     "title": "阳朔啤酒鱼",
@@ -55704,7 +55967,8 @@
     "cover_image": "ai-generated/other_yang-shuo-pi-jiu-yu.jpg",
     "overview_image": "overview/other_yang-shuo-pi-jiu-yu_overview.jpg",
     "id": "other_yang-shuo-pi-jiu-yu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/阳朔啤酒鱼/阳朔啤酒鱼.md"
   },
   {
     "title": "扬州炒饭",
@@ -56040,7 +56304,8 @@
     "cover_image": "ai-generated/other_yang-zhou-chao-fan.jpg",
     "overview_image": "overview/other_yang-zhou-chao-fan_overview.jpg",
     "id": "other_yang-zhou-chao-fan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/扬州炒饭/扬州炒饭.md"
   },
   {
     "title": "意式肉酱面",
@@ -56199,7 +56464,8 @@
     "cover_image": "ai-generated/other_yi-shi-rou-jiang-mian.jpg",
     "overview_image": "overview/other_yi-shi-rou-jiang-mian_overview.jpg",
     "id": "other_yi-shi-rou-jiang-mian",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/意式肉酱面/意式肉酱面.md"
   },
   {
     "title": "银耳莲子粥",
@@ -56366,7 +56632,8 @@
     "cover_image": "ai-generated/other_yin-er-lian-zi-zhou.jpg",
     "overview_image": "overview/other_yin-er-lian-zi-zhou_overview.jpg",
     "id": "other_yin-er-lian-zi-zhou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/soup/银耳莲子粥/银耳莲子粥.md"
   },
   {
     "title": "英式司康",
@@ -56566,7 +56833,8 @@
     "cover_image": "ai-generated/other_ying-shi-si-kang.jpg",
     "overview_image": "overview/other_ying-shi-si-kang_overview.jpg",
     "id": "other_ying-shi-si-kang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/dessert/英式司康/英式司康.md"
   },
   {
     "title": "油焖大虾",
@@ -56754,7 +57022,8 @@
     "cover_image": "ai-generated/other_you-men-da-xia.jpg",
     "overview_image": "overview/other_you-men-da-xia_overview.jpg",
     "id": "other_you-men-da-xia",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/aquatic/油焖大虾/油焖大虾.md"
   },
   {
     "title": "油泼辣子",
@@ -57037,7 +57306,8 @@
     "cover_image": "ai-generated/other_you-po-la-zi.jpg",
     "overview_image": "overview/other_you-po-la-zi_overview.jpg",
     "id": "other_you-po-la-zi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/condiment/油泼辣子/油泼辣子.md"
   },
   {
     "title": "玉米排骨汤",
@@ -57297,7 +57567,8 @@
     "cover_image": "ai-generated/other_yu-mi-pai-gu-tang.jpg",
     "overview_image": "overview/other_yu-mi-pai-gu-tang_overview.jpg",
     "id": "other_yu-mi-pai-gu-tang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/soup/玉米排骨汤/玉米排骨汤.md"
   },
   {
     "title": "芋泥雪媚娘",
@@ -57552,7 +57823,8 @@
     "cover_image": "ai-generated/other_yu-ni-xue-mei-niang.jpg",
     "overview_image": "overview/other_yu-ni-xue-mei-niang_overview.jpg",
     "id": "other_yu-ni-xue-mei-niang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md"
   },
   {
     "title": "鱼香茄子",
@@ -57775,7 +58047,8 @@
     "cover_image": "ai-generated/other_yu-xiang-qie-zi.jpg",
     "overview_image": "overview/other_yu-xiang-qie-zi_overview.jpg",
     "id": "other_yu-xiang-qie-zi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/鱼香茄子/鱼香茄子.md"
   },
   {
     "title": "炸薯条",
@@ -57887,7 +58160,8 @@
     "cover_image": "ai-generated/other_zha-shu-tiao.jpg",
     "overview_image": "overview/other_zha-shu-tiao_overview.jpg",
     "id": "other_zha-shu-tiao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/semi-finished/炸薯条/炸薯条.md"
   },
   {
     "title": "炸鲜奶",
@@ -58114,7 +58388,8 @@
     "cover_image": "ai-generated/other_zha-xian-nai.jpg",
     "overview_image": "overview/other_zha-xian-nai_overview.jpg",
     "id": "other_zha-xian-nai",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/dessert/炸鲜奶/炸鲜奶.md"
   },
   {
     "title": "蔗糖糖浆",
@@ -58194,7 +58469,8 @@
     "cover_image": "ai-generated/other_zhe-tang-tang-jiang.jpg",
     "overview_image": "overview/other_zhe-tang-tang-jiang_overview.jpg",
     "id": "other_zhe-tang-tang-jiang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/condiment/蔗糖糖浆/蔗糖糖浆.md"
   },
   {
     "title": "蒸箱鸡蛋羹",
@@ -58403,7 +58679,8 @@
     "cover_image": "ai-generated/other_zheng-xiang-ji-dan-geng.jpg",
     "overview_image": "overview/other_zheng-xiang-ji-dan-geng_overview.jpg",
     "id": "other_zheng-xiang-ji-dan-geng",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md"
   },
   {
     "title": "芝麻烧饼",
@@ -58554,7 +58831,8 @@
     "cover_image": "ai-generated/other_zhi-ma-shao-bing.jpg",
     "overview_image": "overview/other_zhi-ma-shao-bing_overview.jpg",
     "id": "other_zhi-ma-shao-bing",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/烧饼/芝麻烧饼.md"
   },
   {
     "title": "枝竹羊腩煲",
@@ -58915,7 +59193,8 @@
     "cover_image": "ai-generated/other_zhi-zhu-yang-nan-bao.jpg",
     "overview_image": "overview/other_zhi-zhu-yang-nan-bao_overview.jpg",
     "id": "other_zhi-zhu-yang-nan-bao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md"
   },
   {
     "title": "中式馅饼",
@@ -59159,7 +59438,8 @@
     "cover_image": "ai-generated/other_zhong-shi-xian-bing.jpg",
     "overview_image": "overview/other_zhong-shi-xian-bing_overview.jpg",
     "id": "other_zhong-shi-xian-bing",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/中式馅饼/中式馅饼.md"
   },
   {
     "title": "煮锅蒸米饭",
@@ -59295,7 +59575,8 @@
     "cover_image": "ai-generated/other_zhu-guo-zheng-mi-fan.jpg",
     "overview_image": "overview/other_zhu-guo-zheng-mi-fan_overview.jpg",
     "id": "other_zhu-guo-zheng-mi-fan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/米饭/煮锅蒸米饭.md"
   },
   {
     "title": "柱候牛腩",
@@ -59756,7 +60037,8 @@
     "cover_image": "ai-generated/other_zhu-hou-niu-nan.jpg",
     "overview_image": "overview/other_zhu-hou-niu-nan_overview.jpg",
     "id": "other_zhu-hou-niu-nan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/柱候牛腩/柱候牛腩.md"
   },
   {
     "title": "猪皮冻",
@@ -60007,7 +60289,8 @@
     "cover_image": "ai-generated/other_zhu-pi-dong.jpg",
     "overview_image": "overview/other_zhu-pi-dong_overview.jpg",
     "id": "other_zhu-pi-dong",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/猪皮冻/猪皮冻.md"
   },
   {
     "title": "朱雀汤",
@@ -60121,7 +60404,8 @@
     "cover_image": "ai-generated/other_zhu-que-tang.jpg",
     "overview_image": "overview/other_zhu-que-tang_overview.jpg",
     "id": "other_zhu-que-tang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/soup/朱雀汤/朱雀汤.md"
   },
   {
     "title": "淄博烧烤",
@@ -60315,7 +60599,8 @@
     "cover_image": "ai-generated/other_zi-bo-shao-kao.jpg",
     "overview_image": "overview/other_zi-bo-shao-kao_overview.jpg",
     "id": "other_zi-bo-shao-kao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/淄博烧烤/淄博烧烤.md"
   },
   {
     "title": "醉排骨",
@@ -60523,7 +60808,8 @@
     "cover_image": "ai-generated/other_zui-pai-gu.jpg",
     "overview_image": "overview/other_zui-pai-gu_overview.jpg",
     "id": "other_zui-pai-gu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/meat_dish/醉排骨/醉排骨.md"
   },
   {
     "title": "半成品意面的做法",
@@ -60630,7 +60916,8 @@
     "cover_image": "ai-generated/semi-finished_ban-cheng-pin-yi-mian-de-zuo-fa.jpg",
     "overview_image": "overview/semi-finished_ban-cheng-pin-yi-mian-de-zuo-fa_overview.jpg",
     "id": "semi-finished_ban-cheng-pin-yi-mian-de-zuo-fa",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/semi-finished/半成品意面.md"
   },
   {
     "title": "家常凉皮",
@@ -60885,7 +61172,8 @@
     "cover_image": "ai-generated/semi-finished_jia-chang-liang-pi.jpg",
     "overview_image": "overview/semi-finished_jia-chang-liang-pi_overview.jpg",
     "id": "semi-finished_jia-chang-liang-pi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/semi-finished/凉皮.md"
   },
   {
     "title": "牛油火锅底料",
@@ -61261,7 +61549,8 @@
     "cover_image": "ai-generated/semi-finished_niu-you-huo-guo-di-liao.jpg",
     "overview_image": "overview/semi-finished_niu-you-huo-guo-di-liao_overview.jpg",
     "id": "semi-finished_niu-you-huo-guo-di-liao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/semi-finished/牛油火锅底料.md"
   },
   {
     "title": "速冻馄饨的做法",
@@ -61395,7 +61684,8 @@
     "cover_image": "ai-generated/semi-finished_su-dong-hun-tun-de-zuo-fa.jpg",
     "overview_image": "overview/semi-finished_su-dong-hun-tun-de-zuo-fa_overview.jpg",
     "id": "semi-finished_su-dong-hun-tun-de-zuo-fa",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/semi-finished/速冻馄饨.md"
   },
   {
     "title": "速冻水饺",
@@ -61575,7 +61865,8 @@
     "cover_image": "ai-generated/semi-finished_su-dong-shui-jiao.jpg",
     "overview_image": "overview/semi-finished_su-dong-shui-jiao_overview.jpg",
     "id": "semi-finished_su-dong-shui-jiao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/semi-finished/速冻水饺.md"
   },
   {
     "title": "陈皮排骨汤",
@@ -61763,7 +62054,8 @@
     "cover_image": "ai-generated/soup_chen-pi-pai-gu-tang.jpg",
     "overview_image": "overview/soup_chen-pi-pai-gu-tang_overview.jpg",
     "id": "soup_chen-pi-pai-gu-tang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/soup/陈皮排骨汤/陈皮排骨汤.md"
   },
   {
     "title": "番茄牛肉蛋花汤",
@@ -61946,7 +62238,8 @@
     "cover_image": "ai-generated/soup_fan-qie-niu-rou-dan-hua-tang.jpg",
     "overview_image": "overview/soup_fan-qie-niu-rou-dan-hua-tang_overview.jpg",
     "id": "soup_fan-qie-niu-rou-dan-hua-tang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/soup/番茄牛肉蛋花汤.md"
   },
   {
     "title": "黄瓜皮蛋汤",
@@ -62125,7 +62418,8 @@
     "cover_image": "ai-generated/soup_huang-gua-pi-dan-tang.jpg",
     "overview_image": "overview/soup_huang-gua-pi-dan-tang_overview.jpg",
     "id": "soup_huang-gua-pi-dan-tang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/soup/黄瓜皮蛋汤.md"
   },
   {
     "title": "金针菇汤",
@@ -62264,7 +62558,8 @@
     "cover_image": "ai-generated/soup_jin-zhen-gu-tang.jpg",
     "overview_image": "overview/soup_jin-zhen-gu-tang_overview.jpg",
     "id": "soup_jin-zhen-gu-tang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/soup/金针菇汤.md"
   },
   {
     "title": "腊八粥",
@@ -62546,7 +62841,8 @@
     "cover_image": "ai-generated/soup_la-ba-zhou.jpg",
     "overview_image": "overview/soup_la-ba-zhou_overview.jpg",
     "id": "soup_la-ba-zhou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/soup/腊八粥.md"
   },
   {
     "title": "罗宋汤",
@@ -62795,7 +63091,8 @@
     "cover_image": "ai-generated/soup_luo-song-tang.jpg",
     "overview_image": "overview/soup_luo-song-tang_overview.jpg",
     "id": "soup_luo-song-tang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/soup/罗宋汤.md"
   },
   {
     "title": "米粥",
@@ -62934,7 +63231,8 @@
     "cover_image": "ai-generated/soup_mi-zhou.jpg",
     "overview_image": "overview/soup_mi-zhou_overview.jpg",
     "id": "soup_mi-zhou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/soup/米粥.md"
   },
   {
     "title": "奶油蘑菇汤",
@@ -63151,7 +63449,8 @@
     "cover_image": "ai-generated/soup_nai-you-mo-gu-tang.jpg",
     "overview_image": "overview/soup_nai-you-mo-gu-tang_overview.jpg",
     "id": "soup_nai-you-mo-gu-tang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/soup/奶油蘑菇汤.md"
   },
   {
     "title": "皮蛋瘦肉粥",
@@ -63386,7 +63685,8 @@
     "cover_image": "ai-generated/soup_pi-dan-shou-rou-zhou.jpg",
     "overview_image": "overview/soup_pi-dan-shou-rou-zhou_overview.jpg",
     "id": "soup_pi-dan-shou-rou-zhou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/soup/皮蛋瘦肉粥.md"
   },
   {
     "title": "生汆丸子汤",
@@ -63591,7 +63891,8 @@
     "cover_image": "ai-generated/soup_sheng-cuan-wan-zi-tang.jpg",
     "overview_image": "overview/soup_sheng-cuan-wan-zi-tang_overview.jpg",
     "id": "soup_sheng-cuan-wan-zi-tang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/soup/生汆丸子汤.md"
   },
   {
     "title": "西红柿鸡蛋汤",
@@ -63779,7 +64080,8 @@
     "cover_image": "ai-generated/soup_xi-hong-shi-ji-dan-tang.jpg",
     "overview_image": "overview/soup_xi-hong-shi-ji-dan-tang_overview.jpg",
     "id": "soup_xi-hong-shi-ji-dan-tang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/soup/西红柿鸡蛋汤.md"
   },
   {
     "title": "小米粥",
@@ -63895,7 +64197,8 @@
     "cover_image": "ai-generated/soup_xiao-mi-zhou.jpg",
     "overview_image": "overview/soup_xiao-mi-zhou_overview.jpg",
     "id": "soup_xiao-mi-zhou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/soup/小米粥.md"
   },
   {
     "title": "紫菜蛋花汤",
@@ -64066,7 +64369,8 @@
     "cover_image": "ai-generated/soup_zi-cai-dan-hua-tang.jpg",
     "overview_image": "overview/soup_zi-cai-dan-hua-tang_overview.jpg",
     "id": "soup_zi-cai-dan-hua-tang",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/soup/紫菜蛋花汤.md"
   },
   {
     "title": "炒河粉",
@@ -64390,7 +64694,8 @@
     "cover_image": "ai-generated/staple_chao-he-fen.jpg",
     "overview_image": "overview/staple_chao-he-fen_overview.jpg",
     "id": "staple_chao-he-fen",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/炒河粉.md"
   },
   {
     "title": "炒馍",
@@ -64619,7 +64924,8 @@
     "cover_image": "ai-generated/staple_chao-mo.jpg",
     "overview_image": "overview/staple_chao-mo_overview.jpg",
     "id": "staple_chao-mo",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/炒馍.md"
   },
   {
     "title": "炒年糕",
@@ -64807,7 +65113,8 @@
     "cover_image": "ai-generated/staple_chao-nian-gao.jpg",
     "overview_image": "overview/staple_chao-nian-gao_overview.jpg",
     "id": "staple_chao-nian-gao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/炒年糕.md"
   },
   {
     "title": "葱油拌面",
@@ -64997,7 +65304,8 @@
     "cover_image": "ai-generated/staple_cong-you-ban-mian.jpg",
     "overview_image": "overview/staple_cong-you-ban-mian_overview.jpg",
     "id": "staple_cong-you-ban-mian",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/葱油拌面.md"
   },
   {
     "title": "蛋包饭",
@@ -65251,7 +65559,8 @@
     "cover_image": "ai-generated/staple_dan-bao-fan.jpg",
     "overview_image": "overview/staple_dan-bao-fan_overview.jpg",
     "id": "staple_dan-bao-fan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/蛋包饭.md"
   },
   {
     "title": "蛋炒饭",
@@ -65550,7 +65859,8 @@
     "cover_image": "ai-generated/staple_dan-chao-fan.jpg",
     "overview_image": "overview/staple_dan-chao-fan_overview.jpg",
     "id": "staple_dan-chao-fan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/蛋炒饭.md"
   },
   {
     "title": "红芸豆拌饭",
@@ -65806,7 +66116,8 @@
     "cover_image": "ai-generated/staple_hong-yun-dou-ban-fan.jpg",
     "overview_image": "overview/staple_hong-yun-dou-ban-fan_overview.jpg",
     "id": "staple_hong-yun-dou-ban-fan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/红芸豆拌饭.md"
   },
   {
     "title": "韭菜盒子",
@@ -65971,7 +66282,8 @@
     "cover_image": "ai-generated/staple_jiu-cai-he-zi.jpg",
     "overview_image": "overview/staple_jiu-cai-he-zi_overview.jpg",
     "id": "staple_jiu-cai-he-zi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/韭菜盒子.md"
   },
   {
     "title": "可乐炒饭",
@@ -66208,7 +66520,8 @@
     "cover_image": "ai-generated/staple_ke-le-chao-fan.jpg",
     "overview_image": "overview/staple_ke-le-chao-fan_overview.jpg",
     "id": "staple_ke-le-chao-fan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/可乐炒饭.md"
   },
   {
     "title": "老干妈拌面",
@@ -66369,7 +66682,8 @@
     "cover_image": "ai-generated/staple_lao-gan-ma-ban-mian.jpg",
     "overview_image": "overview/staple_lao-gan-ma-ban-mian_overview.jpg",
     "id": "staple_lao-gan-ma-ban-mian",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/老干妈拌面.md"
   },
   {
     "title": "醪糟小汤圆",
@@ -66513,7 +66827,8 @@
     "cover_image": "ai-generated/staple_lao-zao-xiao-tang-yuan.jpg",
     "overview_image": "overview/staple_lao-zao-xiao-tang-yuan_overview.jpg",
     "id": "staple_lao-zao-xiao-tang-yuan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/醪糟小汤圆.md"
   },
   {
     "title": "利提巧卡 (Litti Chokha)",
@@ -66800,7 +67115,8 @@
     "cover_image": "ai-generated/staple_li-ti-qiao-ka--litti-chokha.jpg",
     "overview_image": "overview/staple_li-ti-qiao-ka--litti-chokha_overview.jpg",
     "id": "staple_li-ti-qiao-ka--litti-chokha",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/利提巧卡.md"
   },
   {
     "title": "螺蛳粉",
@@ -66947,7 +67263,8 @@
     "cover_image": "ai-generated/staple_luo-si-fen.jpg",
     "overview_image": "overview/staple_luo-si-fen_overview.jpg",
     "id": "staple_luo-si-fen",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/螺蛳粉.md"
   },
   {
     "title": "麻辣减脂荞麦面",
@@ -67161,7 +67478,8 @@
     "cover_image": "ai-generated/staple_ma-la-jian-zhi-qiao-mai-mian.jpg",
     "overview_image": "overview/staple_ma-la-jian-zhi-qiao-mai-mian_overview.jpg",
     "id": "staple_ma-la-jian-zhi-qiao-mai-mian",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/麻辣减脂荞麦面.md"
   },
   {
     "title": "麻油拌面",
@@ -67345,7 +67663,8 @@
     "cover_image": "ai-generated/staple_ma-you-ban-mian.jpg",
     "overview_image": "overview/staple_ma-you-ban-mian_overview.jpg",
     "id": "staple_ma-you-ban-mian",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/麻油拌面.md"
   },
   {
     "title": "热干面",
@@ -67557,7 +67876,8 @@
     "cover_image": "ai-generated/staple_re-gan-mian.jpg",
     "overview_image": "overview/staple_re-gan-mian_overview.jpg",
     "id": "staple_re-gan-mian",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/热干面.md"
   },
   {
     "title": "肉蛋盖饭",
@@ -67793,7 +68113,8 @@
     "cover_image": "ai-generated/staple_rou-dan-gai-fan.jpg",
     "overview_image": "overview/staple_rou-dan-gai-fan_overview.jpg",
     "id": "staple_rou-dan-gai-fan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/肉蛋盖饭.md"
   },
   {
     "title": "手工水饺",
@@ -68049,7 +68370,8 @@
     "cover_image": "ai-generated/staple_shou-gong-shui-jiao.jpg",
     "overview_image": "overview/staple_shou-gong-shui-jiao_overview.jpg",
     "id": "staple_shou-gong-shui-jiao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/手工水饺.md"
   },
   {
     "title": "酸辣蕨根粉",
@@ -68227,7 +68549,8 @@
     "cover_image": "ai-generated/staple_suan-la-jue-gen-fen.jpg",
     "overview_image": "overview/staple_suan-la-jue-gen-fen_overview.jpg",
     "id": "staple_suan-la-jue-gen-fen",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/酸辣蕨根粉.md"
   },
   {
     "title": "汤面",
@@ -68403,7 +68726,8 @@
     "cover_image": "ai-generated/staple_tang-mian.jpg",
     "overview_image": "overview/staple_tang-mian_overview.jpg",
     "id": "staple_tang-mian",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/汤面.md"
   },
   {
     "title": "咸肉菜饭",
@@ -68638,7 +68962,8 @@
     "cover_image": "ai-generated/staple_xian-rou-cai-fan.jpg",
     "overview_image": "overview/staple_xian-rou-cai-fan_overview.jpg",
     "id": "staple_xian-rou-cai-fan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/咸肉菜饭.md"
   },
   {
     "title": "鲜肉烧卖",
@@ -68934,7 +69259,8 @@
     "cover_image": "ai-generated/staple_xian-rou-shao-mai.jpg",
     "overview_image": "overview/staple_xian-rou-shao-mai_overview.jpg",
     "id": "staple_xian-rou-shao-mai",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/鲜肉烧卖.md"
   },
   {
     "title": "印度烤饼",
@@ -69164,7 +69490,8 @@
     "cover_image": "ai-generated/staple_yin-du-kao-bing.jpg",
     "overview_image": "overview/staple_yin-du-kao-bing_overview.jpg",
     "id": "staple_yin-du-kao-bing",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/印度烤饼.md"
   },
   {
     "title": "印度焖饭 (Biryani)",
@@ -69435,7 +69762,8 @@
     "cover_image": "ai-generated/staple_yin-du-men-fan--biryani.jpg",
     "overview_image": "overview/staple_yin-du-men-fan--biryani_overview.jpg",
     "id": "staple_yin-du-men-fan--biryani",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/印度焖饭.md"
   },
   {
     "title": "鹰嘴豆炸饼 (Chole Bhature)",
@@ -69670,7 +69998,8 @@
     "cover_image": "ai-generated/staple_ying-zui-dou-zha-bing--chole-bhature.jpg",
     "overview_image": "overview/staple_ying-zui-dou-zha-bing--chole-bhature_overview.jpg",
     "id": "staple_ying-zui-dou-zha-bing--chole-bhature",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/鹰嘴豆炸饼.md"
   },
   {
     "title": "炸酱面",
@@ -69876,7 +70205,8 @@
     "cover_image": "ai-generated/staple_zha-jiang-mian.jpg",
     "overview_image": "overview/staple_zha-jiang-mian_overview.jpg",
     "id": "staple_zha-jiang-mian",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/炸酱面.md"
   },
   {
     "title": "照烧鸡腿饭",
@@ -70212,7 +70542,8 @@
     "cover_image": "ai-generated/staple_zhao-shao-ji-tui-fan.jpg",
     "overview_image": "overview/staple_zhao-shao-ji-tui-fan_overview.jpg",
     "id": "staple_zhao-shao-ji-tui-fan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/照烧鸡腿饭.md"
   },
   {
     "title": "蒸卤面",
@@ -70452,7 +70783,8 @@
     "cover_image": "ai-generated/staple_zheng-lu-mian.jpg",
     "overview_image": "overview/staple_zheng-lu-mian_overview.jpg",
     "id": "staple_zheng-lu-mian",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/蒸卤面.md"
   },
   {
     "title": "煮泡面加蛋",
@@ -70587,7 +70919,8 @@
     "cover_image": "ai-generated/staple_zhu-pao-mian-jia-dan.jpg",
     "overview_image": "overview/staple_zhu-pao-mian-jia-dan_overview.jpg",
     "id": "staple_zhu-pao-mian-jia-dan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/煮泡面加蛋.md"
   },
   {
     "title": "猪油拌饭",
@@ -70755,7 +71088,8 @@
     "cover_image": "ai-generated/staple_zhu-you-ban-fan.jpg",
     "overview_image": "overview/staple_zhu-you-ban-fan_overview.jpg",
     "id": "staple_zhu-you-ban-fan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/staple/猪油拌饭.md"
   },
   {
     "title": "炒茄子",
@@ -70990,7 +71324,8 @@
     "cover_image": "ai-generated/vegetable_dish_chao-qie-zi.jpg",
     "overview_image": "overview/vegetable_dish_chao-qie-zi_overview.jpg",
     "id": "vegetable_dish_chao-qie-zi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/炒茄子.md"
   },
   {
     "title": "炒青菜",
@@ -71177,7 +71512,8 @@
     "cover_image": "ai-generated/vegetable_dish_chao-qing-cai.jpg",
     "overview_image": "overview/vegetable_dish_chao-qing-cai_overview.jpg",
     "id": "vegetable_dish_chao-qing-cai",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/炒青菜.md"
   },
   {
     "title": "葱煎豆腐",
@@ -71380,7 +71716,8 @@
     "cover_image": "ai-generated/vegetable_dish_cong-jian-dou-fu.jpg",
     "overview_image": "overview/vegetable_dish_cong-jian-dou-fu_overview.jpg",
     "id": "vegetable_dish_cong-jian-dou-fu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/葱煎豆腐.md"
   },
   {
     "title": "脆皮豆腐",
@@ -71582,7 +71919,8 @@
     "cover_image": "ai-generated/vegetable_dish_cui-pi-dou-fu.jpg",
     "overview_image": "overview/vegetable_dish_cui-pi-dou-fu_overview.jpg",
     "id": "vegetable_dish_cui-pi-dou-fu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/脆皮豆腐.md"
   },
   {
     "title": "蚝油生菜",
@@ -71789,7 +72127,8 @@
     "cover_image": "ai-generated/vegetable_dish_hao-you-sheng-cai.jpg",
     "overview_image": "overview/vegetable_dish_hao-you-sheng-cai_overview.jpg",
     "id": "vegetable_dish_hao-you-sheng-cai",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/蚝油生菜.md"
   },
   {
     "title": "红烧茄子",
@@ -72090,7 +72429,8 @@
     "cover_image": "ai-generated/vegetable_dish_hong-shao-qie-zi.jpg",
     "overview_image": "overview/vegetable_dish_hong-shao-qie-zi_overview.jpg",
     "id": "vegetable_dish_hong-shao-qie-zi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/红烧茄子.md"
   },
   {
     "title": "鸡蛋火腿炒黄瓜",
@@ -72306,7 +72646,8 @@
     "cover_image": "ai-generated/vegetable_dish_ji-dan-huo-tui-chao-huang-gua.jpg",
     "overview_image": "overview/vegetable_dish_ji-dan-huo-tui-chao-huang-gua_overview.jpg",
     "id": "vegetable_dish_ji-dan-huo-tui-chao-huang-gua",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md"
   },
   {
     "title": "家常日本豆腐",
@@ -72583,7 +72924,8 @@
     "cover_image": "ai-generated/vegetable_dish_jia-chang-ri-ben-dou-fu.jpg",
     "overview_image": "overview/vegetable_dish_jia-chang-ri-ben-dou-fu_overview.jpg",
     "id": "vegetable_dish_jia-chang-ri-ben-dou-fu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/家常日本豆腐.md"
   },
   {
     "title": "金钱蛋",
@@ -72854,7 +73196,8 @@
     "cover_image": "ai-generated/vegetable_dish_jin-qian-dan.jpg",
     "overview_image": "overview/vegetable_dish_jin-qian-dan_overview.jpg",
     "id": "vegetable_dish_jin-qian-dan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/金钱蛋.md"
   },
   {
     "title": "金针菇日本豆腐煲",
@@ -73027,7 +73370,8 @@
     "cover_image": "ai-generated/vegetable_dish_jin-zhen-gu-ri-ben-dou-fu-bao.jpg",
     "overview_image": "overview/vegetable_dish_jin-zhen-gu-ri-ben-dou-fu-bao_overview.jpg",
     "id": "vegetable_dish_jin-zhen-gu-ri-ben-dou-fu-bao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/金针菇日本豆腐煲.md"
   },
   {
     "title": "雷椒皮蛋",
@@ -73263,7 +73607,8 @@
     "cover_image": "ai-generated/vegetable_dish_lei-jiao-pi-dan.jpg",
     "overview_image": "overview/vegetable_dish_lei-jiao-pi-dan_overview.jpg",
     "id": "vegetable_dish_lei-jiao-pi-dan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/雷椒皮蛋.md"
   },
   {
     "title": "凉拌豆腐",
@@ -73530,7 +73875,8 @@
     "cover_image": "ai-generated/vegetable_dish_liang-ban-dou-fu.jpg",
     "overview_image": "overview/vegetable_dish_liang-ban-dou-fu_overview.jpg",
     "id": "vegetable_dish_liang-ban-dou-fu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/凉拌豆腐.md"
   },
   {
     "title": "凉拌黄瓜",
@@ -73724,7 +74070,8 @@
     "cover_image": "ai-generated/vegetable_dish_liang-ban-huang-gua.jpg",
     "overview_image": "overview/vegetable_dish_liang-ban-huang-gua_overview.jpg",
     "id": "vegetable_dish_liang-ban-huang-gua",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/凉拌黄瓜.md"
   },
   {
     "title": "凉拌金针菇",
@@ -73979,7 +74326,8 @@
     "cover_image": "ai-generated/vegetable_dish_liang-ban-jin-zhen-gu.jpg",
     "overview_image": "overview/vegetable_dish_liang-ban-jin-zhen-gu_overview.jpg",
     "id": "vegetable_dish_liang-ban-jin-zhen-gu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/凉拌金针菇.md"
   },
   {
     "title": "凉拌油麦菜",
@@ -74155,7 +74503,8 @@
     "cover_image": "ai-generated/vegetable_dish_liang-ban-you-mai-cai.jpg",
     "overview_image": "overview/vegetable_dish_liang-ban-you-mai-cai_overview.jpg",
     "id": "vegetable_dish_liang-ban-you-mai-cai",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/凉拌油麦菜.md"
   },
   {
     "title": "皮蛋豆腐",
@@ -74347,7 +74696,8 @@
     "cover_image": "ai-generated/vegetable_dish_pi-dan-dou-fu.jpg",
     "overview_image": "overview/vegetable_dish_pi-dan-dou-fu_overview.jpg",
     "id": "vegetable_dish_pi-dan-dou-fu",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/皮蛋豆腐.md"
   },
   {
     "title": "蒲烧茄子",
@@ -74553,7 +74903,8 @@
     "cover_image": "ai-generated/vegetable_dish_pu-shao-qie-zi.jpg",
     "overview_image": "overview/vegetable_dish_pu-shao-qie-zi_overview.jpg",
     "id": "vegetable_dish_pu-shao-qie-zi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/蒲烧茄子.md"
   },
   {
     "title": "茄子炖土豆",
@@ -74791,7 +75142,8 @@
     "cover_image": "ai-generated/vegetable_dish_qie-zi-dun-tu-dou.jpg",
     "overview_image": "overview/vegetable_dish_qie-zi-dun-tu-dou_overview.jpg",
     "id": "vegetable_dish_qie-zi-dun-tu-dou",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/茄子炖土豆.md"
   },
   {
     "title": "清炒花菜",
@@ -74994,7 +75346,8 @@
     "cover_image": "ai-generated/vegetable_dish_qing-chao-hua-cai.jpg",
     "overview_image": "overview/vegetable_dish_qing-chao-hua-cai_overview.jpg",
     "id": "vegetable_dish_qing-chao-hua-cai",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/清炒花菜.md"
   },
   {
     "title": "清蒸南瓜",
@@ -75133,7 +75486,8 @@
     "cover_image": "ai-generated/vegetable_dish_qing-zheng-nan-gua.jpg",
     "overview_image": "overview/vegetable_dish_qing-zheng-nan-gua_overview.jpg",
     "id": "vegetable_dish_qing-zheng-nan-gua",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/清蒸南瓜.md"
   },
   {
     "title": "陕北熬豆角",
@@ -75409,7 +75763,8 @@
     "cover_image": "ai-generated/vegetable_dish_shan-bei-ao-dou-jiao.jpg",
     "overview_image": "overview/vegetable_dish_shan-bei-ao-dou-jiao_overview.jpg",
     "id": "vegetable_dish_shan-bei-ao-dou-jiao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/陕北熬豆角.md"
   },
   {
     "title": "水油焖蔬菜",
@@ -75541,7 +75896,8 @@
     "cover_image": "ai-generated/vegetable_dish_shui-you-men-shu-cai.jpg",
     "overview_image": "overview/vegetable_dish_shui-you-men-shu-cai_overview.jpg",
     "id": "vegetable_dish_shui-you-men-shu-cai",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/水油焖蔬菜.md"
   },
   {
     "title": "松仁玉米",
@@ -75734,7 +76090,8 @@
     "cover_image": "ai-generated/vegetable_dish_song-ren-yu-mi.jpg",
     "overview_image": "overview/vegetable_dish_song-ren-yu-mi_overview.jpg",
     "id": "vegetable_dish_song-ren-yu-mi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/松仁玉米.md"
   },
   {
     "title": "素炒豆角",
@@ -75978,7 +76335,8 @@
     "cover_image": "ai-generated/vegetable_dish_su-chao-dou-jiao.jpg",
     "overview_image": "overview/vegetable_dish_su-chao-dou-jiao_overview.jpg",
     "id": "vegetable_dish_su-chao-dou-jiao",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/素炒豆角.md"
   },
   {
     "title": "酸辣土豆丝",
@@ -76204,7 +76562,8 @@
     "cover_image": "ai-generated/vegetable_dish_suan-la-tu-dou-si.jpg",
     "overview_image": "overview/vegetable_dish_suan-la-tu-dou-si_overview.jpg",
     "id": "vegetable_dish_suan-la-tu-dou-si",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/酸辣土豆丝.md"
   },
   {
     "title": "蒜蓉西兰花",
@@ -76410,7 +76769,8 @@
     "cover_image": "ai-generated/vegetable_dish_suan-rong-xi-lan-hua.jpg",
     "overview_image": "overview/vegetable_dish_suan-rong-xi-lan-hua_overview.jpg",
     "id": "vegetable_dish_suan-rong-xi-lan-hua",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/蒜蓉西兰花.md"
   },
   {
     "title": "西红柿炒鸡蛋",
@@ -76623,7 +76983,8 @@
     "cover_image": "ai-generated/vegetable_dish_xi-hong-shi-chao-ji-dan.jpg",
     "overview_image": "overview/vegetable_dish_xi-hong-shi-chao-ji-dan_overview.jpg",
     "id": "vegetable_dish_xi-hong-shi-chao-ji-dan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/西红柿炒鸡蛋.md"
   },
   {
     "title": "印度葫芦丸子",
@@ -76903,7 +77264,8 @@
     "cover_image": "ai-generated/vegetable_dish_yin-du-hu-lu-wan-zi.jpg",
     "overview_image": "overview/vegetable_dish_yin-du-hu-lu-wan-zi_overview.jpg",
     "id": "vegetable_dish_yin-du-hu-lu-wan-zi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/印度葫芦丸子.md"
   },
   {
     "title": "印度土豆花菜 (Aloo Gobi)",
@@ -77224,7 +77586,8 @@
     "cover_image": "ai-generated/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi.jpg",
     "overview_image": "overview/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi_overview.jpg",
     "id": "vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/印度土豆花菜.md"
   },
   {
     "title": "油醋爆蛋",
@@ -77427,6 +77790,7 @@
     "cover_image": "ai-generated/vegetable_dish_you-cu-bao-dan.jpg",
     "overview_image": "overview/vegetable_dish_you-cu-bao-dan_overview.jpg",
     "id": "vegetable_dish_you-cu-bao-dan",
-    "status": "published"
+    "status": "published",
+    "markdown_path": "dishes/vegetable_dish/油醋爆蛋.md"
   }
 ]

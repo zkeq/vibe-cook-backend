@@ -269,5 +269,6 @@
   "cover_image": "ai-generated/other_lu-cai-de-zuo-fa.jpg",
   "overview_image": "overview/other_lu-cai-de-zuo-fa_overview.jpg",
   "id": "other_lu-cai-de-zuo-fa",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/卤菜/卤菜.md"
 }

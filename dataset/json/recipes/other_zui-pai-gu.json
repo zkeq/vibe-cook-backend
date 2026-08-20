@@ -204,5 +204,6 @@
   "cover_image": "ai-generated/other_zui-pai-gu.jpg",
   "overview_image": "overview/other_zui-pai-gu_overview.jpg",
   "id": "other_zui-pai-gu",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/醉排骨/醉排骨.md"
 }

@@ -281,5 +281,6 @@
   "cover_image": "ai-generated/other_tu-dou-dun-pai-gu.jpg",
   "overview_image": "overview/other_tu-dou-dun-pai-gu_overview.jpg",
   "id": "other_tu-dou-dun-pai-gu",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/土豆炖排骨/土豆炖排骨.md"
 }

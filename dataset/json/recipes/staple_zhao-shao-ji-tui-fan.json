@@ -332,5 +332,6 @@
   "cover_image": "ai-generated/staple_zhao-shao-ji-tui-fan.jpg",
   "overview_image": "overview/staple_zhao-shao-ji-tui-fan_overview.jpg",
   "id": "staple_zhao-shao-ji-tui-fan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/照烧鸡腿饭.md"
 }

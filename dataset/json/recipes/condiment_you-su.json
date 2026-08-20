@@ -97,5 +97,6 @@
   "cover_image": "ai-generated/condiment_you-su.jpg",
   "overview_image": "overview/condiment_you-su_overview.jpg",
   "id": "condiment_you-su",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/condiment/油酥.md"
 }

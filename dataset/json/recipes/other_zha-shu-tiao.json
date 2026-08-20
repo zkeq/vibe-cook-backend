@@ -108,5 +108,6 @@
   "cover_image": "ai-generated/other_zha-shu-tiao.jpg",
   "overview_image": "overview/other_zha-shu-tiao_overview.jpg",
   "id": "other_zha-shu-tiao",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/semi-finished/炸薯条/炸薯条.md"
 }

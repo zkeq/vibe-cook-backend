@@ -135,5 +135,6 @@
   "cover_image": "ai-generated/soup_jin-zhen-gu-tang.jpg",
   "overview_image": "overview/soup_jin-zhen-gu-tang_overview.jpg",
   "id": "soup_jin-zhen-gu-tang",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/soup/金针菇汤.md"
 }

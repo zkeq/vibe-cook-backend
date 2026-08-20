@@ -279,5 +279,6 @@
   "cover_image": "ai-generated/other_jiang-niu-rou.jpg",
   "overview_image": "overview/other_jiang-niu-rou_overview.jpg",
   "id": "other_jiang-niu-rou",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/酱牛肉/酱牛肉.md"
 }

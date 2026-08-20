@@ -210,5 +210,6 @@
   "cover_image": "ai-generated/breakfast_cha-ye-dan.jpg",
   "overview_image": "overview/breakfast_cha-ye-dan_overview.jpg",
   "id": "breakfast_cha-ye-dan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/breakfast/茶叶蛋.md"
 }

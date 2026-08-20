@@ -269,5 +269,6 @@
   "cover_image": "ai-generated/other_liang-fen.jpg",
   "overview_image": "overview/other_liang-fen_overview.jpg",
   "id": "other_liang-fen",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/凉粉/凉粉.md"
 }

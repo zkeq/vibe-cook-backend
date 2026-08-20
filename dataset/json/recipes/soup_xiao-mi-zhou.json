@@ -112,5 +112,6 @@
   "cover_image": "ai-generated/soup_xiao-mi-zhou.jpg",
   "overview_image": "overview/soup_xiao-mi-zhou_overview.jpg",
   "id": "soup_xiao-mi-zhou",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/soup/小米粥.md"
 }
