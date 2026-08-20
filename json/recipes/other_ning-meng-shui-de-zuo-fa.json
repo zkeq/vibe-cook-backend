@@ -1,0 +1,136 @@
+{
+  "title": "柠檬水的做法",
+  "summary": "这道饮品以新鲜柠檬为主角，搭配果蜜调和，酸甜平衡，冰镇后更感清凉解暑。柠檬富含维生素 C，经常饮用有助于补充营养、提神美白。制作步骤极简，只需捶打、加料、摇晃，新手也能在三五分钟内完成。",
+  "difficulty": 1,
+  "calories": 141,
+  "duration_min": 5,
+  "category": "其他",
+  "tags": [
+    "饮品",
+    "柠檬水",
+    "冷饮",
+    "快手"
+  ],
+  "ingredients": [
+    {
+      "name": "柠檬",
+      "amount": "40~45克",
+      "buying_tip": "选择表皮鲜黄、果肉饱满的新鲜柠檬",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "果蜜",
+      "amount": "40~45克",
+      "buying_tip": "可选用蜂蜜或成品调味果蜜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "冰",
+      "amount": "几块",
+      "buying_tip": "食用冰块即可",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "水",
+      "amount": "约400ml",
+      "buying_tip": "建议使用纯净水或凉白开",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "雪克杯"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "柠檬",
+        "expr": "42.5 * n"
+      },
+      {
+        "name": "果蜜",
+        "expr": "42.5 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "准备柠檬",
+      "instruction": "称 40~45 克柠檬，放入雪克杯中",
+      "duration_sec": 30,
+      "tips": [
+        "柠檬可以切片处理以便出味"
+      ],
+      "produces": "柠檬块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ning-meng-shui-de-zuo-fa/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "捶打出汁",
+      "instruction": "雪克杯盖盖子锤大约 10 次",
+      "duration_sec": 40,
+      "tips": [
+        "捶打是为了让柠檬皮油和果汁充分释放"
+      ],
+      "produces": "柠檬原汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ning-meng-shui-de-zuo-fa/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "加入调味",
+      "instruction": "加入果蜜 40~45 克",
+      "duration_sec": 20,
+      "tips": [
+        "可根据个人口味增减甜度"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ning-meng-shui-de-zuo-fa/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "补水",
+      "instruction": "向雪克杯中补水",
+      "duration_sec": 20,
+      "tips": [
+        "总分量约控制在500毫升左右"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ning-meng-shui-de-zuo-fa/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "摇晃均匀",
+      "instruction": "盖紧盖子用力摇晃均匀",
+      "duration_sec": 30,
+      "tips": [
+        "摇晃可以让果蜜与水充分融合"
+      ],
+      "produces": "柠檬水初稿",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ning-meng-shui-de-zuo-fa/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "加冰完成",
+      "instruction": "最后根据喜好加冰",
+      "duration_sec": 10,
+      "tips": [
+        "冰镇后口感更佳"
+      ],
+      "produces": "冰爽柠檬水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ning-meng-shui-de-zuo-fa/step_6.jpg"
+    }
+  ],
+  "tips": [
+    "参考资料：[柠檬水教程](https://v.douyin.com/TVNTcXDi46I)",
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ning-meng-shui-de-zuo-fa.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ning-meng-shui-de-zuo-fa_overview.jpg",
+  "id": "other_ning-meng-shui-de-zuo-fa",
+  "status": "published"
+}

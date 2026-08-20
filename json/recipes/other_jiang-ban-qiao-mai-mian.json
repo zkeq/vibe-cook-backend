@@ -1,0 +1,119 @@
+{
+  "title": "酱拌荞麦面",
+  "summary": "酱拌荞麦面酸甜可口、清凉爽滑，是一道简单快手的家常凉拌面。荞麦面富含膳食纤维和蛋白质，搭配黄瓜、胡萝卜增添清爽口感与维生素，营养均衡。只需煮面、切菜、拌入老干妈，几步搞定，对新手非常友好，一般约 20 分钟便可完成。冷藏后食用风味更佳。",
+  "difficulty": 2,
+  "calories": 475,
+  "duration_min": 20,
+  "category": "其他",
+  "tags": [
+    "凉拌面",
+    "快手菜",
+    "荞麦面",
+    "素食",
+    "家常菜"
+  ],
+  "ingredients": [
+    {
+      "name": "荞麦面",
+      "amount": "100g",
+      "buying_tip": "建议购买荞麦含量较高的全麦面条",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "黄瓜",
+      "amount": "0.5根",
+      "buying_tip": "选择表皮翠绿且带刺的更鲜脆",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "红萝卜",
+      "amount": "0.5根",
+      "buying_tip": "选择颜色鲜艳、表面光滑的",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老干妈",
+      "amount": "20ml",
+      "buying_tip": "风味豆豉油制辣椒最为经典",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "煮锅",
+    "菜刀",
+    "砧板",
+    "漏勺",
+    "拌面盘"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "荞麦面",
+        "expr": "100 * servings"
+      },
+      {
+        "name": "黄瓜",
+        "expr": "0.5 * servings"
+      },
+      {
+        "name": "红萝卜",
+        "expr": "0.5 * servings"
+      },
+      {
+        "name": "老干妈",
+        "expr": "20 * servings"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "煮熟面条",
+      "instruction": "荞麦面下冷水煮熟，8-10 分钟后捞出沥干备用",
+      "duration_sec": 600,
+      "tips": [
+        "冷水下锅或开水下锅均可，注意面条熟度",
+        "捞出后过一遍凉水口感更劲道"
+      ],
+      "produces": "熟荞麦面",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-ban-qiao-mai-mian/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "处理配菜",
+      "instruction": "将黄瓜和红萝卜清洗干净，切成均匀的小条",
+      "duration_sec": 300,
+      "tips": [
+        "刀工好的可以切细丝，更易挂汁"
+      ],
+      "produces": "蔬菜条",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-ban-qiao-mai-mian/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "调味拌面",
+      "instruction": "将荞麦面、黄瓜条、萝卜条放入盘子，放上老干妈酱料，搅拌均匀",
+      "duration_sec": 120,
+      "tips": [
+        "建议从碗底向上翻动搅拌"
+      ],
+      "produces": "酱拌荞麦面",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-ban-qiao-mai-mian/step_3.jpg"
+    }
+  ],
+  "tips": [
+    "荞麦面沥干后可以放冰箱冰镇后口感更佳",
+    "配料可以根据个人喜好选择其他，例如虾仁、肉沫等",
+    "酱料可以根据个人喜欢选择其他，例如花生酱、芝麻酱等",
+    "荞麦面跟其他面条热量几乎一致，所以不适合作为减脂的主食"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_jiang-ban-qiao-mai-mian.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_jiang-ban-qiao-mai-mian_overview.jpg",
+  "id": "other_jiang-ban-qiao-mai-mian",
+  "status": "published"
+}

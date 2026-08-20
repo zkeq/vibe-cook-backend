@@ -1,0 +1,114 @@
+{
+  "title": "朱雀汤",
+  "summary": "朱雀汤是一道豫东地区的家常快手汤品，口感顺滑香甜，带着芝麻油的醇香。鸡蛋提供优质蛋白质，制作非常简单，只需烧水冲蛋几步就能完成，前后不到十分钟即可上桌，还有清热去火的效果。",
+  "difficulty": 1,
+  "calories": 168,
+  "duration_min": 10,
+  "category": "其他",
+  "tags": [
+    "豫东美食",
+    "快手汤",
+    "清热去火",
+    "鸡蛋汤"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": "1个",
+      "buying_tip": "选择新鲜鸡蛋，蛋黄饱满者为佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "水",
+      "amount": "500ml",
+      "buying_tip": "纯净水或过滤自来水",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白糖",
+      "amount": "20g",
+      "buying_tip": "普通白砂糖即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香油（芝麻油）",
+      "amount": "2ml",
+      "buying_tip": "选用纯正芝麻油香气更足",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "碗",
+    "煮水锅",
+    "筷子"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鸡蛋",
+        "expr": "1 * servings"
+      },
+      {
+        "name": "水",
+        "expr": "500 * servings"
+      },
+      {
+        "name": "白糖",
+        "expr": "20 * servings"
+      },
+      {
+        "name": "香油",
+        "expr": "2 * servings"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "准备蛋液",
+      "instruction": "鸡蛋在碗中打散，再倒入香油。",
+      "duration_sec": 60,
+      "tips": [
+        "鸡蛋一定要彻底打散，否则冲出来的蛋花不均匀"
+      ],
+      "produces": "香油蛋液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-que-tang/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "冲入沸水",
+      "instruction": "水烧开后，在沸腾状态下快速倒入盛有鸡蛋的碗中。",
+      "duration_sec": 300,
+      "tips": [
+        "水一定要在沸腾冒泡状态倒入，这是形成漂亮蛋花的关键"
+      ],
+      "produces": "基础蛋汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-que-tang/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "调味搅拌",
+      "instruction": "放入白糖。",
+      "duration_sec": 30,
+      "tips": [
+        "根据个人口味调整甜度"
+      ],
+      "produces": "朱雀汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-que-tang/step_3.jpg"
+    }
+  ],
+  "tips": [
+    "鸡蛋一定要打散，水一定要在沸腾冒泡状态倒入鸡蛋液中，否则汤可能会浑浊影响口感",
+    "此为豫东地区做法，其他地区有不放白糖放盐的，口味不同，根据个人口味调整",
+    "此汤乃去火神器！"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_zhu-que-tang.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_zhu-que-tang_overview.jpg",
+  "id": "other_zhu-que-tang",
+  "status": "published"
+}

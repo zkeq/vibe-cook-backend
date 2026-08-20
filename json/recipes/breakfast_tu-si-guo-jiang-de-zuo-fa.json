@@ -1,0 +1,113 @@
+{
+  "title": "吐司果酱的做法",
+  "summary": "这是一道极简快手早餐，烤至微脆的吐司夹入甜香果酱，外脆内软，方便随身携带，属于典型的便捷西式简餐。主要提供碳水化合物和糖分，能快速补充晨间能量。操作几乎零门槛，非常适合不擅烹饪的忙碌新手。从准备到完成只需大约 2 分钟，无需开火，也几乎不用清洗厨具。",
+  "difficulty": 1,
+  "calories": 223,
+  "duration_min": 2,
+  "category": "早餐",
+  "tags": [
+    "快手早餐",
+    "西式简餐",
+    "程序员友好",
+    "零门槛"
+  ],
+  "ingredients": [
+    {
+      "name": "新鲜吐司",
+      "amount": "2片",
+      "buying_tip": "建议去楼下超市或美团买菜购买，保质期短的更干净卫生。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "果酱",
+      "amount": "适量(足够涂满一面吐司)",
+      "buying_tip": "根据个人口味选择甜香型果酱。",
+      "optional": false,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "面包机"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "新鲜吐司",
+        "expr": "2 * servings"
+      },
+      {
+        "name": "果酱",
+        "expr": "1 * servings"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "放入吐司",
+      "instruction": "将吐司放入面包机",
+      "duration_sec": 10,
+      "tips": [
+        "确保吐司放置平整"
+      ],
+      "produces": "待烘烤吐司",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tu-si-guo-jiang-de-zuo-fa/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "设置档位",
+      "instruction": "设置好档位,时间到了会自动弹出",
+      "duration_sec": 100,
+      "tips": [
+        "初次使用建议从中档位开始尝试"
+      ],
+      "produces": "烤制的吐司",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tu-si-guo-jiang-de-zuo-fa/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "等待弹出",
+      "instruction": "两分钟后吐司加热完成弹出",
+      "duration_sec": 10,
+      "tips": [
+        "注意避开面包机上方的热气"
+      ],
+      "produces": "热吐司片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tu-si-guo-jiang-de-zuo-fa/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "涂抹果酱",
+      "instruction": "先取出一片吐司,涂满果酱再盖上另一片吐司即可",
+      "duration_sec": 30,
+      "tips": [
+        "趁热涂抹果酱味道更佳"
+      ],
+      "produces": "果酱吐司成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tu-si-guo-jiang-de-zuo-fa/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "打包食用",
+      "instruction": "用餐巾纸包一下可以边走边吃也可以吃完再出门",
+      "duration_sec": 10,
+      "tips": [
+        "餐巾纸可以防止果酱溢出弄脏手"
+      ],
+      "produces": "便携早餐",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tu-si-guo-jiang-de-zuo-fa/step_5.jpg"
+    }
+  ],
+  "tips": [
+    "面包机一般不会超过一百块，是高性价比的早餐工具",
+    "吐司一般一包十块钱八片，保质期比较短，要注意新鲜度",
+    "两分钟快速搞定，耗时短，不会产生额外垃圾，也不需要清洗工具",
+    "非常适合程序员等忙碌人群"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_tu-si-guo-jiang-de-zuo-fa.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_tu-si-guo-jiang-de-zuo-fa_overview.jpg",
+  "id": "breakfast_tu-si-guo-jiang-de-zuo-fa",
+  "status": "published"
+}

@@ -1,0 +1,223 @@
+{
+  "title": "番茄红酱",
+  "summary": "这款意式风味酱料香浓可口，蔬菜与牛肉的搭配带来丰富口感。它富含蛋白质和多种维生素，营养均衡。制作过程稍有繁琐，需要一些烹饪基础，例如炒出颗粒感的牛肉和控火慢煮。从备料到完成约需一小时，一次可多做一些冷冻保存，随取随用十分方便。",
+  "difficulty": 4,
+  "calories": 1955,
+  "duration_min": 60,
+  "category": "荤菜",
+  "tags": [
+    "意式",
+    "番茄酱",
+    "肉酱",
+    "西餐",
+    "高蛋白"
+  ],
+  "ingredients": [
+    {
+      "name": "碎牛肉",
+      "amount": "500g",
+      "buying_tip": "选择肥瘦比例约2:8的牛绞肉口感最佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜瓣",
+      "amount": "2个",
+      "buying_tip": "选用新鲜饱满的蒜瓣",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "胡萝卜",
+      "amount": "半根",
+      "buying_tip": "挑选表皮光滑、颜色鲜橙的胡萝卜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "芹菜",
+      "amount": "1根",
+      "buying_tip": "选用西芹，口感更清脆",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "洋葱",
+      "amount": "半个",
+      "buying_tip": "黄洋葱甜味更重，适合熬酱",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "橄榄油",
+      "amount": "20ml",
+      "buying_tip": "推荐使用特级初榨橄榄油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "糖",
+      "amount": "2g",
+      "buying_tip": "普通白砂糖即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食盐",
+      "amount": "10g",
+      "buying_tip": "建议根据番茄酱咸度酌情增减",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "黑胡椒粉",
+      "amount": "5g",
+      "buying_tip": "现磨黑胡椒风味更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "番茄酱",
+      "amount": "300g",
+      "buying_tip": "选用配料表干净的番茄泥或番茄罐头",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "牛奶",
+      "amount": "300ml",
+      "buying_tip": "全脂牛奶能提供更好的乳化效果",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "干罗勒或百里香",
+      "amount": "适量",
+      "buying_tip": "增加经典意式香草风味",
+      "optional": true,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "木铲",
+    "盛料盘"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "碎牛肉",
+        "expr": "500g"
+      },
+      {
+        "name": "蒜瓣",
+        "expr": "2个"
+      },
+      {
+        "name": "胡萝卜",
+        "expr": "0.5根"
+      },
+      {
+        "name": "芹菜",
+        "expr": "1根"
+      },
+      {
+        "name": "洋葱",
+        "expr": "0.5个"
+      },
+      {
+        "name": "橄榄油",
+        "expr": "20ml"
+      },
+      {
+        "name": "糖",
+        "expr": "2g"
+      },
+      {
+        "name": "食盐",
+        "expr": "10g"
+      },
+      {
+        "name": "黑胡椒粉",
+        "expr": "5g"
+      },
+      {
+        "name": "番茄酱",
+        "expr": "300g"
+      },
+      {
+        "name": "牛奶",
+        "expr": "300ml"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "食材预处理",
+      "instruction": "将胡萝卜、芹菜、洋葱切碎，蒜瓣切片。",
+      "duration_sec": 600,
+      "tips": [
+        "蔬菜尽量切成大小一致的小丁，便于熟化和融合"
+      ],
+      "produces": "蔬菜碎和蒜片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_fan-qie-hong-jiang/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "煸炒蔬菜",
+      "instruction": "加入 10ml 橄榄油，热油下锅蔬菜，大火翻炒开始略微变色后盛出。",
+      "duration_sec": 300,
+      "tips": [
+        "大火翻炒可以炒出蔬菜的甜味"
+      ],
+      "produces": "半熟蔬菜碎",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_fan-qie-hong-jiang/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "炒制牛肉",
+      "instruction": "锅内加油 10ml，加蒜翻炒 10 秒，加入碎牛肉、糖、盐、胡椒粉和香料将牛肉炒脆（有颗粒感）。",
+      "duration_sec": 480,
+      "tips": [
+        "牛肉要充分炒干水分，炒至微微焦脆才有颗粒感"
+      ],
+      "produces": "香脆牛肉粒",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_fan-qie-hong-jiang/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "混合底酱",
+      "instruction": "加入炒好的蔬菜们和番茄酱继续翻炒，搅拌均匀。",
+      "duration_sec": 120,
+      "tips": [
+        "翻炒均匀让番茄酱受热激发酸甜味"
+      ],
+      "produces": "浓缩肉酱基底",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_fan-qie-hong-jiang/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "慢火熬煮",
+      "instruction": "分多次缓缓倒入牛奶，中小火煮 30 分钟，完成。",
+      "duration_sec": 1800,
+      "tips": [
+        "分次加牛奶可以使酱汁乳化更好，口感更丝滑"
+      ],
+      "produces": "番茄红酱",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_fan-qie-hong-jiang/step_5.jpg"
+    }
+  ],
+  "tips": [
+    "考虑各个品牌的番茄酱内含盐量不同，建议在炒牛肉时少放盐，煮的时候尝一下再调味",
+    "煮酱料期间请搅动，以免粘锅。如果酱料变粘稠就可以出锅啦！",
+    "可根据个人口味，将碎牛肉替换成一半碎猪肉一半碎牛肉，牛奶替换成鸡汤或饮用水"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_fan-qie-hong-jiang.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_fan-qie-hong-jiang_overview.jpg",
+  "id": "meat_dish_fan-qie-hong-jiang",
+  "status": "published"
+}

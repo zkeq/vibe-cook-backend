@@ -1,0 +1,260 @@
+{
+  "title": "空气炸锅脆皮现腌炸鸡",
+  "summary": "空气炸锅炸鸡是一道先腌后炸的家常肉菜，外壳酥脆、内里多汁，调味可以按口味灵活切换。鸡翅富含优质蛋白和脂肪，适合作为正餐主菜或加餐。",
+  "difficulty": 4,
+  "calories": 700,
+  "duration_min": 70,
+  "category": "其他",
+  "tags": [
+    "空气炸锅",
+    "炸鸡",
+    "鸡翅",
+    "高蛋白",
+    "家常菜"
+  ],
+  "ingredients": [
+    {
+      "name": "新鲜鸡翅中",
+      "amount": "6个(约300g)",
+      "buying_tip": "选择肉质饱满、表皮无破损的翅中",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "15ml",
+      "buying_tip": "优质酿造生抽",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜粉",
+      "amount": "13g",
+      "buying_tip": "细磨蒜粉更易均匀入味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "paprika（红甜椒粉）",
+      "amount": "10g",
+      "buying_tip": "增加色泽和微甜香味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "洋葱粉",
+      "amount": "5g",
+      "buying_tip": "增加风味深度",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "黑胡椒粉",
+      "amount": "5g",
+      "buying_tip": "现磨风味更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "中筋面粉",
+      "amount": "60g",
+      "buying_tip": "普通家用面粉即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "淀粉",
+      "amount": "30g",
+      "buying_tip": "玉米淀粉或土豆淀粉均可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "5ml",
+      "buying_tip": "用于喷涂的植物油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酸奶或牛奶",
+      "amount": "5ml",
+      "buying_tip": "帮助肉质更滑嫩",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": "1个",
+      "buying_tip": "用于制作裹浆",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "泡打粉",
+      "amount": "1g",
+      "buying_tip": "帮助形成更酥脆的外壳",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "空气炸锅",
+    "zip保鲜袋",
+    "喷油瓶或刷子",
+    "搅拌碗",
+    "牙签"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鸡翅中",
+        "expr": "6 * n"
+      },
+      {
+        "name": "生抽",
+        "expr": "15 * n"
+      },
+      {
+        "name": "蒜粉",
+        "expr": "13 * n"
+      },
+      {
+        "name": "红甜椒粉",
+        "expr": "10 * n"
+      },
+      {
+        "name": "中筋面粉",
+        "expr": "60 * n"
+      },
+      {
+        "name": "淀粉",
+        "expr": "30 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理鸡翅",
+      "instruction": "鸡翅清洗后擦干水分，每个鸡翅两面各划2刀。",
+      "duration_sec": 300,
+      "tips": [
+        "擦干水分有助于入味和后续裹粉"
+      ],
+      "produces": "预处理鸡翅",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "调制腌料",
+      "instruction": "混合生抽15ml、蒜粉8g、红甜椒粉5g、洋葱粉3g、黑胡椒粉3g及牛奶/酸奶。",
+      "duration_sec": 120,
+      "tips": [
+        "酸奶可以让肉质更滑嫩"
+      ],
+      "produces": "腌制酱汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "腌制鸡翅",
+      "instruction": "将鸡翅与腌料放入zip袋充分按摩，冰箱冷藏静置一晚。",
+      "duration_sec": 600,
+      "tips": [
+        "冷藏过夜效果最佳，若时间紧急至少腌制2小时"
+      ],
+      "produces": "已腌制鸡翅",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "准备裹粉",
+      "instruction": "将中筋面粉60g、淀粉30g、蒜粉5g、红甜椒粉5g、洋葱粉2g、黑胡椒粉2g、泡打粉1g混合均匀。",
+      "duration_sec": 180,
+      "tips": [
+        "泡打粉是外壳酥脆的秘诀"
+      ],
+      "produces": "混合裹粉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "初步裹粉",
+      "instruction": "鸡翅抖干水分放入裹粉按压，抖落余粉后静置10分钟。",
+      "duration_sec": 600,
+      "tips": [
+        "静置可以让粉更好地粘附在肉上"
+      ],
+      "produces": "一层裹粉鸡翅",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "二次裹粉（可选）",
+      "instruction": "如需更厚外壳，依次经过蛋浆和二次裹粉，静置20分钟。",
+      "duration_sec": 1200,
+      "tips": [
+        "二次裹粉外壳更牢固不易脱落"
+      ],
+      "produces": "双层裹粉鸡翅",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "预热与入锅",
+      "instruction": "空气炸锅180°C预热5分钟。炸篮刷油，鸡皮朝下放入鸡翅，表面喷油。",
+      "duration_sec": 300,
+      "tips": [
+        "喷油要均匀，干粉处必须喷到油"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "第一阶段炸制",
+      "instruction": "180°C先炸10分钟。",
+      "duration_sec": 600,
+      "tips": [
+        "不要叠放，确保空气流通"
+      ],
+      "produces": "半熟炸鸡",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "翻面补油",
+      "instruction": "翻面并在表面补喷薄油，180°C再炸6分钟。",
+      "duration_sec": 360,
+      "tips": [
+        "翻面后的补油是上色的关键"
+      ],
+      "produces": "熟化炸鸡",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "补脆上色",
+      "instruction": "观察颜色并检查熟度，如有需要200°C炸1-2分钟补脆。",
+      "duration_sec": 120,
+      "tips": [
+        "用牙签扎入无血水流出即熟"
+      ],
+      "produces": "脆皮炸鸡",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji/step_10.jpg"
+    }
+  ],
+  "tips": [
+    "本菜谱也适用于带骨鸡腿，需适当增加时长",
+    "辣味爱好者可在裹粉中加3g辣椒粉",
+    "孜然味可在出锅后撒2g孜然粉和白芝麻",
+    "严禁鸡翅叠放，否则会导致受热不均，外壳不脆",
+    "蒜粉、红甜椒粉和洋葱粉可根据个人口味灵活增减"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji_overview.jpg",
+  "id": "other_kong-qi-zha-guo-cui-pi-xian-yan-zha-ji",
+  "status": "published"
+}

@@ -1,0 +1,193 @@
+{
+  "title": "松仁玉米",
+  "summary": "松仁玉米是一道口感清甜脆嫩的家常快手菜，松仁香酥、玉米甜润，属于广受欢迎的北方家常风味。玉米和松仁搭配，能提供丰富的膳食纤维、不饱和脂肪酸和多种维生素，营养均衡。",
+  "difficulty": 2,
+  "calories": 580,
+  "duration_min": 15,
+  "category": "素菜",
+  "tags": [
+    "快手菜",
+    "清甜",
+    "家常菜",
+    "高纤维"
+  ],
+  "ingredients": [
+    {
+      "name": "玉米粒",
+      "amount": "200g",
+      "buying_tip": "建议使用甜玉米，口感更清甜脆嫩",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "熟松子仁",
+      "amount": "30g",
+      "buying_tip": "选择颗粒饱满、无哈喇味的熟松仁",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "胡萝卜",
+      "amount": "50g",
+      "buying_tip": "选表皮光滑、颜色鲜橙的胡萝卜切小丁",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "15ml",
+      "buying_tip": "普通植物油即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白砂糖",
+      "amount": "10g",
+      "buying_tip": "细砂糖更易在炒制中融化",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "1g",
+      "buying_tip": "少量食盐用于提鲜平衡甜味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "淀粉",
+      "amount": "5g",
+      "buying_tip": "玉米淀粉或土豆淀粉均可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "水",
+      "amount": "20ml",
+      "buying_tip": "用于调和淀粉",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "漏勺",
+    "小碗"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "玉米粒",
+        "expr": "200 * n"
+      },
+      {
+        "name": "熟松子仁",
+        "expr": "30 * n"
+      },
+      {
+        "name": "胡萝卜",
+        "expr": "50 * n"
+      },
+      {
+        "name": "食用油",
+        "expr": "15 * n"
+      },
+      {
+        "name": "白砂糖",
+        "expr": "10 * n"
+      },
+      {
+        "name": "盐",
+        "expr": "1 * n"
+      },
+      {
+        "name": "淀粉",
+        "expr": "5 * n"
+      },
+      {
+        "name": "水",
+        "expr": "20 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "食材预处理",
+      "instruction": "玉米粒和胡萝卜丁提前焯水 1 分钟，捞出沥干备用",
+      "duration_sec": 120,
+      "tips": [
+        "沥干水分能防止炒制时溅油"
+      ],
+      "produces": "焯熟的玉米胡萝卜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_song-ren-yu-mi/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "翻炒蔬菜",
+      "instruction": "热锅凉油，放入胡萝卜丁略炒，再加入玉米粒翻炒",
+      "duration_sec": 90,
+      "tips": [
+        "胡萝卜先炒更有利于胡萝卜素吸收"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_song-ren-yu-mi/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "调味",
+      "instruction": "加入白砂糖和盐，炒匀",
+      "duration_sec": 30,
+      "tips": [
+        "糖量可根据个人喜好微调"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_song-ren-yu-mi/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "勾芡",
+      "instruction": "混合水与淀粉成水淀粉，倒入锅中快速翻炒使汤汁略稠",
+      "duration_sec": 40,
+      "tips": [
+        "水淀粉下锅前需再次搅拌均匀以免沉淀"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_song-ren-yu-mi/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "加入松仁",
+      "instruction": "加入熟松仁翻炒均匀",
+      "duration_sec": 30,
+      "tips": [
+        "松仁最后放能保持其酥脆口感"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_song-ren-yu-mi/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "装盘",
+      "instruction": "出锅装盘",
+      "duration_sec": 30,
+      "tips": [
+        "趁热食用风味最佳"
+      ],
+      "produces": "松仁玉米",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_song-ren-yu-mi/step_6.jpg"
+    }
+  ],
+  "tips": [
+    "松仁可以提前用小火干炒至微微金黄香脆，更加美味",
+    "使用罐头玉米时应先沥干水分，避免炒制过程中出水过多",
+    "炒制时火候不宜过大，以防糊锅或松仁焦糊"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_song-ren-yu-mi.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_song-ren-yu-mi_overview.jpg",
+  "id": "vegetable_dish_song-ren-yu-mi",
+  "status": "published"
+}

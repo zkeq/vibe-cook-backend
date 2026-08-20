@@ -1,0 +1,336 @@
+{
+  "title": "扬州炒饭",
+  "summary": "这是一道配料丰富的升级版炒饭，米饭粒粒分明，鸡蛋嫩滑，搭配虾仁、午餐肉和蔬菜丁，口感层次鲜明，属于淮扬菜系中的经典主食。富含优质蛋白、碳水化合物和多种维生素，营养均衡。步骤虽多但操作直观，对初级烹饪者也较为友好，只需耐心备料。",
+  "difficulty": 4,
+  "calories": 1769,
+  "duration_min": 60,
+  "category": "其他",
+  "tags": [
+    "淮扬菜",
+    "主食",
+    "炒饭",
+    "营养均衡"
+  ],
+  "ingredients": [
+    {
+      "name": "冷饭",
+      "amount": "500g",
+      "buying_tip": "干一点的为佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": "2-3个",
+      "buying_tip": "新鲜鸡蛋即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "冷冻去头去皮基围虾",
+      "amount": "10-15只",
+      "buying_tip": "建议购买处理好的去皮虾仁更方便",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "午餐肉罐头",
+      "amount": "150g",
+      "buying_tip": "推荐上海梅林的火腿午餐肉罐头，340g每罐用半罐",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "青豆",
+      "amount": "30g",
+      "buying_tip": "可购买混合冷冻包装",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "胡萝卜",
+      "amount": "30g",
+      "buying_tip": "可购买混合冷冻包装",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "玉米粒",
+      "amount": "30g",
+      "buying_tip": "可购买混合冷冻包装",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "1根",
+      "buying_tip": "普通小葱即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "油",
+      "amount": "30-40ml",
+      "buying_tip": "普通食用植物油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "12-15g",
+      "buying_tip": "细盐",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "煮锅",
+    "菜刀",
+    "砧板",
+    "碗",
+    "铲子"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "冷饭",
+        "expr": "500 * n"
+      },
+      {
+        "name": "鸡蛋",
+        "expr": "2.5 * n"
+      },
+      {
+        "name": "冷冻去头去皮基围虾",
+        "expr": "12 * n"
+      },
+      {
+        "name": "午餐肉罐头",
+        "expr": "150 * n"
+      },
+      {
+        "name": "青豆",
+        "expr": "30 * n"
+      },
+      {
+        "name": "胡萝卜",
+        "expr": "30 * n"
+      },
+      {
+        "name": "玉米粒",
+        "expr": "30 * n"
+      },
+      {
+        "name": "葱",
+        "expr": "1 * n"
+      },
+      {
+        "name": "油",
+        "expr": "35 * n"
+      },
+      {
+        "name": "盐",
+        "expr": "13 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "胡萝卜切丁",
+      "instruction": "将胡萝卜切成 0.2cm*0.2cm*0.2cm 的小丁，备用。",
+      "duration_sec": 180,
+      "tips": [
+        "尽量切得均匀以保证口感一致"
+      ],
+      "produces": "胡萝卜丁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "午餐肉切丁",
+      "instruction": "将午餐肉切成 0.2cm*0.2cm*0.2cm 的小丁，备用。",
+      "duration_sec": 120,
+      "tips": [
+        "大小应与胡萝卜丁保持一致"
+      ],
+      "produces": "午餐肉丁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "切葱段",
+      "instruction": "葱分别取葱白和葱绿，各切成 0.25-0.5cm 的小段，分开备用。",
+      "duration_sec": 60,
+      "tips": [
+        "葱白和葱绿下锅时间不同，必须分开"
+      ],
+      "produces": "葱白段, 葱绿段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "准备蛋液",
+      "instruction": "在碗中打入鸡蛋液，均匀搅拌，备用。",
+      "duration_sec": 60,
+      "tips": [
+        "搅拌要充分，不要有大块蛋清"
+      ],
+      "produces": "鸡蛋液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "焯熟蔬菜",
+      "instruction": "将胡萝卜，青豆，玉米粒煮熟捞出，备用（保留煮菜的水）。",
+      "duration_sec": 300,
+      "tips": [
+        "煮熟即可，不要过烂"
+      ],
+      "produces": "熟蔬菜丁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "煮虾",
+      "instruction": "将虾放入刚才煮蔬菜的水中煮熟，捞出备用。",
+      "duration_sec": 120,
+      "tips": [
+        "虾肉变红弯曲即可捞出，避免过老"
+      ],
+      "produces": "熟虾仁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "滑蛋",
+      "instruction": "热锅热油，第二次倒油需使用 20-30ml 油，待油热后缓慢倒入鸡蛋液，不要搅拌。",
+      "duration_sec": 60,
+      "tips": [
+        "控制碗到油之间的流注直径大约在 0.5cm"
+      ],
+      "produces": "凝固鸡蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "捞出鸡蛋",
+      "instruction": "鸡蛋凝固后立刻捞出，备用。",
+      "duration_sec": 30,
+      "tips": [
+        "动作要快，保持鸡蛋嫩滑"
+      ],
+      "produces": "嫩鸡蛋块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "预炒配料",
+      "instruction": "将午餐肉，青豆，胡萝卜，玉米粒，虾倒入锅中翻炒 1-2 分钟，装盘备用。",
+      "duration_sec": 90,
+      "tips": [
+        "此步骤是为了让配料混合并带上油香"
+      ],
+      "produces": "预炒配料集合",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "清理锅底",
+      "instruction": "用水冲一下锅，将杂物冲干净，保证锅内干净无杂质。",
+      "duration_sec": 30,
+      "tips": [
+        "可以有残余油分，但不能有焦糊杂质"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "爆香葱白",
+      "instruction": "热锅热油(10ml)，将葱白放入爆香。",
+      "duration_sec": 30,
+      "tips": [
+        "注意不要把葱白炸糊"
+      ],
+      "produces": "葱香底油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_11.jpg"
+    },
+    {
+      "index": 12,
+      "title": "炒散米饭",
+      "instruction": "调至小火，放入米饭，用铲子快速砸击米饭并翻炒，保证米饭均匀沾到油且粒粒分明。",
+      "duration_sec": 180,
+      "tips": [
+        "如果油温过高可以关火操作，重点是砸散结块的米饭"
+      ],
+      "produces": "散粒油润米饭",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_12.jpg"
+    },
+    {
+      "index": 13,
+      "title": "混合鸡蛋",
+      "instruction": "倒入鸡蛋，继续砸击，使鸡蛋碎开并与米饭充分混合。",
+      "duration_sec": 60,
+      "tips": [
+        "让鸡蛋碎均匀分布在米饭中"
+      ],
+      "produces": "蛋炒饭半成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_13.jpg"
+    },
+    {
+      "index": 14,
+      "title": "大火合炒",
+      "instruction": "转大火，倒入其他所有备用配料，快速翻炒 1-2 分钟。",
+      "duration_sec": 90,
+      "tips": [
+        "大火快炒出镬气"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_14.jpg"
+    },
+    {
+      "index": 15,
+      "title": "调味",
+      "instruction": "撒入盐，并翻炒至充分混合。",
+      "duration_sec": 30,
+      "tips": [
+        "盐量根据个人口味微调"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_15.jpg"
+    },
+    {
+      "index": 16,
+      "title": "最后增香",
+      "instruction": "撒入葱绿，翻炒 1 分钟。",
+      "duration_sec": 60,
+      "tips": [
+        "葱绿最后放可以保持色泽翠绿"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_16.jpg"
+    },
+    {
+      "index": 17,
+      "title": "出锅",
+      "instruction": "关火，装盘。",
+      "duration_sec": 30,
+      "tips": [
+        "趁热食用口感最佳"
+      ],
+      "produces": "扬州炒饭",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_17.jpg"
+    }
+  ],
+  "tips": [
+    "如做完后胳膊酸痛为正常现象，需加强上肢锻炼",
+    "超市有青豆，胡萝卜，玉米粒的混合冷冻包装，可以使用这个省去切丁的烦恼，推荐 Pams Mixed Veges 或类似产品"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_yang-zhou-chao-fan.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_yang-zhou-chao-fan_overview.jpg",
+  "id": "other_yang-zhou-chao-fan",
+  "status": "published"
+}

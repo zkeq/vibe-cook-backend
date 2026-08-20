@@ -1,0 +1,271 @@
+{
+  "title": "印度焖饭 (Biryani)",
+  "summary": "印度焖饭是源自莫卧儿帝国时期的皇家料理，米粒细长、香料气息浓郁，鸡肉嫩滑、米饭粒粒分明，层次丰富。富含蛋白质和多种香料精华，能提振食欲。",
+  "difficulty": 5,
+  "calories": 730,
+  "duration_min": 90,
+  "category": "主食",
+  "tags": [
+    "印度菜",
+    "莫卧儿料理",
+    "硬菜",
+    "高热量"
+  ],
+  "ingredients": [
+    {
+      "name": "巴斯马蒂长粒香米(Basmati Rice)",
+      "amount": "300g",
+      "buying_tip": "必备原料，中国各大电商平台均有售，不可用普通大米替代。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡腿肉",
+      "amount": "500g",
+      "buying_tip": "建议去骨并切大块，也可用羊肉替代。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酸奶",
+      "amount": "100ml",
+      "buying_tip": "建议使用原味全脂酸奶。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "洋葱",
+      "amount": "3个(约300g)",
+      "buying_tip": "切薄片用于炸制金黄洋葱酥。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "番茄",
+      "amount": "适量",
+      "buying_tip": "用于增加酸度与风味层次。",
+      "optional": true,
+      "per_serving": false
+    },
+    {
+      "name": "生姜",
+      "amount": "15g",
+      "buying_tip": "磨碎成姜泥使用。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大蒜",
+      "amount": "6瓣(约18g)",
+      "buying_tip": "磨碎成蒜泥使用。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "青辣椒",
+      "amount": "3根",
+      "buying_tip": "切缝后加入，增加清新辣味。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香菜",
+      "amount": "20g",
+      "buying_tip": "取叶片切碎。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "薄荷叶",
+      "amount": "20g",
+      "buying_tip": "提供独特的清凉香气。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "藏红花(Saffron)",
+      "amount": "0.5g",
+      "buying_tip": "可用食用黄色素替代，但风味会有所损失。",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "温牛奶",
+      "amount": "30ml",
+      "buying_tip": "用于浸泡藏红花。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酥油(Ghee)",
+      "amount": "30g",
+      "buying_tip": "印度料理的核心油脂，可用无盐黄油替代。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "50ml",
+      "buying_tip": "用于炸洋葱。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜黄粉",
+      "amount": "3g",
+      "buying_tip": "提供色泽与微苦的土质气息。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "红辣椒粉",
+      "amount": "5g",
+      "buying_tip": "根据个人口味调整辣度。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "印度综合香料粉(Garam Masala)",
+      "amount": "5g",
+      "buying_tip": "印度料理的基础混合香料。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "全香料",
+      "amount": "月桂叶2片、肉桂棒1根、小豆蔻3颗、丁香4颗、八角1颗",
+      "buying_tip": "用于煮米饭时的提香。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "15g",
+      "buying_tip": "5g用于腌肉，10g用于煮米水。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "柠檬汁",
+      "amount": "15ml",
+      "buying_tip": "软化肉质并平衡腻感。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "面团",
+      "amount": "适量",
+      "buying_tip": "用于封住锅口缝隙，确保蒸汽不泄漏。",
+      "optional": true,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "厚底锅（带盖，密封用）",
+    "大碗",
+    "厨房纸",
+    "大铲子",
+    "磨泥器",
+    "锡纸（可选）"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鸡腿肉",
+        "expr": "500 * n"
+      },
+      {
+        "name": "巴斯马蒂香米",
+        "expr": "300 * n"
+      },
+      {
+        "name": "洋葱",
+        "expr": "3 * n"
+      },
+      {
+        "name": "水",
+        "expr": "2000 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "腌制鸡肉",
+      "instruction": "在大碗中混合酸奶、姜蒜泥、红辣椒粉、姜黄粉、印度综合香料粉、盐和柠檬汁，放入鸡肉块均匀裹上腌料，盖保鲜膜冷藏腌制至少 1 小时。",
+      "duration_sec": 3600,
+      "tips": [
+        "腌制过夜效果更佳，能让肉质更嫩更入味。"
+      ],
+      "produces": "腌制鸡肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-men-fan--biryani/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "准备藏红花牛奶和炸洋葱",
+      "instruction": "藏红花放入温牛奶浸泡15分钟。同时在锅中加热食用油，将洋葱薄片翻炒至深金棕色且酥脆，捞出用厨房纸吸油。",
+      "duration_sec": 900,
+      "tips": [
+        "炸洋葱需要耐心，火候不能太大以免发苦。"
+      ],
+      "produces": "炸洋葱酥与藏红花液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-men-fan--biryani/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "煮半熟米饭",
+      "instruction": "烧开2000ml水，加入所有全香料和10g盐，放入浸泡好的米饭大火煮5-6分钟至七成熟，立即沥干并丢弃全香料。",
+      "duration_sec": 360,
+      "tips": [
+        "七成熟的标准是外部软、芯部仍有硬度，煮过头会导致成品糊烂。"
+      ],
+      "produces": "七成熟香料饭",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-men-fan--biryani/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "组装与密封",
+      "instruction": "厚底锅底涂酥油，按顺序铺入腌鸡肉、一半米饭、一半配料（洋葱、薄荷、香菜、青椒）、剩余米饭、剩余配料，最后淋上藏红花牛奶和酥油。用面团条或锡纸密封锅盖。",
+      "duration_sec": 600,
+      "tips": [
+        "密封是Dum烹饪法的精髓，必须保证不漏气。"
+      ],
+      "produces": "待焖制组合锅",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-men-fan--biryani/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "焖制烹饪",
+      "instruction": "先大火加热3分钟见蒸汽，再转最小火焖25-30分钟。",
+      "duration_sec": 1980,
+      "tips": [
+        "全程不要开盖，利用内部蒸汽压力焖熟底部鸡肉。"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-men-fan--biryani/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "静置与翻拌",
+      "instruction": "关火后不开盖静置5分钟。开盖后用大铲子从底部轻轻翻拌均匀，盛盘搭配酸奶食用。",
+      "duration_sec": 300,
+      "tips": [
+        "翻拌动作要轻，保持米粒完整。"
+      ],
+      "produces": "印度焖饭",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-men-fan--biryani/step_6.jpg"
+    }
+  ],
+  "tips": [
+    "巴斯马蒂香米是制作 Biryani 的必备原料，普通大米无法替代其独特的长粒香气。",
+    "密封焖制(Dum)是这道菜的精髓，蒸汽不能泄漏，否则米饭会干燥。",
+    "米饭只能煮到七成熟，因为焖制过程中会继续吸水变熟。",
+    "本食谱采用的是最常见的混合做法，鸡肉生肉铺底，米饭半熟组装。",
+    "此菜在印度是婚礼和节日的必备菜品，被誉为“印度的国菜”。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_yin-du-men-fan--biryani.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_yin-du-men-fan--biryani_overview.jpg",
+  "id": "staple_yin-du-men-fan--biryani",
+  "status": "published"
+}

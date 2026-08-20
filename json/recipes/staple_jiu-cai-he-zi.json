@@ -1,0 +1,165 @@
+{
+  "title": "韭菜盒子",
+  "summary": "韭菜盒子是一道传统中式面点，外皮金黄酥脆，内馅鲜香多汁。韭菜搭配虾仁和鸡蛋，富含维生素与优质蛋白质。做法简单，对新手也很友好，从和面到出锅大约需要 2.5 小时。",
+  "difficulty": 3,
+  "calories": 794,
+  "duration_min": 150,
+  "category": "主食",
+  "tags": [
+    "面点",
+    "中式",
+    "家常菜",
+    "韭菜",
+    "煎炸"
+  ],
+  "ingredients": [
+    {
+      "name": "韭菜",
+      "amount": "500g",
+      "buying_tip": "选择叶片鲜绿、无枯萎叶尖的嫩韭菜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "虾仁",
+      "amount": "100g",
+      "buying_tip": "建议使用新鲜虾肉，口感更Q弹",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": "3枚",
+      "buying_tip": "选用新鲜的常温鸡蛋",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "面粉",
+      "amount": "250g",
+      "buying_tip": "建议使用中筋面粉",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香油",
+      "amount": "10ml",
+      "buying_tip": "优质芝麻香油能更好提鲜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "5g",
+      "buying_tip": "普通加碘食盐即可",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "大碗",
+    "擀面杖",
+    "平底锅",
+    "菜刀",
+    "砧板",
+    "搅拌筷"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "韭菜",
+        "expr": "500 * n"
+      },
+      {
+        "name": "虾仁",
+        "expr": "100 * n"
+      },
+      {
+        "name": "鸡蛋",
+        "expr": "3 * n"
+      },
+      {
+        "name": "面粉",
+        "expr": "250 * n"
+      },
+      {
+        "name": "香油",
+        "expr": "10 * n"
+      },
+      {
+        "name": "盐",
+        "expr": "5 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "和面静置",
+      "instruction": "将面粉放入大碗中，加入水，搅拌成光滑的面团，静置 30 分钟。",
+      "duration_sec": 2400,
+      "tips": [
+        "加水时建议分次少量加入",
+        "面团静置可以让口感更劲道"
+      ],
+      "produces": "光滑的面团",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_jiu-cai-he-zi/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "准备馅料",
+      "instruction": "韭菜洗净切碎，加入打散的鸡蛋、5g 盐，搅拌均匀。",
+      "duration_sec": 900,
+      "tips": [
+        "韭菜洗净后务必控干水分，否则容易出水",
+        "鸡蛋可以先炒熟碎化后再拌入"
+      ],
+      "produces": "韭菜鸡蛋馅",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_jiu-cai-he-zi/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "包制盒子",
+      "instruction": "将面团分成小剂子，擀成薄圆饼，包入韭菜、虾仁、鸡蛋液。",
+      "duration_sec": 3600,
+      "tips": [
+        "边缘要捏紧，防止煎制时漏馅",
+        "剂子大小要尽量均匀"
+      ],
+      "produces": "韭菜盒子生胚",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_jiu-cai-he-zi/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "煎制",
+      "instruction": "热锅，加入食用油，放入包好的韭菜盒子，煎至两面金黄，约 3-4 分钟。",
+      "duration_sec": 1200,
+      "tips": [
+        "全程中小火，避免外焦内生",
+        "煎的时候可以加盖稍微焖一下"
+      ],
+      "produces": "熟韭菜盒子",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_jiu-cai-he-zi/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "盛盘享用",
+      "instruction": "盛盘，稍凉后即可享用。",
+      "duration_sec": 300,
+      "tips": [
+        "刚出锅时内馅极烫，食用时请小心"
+      ],
+      "produces": "成品韭菜盒子",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_jiu-cai-he-zi/step_5.jpg"
+    }
+  ],
+  "tips": [
+    "制作时可根据个人口味添加豆腐干等配料。",
+    "注意煎制时火候，避免外焦内生。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_jiu-cai-he-zi.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_jiu-cai-he-zi_overview.jpg",
+  "id": "staple_jiu-cai-he-zi",
+  "status": "published"
+}

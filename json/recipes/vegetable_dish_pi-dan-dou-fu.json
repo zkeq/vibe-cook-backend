@@ -1,0 +1,192 @@
+{
+  "title": "皮蛋豆腐",
+  "summary": "皮蛋豆腐是一道清爽开胃的凉拌家常菜，松花蛋 Q 弹滑嫩，嫩豆腐入口即化，咸香微酸的口味特别下饭。豆腐富含优质植物蛋白和钙，皮蛋则提供铁、维生素 A 等营养素，搭配食用易于消化吸收。",
+  "difficulty": 1,
+  "calories": 566,
+  "duration_min": 5,
+  "category": "素菜",
+  "tags": [
+    "凉拌",
+    "家常菜",
+    "快手菜",
+    "零门槛"
+  ],
+  "ingredients": [
+    {
+      "name": "皮蛋",
+      "amount": "2个",
+      "buying_tip": "建议购买无铅松花蛋",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "内酯豆腐",
+      "amount": "1盒",
+      "buying_tip": "选择质地细腻的盒装嫩豆腐",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "15ml",
+      "buying_tip": "选用优质酿造酱油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白砂糖",
+      "amount": "2.5g",
+      "buying_tip": "细砂糖更易搅拌溶解",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "醋",
+      "amount": "15ml",
+      "buying_tip": "推荐镇江香醋，口感更醇厚",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香油",
+      "amount": "15ml",
+      "buying_tip": "纯芝麻香油味道更佳",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "辣椒油",
+      "amount": "10ml",
+      "buying_tip": "可根据吃辣程度调整",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "花生碎",
+      "amount": "10g",
+      "buying_tip": "熟花生碎口感更香脆",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "葱花",
+      "amount": "15g",
+      "buying_tip": "选用新鲜小葱葱白和葱绿",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "香菜",
+      "amount": "1株",
+      "buying_tip": "新鲜香菜叶味道更清香",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "菜刀",
+    "砧板",
+    "小碗",
+    "餐盘"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "皮蛋",
+        "expr": "2 * n 个"
+      },
+      {
+        "name": "内酯豆腐",
+        "expr": "1 * n 盒"
+      },
+      {
+        "name": "生抽",
+        "expr": "15 * n ml"
+      },
+      {
+        "name": "白砂糖",
+        "expr": "2.5 * n g"
+      },
+      {
+        "name": "醋",
+        "expr": "15 * n ml"
+      },
+      {
+        "name": "香油",
+        "expr": "15 * n ml"
+      },
+      {
+        "name": "辣椒油",
+        "expr": "10 * n ml"
+      },
+      {
+        "name": "花生碎",
+        "expr": "10 * n g"
+      },
+      {
+        "name": "葱花",
+        "expr": "15 * n g"
+      },
+      {
+        "name": "香菜",
+        "expr": "1 * n 株"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理皮蛋",
+      "instruction": "先把皮蛋剥壳，切成四瓣。",
+      "duration_sec": 60,
+      "tips": [
+        "皮蛋切瓣时刀上可以抹点香油防止粘刀"
+      ],
+      "produces": "切好的皮蛋瓣",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_pi-dan-dou-fu/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "处理豆腐",
+      "instruction": "嫩豆腐切块或者切片放中间。",
+      "duration_sec": 60,
+      "tips": [
+        "豆腐先焯水可以去除豆腥味"
+      ],
+      "produces": "切好的豆腐底座",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_pi-dan-dou-fu/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "调制淋汁",
+      "instruction": "将生抽、白砂糖、醋、香油、辣椒油调成酱汁，淋上去。",
+      "duration_sec": 120,
+      "tips": [
+        "确保糖分充分搅拌均匀"
+      ],
+      "produces": "浇好汁的皮蛋豆腐",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_pi-dan-dou-fu/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "最后装点",
+      "instruction": "最后可选撒上花生碎、葱花、香菜。",
+      "duration_sec": 60,
+      "tips": [
+        "配料可根据个人口味自由增减"
+      ],
+      "produces": "最终成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_pi-dan-dou-fu/step_4.jpg"
+    }
+  ],
+  "tips": [
+    "豆腐先焯水去豆腥味可以去除豆腥味",
+    "皮蛋切瓣时刀上可以抹点香油防止粘刀",
+    "参考资料：涼拌皮蛋豆腐 by 低配版小當家 - 愛料理"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_pi-dan-dou-fu.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_pi-dan-dou-fu_overview.jpg",
+  "id": "vegetable_dish_pi-dan-dou-fu",
+  "status": "published"
+}

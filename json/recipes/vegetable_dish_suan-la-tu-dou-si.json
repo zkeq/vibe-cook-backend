@@ -1,0 +1,226 @@
+{
+  "title": "酸辣土豆丝",
+  "summary": "酸辣开胃的经典家常菜，口感脆爽，色泽鲜亮，属于大众喜爱的快手小炒。土豆提供碳水化合物和钾元素，辣椒富含维生素 C，有助于增进食欲。操作步骤简单明了，对新手十分友好，从备料到出锅大约只需 20 分钟。",
+  "difficulty": 2,
+  "calories": 374,
+  "duration_min": 20,
+  "category": "素菜",
+  "tags": [
+    "家常菜",
+    "快手菜",
+    "酸辣",
+    "脆爽"
+  ],
+  "ingredients": [
+    {
+      "name": "土豆",
+      "amount": "240g",
+      "buying_tip": "选择表面平整、越细越长的土豆更好切丝",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大蒜",
+      "amount": "4 瓣",
+      "buying_tip": "选择饱满、无发芽的蒜瓣",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "青椒",
+      "amount": "0.5 个",
+      "buying_tip": "选择皮薄清脆的青椒",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "红椒",
+      "amount": "0.5 个",
+      "buying_tip": "选择色泽红亮的红椒，用于点缀",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "干辣椒",
+      "amount": "3 个",
+      "buying_tip": "根据个人嗜辣程度选择品种",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "1 根",
+      "buying_tip": "选用小葱，香味更浓",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "5ml",
+      "buying_tip": "普通生抽即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "陈醋",
+      "amount": "10ml",
+      "buying_tip": "陈醋酸味浓郁，更适合酸辣口",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "2g",
+      "buying_tip": "细盐更易炒匀",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "10-15ml",
+      "buying_tip": "普通植物油",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "刨丝器",
+    "菜刀",
+    "砧板",
+    "炒锅",
+    "漏勺"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "土豆",
+        "expr": "240 * n"
+      },
+      {
+        "name": "大蒜",
+        "expr": "4 * n"
+      },
+      {
+        "name": "青椒",
+        "expr": "0.5 * n"
+      },
+      {
+        "name": "红椒",
+        "expr": "0.5 * n"
+      },
+      {
+        "name": "干辣椒",
+        "expr": "3 * n"
+      },
+      {
+        "name": "葱",
+        "expr": "1 * n"
+      },
+      {
+        "name": "生抽",
+        "expr": "5 * n"
+      },
+      {
+        "name": "陈醋",
+        "expr": "10 * n"
+      },
+      {
+        "name": "盐",
+        "expr": "2 * n"
+      },
+      {
+        "name": "食用油",
+        "expr": "12.5 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "食材预处理",
+      "instruction": "土豆去皮、切丝（或用刨丝器）。",
+      "duration_sec": 300,
+      "tips": [
+        "土豆丝尽量粗细均匀，保证受热同步"
+      ],
+      "produces": "土豆丝",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-la-tu-dou-si/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "清洗与焯水",
+      "instruction": "切好的土豆丝用清水清洗，去除多余的淀粉，然后对土豆丝焯水 10 秒。沥干，备用。",
+      "duration_sec": 180,
+      "tips": [
+        "清洗淀粉是脆爽的关键",
+        "焯水时间极短，不可久煮"
+      ],
+      "produces": "半熟土豆丝",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-la-tu-dou-si/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "配料准备",
+      "instruction": "葱切成葱花；大蒜拍碎切成蒜末（分为两等份备用）；干辣椒切小段；青红椒切丝。",
+      "duration_sec": 120,
+      "tips": [
+        "蒜末分两份是为了先后入锅，层次分明"
+      ],
+      "produces": "配料切片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-la-tu-dou-si/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "爆香底料",
+      "instruction": "热锅，小火热油，下入一半的葱花（葱白部分）、一半的蒜末和干辣椒爆香。",
+      "duration_sec": 60,
+      "tips": [
+        "小火慢炸干辣椒，避免炸糊"
+      ],
+      "produces": "香油底料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-la-tu-dou-si/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "主料翻炒",
+      "instruction": "加入青红椒翻炒几下，加入土豆丝翻炒至变色。",
+      "duration_sec": 120,
+      "tips": [
+        "火力转大，快速翻炒"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-la-tu-dou-si/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "调味",
+      "instruction": "加 5ml 生抽，10ml 陈醋，倒入剩下的一半蒜末和 2g 盐快速翻炒均匀。",
+      "duration_sec": 60,
+      "tips": [
+        "醋沿锅边淋入更香"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-la-tu-dou-si/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "出锅",
+      "instruction": "出锅前撒上剩余的葱花，翻匀即可装盘。",
+      "duration_sec": 30,
+      "tips": [
+        "最后加葱花增加色彩和生葱香"
+      ],
+      "produces": "酸辣土豆丝成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-la-tu-dou-si/step_7.jpg"
+    }
+  ],
+  "tips": [
+    "清洗土豆丝淀粉一定要去干净，不然会全黏在一起",
+    "加入蒜末、盐后应尽快出锅，保留蒜香以及避免破坏口感。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_suan-la-tu-dou-si.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_suan-la-tu-dou-si_overview.jpg",
+  "id": "vegetable_dish_suan-la-tu-dou-si",
+  "status": "published"
+}

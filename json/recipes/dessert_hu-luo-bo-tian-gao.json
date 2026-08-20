@@ -1,0 +1,256 @@
+{
+  "title": "胡萝卜甜糕",
+  "summary": "胡萝卜甜糕是印度家喻户晓的冬季甜品，胡萝卜丝与牛奶慢炖浓缩，融入酥油和坚果，口感绵密香甜、色泽金红。富含胡萝卜素、钙质和优质脂肪，暖身滋养。",
+  "difficulty": 3,
+  "calories": 374,
+  "duration_min": 45,
+  "category": "甜品",
+  "tags": [
+    "印度甜品",
+    "冬季甜品",
+    "高钙",
+    "暖身滋养"
+  ],
+  "ingredients": [
+    {
+      "name": "胡萝卜",
+      "amount": "500g",
+      "buying_tip": "建议选用红色胡萝卜，色泽更好看",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "全脂牛奶",
+      "amount": "500ml",
+      "buying_tip": "如果想要更浓郁的口感，可以用淡奶油替代部分牛奶",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "糖",
+      "amount": "80g",
+      "buying_tip": "可根据个人口味调整至 60g-100g",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酥油(Ghee)",
+      "amount": "40g",
+      "buying_tip": "可用黄油替代",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "小豆蔻粉",
+      "amount": "3g",
+      "buying_tip": "Cardamom Powder，增添异域香气",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "腰果",
+      "amount": "15g",
+      "buying_tip": "坚果类增加口感",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "杏仁",
+      "amount": "15g",
+      "buying_tip": "坚果类增加口感",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葡萄干",
+      "amount": "15g",
+      "buying_tip": "增加酸甜风味",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "刨丝器",
+    "厚底锅",
+    "小锅"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "胡萝卜",
+        "expr": "500 * n"
+      },
+      {
+        "name": "全脂牛奶",
+        "expr": "500 * n"
+      },
+      {
+        "name": "糖",
+        "expr": "80 * n"
+      },
+      {
+        "name": "酥油",
+        "expr": "40 * n"
+      },
+      {
+        "name": "小豆蔻粉",
+        "expr": "3 * n"
+      },
+      {
+        "name": "腰果",
+        "expr": "15 * n"
+      },
+      {
+        "name": "杏仁",
+        "expr": "15 * n"
+      },
+      {
+        "name": "葡萄干",
+        "expr": "15 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理胡萝卜",
+      "instruction": "将胡萝卜去皮，用刨丝器刨成细丝",
+      "duration_sec": 300,
+      "tips": [
+        "刨成细丝口感更佳"
+      ],
+      "produces": "胡萝卜丝",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/dessert_hu-luo-bo-tian-gao/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "融化酥油",
+      "instruction": "在厚底锅中倒入酥油 20g（一半量），中火加热融化",
+      "duration_sec": 60,
+      "tips": [
+        "厚底锅导热均匀且不易糊底"
+      ],
+      "produces": "融化的酥油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/dessert_hu-luo-bo-tian-gao/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "翻炒胡萝卜",
+      "instruction": "放入胡萝卜丝，翻炒 3-5 分钟，直至胡萝卜丝变软且散发香味",
+      "duration_sec": 240,
+      "tips": [
+        "炒出胡萝卜的香味是关键"
+      ],
+      "produces": "炒软的胡萝卜丝",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/dessert_hu-luo-bo-tian-gao/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "加入牛奶",
+      "instruction": "倒入全脂牛奶 500ml，搅拌均匀",
+      "duration_sec": 30,
+      "tips": [],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/dessert_hu-luo-bo-tian-gao/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "煮沸牛奶",
+      "instruction": "大火煮沸后转中小火，保持缓慢沸腾状态",
+      "duration_sec": 60,
+      "tips": [
+        "注意观察不要溢锅"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/dessert_hu-luo-bo-tian-gao/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "慢炖浓缩",
+      "instruction": "持续翻搅 25-30 分钟，直至牛奶几乎完全被胡萝卜吸收蒸发",
+      "duration_sec": 1650,
+      "tips": [
+        "这是最关键的步骤，需要耐心且不断搅拌防止糊底"
+      ],
+      "produces": "浓缩胡萝卜糊",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/dessert_hu-luo-bo-tian-gao/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "加糖调味",
+      "instruction": "当锅中几乎没有液体时，加入糖 80g，搅拌均匀",
+      "duration_sec": 60,
+      "tips": [
+        "加糖后会重新出水"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/dessert_hu-luo-bo-tian-gao/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "二次收汁",
+      "instruction": "加糖后继续中小火翻炒 5-8 分钟，直至水分再次蒸发",
+      "duration_sec": 390,
+      "tips": [
+        "炒到水分收干，质地浓稠"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/dessert_hu-luo-bo-tian-gao/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "增香",
+      "instruction": "加入剩余的酥油 20g 和小豆蔻粉 3g，翻炒 2 分钟",
+      "duration_sec": 120,
+      "tips": [
+        "最后加入酥油可以增加成品色泽"
+      ],
+      "produces": "基础甜糕",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/dessert_hu-luo-bo-tian-gao/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "准备坚果",
+      "instruction": "在另一个小锅中，用少量酥油将腰果、杏仁片和葡萄干分别炸至金黄（约 1 分钟）",
+      "duration_sec": 60,
+      "tips": [
+        "注意葡萄干会膨胀",
+        "炸至金黄即可"
+      ],
+      "produces": "炸香的坚果",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/dessert_hu-luo-bo-tian-gao/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "混合坚果",
+      "instruction": "将炸好的坚果和葡萄干的一半拌入胡萝卜甜糕中",
+      "duration_sec": 30,
+      "tips": [],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/dessert_hu-luo-bo-tian-gao/step_11.jpg"
+    },
+    {
+      "index": 12,
+      "title": "装饰盛盘",
+      "instruction": "盛盘，将剩余坚果和葡萄干撒在表面作为装饰",
+      "duration_sec": 30,
+      "tips": [
+        "胡萝卜甜糕可以热吃也可以冷吃"
+      ],
+      "produces": "胡萝卜甜糕成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/dessert_hu-luo-bo-tian-gao/step_12.jpg"
+    }
+  ],
+  "tips": [
+    "胡萝卜甜糕可以热吃也可以冷吃，两种风味各有特色。",
+    "使用红色胡萝卜比橙色胡萝卜做出来的色泽更好看。",
+    "如果想要更浓郁的口感，可以用淡奶油替代部分牛奶。",
+    "密封冷藏可保存 4-5 天。食用前可用微波炉加热 1 分钟。",
+    "这道甜品在印度几乎每个家庭都会做，是排灯节(Diwali)和婚礼上必不可少的甜品。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/dessert_hu-luo-bo-tian-gao.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/dessert_hu-luo-bo-tian-gao_overview.jpg",
+  "id": "dessert_hu-luo-bo-tian-gao",
+  "status": "published"
+}

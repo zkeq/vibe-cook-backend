@@ -1,0 +1,256 @@
+{
+  "title": "红芸豆拌饭",
+  "summary": "这道北印度家常菜是旁遮普邦和德里地区的传统美食，番茄洋葱汤汁浓郁辛香，炖煮后红芸豆软糯入味，与热米饭拌食温暖饱腹。豆子富含蛋白质、膳食纤维和多种微量元素，营养均衡。做法简单，初学者也能轻松上手，全程制作约 40 分钟，但干豆需提前浸泡 8 小时。浓郁的家常滋味，有妈妈的味道。",
+  "difficulty": 3,
+  "calories": 1842,
+  "duration_min": 40,
+  "category": "主食",
+  "tags": [
+    "北印度料理",
+    "家常菜",
+    "高蛋白",
+    "素食",
+    "咖喱"
+  ],
+  "ingredients": [
+    {
+      "name": "干红芸豆",
+      "amount": "200g",
+      "buying_tip": "选择颗粒饱满、颜色深红且无虫眼的干豆",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "洋葱",
+      "amount": "2个(约200g)",
+      "buying_tip": "紫洋葱味道更浓郁，适合做咖喱基底",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "番茄",
+      "amount": "3个(约300g)",
+      "buying_tip": "选择熟透多汁的番茄，或用30ml番茄酱代替",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生姜",
+      "amount": "10g",
+      "buying_tip": "新鲜生姜磨碎后香味最足",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大蒜",
+      "amount": "4瓣(约12g)",
+      "buying_tip": "去皮后磨成蒜泥使用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "青辣椒",
+      "amount": "1根",
+      "buying_tip": "根据口味选择辣度，切缝使用",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "食用油或酥油",
+      "amount": "30ml",
+      "buying_tip": "使用酥油(Ghee)味道会更地道",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "月桂叶",
+      "amount": "2片",
+      "buying_tip": "干燥的整片月桂叶",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜黄粉",
+      "amount": "3g",
+      "buying_tip": "提供亮黄色泽和微苦香气",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "红辣椒粉",
+      "amount": "5g",
+      "buying_tip": "可选用印度克什米尔辣椒粉，色红而不燥",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香菜粉",
+      "amount": "5g",
+      "buying_tip": "赋予咖喱厚重的香气",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "孜然粉",
+      "amount": "3g",
+      "buying_tip": "基础香料，增加风味层次",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "印度综合香料粉(Garam Masala)",
+      "amount": "3g",
+      "buying_tip": "最后加入以保留其独特的辛香味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "6g",
+      "buying_tip": "普通食盐即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "水",
+      "amount": "1000ml",
+      "buying_tip": "分为煮豆600ml和煮饭400ml",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香菜叶",
+      "amount": "15g",
+      "buying_tip": "新鲜香菜切碎用于装饰",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "巴斯马蒂香米或普通大米",
+      "amount": "200g",
+      "buying_tip": "巴斯马蒂长米口感更干爽，适合拌食",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "高压锅",
+    "普通汤锅",
+    "炒锅",
+    "磨泥器",
+    "电饭锅",
+    "菜刀",
+    "砧板"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "干红芸豆",
+        "expr": "200 * n"
+      },
+      {
+        "name": "大米",
+        "expr": "200 * n"
+      },
+      {
+        "name": "洋葱",
+        "expr": "2 * n"
+      },
+      {
+        "name": "番茄",
+        "expr": "3 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "准备工作",
+      "instruction": "将干红芸豆用清水浸泡至少 8 小时（过夜），浸泡后体积会膨胀约两倍。",
+      "duration_sec": 28800,
+      "tips": [
+        "一定要充分浸泡，否则很难煮软烂"
+      ],
+      "produces": "浸泡膨胀的红芸豆",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_hong-yun-dou-ban-fan/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "煮红芸豆",
+      "instruction": "将浸泡好的红芸豆沥干。使用高压锅：放入豆子和 600ml 水，大火上气后转中火压 15-20 分钟；若用普通锅则需煮 60-90 分钟。",
+      "duration_sec": 1200,
+      "tips": [
+        "豆子必须达到用手指可轻松压碎的状态",
+        "煮豆的汤水千万不要倒掉，那是咖喱浓郁的关键"
+      ],
+      "produces": "熟软红芸豆及豆汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_hong-yun-dou-ban-fan/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "炒制底料",
+      "instruction": "炒锅中倒入油，中火加热后放入月桂叶炸香。加入切碎的洋葱翻炒至金棕色，随后加入磨碎的姜蒜翻炒1分钟。",
+      "duration_sec": 540,
+      "tips": [
+        "洋葱一定要炒到金棕色，这是北印度咖喱风味的来源"
+      ],
+      "produces": "葱姜蒜香料基底",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_hong-yun-dou-ban-fan/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "加入番茄与调味",
+      "instruction": "加入切碎的番茄翻炒至软烂出油。加入姜黄粉、红辣椒粉、香菜粉、孜然粉和盐，继续翻炒 2 分钟。",
+      "duration_sec": 420,
+      "tips": [
+        "炒到番茄和油分离的状态，香料味才会被激发"
+      ],
+      "produces": "咖喱酱料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_hong-yun-dou-ban-fan/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "炖煮咖喱",
+      "instruction": "将煮好的豆子连汤倒入锅中，加入青辣椒，大火煮沸后转小火炖 15-20 分钟。期间压碎部分豆子使汤汁浓稠，最后加入印度综合香料粉并撒上香菜。",
+      "duration_sec": 1200,
+      "tips": [
+        "压碎部分豆子是让汤汁无需淀粉也能浓稠的秘诀"
+      ],
+      "produces": "红芸豆咖喱",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_hong-yun-dou-ban-fan/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "蒸米饭",
+      "instruction": "将大米淘洗干净，加入 400ml 水，放入电饭锅正常蒸煮。",
+      "duration_sec": 1200,
+      "tips": [
+        "可以在煮饭水中加少许盐或几滴油，使米饭颗粒分明"
+      ],
+      "produces": "熟米饭",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_hong-yun-dou-ban-fan/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "装盘",
+      "instruction": "将米饭盛入盘中，浇上红芸豆咖喱，搭配洋葱沙拉和柠檬角食用。",
+      "duration_sec": 60,
+      "tips": [
+        "挤一点新鲜柠檬汁可以提鲜去腻"
+      ],
+      "produces": "红芸豆拌饭成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_hong-yun-dou-ban-fan/step_7.jpg"
+    }
+  ],
+  "tips": [
+    "红芸豆必须煮熟透才能食用，未熟的红芸豆含有植物血凝素，可能导致食物中毒。",
+    "在印度，Rajma Chawal 被认为是最有家的味道的食物，地位类似于中国的红烧肉配米饭。",
+    "如果想要更浓郁的口感，可以加入 30ml 淡奶油。",
+    "剩余的红芸豆咖喱冷藏保存可达 3-4 天，味道会更好。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_hong-yun-dou-ban-fan.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_hong-yun-dou-ban-fan_overview.jpg",
+  "id": "staple_hong-yun-dou-ban-fan",
+  "status": "published"
+}

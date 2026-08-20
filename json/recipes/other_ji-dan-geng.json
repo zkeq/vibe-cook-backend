@@ -1,0 +1,205 @@
+{
+  "title": "鸡蛋羹",
+  "summary": "这道菜是一道简单快手的家常蒸菜，口感嫩滑如果冻，咸鲜适口，常作为早餐或配餐出现在各地餐桌。鸡蛋提供优质蛋白质和卵磷脂，易于消化吸收。对新手十分友好，只需简单几步就能蒸出平整细腻的蛋羹，全程大约需要 15 分钟。",
+  "difficulty": 2,
+  "calories": 168,
+  "duration_min": 15,
+  "category": "其他",
+  "tags": [
+    "蒸菜",
+    "家常菜",
+    "高蛋白",
+    "快手",
+    "早餐"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": "2个",
+      "buying_tip": "选择新鲜、蛋壳完整的鸡蛋",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用盐",
+      "amount": "3g",
+      "buying_tip": "普通食盐即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香油",
+      "amount": "2-4ml",
+      "buying_tip": "也可用芝麻油，增加香气",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽 / 味极鲜",
+      "amount": "8ml",
+      "buying_tip": "选用酿造酱油味道更鲜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白醋 / 料酒",
+      "amount": "2ml",
+      "buying_tip": "白醋去腥效果好，料酒不带酸味",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "藤椒油",
+      "amount": "适量",
+      "buying_tip": "用于增加麻爽口感",
+      "optional": true,
+      "per_serving": false
+    },
+    {
+      "name": "70度纯净水",
+      "amount": "鸡蛋体积1-1.5倍",
+      "buying_tip": "温水有助于缩短时间并使口感细腻",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "碗",
+    "锅",
+    "滤网",
+    "盖子/保鲜膜",
+    "筷子"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鸡蛋",
+        "expr": "2 * n"
+      },
+      {
+        "name": "食用盐",
+        "expr": "3 * n"
+      },
+      {
+        "name": "香油",
+        "expr": "3 * n"
+      },
+      {
+        "name": "生抽",
+        "expr": "8 * n"
+      },
+      {
+        "name": "白醋",
+        "expr": "2 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "打散鸡蛋",
+      "instruction": "将两个鸡蛋放入碗中充分打散。",
+      "duration_sec": 30,
+      "tips": [],
+      "produces": "蛋液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-dan-geng/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "加入底味",
+      "instruction": "向蛋液中加入3g食用盐。",
+      "duration_sec": 10,
+      "tips": [
+        "盐起到了重要的增加底味和凝固作用"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-dan-geng/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "去腥处理",
+      "instruction": "加入2ml白醋或料酒。",
+      "duration_sec": 10,
+      "tips": [
+        "米醋颜色会使鸡蛋微微发黑",
+        "料酒同样具有去腥作用且没有酸味"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-dan-geng/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "加温水搅拌",
+      "instruction": "向碗中加入鸡蛋体积 1-1.5 倍的 70 度纯净水，并且搅拌均匀。",
+      "duration_sec": 60,
+      "tips": [
+        "1 倍的水鸡蛋更弹，1.5 倍的水鸡蛋更嫩"
+      ],
+      "produces": "混合蛋液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-dan-geng/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "过滤蛋液",
+      "instruction": "过滤蛋液，去掉蛋液中的浮沫。",
+      "duration_sec": 60,
+      "tips": [
+        "不过滤蒸出来的蛋会有气泡导致不好看"
+      ],
+      "produces": "细腻蛋液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-dan-geng/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "入锅准备",
+      "instruction": "锅中烧开水，碗盖上盖子或保鲜膜放入锅中。",
+      "duration_sec": 120,
+      "tips": [
+        "盖盖子是为了减少水汽进入，避免变成蜂窝状"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-dan-geng/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "蒸制",
+      "instruction": "方案一：中火蒸10分钟再闷5分钟；方案二：大火蒸5分钟（需每2分钟开盖释放蒸汽）。",
+      "duration_sec": 900,
+      "tips": [
+        "大火蒸时开盖过晚蛋羹容易变成蜂窝状"
+      ],
+      "produces": "熟蛋羹",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-dan-geng/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "判断熟度",
+      "instruction": "晃动碗，检查蛋羹状态。",
+      "duration_sec": 30,
+      "tips": [
+        "蛋羹不再处于液体状态，拥有类似果冻的 Q 弹状态即可"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-dan-geng/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "出锅调味",
+      "instruction": "加入香油（或藤椒油）和生抽即可享用。",
+      "duration_sec": 30,
+      "tips": [
+        "藤椒油可以增加麻爽口感"
+      ],
+      "produces": "成品鸡蛋羹",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-dan-geng/step_9.jpg"
+    }
+  ],
+  "tips": [
+    "基础水蒸蛋做法可以派生，添加诸如火腿肠、肉馅、虾皮等材料，丰富口感。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ji-dan-geng.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ji-dan-geng_overview.jpg",
+  "id": "other_ji-dan-geng",
+  "status": "published"
+}

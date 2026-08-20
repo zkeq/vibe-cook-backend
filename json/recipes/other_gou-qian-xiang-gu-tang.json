@@ -1,0 +1,184 @@
+{
+  "title": "勾芡香菇汤",
+  "summary": "香菇勾芡汤汤浓味鲜，滑润适口，是一道快手的家常汤品。香菇含有丰富的氨基酸和多糖，有助于增强免疫力。",
+  "difficulty": 3,
+  "calories": 146,
+  "duration_min": 25,
+  "category": "其他",
+  "tags": [
+    "快手菜",
+    "家常汤",
+    "增强免疫力",
+    "香菇",
+    "勾芡"
+  ],
+  "ingredients": [
+    {
+      "name": "鲜香菇",
+      "amount": "2 朵",
+      "buying_tip": "选择肉质厚实、菌盖完整的鲜香菇",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香葱",
+      "amount": "0.5 根",
+      "buying_tip": "选择葱白坚硬、叶色青翠的香葱",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡精",
+      "amount": "3 g",
+      "buying_tip": "普通超市均有售",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "10 ml",
+      "buying_tip": "推荐使用味道较淡的植物油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用盐",
+      "amount": "5 g",
+      "buying_tip": "2g用于浸泡，3g用于调味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "开水",
+      "amount": "350 ml",
+      "buying_tip": "使用纯净水口感更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生粉",
+      "amount": "10 g",
+      "buying_tip": "即玉米淀粉或太白粉",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "大碗",
+    "小碗"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鲜香菇",
+        "expr": "2 * n"
+      },
+      {
+        "name": "香葱",
+        "expr": "0.5 * n"
+      },
+      {
+        "name": "鸡精",
+        "expr": "3 * n"
+      },
+      {
+        "name": "食用油",
+        "expr": "10 * n"
+      },
+      {
+        "name": "食用盐",
+        "expr": "5 * n"
+      },
+      {
+        "name": "开水",
+        "expr": "350 * n"
+      },
+      {
+        "name": "生粉",
+        "expr": "10 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理香菇",
+      "instruction": "香菇切片（每片厚度 0.5-1 cm），放入大碗中，倒入 2g 食用盐浸泡 15 分钟",
+      "duration_sec": 900,
+      "tips": [
+        "切厚点相对薄点更有嚼劲",
+        "盐水浸泡可去除杂质并入味"
+      ],
+      "produces": "盐水泡过的香菇片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gou-qian-xiang-gu-tang/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "调制水淀粉",
+      "instruction": "生粉倒入小碗中，加入 50ml 水，搅拌生粉直至融化没有颗粒",
+      "duration_sec": 60,
+      "tips": [
+        "确保没有结块，否则勾芡不均匀"
+      ],
+      "produces": "水淀粉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gou-qian-xiang-gu-tang/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "沥干水分",
+      "instruction": "倒掉碗中的盐水，适当去掉香菇本身的水分",
+      "duration_sec": 30,
+      "tips": [
+        "去除多余水分可以防止煎炸时溅油"
+      ],
+      "produces": "干香菇片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gou-qian-xiang-gu-tang/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "煎炸香菇",
+      "instruction": "小火倒入油，待油开始冒小泡，倒入香菇，每面煎 10s",
+      "duration_sec": 60,
+      "tips": [
+        "此步骤为可选，煎过后汤头更香"
+      ],
+      "produces": "煎好的香菇",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gou-qian-xiang-gu-tang/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "煮汤",
+      "instruction": "倒入开水 300ml ，调中火再煮 3-5 分钟",
+      "duration_sec": 240,
+      "tips": [
+        "使用开水可以保持汤色鲜亮"
+      ],
+      "produces": "香菇汤底",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gou-qian-xiang-gu-tang/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "勾芡出锅",
+      "instruction": "倒入水淀粉，适当搅拌锅中汤汁后，加入 3g 盐、3g 鸡精，最后撒上葱花出锅",
+      "duration_sec": 60,
+      "tips": [
+        "勾芡时要不停搅拌防止糊锅"
+      ],
+      "produces": "勾芡香菇汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gou-qian-xiang-gu-tang/step_6.jpg"
+    }
+  ],
+  "tips": [
+    "香菇切片厚度决定口感，建议在0.5-1cm之间",
+    "煎炸香菇为可选步骤，新手若怕溅油可跳过",
+    "如果您发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_gou-qian-xiang-gu-tang.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_gou-qian-xiang-gu-tang_overview.jpg",
+  "id": "other_gou-qian-xiang-gu-tang",
+  "status": "published"
+}

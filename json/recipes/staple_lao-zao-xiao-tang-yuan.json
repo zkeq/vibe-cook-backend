@@ -1,0 +1,144 @@
+{
+  "title": "醪糟小汤圆",
+  "summary": "醪糟小汤圆是一道香甜软糯的传统中式甜品，酒酿的微酸与糯米的绵滑交融，暖胃又舒心。它富含碳水化合物和少量 B 族维生素，能快速补充能量，也有助促进血液循环。做法毫无门槛，对新手特别友好，从烧水到出锅只需约 15 分钟，是一碗随时都能轻松完成的家常甜汤。",
+  "difficulty": 2,
+  "calories": 957,
+  "duration_min": 15,
+  "category": "主食",
+  "tags": [
+    "甜品",
+    "中式",
+    "家常",
+    "快手菜",
+    "暖胃"
+  ],
+  "ingredients": [
+    {
+      "name": "小汤圆",
+      "amount": "250g",
+      "buying_tip": "建议购买无馅的糯米小汤圆，口感更Q弹",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "醪糟",
+      "amount": "50g",
+      "buying_tip": "也叫酒酿，选择米粒饱满、汤汁清亮的",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "水",
+      "amount": "300ml",
+      "buying_tip": "普通饮用水或纯净水即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "枸杞",
+      "amount": "5颗",
+      "buying_tip": "选择干燥、颜色暗红不发黑的枸杞",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "白糖",
+      "amount": "适量",
+      "buying_tip": "可根据个人口味准备白砂糖或冰糖",
+      "optional": false,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "煮锅",
+    "汤勺",
+    "碗"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "水",
+        "expr": "300 * 份数"
+      },
+      {
+        "name": "小汤圆",
+        "expr": "250 * 份数"
+      },
+      {
+        "name": "醪糟",
+        "expr": "50 * 份数"
+      },
+      {
+        "name": "枸杞",
+        "expr": "5 * 份数"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "烧水",
+      "instruction": "将水倒入锅中并煮沸",
+      "duration_sec": 300,
+      "tips": [
+        "可以使用大火以节省时间"
+      ],
+      "produces": "沸水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_lao-zao-xiao-tang-yuan/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "煮汤圆",
+      "instruction": "放入小汤圆煮 8 分钟",
+      "duration_sec": 480,
+      "tips": [
+        "煮的过程中可以稍微搅拌，防止汤圆粘连锅底"
+      ],
+      "produces": "煮软的汤圆",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_lao-zao-xiao-tang-yuan/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "加入醪糟枸杞",
+      "instruction": "放入醪糟和枸杞再煮 2 分钟",
+      "duration_sec": 120,
+      "tips": [
+        "若喜欢更软的枸杞，可提前与汤圆一同下锅"
+      ],
+      "produces": "醪糟汤圆甜汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_lao-zao-xiao-tang-yuan/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "调味",
+      "instruction": "盛入碗中根据个人口味加入白糖并搅拌均匀",
+      "duration_sec": 60,
+      "tips": [
+        "白糖用量可随个人喜好增减"
+      ],
+      "produces": "成品醪糟小汤圆",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_lao-zao-xiao-tang-yuan/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "享用",
+      "instruction": "吃",
+      "duration_sec": 0,
+      "tips": [
+        "趁热食用风味更佳"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_lao-zao-xiao-tang-yuan/step_5.jpg"
+    }
+  ],
+  "tips": [
+    "白糖的用量根据个人口味更改",
+    "若喜欢更浓的口感可以减少 100 毫升内的水",
+    "若喜欢软点的枸杞口感，可以将枸杞和小汤圆同时煮"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_lao-zao-xiao-tang-yuan.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_lao-zao-xiao-tang-yuan_overview.jpg",
+  "id": "staple_lao-zao-xiao-tang-yuan",
+  "status": "published"
+}

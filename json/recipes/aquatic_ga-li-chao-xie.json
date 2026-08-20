@@ -1,0 +1,235 @@
+{
+  "title": "咖喱炒蟹",
+  "summary": "这是一道融合泰式风味的家常海鲜菜，浓郁咖喱包裹着爆满的蟹肉，带有蟹黄香气和椰浆的顺滑口感。螃蟹富含优质蛋白和多种微量元素，有助于补充体力。制作工序清晰，只需注意封煎蟹黄和最后关火翻炒酱汁，对有一定下厨经验的人比较友好，一般从备料到出锅约需 30 分钟。",
+  "difficulty": 4,
+  "calories": 815,
+  "duration_min": 30,
+  "category": "水产",
+  "tags": [
+    "海鲜",
+    "泰式",
+    "咖喱",
+    "家常菜"
+  ],
+  "ingredients": [
+    {
+      "name": "青蟹",
+      "amount": "1只(约300g)",
+      "buying_tip": "别称肉蟹，选择肉质饱满的",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "咖喱块",
+      "amount": "15g",
+      "buying_tip": "推介乐惠蟹黄咖喱",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "椰浆",
+      "amount": "100ml",
+      "buying_tip": "选用浓郁型椰浆",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": "1个",
+      "buying_tip": "仅使用蛋清部分",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "洋葱",
+      "amount": "200g",
+      "buying_tip": "白洋葱或紫洋葱均可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大蒜",
+      "amount": "5瓣",
+      "buying_tip": "切碎备用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生粉",
+      "amount": "约10g",
+      "buying_tip": "即淀粉，用于封煎切口",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "30ml",
+      "buying_tip": "分两次使用",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "烧水壶",
+    "勺子"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "肉蟹",
+        "expr": "1只 * 份数"
+      },
+      {
+        "name": "咖喱块",
+        "expr": "15g * 份数"
+      },
+      {
+        "name": "椰浆",
+        "expr": "100ml * 份数"
+      },
+      {
+        "name": "鸡蛋",
+        "expr": "1个 * 份数"
+      },
+      {
+        "name": "洋葱",
+        "expr": "200g * 份数"
+      },
+      {
+        "name": "大蒜",
+        "expr": "5瓣 * 份数"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理螃蟹",
+      "instruction": "肉蟹掀盖后对半砍开，蟹钳用刀背轻轻拍裂，切口和蟹钳蘸一下生粉，不要太多。撒 5g 生粉到蟹盖中，盖住蟹黄，备用",
+      "duration_sec": 300,
+      "tips": [
+        "蟹钳拍裂是为了方便入味",
+        "生粉只需薄薄一层"
+      ],
+      "produces": "处理过的螃蟹",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_ga-li-chao-xie/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "切配辅料",
+      "instruction": "洋葱和大蒜分别切成碎末备用",
+      "duration_sec": 120,
+      "tips": [
+        "洋葱切碎一点更容易炒出香味"
+      ],
+      "produces": "洋葱蒜末",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_ga-li-chao-xie/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "准备开水",
+      "instruction": "烧一壶开水备用",
+      "duration_sec": 300,
+      "tips": [
+        "后续焖煮必须使用开水"
+      ],
+      "produces": "开水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_ga-li-chao-xie/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "热油",
+      "instruction": "起锅烧油，倒入约 20ml 食用油，等待 10 秒让油温升高",
+      "duration_sec": 10,
+      "tips": [],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_ga-li-chao-xie/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "封煎蟹肉",
+      "instruction": "将螃蟹切口朝下，轻轻放入锅中，煎 20 秒，封住蟹黄蟹肉。然后翻面，每面煎 10 秒。煎完将螃蟹取出备用",
+      "duration_sec": 60,
+      "tips": [
+        "切口朝下是为了锁住鲜味"
+      ],
+      "produces": "半熟蟹块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_ga-li-chao-xie/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "封煎蟹盖",
+      "instruction": "将螃蟹盖放入锅中，使用勺子舀起锅中热油泼到蟹盖中，煎封住蟹盖中的蟹黄，煎 20 秒后取出备用",
+      "duration_sec": 20,
+      "tips": [
+        "泼油动作要注意安全"
+      ],
+      "produces": "半熟蟹盖",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_ga-li-chao-xie/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "爆香底料",
+      "instruction": "不用刷锅，再倒入 10ml 食用油，大火让油温升高至轻微冒烟，将大蒜末，洋葱碎倒入，炒 10 秒钟",
+      "duration_sec": 10,
+      "tips": [],
+      "produces": "香味底料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_ga-li-chao-xie/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "炒制咖喱",
+      "instruction": "将咖喱块放入锅中炒化（10 秒），放入煎好的螃蟹，翻炒均匀",
+      "duration_sec": 20,
+      "tips": [
+        "咖喱块炒化即可，避免焦糊"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_ga-li-chao-xie/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "焖煮",
+      "instruction": "倒入开水 300ml，焖煮 3 分钟",
+      "duration_sec": 180,
+      "tips": [
+        "水量刚好没过食材大半即可"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_ga-li-chao-xie/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "关火挂汁",
+      "instruction": "焖煮完后，倒入椰浆和蛋清，关火，关火后不断翻炒，一直到酱汁变浓稠",
+      "duration_sec": 60,
+      "tips": [
+        "一定要关火后再倒入蛋清和椰浆翻炒，这是挂汁的关键"
+      ],
+      "produces": "浓稠咖喱蟹",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_ga-li-chao-xie/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "出锅",
+      "instruction": "将螃蟹整齐摆盘，淋上剩余酱汁即可",
+      "duration_sec": 30,
+      "tips": [],
+      "produces": "成品咖喱炒蟹",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_ga-li-chao-xie/step_11.jpg"
+    }
+  ],
+  "tips": [
+    "做法参考澳门厨房佬教学，核心在于挂汁的技巧",
+    "封煎蟹黄是防止营养和鲜味流失的关键步骤",
+    "最后一步关火翻炒可以利用余温让蛋清和椰浆完美融合，形成顺滑的酱汁"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/aquatic_ga-li-chao-xie.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/aquatic_ga-li-chao-xie_overview.jpg",
+  "id": "aquatic_ga-li-chao-xie",
+  "status": "published"
+}

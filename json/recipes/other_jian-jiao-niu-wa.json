@@ -1,0 +1,273 @@
+{
+  "title": "尖叫牛蛙",
+  "summary": "这道菜鲜辣开胃，蛙肉滑嫩弹牙，是一道典型的川味家常菜。牛蛙本身高蛋白、低脂肪，搭配泡姜泡椒等发酵食材，有助于促进食欲。",
+  "difficulty": 4,
+  "calories": 1643,
+  "duration_min": 90,
+  "category": "其他",
+  "tags": [
+    "川菜",
+    "牛蛙",
+    "鲜辣",
+    "高蛋白"
+  ],
+  "ingredients": [
+    {
+      "name": "牛蛙肉",
+      "amount": "800g",
+      "buying_tip": "建议买3斤活蛙，挑小个头的，肉质更鲜嫩",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "泡姜",
+      "amount": "20-30g",
+      "buying_tip": "喜欢重口味可以多放",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "泡椒",
+      "amount": "5-10g",
+      "buying_tip": "不吃辣建议减半为2.5g，达到微微辣效果",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "野山椒",
+      "amount": "10g",
+      "buying_tip": "也可以用干红辣椒替代",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "青红辣椒",
+      "amount": "20g",
+      "buying_tip": "切圈备用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大蒜",
+      "amount": "30-50g",
+      "buying_tip": "建议不低于30g以保证香味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": "20-30g",
+      "buying_tip": "推荐使用郫县豆瓣",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐巴",
+      "amount": "15g",
+      "buying_tip": "分两次使用，腌制与去腥",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "胡椒粉",
+      "amount": "10g",
+      "buying_tip": "分两次使用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生粉",
+      "amount": "30g",
+      "buying_tip": "干淀粉可以平替",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "啤酒",
+      "amount": "450-550ml",
+      "buying_tip": "推荐雪花啤酒",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "10ml",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "藤椒油",
+      "amount": "5-10ml",
+      "buying_tip": "增加清香麻味",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "猪油",
+      "amount": "20ml",
+      "buying_tip": "没有可用食用油替代",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "200ml",
+      "buying_tip": "过油炸制用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱花",
+      "amount": "5g",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "漏勺",
+    "盛放器皿"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "牛蛙肉",
+        "expr": "800 * n"
+      },
+      {
+        "name": "啤酒",
+        "expr": "500 * n"
+      },
+      {
+        "name": "大蒜",
+        "expr": "40 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "去腥处理",
+      "instruction": "牛蛙肉洗净后控干水分，加入10克以上的盐巴和50ml以上的啤酒，用手抓5分钟，去除牛蛙肉的腥味",
+      "duration_sec": 300,
+      "tips": [
+        "抓揉时间要充足"
+      ],
+      "produces": "初步去腥的牛蛙肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-jiao-niu-wa/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "冲洗控干",
+      "instruction": "对着清水冲洗，直至不再流出血水和杂质，控干水分，放到合适的器皿中",
+      "duration_sec": 120,
+      "tips": [
+        "水分一定要控干，否则影响腌制效果"
+      ],
+      "produces": "洁净牛蛙肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-jiao-niu-wa/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "腌制牛蛙",
+      "instruction": "加入5克盐，30克生粉，10ml料酒，5克胡椒粉，用手抓均匀，腌制5-10分钟",
+      "duration_sec": 600,
+      "tips": [
+        "生粉抓揉的时候要均匀覆盖蛙肉"
+      ],
+      "produces": "腌制好的牛蛙肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-jiao-niu-wa/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "辅料切配",
+      "instruction": "将泡姜、泡椒、野山椒切丝或者片，青红辣椒切成圈圈，大蒜拨开即可",
+      "duration_sec": 300,
+      "tips": [
+        "根据刀工习惯选择切丝或切片"
+      ],
+      "produces": "切好的辅料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-jiao-niu-wa/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "牛蛙过油",
+      "instruction": "起锅烧热加入200ml食用油，烧至6成油温（有小气泡），将牛蛙倒入快速过油炸制，10秒钟后捞出",
+      "duration_sec": 10,
+      "tips": [
+        "不能超时太多，否则会导致蛙肉老柴"
+      ],
+      "produces": "过油后的蛙肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-jiao-niu-wa/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "准备炒底油",
+      "instruction": "捞出蛙肉控油，锅中热油倒出保留30ml，加入20ml猪油（或总共50ml食用油）",
+      "duration_sec": 60,
+      "tips": [
+        "猪油能显著提升川菜的香味"
+      ],
+      "produces": "调合底油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-jiao-niu-wa/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "炒制底料",
+      "instruction": "油温6成热时加入泡姜、泡椒、野山椒、大蒜爆香，加入豆瓣酱20克，中火翻炒30秒至出红油，倒入400ml啤酒",
+      "duration_sec": 120,
+      "tips": [
+        "注意火候，不要把豆瓣酱炒糊"
+      ],
+      "produces": "调味汤底",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-jiao-niu-wa/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "焖煮入味",
+      "instruction": "倒入炸过的牛蛙肉，用勺子推着翻（不要用力搅拌），加入5克胡椒粉、5ml藤椒油，中火慢焖3分钟",
+      "duration_sec": 180,
+      "tips": [
+        "用推勺的方式可以保持蛙肉完整"
+      ],
+      "produces": "半成品牛蛙",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-jiao-niu-wa/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "收汁增色",
+      "instruction": "加大火力大火收汁半分钟，加入青红辣椒圈，再煮10秒准备起锅",
+      "duration_sec": 40,
+      "tips": [
+        "最后加入辣椒圈是为了保持颜色翠绿"
+      ],
+      "produces": "尖叫牛蛙成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-jiao-niu-wa/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "装盘",
+      "instruction": "盛到盆里，撒上葱花即可开动",
+      "duration_sec": 30,
+      "tips": [
+        "趁热食用口感最佳"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-jiao-niu-wa/step_10.jpg"
+    }
+  ],
+  "tips": [
+    "控干水分的时候可以选择漏勺按压",
+    "生粉抓揉的时候要均匀覆盖蛙肉",
+    "牛蛙过油时间一定要严格控制在10秒左右，以保证滑嫩口感"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_jian-jiao-niu-wa.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_jian-jiao-niu-wa_overview.jpg",
+  "id": "other_jian-jiao-niu-wa",
+  "status": "published"
+}

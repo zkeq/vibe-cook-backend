@@ -1,0 +1,136 @@
+{
+  "title": "煮锅蒸米饭",
+  "summary": "这是一道朴实无华的家常主食，用普通煮锅就能做出软糯适口的米饭。白米饭主要提供碳水化合物，为身体快速补充能量。做法极为简单，新手只需全程关注火候即可轻松掌握，从下米到出锅大约需要 25 分钟。",
+  "difficulty": 2,
+  "calories": 418,
+  "duration_min": 25,
+  "category": "其他",
+  "tags": [
+    "家常",
+    "主食",
+    "米饭",
+    "煮锅"
+  ],
+  "ingredients": [
+    {
+      "name": "北方大米",
+      "amount": "100ml-200ml/人",
+      "buying_tip": "建议选择高品质的北方长粒米或珍珠米",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "水",
+      "amount": "米的体积的 2 倍",
+      "buying_tip": "建议使用过滤水或纯净水",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "厚底煮锅",
+    "严丝合缝的锅盖"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "北方大米",
+        "expr": "100 * 人数 (ml)"
+      },
+      {
+        "name": "水",
+        "expr": "北方大米体积 * 2"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "清洗大米",
+      "instruction": "将准备好的北方大米淘洗干净，去除表面多余淀粉。",
+      "duration_sec": 60,
+      "tips": [
+        "洗米次数不要过多，以免营养流失"
+      ],
+      "produces": "洗净的大米",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-guo-zheng-mi-fan/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "米水入锅",
+      "instruction": "将洗净的米和按比例（1:2）准备的水加入厚底煮锅中。",
+      "duration_sec": 30,
+      "tips": [
+        "确保锅底受热均匀"
+      ],
+      "produces": "待煮的米水混合物",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-guo-zheng-mi-fan/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "大火煮沸",
+      "instruction": "开启大火加热，直到锅内的水开始剧烈沸腾。",
+      "duration_sec": 300,
+      "tips": [
+        "此阶段不需要盖盖子，方便观察"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-guo-zheng-mi-fan/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "搅拌防粘",
+      "instruction": "在水沸腾后，用勺子搅拌一下锅底，防止米粒粘在锅底。",
+      "duration_sec": 30,
+      "tips": [
+        "动作要迅速，防止水分过快流失"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-guo-zheng-mi-fan/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "小火焖煮",
+      "instruction": "盖上严丝合缝的锅盖，将火调至最小，加热 10-15 分钟。",
+      "duration_sec": 900,
+      "tips": [
+        "根据对软糯程度的喜好调整时间",
+        "中途切勿打开锅盖"
+      ],
+      "produces": "熟米饭",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-guo-zheng-mi-fan/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "关火静置",
+      "instruction": "关火，利用余温继续焖 5 分钟。",
+      "duration_sec": 300,
+      "tips": [
+        "静置能让米饭受热更均匀，质地更软糯"
+      ],
+      "produces": "焖透的米饭",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-guo-zheng-mi-fan/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "享用",
+      "instruction": "打开锅盖，用饭勺轻轻拨散米饭，装碗食用。",
+      "duration_sec": 30,
+      "tips": [
+        "Enjoy :)"
+      ],
+      "produces": "美味的米饭",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-guo-zheng-mi-fan/step_7.jpg"
+    }
+  ],
+  "tips": [
+    "附加参考：腐国人研究煮米饭，好想送他们个电饭煲！(https://www.bilibili.com/video/BV1RW411z7r9)",
+    "如果发现流程有问题或可改进，请提出 Issue 或 Pull request",
+    "锅盖的密封性对最终口感影响很大"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_zhu-guo-zheng-mi-fan.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_zhu-guo-zheng-mi-fan_overview.jpg",
+  "id": "other_zhu-guo-zheng-mi-fan",
+  "status": "published"
+}

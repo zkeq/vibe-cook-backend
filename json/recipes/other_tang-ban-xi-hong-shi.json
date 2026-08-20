@@ -1,0 +1,148 @@
+{
+  "title": "糖拌西红柿",
+  "summary": "这是一道适合夏季的家常凉菜，酸甜爽口，制作简便。西红柿富含维生素 C，开胃解腻。新手也能轻松完成，整个过程（包含冷藏）约 15 分钟即可上桌。",
+  "difficulty": 2,
+  "calories": 104,
+  "duration_min": 15,
+  "category": "其他",
+  "tags": [
+    "凉菜",
+    "夏日解暑",
+    "快手菜",
+    "西红柿"
+  ],
+  "ingredients": [
+    {
+      "name": "西红柿",
+      "amount": "2个(约200g)",
+      "buying_tip": "挑选自然成熟、果实圆润且手感有弹性的西红柿",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白砂糖",
+      "amount": "20g",
+      "buying_tip": "选用细砂糖更易于在冷藏过程中融化入味",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "菜刀",
+    "筷子",
+    "燃气灶",
+    "盘子",
+    "冰箱"
+  ],
+  "servings": {
+    "base": 2,
+    "formula": [
+      {
+        "name": "西红柿",
+        "expr": "1 * servings"
+      },
+      {
+        "name": "白砂糖",
+        "expr": "10 * servings"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "划皮",
+      "instruction": "用刀将西红柿皮米字型划开",
+      "duration_sec": 30,
+      "tips": [
+        "划皮时深度只需切破表皮即可"
+      ],
+      "produces": "划好皮的西红柿",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-ban-xi-hong-shi/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "加热烫皮",
+      "instruction": "用筷子插入西红柿的菊花，在燃气上转动烤 10 秒（或用开水冲 30 秒），直到西红柿皮卷边",
+      "duration_sec": 30,
+      "tips": [
+        "火烤时注意避开火源中心，均匀受热"
+      ],
+      "produces": "起皮的西红柿",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-ban-xi-hong-shi/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "去皮",
+      "instruction": "把西红柿的衣服脱光",
+      "duration_sec": 20,
+      "tips": [
+        "趁热剥皮会非常轻松"
+      ],
+      "produces": "去皮西红柿",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-ban-xi-hong-shi/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "切块备用",
+      "instruction": "再西红柿大卸八块（沿纹路切可以更多的留汁水），去掉头部根蒂部，备用",
+      "duration_sec": 60,
+      "tips": [
+        "沿纹路切可以避免切开种子囊，减少汁水流失"
+      ],
+      "produces": "西红柿块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-ban-xi-hong-shi/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "码放第一层",
+      "instruction": "全部切好后，将西红柿在盘子中均匀码一层",
+      "duration_sec": 30,
+      "tips": [
+        "码放整齐可以让外观更好看"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-ban-xi-hong-shi/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "撒糖与层叠",
+      "instruction": "撒上白糖，重复上面一步直到全部西红柿放完",
+      "duration_sec": 30,
+      "tips": [
+        "分层撒糖可以确保每一块西红柿都沾到糖"
+      ],
+      "produces": "待冷藏的糖拌西红柿",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-ban-xi-hong-shi/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "冷藏入味",
+      "instruction": "放入冰箱冷藏 10 分钟",
+      "duration_sec": 600,
+      "tips": [
+        "冷藏后口感更清凉，且白糖能充分融化形成糖水"
+      ],
+      "produces": "冰镇糖拌西红柿",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-ban-xi-hong-shi/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "出餐",
+      "instruction": "一盘糖拌西红柿就好了，营养美味，酸甜爽口，夏日解暑又解腻",
+      "duration_sec": 10,
+      "tips": [
+        "建议尽快食用，以免出水过多影响口感"
+      ],
+      "produces": "糖拌西红柿",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-ban-xi-hong-shi/step_8.jpg"
+    }
+  ],
+  "tips": [
+    "在制作过程中请您小心使用刀具。",
+    "沿纹路切西红柿可以更多的留住汁水。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_tang-ban-xi-hong-shi.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_tang-ban-xi-hong-shi_overview.jpg",
+  "id": "other_tang-ban-xi-hong-shi",
+  "status": "published"
+}

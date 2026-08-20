@@ -1,0 +1,189 @@
+{
+  "title": "陈皮排骨汤",
+  "summary": "这道汤品属于粤式老火靓汤，汤色清亮，入口甘润回香，带有陈皮的独特陈韵。排骨提供优质蛋白质和钙质，搭配陈皮、西洋参、石斛等食材，有助于理气健脾、滋阴润肺，适合长期熬夜或咽喉不适时饮用。",
+  "difficulty": 3,
+  "calories": 365,
+  "duration_min": 120,
+  "category": "其他",
+  "tags": [
+    "粤式",
+    "老火靓汤",
+    "陈皮",
+    "排骨",
+    "滋阴润肺"
+  ],
+  "ingredients": [
+    {
+      "name": "排骨",
+      "amount": "4-5 块",
+      "buying_tip": "用猪骨替代也可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "陈皮",
+      "amount": "1 瓣",
+      "buying_tip": "一般选用 8-20 年制，3瓣为1块，取其1/3",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "西洋参",
+      "amount": "9 片",
+      "buying_tip": "又名花旗参",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "石斛",
+      "amount": "6 颗",
+      "buying_tip": "建议选用干品石斛",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "玉竹",
+      "amount": "5 片",
+      "buying_tip": "干燥切片",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "麦冬",
+      "amount": "7 个",
+      "buying_tip": "中药店或超市调料区有售",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食盐",
+      "amount": "5g",
+      "buying_tip": "普通食用盐",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "煲汤盅",
+    "炖盅容器"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "排骨",
+        "expr": "4.5 * n"
+      },
+      {
+        "name": "陈皮",
+        "expr": "0.33 * n"
+      },
+      {
+        "name": "西洋参",
+        "expr": "9 * n"
+      },
+      {
+        "name": "石斛",
+        "expr": "6 * n"
+      },
+      {
+        "name": "玉竹",
+        "expr": "5 * n"
+      },
+      {
+        "name": "麦冬",
+        "expr": "7 * n"
+      },
+      {
+        "name": "食盐",
+        "expr": "5 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "排骨焯水",
+      "instruction": "排骨用热水过一边，去血水",
+      "duration_sec": 300,
+      "tips": [
+        "焯水可以去除排骨的血腥味"
+      ],
+      "produces": "处理好的排骨",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chen-pi-pai-gu-tang/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "洗净药材",
+      "instruction": "将陈皮、麦冬、玉竹、石斛和西洋参冲洗干净即可",
+      "duration_sec": 60,
+      "tips": [
+        "冲洗掉表面浮尘即可，不要长时间浸泡"
+      ],
+      "produces": "洗净的辅料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chen-pi-pai-gu-tang/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "准备容器",
+      "instruction": "将煲汤盅洗干净备用",
+      "duration_sec": 30,
+      "tips": [],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chen-pi-pai-gu-tang/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "食材装盅",
+      "instruction": "打开煲汤盅，先放入排骨在底部，然后依次放入陈皮、麦冬、玉竹、石斛和西洋参",
+      "duration_sec": 60,
+      "tips": [
+        "排骨垫底可以让受热更均匀"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chen-pi-pai-gu-tang/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "加水",
+      "instruction": "加入热水进煲汤盅，水不宜太满",
+      "duration_sec": 30,
+      "tips": [
+        "加热水可以缩短升温时间，保持肉质鲜嫩",
+        "预留一定空间防止沸腾溢出"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chen-pi-pai-gu-tang/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "隔水炖煮",
+      "instruction": "煲汤容器加入水，炖煮 1.5 小时即可",
+      "duration_sec": 5400,
+      "tips": [
+        "老火靓汤讲究火候，时间一定要够"
+      ],
+      "produces": "炖好的汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chen-pi-pai-gu-tang/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "调味出锅",
+      "instruction": "加入食盐，趁热饮用",
+      "duration_sec": 30,
+      "tips": [
+        "盐要最后放，以免破坏汤的鲜甜"
+      ],
+      "produces": "陈皮排骨汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chen-pi-pai-gu-tang/step_7.jpg"
+    }
+  ],
+  "tips": [
+    "煲汤盅很烫，拿的时候小心别烫到或者手滑摔破",
+    "广东老火靓汤，讲究用料和火候，只要备好料和炖够一定时辰，就算大功告成！"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_chen-pi-pai-gu-tang.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_chen-pi-pai-gu-tang_overview.jpg",
+  "id": "other_chen-pi-pai-gu-tang",
+  "status": "published"
+}

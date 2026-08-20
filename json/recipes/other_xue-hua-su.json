@@ -1,0 +1,182 @@
+{
+  "title": "雪花酥",
+  "summary": "雪花酥是一道口感酥脆香甜、奶香浓郁的小甜点，属于简单快手的家常烘焙，也很适合装盒送礼。由于含有黄油、奶粉和混合坚果，能提供丰富的能量和蛋白质，不过热量较高，适合偶尔享用。",
+  "difficulty": 3,
+  "calories": 1313,
+  "duration_min": 30,
+  "category": "其他",
+  "tags": [
+    "甜点",
+    "烘焙",
+    "下午茶",
+    "快手菜"
+  ],
+  "ingredients": [
+    {
+      "name": "无盐黄油",
+      "amount": "20g",
+      "buying_tip": "建议选用高品质无盐黄油，奶香味更纯正",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "棉花糖",
+      "amount": "75g",
+      "buying_tip": "选用普通白色棉花糖即可，避免使用带夹心的",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "全脂奶粉",
+      "amount": "40g",
+      "buying_tip": "全脂奶粉比脱脂奶粉更香，40g中包含最后表面撒粉的量",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "混合坚果",
+      "amount": "60g",
+      "buying_tip": "推荐使用三只松鼠等品牌的每日坚果，口感丰富",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "饼干",
+      "amount": "75g",
+      "buying_tip": "推荐小奇福或雪花酥专用硬性饼干，不宜太酥易碎",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "不粘平底锅",
+    "烘焙刮刀",
+    "一次性塑料手套",
+    "雪花酥/牛轧糖模具",
+    "擀面杖"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "无盐黄油",
+        "expr": "20 * servings"
+      },
+      {
+        "name": "棉花糖",
+        "expr": "75 * servings"
+      },
+      {
+        "name": "全脂奶粉",
+        "expr": "40 * servings"
+      },
+      {
+        "name": "混合坚果",
+        "expr": "60 * servings"
+      },
+      {
+        "name": "饼干",
+        "expr": "75 * servings"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "预处理饼干",
+      "instruction": "饼干若超过一元硬币大小，先手动切成或掰成小块。",
+      "duration_sec": 120,
+      "tips": [
+        "不要弄得太碎，否则影响口感和截面美观"
+      ],
+      "produces": "饼干碎块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xue-hua-su/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "融化黄油",
+      "instruction": "将无盐黄油加入不粘锅中，开小火加热至完全融化。",
+      "duration_sec": 180,
+      "tips": [
+        "必须全程小火，防止黄油焦化"
+      ],
+      "produces": "液态黄油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xue-hua-su/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "融化棉花糖",
+      "instruction": "棉花糖加入锅中，使用刮刀不断搅拌，直至棉花糖完全融化并与黄油均匀融合。",
+      "duration_sec": 300,
+      "tips": [
+        "搅拌要快，确保受热均匀"
+      ],
+      "produces": "棉花糖黄油糊",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xue-hua-su/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "混合奶粉",
+      "instruction": "将20g奶粉加入锅中，快速搅拌均匀后立即关火。",
+      "duration_sec": 60,
+      "tips": [
+        "奶粉混合均匀即关火，避免过度加热导致成品变硬"
+      ],
+      "produces": "雪花酥基底",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xue-hua-su/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "加入干果饼干",
+      "instruction": "趁热将混合坚果与饼干倒入锅中，用刮刀初步搅拌。",
+      "duration_sec": 60,
+      "tips": [
+        "动作要快，利用余温混合"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xue-hua-su/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "手工揉拉",
+      "instruction": "待温度降至手可接触时，戴上手套，在锅中搓揉或拿起拉扯，使棉花糖包裹住所有食材。",
+      "duration_sec": 300,
+      "tips": [
+        "拉扯动作能让雪花酥层次更均匀"
+      ],
+      "produces": "雪花酥团",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xue-hua-su/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "模具整形",
+      "instruction": "将混合物压入模具，边角压实，用擀面杖擀平。未满处用手压成直边。",
+      "duration_sec": 180,
+      "tips": [
+        "一定要压紧实，否则切块时容易散"
+      ],
+      "produces": "成型雪花酥块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xue-hua-su/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "冷却切块与撒粉",
+      "instruction": "室温放凉冷却后脱模，按纹路切块。撒上剩余奶粉，使每面均匀沾裹。",
+      "duration_sec": 600,
+      "tips": [
+        "必须完全冷却后再切，截面才会整齐"
+      ],
+      "produces": "成品雪花酥",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xue-hua-su/step_8.jpg"
+    }
+  ],
+  "tips": [
+    "棉花糖加热时间越长，最后成品口感越硬",
+    "必须使用不粘锅，否则清理会非常困难",
+    "制作过程中注意火候，全程建议使用小火"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_xue-hua-su.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_xue-hua-su_overview.jpg",
+  "id": "other_xue-hua-su",
+  "status": "published"
+}

@@ -1,0 +1,240 @@
+{
+  "title": "蒸卤面",
+  "summary": "这是一道豫南地区经典的家常面食，荤素搭配，面条吸足汤汁，口感软韧，咸香入味。五花肉提供优质蛋白质和脂肪，芹菜富含膳食纤维。做法简单易学，新手也能从容上手，整体制作约需一小时。",
+  "difficulty": 4,
+  "calories": 1563,
+  "duration_min": 60,
+  "category": "主食",
+  "tags": [
+    "豫南菜",
+    "面食",
+    "家常菜",
+    "荤素搭配"
+  ],
+  "ingredients": [
+    {
+      "name": "猪五花肉",
+      "amount": "350g",
+      "buying_tip": "建议去皮，肥瘦相间口感更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "芹菜",
+      "amount": "2根中等大小",
+      "buying_tip": "去叶去根部后使用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鲜面条",
+      "amount": "500g",
+      "buying_tip": "必须选择最细的，否则建议改做焖面",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大葱",
+      "amount": "10cm",
+      "buying_tip": "普通大葱即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大蒜",
+      "amount": "5瓣",
+      "buying_tip": "去皮切粒",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜片",
+      "amount": "20g",
+      "buying_tip": "切细丝备用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "适量",
+      "buying_tip": "花生油最佳",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "生抽",
+      "amount": "15ml",
+      "buying_tip": "普通生抽调味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "10ml",
+      "buying_tip": "用于上色",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "适量",
+      "buying_tip": "用于去腥",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "盐",
+      "amount": "10g",
+      "buying_tip": "根据口味微调",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "五香粉",
+      "amount": "5g",
+      "buying_tip": "增香关键",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "青椒",
+      "amount": "2个",
+      "buying_tip": "增加风味层次",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "干红椒",
+      "amount": "3个",
+      "buying_tip": "增加微辣香气",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "花椒",
+      "amount": "20粒",
+      "buying_tip": "提升整体风味",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "蒸锅",
+    "笼屉",
+    "炒锅",
+    "菜刀",
+    "砧板"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "一份面食",
+        "expr": "足够2人食用"
+      },
+      {
+        "name": "芹菜",
+        "expr": "2 * servings"
+      },
+      {
+        "name": "五花肉",
+        "expr": "350g * servings"
+      },
+      {
+        "name": "面条",
+        "expr": "500g * servings"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "食材预处理",
+      "instruction": "猪肉去皮切成2cm*6cm*0.5cm薄片；芹菜去叶根切2cm段；葱姜蒜按要求切片/丝/粒。",
+      "duration_sec": 600,
+      "tips": [
+        "猪肉可以请摊贩帮忙切割",
+        "芹菜段需从中对半切开更入味"
+      ],
+      "produces": "备好料的食材",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zheng-lu-mian/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "滑锅与炒肉",
+      "instruction": "热锅至冒烟，用3ml油滑锅后倒出。重新加油，入肉片、葱姜蒜、干红椒匀速翻炒1分钟。",
+      "duration_sec": 120,
+      "tips": [
+        "滑锅可防止肉片粘锅"
+      ],
+      "produces": "香煎肉片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zheng-lu-mian/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "调味与炖汤",
+      "instruction": "加入料酒、生抽、老抽翻炒1分钟。倒入500ml热水，盖盖炖煮3分钟。",
+      "duration_sec": 240,
+      "tips": [
+        "必须使用热水，防止肉质变柴"
+      ],
+      "produces": "卤肉汤底",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zheng-lu-mian/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "配菜炖煮",
+      "instruction": "加入芹菜、青椒、盐、五香粉，盖盖继续炖煮3分钟后关火。",
+      "duration_sec": 180,
+      "tips": [
+        "蔬菜不要煮太烂，后续还要蒸"
+      ],
+      "produces": "卤面菜底",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zheng-lu-mian/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "初次蒸面",
+      "instruction": "蒸锅烧开上汽，面条摊平在笼屉上蒸15分钟。取出后在案板上扒拉散开冷却。",
+      "duration_sec": 1200,
+      "tips": [
+        "面条太长可以拽断",
+        "取面动作要轻，防止蒸屉翻倒触水"
+      ],
+      "produces": "半熟熟面",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zheng-lu-mian/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "搅拌上色",
+      "instruction": "将面条倒入菜锅，一手持筷一手持铲翻拌，直到面条全部均匀上色。",
+      "duration_sec": 180,
+      "tips": [
+        "确保每一根面条都吸到汤汁"
+      ],
+      "produces": "拌匀的面条",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zheng-lu-mian/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "二次蒸制",
+      "instruction": "将拌好的面条重新放回蒸屉，再次蒸10分钟即可关火。",
+      "duration_sec": 600,
+      "tips": [
+        "尽量铺散开，避免团在一起"
+      ],
+      "produces": "蒸卤面成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zheng-lu-mian/step_7.jpg"
+    }
+  ],
+  "tips": [
+    "切割猪肉时，可以让菜市场摊贩帮忙，在付款前请求成功率最高",
+    "新手建议提前备好所有料，熟练后可并发执行蒸面和炒菜",
+    "两次蒸面都要尽量弄散，避免粘连",
+    "佐餐时啤酒更配"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_zheng-lu-mian.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_zheng-lu-mian_overview.jpg",
+  "id": "staple_zheng-lu-mian",
+  "status": "published"
+}

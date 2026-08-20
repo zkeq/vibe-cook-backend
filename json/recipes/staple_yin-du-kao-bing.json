@@ -1,0 +1,230 @@
+{
+  "title": "印度烤饼",
+  "summary": "这是一道印度风味的发酵烤饼，外表微焦酥脆，内部松软有嚼劲，是咖喱的绝佳搭档。富含碳水化合物和蛋白质，酸奶的加入也让面饼更易消化。",
+  "difficulty": 3,
+  "calories": 559,
+  "duration_min": 90,
+  "category": "主食",
+  "tags": [
+    "印度风味",
+    "发酵面食",
+    "平底锅料理",
+    "咖喱搭档"
+  ],
+  "ingredients": [
+    {
+      "name": "中筋面粉",
+      "amount": "300g",
+      "buying_tip": "也可用高筋面粉替代以增加嚼劲",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酸奶",
+      "amount": "60ml",
+      "buying_tip": "建议使用原味无糖酸奶",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "干酵母",
+      "amount": "3g",
+      "buying_tip": "确保在保质期内以保证发酵活性",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "糖",
+      "amount": "10g",
+      "buying_tip": "白砂糖即可，用于辅助酵母发酵",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "5g",
+      "buying_tip": "普通细盐",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "15ml",
+      "buying_tip": "用于和面，选择气味淡的植物油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "温水",
+      "amount": "100ml",
+      "buying_tip": "约 40°C，触感温热不烫手",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酥油(Ghee)或黄油",
+      "amount": "30g",
+      "buying_tip": "涂抹用，黄油需提前融化",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "黑芝麻",
+      "amount": "5g",
+      "buying_tip": "装饰及增香用",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "香菜叶",
+      "amount": "10g",
+      "buying_tip": "洗净切碎，用于装饰",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "大蒜",
+      "amount": "3瓣(约9g)",
+      "buying_tip": "切碎用于制作蒜蓉口味",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "平底锅（不粘锅或铸铁锅）",
+    "擀面杖",
+    "大碗",
+    "湿布或保鲜膜",
+    "煤气灶（可选）",
+    "烤箱（可选）"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "中筋面粉",
+        "expr": "300 * n"
+      },
+      {
+        "name": "酸奶",
+        "expr": "60 * n"
+      },
+      {
+        "name": "干酵母",
+        "expr": "3 * n"
+      },
+      {
+        "name": "温水",
+        "expr": "100 * n"
+      },
+      {
+        "name": "酥油或黄油",
+        "expr": "30 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "激活酵母",
+      "instruction": "将干酵母 3g 和糖 10g 溶解在 100ml 温水中，静置 5 分钟，直至表面冒出细泡沫。",
+      "duration_sec": 300,
+      "tips": [
+        "水温约 40°C，不可过烫",
+        "泡沫说明酵母已激活"
+      ],
+      "produces": "酵母活性水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-kao-bing/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "混合干料",
+      "instruction": "在大碗中放入中筋面粉 300g 和盐 5g，混合均匀。",
+      "duration_sec": 60,
+      "tips": [
+        "确保盐分布均匀"
+      ],
+      "produces": "混合面粉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-kao-bing/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "和面",
+      "instruction": "倒入酵母水、酸奶 60ml 和食用油 15ml，用手揉成光滑柔软的面团。",
+      "duration_sec": 600,
+      "tips": [
+        "面团应比普通面团稍软，微微粘手是正常的",
+        "揉面需持续 8-10 分钟"
+      ],
+      "produces": "光滑面团",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-kao-bing/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "发酵",
+      "instruction": "在面团表面涂 3ml 油防止干裂，用湿布或保鲜膜盖住，放置在温暖处发酵至少 1 小时。",
+      "duration_sec": 3600,
+      "tips": [
+        "直至面团膨胀至约两倍大"
+      ],
+      "produces": "发酵面团",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-kao-bing/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "分剂排气",
+      "instruction": "取出面团轻揉排气，分成 6 个等大的小剂子（每个约 80g）。",
+      "duration_sec": 300,
+      "tips": [
+        "排气要彻底"
+      ],
+      "produces": "面团剂子",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-kao-bing/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "擀制面饼",
+      "instruction": "取一个剂子，用擀面杖擀成长椭圆形或泪滴形，厚度约 4-5mm。若做蒜蓉味则此时加入蒜末和香菜。",
+      "duration_sec": 600,
+      "tips": [
+        "手上可沾少量面粉或油防粘",
+        "压入蒜末时要轻轻擀压固定"
+      ],
+      "produces": "面饼坯",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-kao-bing/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "煎烤",
+      "instruction": "平底锅大火加热至极烫，面饼一面刷水后刷水面朝下入锅。烤 1-2 分钟至鼓泡，翻面再烤 1-2 分钟。",
+      "duration_sec": 240,
+      "tips": [
+        "铸铁锅效果最佳",
+        "有煤气灶可用明火燎烤数秒使面饼迅速鼓起"
+      ],
+      "produces": "熟烤饼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-kao-bing/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "涂油脂",
+      "instruction": "取出后立即在表面涂上酥油或黄油。",
+      "duration_sec": 60,
+      "tips": [
+        "这是香气和口感的关键，必须趁热涂"
+      ],
+      "produces": "成品印度烤饼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-kao-bing/step_8.jpg"
+    }
+  ],
+  "tips": [
+    "面团的柔软度是关键，太硬的面团烤出的饼会干硬。面团应该是湿润且略微粘手的状态。",
+    "铸铁锅比不粘锅效果更好，能产生更高的温度和更好的焦斑。",
+    "烤好后必须立刻涂酥油或黄油，这是印度烤饼香气和口感的关键。",
+    "常见的变体还有：蒜蓉烤饼(Garlic Naan)、芝士烤饼(Cheese Naan)、黄油烤饼(Butter Naan)。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_yin-du-kao-bing.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_yin-du-kao-bing_overview.jpg",
+  "id": "staple_yin-du-kao-bing",
+  "status": "published"
+}

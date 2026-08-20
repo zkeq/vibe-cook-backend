@@ -1,0 +1,159 @@
+{
+  "title": "烤鸡翅",
+  "summary": "腌制入味的鸡中翅经高温烘烤，外皮微焦、内里鲜嫩多汁，带有黑胡椒和酱油的咸香。富含优质蛋白质和胶原蛋白。难度适中，新手也能轻松上手，从准备到出炉大约需要 1 小时。还可按喜好添加蜂蜜或五香粉增添风味。",
+  "difficulty": 3,
+  "calories": 187,
+  "duration_min": 60,
+  "category": "荤菜",
+  "tags": [
+    "烤箱菜",
+    "鸡翅",
+    "高蛋白",
+    "家常菜"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡翅中",
+      "amount": "3-4个",
+      "buying_tip": "选择表皮微黄、富有光泽且肉质有弹性的鸡翅",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "2g",
+      "buying_tip": "普通食盐即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "黑胡椒粉",
+      "amount": "1g",
+      "buying_tip": "现磨黑胡椒碎风味更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酱油",
+      "amount": "3ml",
+      "buying_tip": "建议使用生抽以保持色泽鲜亮",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "3ml",
+      "buying_tip": "普通烹饪料酒，用于去腥",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "烤箱",
+    "碗",
+    "烤盘",
+    "锡纸"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鸡翅中",
+        "expr": "4 * person"
+      },
+      {
+        "name": "盐",
+        "expr": "2 * person"
+      },
+      {
+        "name": "黑胡椒粉",
+        "expr": "1 * person"
+      },
+      {
+        "name": "酱油",
+        "expr": "3 * person"
+      },
+      {
+        "name": "料酒",
+        "expr": "3 * person"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "准备鸡翅",
+      "instruction": "将鸡翅洗净擦干水分，放入大碗中备用。",
+      "duration_sec": 180,
+      "tips": [
+        "洗净后擦干水分有助于腌料更好附着"
+      ],
+      "produces": "待腌制鸡翅",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_kao-ji-chi/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "腌制鸡翅",
+      "instruction": "在碗中加入盐、黑胡椒粉、酱油、料酒，充分抓匀，腌制 30-40 分钟。",
+      "duration_sec": 2400,
+      "tips": [
+        "腌制时间越长越入味，可以在鸡翅上划两刀加快入味"
+      ],
+      "produces": "腌制好的鸡翅",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_kao-ji-chi/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "预热烤箱",
+      "instruction": "将烤箱温度设定为 200℃ 进行预热。",
+      "duration_sec": 300,
+      "tips": [
+        "预热是确保外皮酥脆的关键"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_kao-ji-chi/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "摆盘准备",
+      "instruction": "在烤盘上垫好锡纸，将腌制好的鸡翅均匀地平铺在烤盘上。",
+      "duration_sec": 120,
+      "tips": [
+        "鸡翅之间要留有空隙，避免受热不均"
+      ],
+      "produces": "待烤鸡翅盘",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_kao-ji-chi/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "第一阶段烤制",
+      "instruction": "将烤盘放入烤箱中层，设定烤制 15-20 分钟。",
+      "duration_sec": 1200,
+      "tips": [
+        "注意观察成色，避免烤焦"
+      ],
+      "produces": "半熟鸡翅",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_kao-ji-chi/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "翻面烤制",
+      "instruction": "取出烤盘，用夹子将鸡翅逐一翻面，再次放入烤箱烤 15-20 分钟，直到两面金黄熟透。",
+      "duration_sec": 1200,
+      "tips": [
+        "翻面可以让两面都达到微焦的效果"
+      ],
+      "produces": "成品烤鸡翅",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_kao-ji-chi/step_6.jpg"
+    }
+  ],
+  "tips": [
+    "可以在腌制鸡翅时加入蜂蜜、酱油、姜蒜粉、五香粉等作为调味料，提升口感和香气",
+    "烤鸡翅时，建议将烤盘底部垫上一层锡纸，便于清洁烤盘",
+    "如果喜欢甜口，可以在最后 5 分钟在表面刷一层蜂蜜水"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_kao-ji-chi.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_kao-ji-chi_overview.jpg",
+  "id": "meat_dish_kao-ji-chi",
+  "status": "published"
+}

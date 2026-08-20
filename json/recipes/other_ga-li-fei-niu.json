@@ -1,0 +1,222 @@
+{
+  "title": "咖喱肥牛",
+  "summary": "咖喱肥牛是一道浓郁下饭的家常菜，咖喱的辛香与肥牛的脂香融合，搭配土豆、胡萝卜等蔬菜，口感绵软醇厚。富含蛋白质、维生素和钙质，荤素搭配均衡。做法简单，对新手友好，一般只需 40 分钟就能端上餐桌，很适合作为便当菜。",
+  "difficulty": 4,
+  "calories": 1821,
+  "duration_min": 40,
+  "category": "其他",
+  "tags": [
+    "家常菜",
+    "下饭菜",
+    "咖喱",
+    "肥牛",
+    "午餐肉",
+    "便当"
+  ],
+  "ingredients": [
+    {
+      "name": "香叶",
+      "amount": "1片",
+      "buying_tip": "用于增香，1片即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "纯牛奶",
+      "amount": "50ml",
+      "buying_tip": "推荐卫岗鲜奶，口感更醇厚",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "洋葱",
+      "amount": "100g",
+      "buying_tip": "切条后翻炒至透明",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "胡萝卜",
+      "amount": "150g",
+      "buying_tip": "切块，增加甜味和营养",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "土豆",
+      "amount": "200g",
+      "buying_tip": "挺饱腹的，可酌情添加",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "肥牛卷",
+      "amount": "300g",
+      "buying_tip": "喜欢吃肉就多来点",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "咖喱块",
+      "amount": "2块(约100g)",
+      "buying_tip": "直接整块投入，无需捣碎",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "10ml-15ml",
+      "buying_tip": "普通植物油即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "冷水",
+      "amount": "适量",
+      "buying_tip": "加至淹没所有食材即可",
+      "optional": false,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "汤锅",
+    "菜刀",
+    "砧板",
+    "筷子",
+    "勺子"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "香叶",
+        "expr": "1 * n 片"
+      },
+      {
+        "name": "纯牛奶",
+        "expr": "50 * n ml"
+      },
+      {
+        "name": "洋葱",
+        "expr": "100 * n g"
+      },
+      {
+        "name": "胡萝卜",
+        "expr": "150 * n g"
+      },
+      {
+        "name": "土豆",
+        "expr": "200 * n g"
+      },
+      {
+        "name": "肥牛卷",
+        "expr": "300 * n g"
+      },
+      {
+        "name": "咖喱块",
+        "expr": "2 * n 块"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "食材预处理",
+      "instruction": "洋葱切成条状、胡萝卜以及土豆切成块状，备用",
+      "duration_sec": 300,
+      "tips": [
+        "块状大小尽量均匀，方便同时煮熟"
+      ],
+      "produces": "处理好的蔬菜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ga-li-fei-niu/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "肥牛焯水",
+      "instruction": "烧一锅开水，水沸时将肥牛卷下锅，捞出血沫后放在一边沥水，备用",
+      "duration_sec": 180,
+      "tips": [
+        "焯水可以去除肥牛的血腥味和多余油脂"
+      ],
+      "produces": "焯过水的肥牛",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ga-li-fei-niu/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "热油",
+      "instruction": "热锅，锅内放入 10ml - 15ml 食用油，等待 10 秒让油温升高",
+      "duration_sec": 20,
+      "tips": [
+        "油温不宜过高，避免食材入锅溅油"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ga-li-fei-niu/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "炒洋葱",
+      "instruction": "放入洋葱，翻炒至洋葱变软变透明",
+      "duration_sec": 120,
+      "tips": [
+        "炒香洋葱是汤底浓郁的关键"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ga-li-fei-niu/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "炒蔬菜",
+      "instruction": "放入土豆以及胡萝卜翻炒 2 分钟",
+      "duration_sec": 120,
+      "tips": [
+        "翻炒土豆可以让表面形成保护层，炖煮时不易散烂"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ga-li-fei-niu/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "加水",
+      "instruction": "加入冷水至淹没所有食材即可",
+      "duration_sec": 30,
+      "tips": [
+        "水不要加太多，以免最后汤汁不够浓稠"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ga-li-fei-niu/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "炖煮蔬菜",
+      "instruction": "将香叶、咖喱块投入锅中，盖上锅盖，待水沸腾后将火调小然后等待直至土豆块以及胡萝卜块炖至软烂（可用筷子确认）",
+      "duration_sec": 900,
+      "tips": [
+        "用筷子能轻松扎透土豆即代表熟了"
+      ],
+      "produces": "浓郁的咖喱蔬菜底",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ga-li-fei-niu/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "混合出锅",
+      "instruction": "加入肥牛卷以及牛奶，盖上锅盖再小火煮 2-3 分钟即可出锅（用勺子搅拌食材，注意力度，避免肥牛卷破碎）",
+      "duration_sec": 180,
+      "tips": [
+        "加入牛奶可以让咖喱口感更丝滑",
+        "搅拌时动作轻柔"
+      ],
+      "produces": "咖喱肥牛",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ga-li-fei-niu/step_8.jpg"
+    }
+  ],
+  "tips": [
+    "咖喱块不用捣碎，直接整块投入即可。",
+    "操作时，需要注意搅拌食材，避免食材调味料不均匀。",
+    "如果喜欢更浓稠的汤汁，最后可以开大火稍微收一下汁。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ga-li-fei-niu.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ga-li-fei-niu_overview.jpg",
+  "id": "other_ga-li-fei-niu",
+  "status": "published"
+}

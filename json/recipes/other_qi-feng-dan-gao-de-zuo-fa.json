@@ -1,0 +1,177 @@
+{
+  "title": "戚风蛋糕的做法",
+  "summary": "这道烘焙入门甜品口感细腻绵软，拥有云朵般的轻盈质地，属于西点中的经典基础款。主要原料鸡蛋和牛奶提供了优质蛋白与钙质，营养丰富。制作过程对打发、翻拌及烘烤火候要求较高，具有一定挑战，但只要耐心按步骤操作，新手也能成功。",
+  "difficulty": 5,
+  "calories": 274,
+  "duration_min": 120,
+  "category": "其他",
+  "tags": [
+    "烘焙",
+    "甜点",
+    "基础款",
+    "西点"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": "1个(约50g)",
+      "buying_tip": "选择新鲜鸡蛋，冷藏后更易分离",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白糖",
+      "amount": "16g",
+      "buying_tip": "细砂糖更易溶解",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "8g",
+      "buying_tip": "推荐无气味的植物油，如玉米油；若用黄油需加热软化",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "牛奶",
+      "amount": "10g",
+      "buying_tip": "也可用等量水替代",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "低筋面粉",
+      "amount": "17g",
+      "buying_tip": "推荐惠宜品牌",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "柠檬汁或白醋",
+      "amount": "几滴",
+      "buying_tip": "用于稳定蛋白打发",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "烤箱",
+    "电动打蛋器",
+    "铝合金阳极模具",
+    "刮刀",
+    "分蛋器",
+    "面粉筛",
+    "搅拌盆"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "6寸蛋糕",
+        "expr": "基准用量 * 3"
+      },
+      {
+        "name": "8寸蛋糕",
+        "expr": "基准用量 * 5"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "蛋液分离",
+      "instruction": "准备两个干燥容器。将蛋清与蛋黄分离，蛋清容器严禁有油，蛋黄容器不能有水。确保蛋清中不混入任何蛋黄。",
+      "duration_sec": 300,
+      "tips": [
+        "蛋清容器可稍有水珠但绝不能有油",
+        "蛋清中混入蛋黄会严重影响打发",
+        "蛋清量不要超过容器的1/8"
+      ],
+      "produces": "分离后的蛋清与蛋黄",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-feng-dan-gao-de-zuo-fa/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "制作乳化液",
+      "instruction": "在空碗中加入全部食用油和牛奶，用打蛋器手动快速搅拌至完全融合，呈乳白色悬浊液状。",
+      "duration_sec": 120,
+      "tips": [
+        "必须完全乳化，看不见油星"
+      ],
+      "produces": "乳化液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-feng-dan-gao-de-zuo-fa/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "混合面粉与蛋黄",
+      "instruction": "筛入低筋面粉，用刮刀以“Z字形”划拌至无干粉。加入全部蛋黄，继续以“Z字形”划拌至细腻顺滑。",
+      "duration_sec": 240,
+      "tips": [
+        "不要转圈搅拌，防止面粉起筋",
+        "后蛋法能使面糊更细腻"
+      ],
+      "produces": "蛋黄糊",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-feng-dan-gao-de-zuo-fa/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "打发蛋白",
+      "instruction": "蛋清中加柠檬汁，分三次加入白糖。分别在粗气泡、细腻气泡、湿性发泡阶段加糖。最终打发至干性发泡（提起呈短小直立尖角）。",
+      "duration_sec": 600,
+      "tips": [
+        "打蛋器应贴近底部，防止底层未打发",
+        "糖能起到保护气泡的作用"
+      ],
+      "produces": "蛋白霜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-feng-dan-gao-de-zuo-fa/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "翻拌混合",
+      "instruction": "取1/3蛋白霜加入蛋黄糊中翻拌，再将混合液倒回剩余蛋白霜中，采用类似炒菜的“翻拌”手法混合均匀。",
+      "duration_sec": 300,
+      "tips": [
+        "手法要轻快，避免消泡",
+        "参考小岛老师翻拌法：从中心插入向8点钟方向刮起并旋转盆"
+      ],
+      "produces": "蛋糕糊",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-feng-dan-gao-de-zuo-fa/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "烘烤阶段",
+      "instruction": "蛋糕糊倒入模具震出大气泡。烤箱预热后放入下层。第一阶段：上管150℃/下管160℃烘烤总时间的3/5；第二阶段：上管160℃/下管170℃烘烤剩余2/5时间。",
+      "duration_sec": 3000,
+      "tips": [
+        "6寸约30-35分钟，8寸约50分钟",
+        "最后几分钟需在烤箱前观察"
+      ],
+      "produces": "烤熟的蛋糕",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-feng-dan-gao-de-zuo-fa/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "冷却与脱模",
+      "instruction": "出炉后从高处震出热气，立刻倒扣在架子上冷却至少10分钟，待完全冷却后进行脱模。",
+      "duration_sec": 900,
+      "tips": [
+        "未冷却脱模会损伤蛋糕结构",
+        "注意防烫"
+      ],
+      "produces": "成品戚风蛋糕",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-feng-dan-gao-de-zuo-fa/step_7.jpg"
+    }
+  ],
+  "tips": [
+    "油会严重阻碍蛋白打发，容器必须无油。",
+    "冷藏鸡蛋易分离，但恢复室温后的蛋清更易打发。",
+    "若蛋清特别硬，5个蛋的配方可加15ml水辅助打发。",
+    "空气炸锅操作：130℃预热，盖锡纸烤35分钟，撤锡纸150℃上色10-15分钟。",
+    "判断熟透：牙签插入中心拔出无湿润面糊。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_qi-feng-dan-gao-de-zuo-fa.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_qi-feng-dan-gao-de-zuo-fa_overview.jpg",
+  "id": "other_qi-feng-dan-gao-de-zuo-fa",
+  "status": "published"
+}

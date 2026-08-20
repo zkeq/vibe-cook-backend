@@ -1,0 +1,148 @@
+{
+  "title": "可乐桶",
+  "summary": "可乐桶是一款简单易调的休闲鸡尾酒，口感清爽甜润，可乐的气泡和柠檬汁很好地中和了威士忌的烈感，适合聚会场合。主要提供能量，柠檬补充维生素 C。整个调配过程只需 5 分钟即可完成，新手也能轻松上手。",
+  "difficulty": 2,
+  "calories": 450,
+  "duration_min": 5,
+  "category": "饮料",
+  "tags": [
+    "鸡尾酒",
+    "威士忌",
+    "派对饮品",
+    "快手调制"
+  ],
+  "ingredients": [
+    {
+      "name": "波旁威士忌",
+      "amount": "100ml",
+      "buying_tip": "选用经典的波旁威士忌口感更醇厚",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "可口可乐",
+      "amount": "500ml",
+      "buying_tip": "建议使用冰镇后的可乐以保持气泡感",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "冰块",
+      "amount": "300g",
+      "buying_tip": "硬度较高的实心冰块融化较慢",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "柠檬",
+      "amount": "1个",
+      "buying_tip": "新鲜柠檬能提供更好的香气",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "手动压汁器",
+    "水果刀",
+    "1升容量大型玻璃杯或铁皮酒桶"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "波旁威士忌",
+        "expr": "100 * servings"
+      },
+      {
+        "name": "可口可乐",
+        "expr": "500 * servings"
+      },
+      {
+        "name": "柠檬",
+        "expr": "1 * servings"
+      },
+      {
+        "name": "冰块",
+        "expr": "300 * servings"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "切取柠檬片",
+      "instruction": "将柠檬对半切（刀方向垂直于柠檬的头尾连线），并从其中的一半中切取一片柠檬备用",
+      "duration_sec": 45,
+      "tips": [
+        "切片厚度约3-5毫米为宜"
+      ],
+      "produces": "装饰用柠檬片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_ke-le-tong/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "榨取柠檬汁",
+      "instruction": "再次将柠檬对半切，将得到的 4 角柠檬用压汁器压出柠檬汁置于容器中备用，挤压过的柠檬皮也留下备用",
+      "duration_sec": 90,
+      "tips": [
+        "压汁前可以稍微揉搓柠檬，出汁率更高"
+      ],
+      "produces": "柠檬汁及挤压后的柠檬皮",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_ke-le-tong/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "准备底杯",
+      "instruction": "选择一个容量约1升的大杯子，将冰块和挤压过的柠檬皮入杯中",
+      "duration_sec": 30,
+      "tips": [
+        "可根据个人喜好设计柠檬与冰块的摆放位置"
+      ],
+      "produces": "预冷杯",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_ke-le-tong/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "加入柠檬汁",
+      "instruction": "在杯中倒入 15 毫升柠檬汁",
+      "duration_sec": 10,
+      "tips": [
+        "如果喜酸可以加多点或全加"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_ke-le-tong/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "注入可乐",
+      "instruction": "沿杯壁缓慢倒入可口可乐至距离杯口 3/4 处",
+      "duration_sec": 60,
+      "tips": [
+        "沿壁缓慢倒能有效保留碳酸气泡",
+        "控制可乐和威士忌的比例约在 5:1"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_ke-le-tong/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "加入威士忌",
+      "instruction": "倒入威士忌直至满杯",
+      "duration_sec": 30,
+      "tips": [
+        "最后加入威士忌可以产生自然的混合感"
+      ],
+      "produces": "可乐桶成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_ke-le-tong/step_6.jpg"
+    }
+  ],
+  "tips": [
+    "可乐桶因冰块和可乐的口感掩盖了威士忌的酒味，因此不善酒力的人也容易在不知不觉中过量饮酒",
+    "请在保证个人与饮酒者的安全下调配",
+    "如对流程有改进建议，欢迎提出 Issue 或 Pull request"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/drink_ke-le-tong.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/drink_ke-le-tong_overview.jpg",
+  "id": "drink_ke-le-tong",
+  "status": "published"
+}

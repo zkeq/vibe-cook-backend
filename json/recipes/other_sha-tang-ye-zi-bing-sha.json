@@ -1,0 +1,132 @@
+{
+  "title": "砂糖椰子冰沙",
+  "summary": "砂糖椰子冰沙是一道极具热带风情的快手冷饮，清甜的椰香融合粗粒黄糖的焦香，口感绵密冰爽。椰子水富含天然电解质与矿物质，能快速补充水分，咖啡调糖增添碳水能量。制作门槛极低，只要提前将椰汁冻硬，敲打成沙即可，对新手毫无压力。",
+  "difficulty": 1,
+  "calories": 231,
+  "duration_min": 605,
+  "category": "其他",
+  "tags": [
+    "冷饮",
+    "椰子",
+    "冰沙",
+    "快手",
+    "夏日必备"
+  ],
+  "ingredients": [
+    {
+      "name": "瓶装椰子汁",
+      "amount": "500ml",
+      "buying_tip": "瓶口较大为佳，方便倒出冰沙",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "咖啡调糖",
+      "amount": "10g",
+      "buying_tip": "建议选择黄色粗粒调糖，口感更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "坚果碎",
+      "amount": "适量",
+      "buying_tip": "根据个人口味添加，增加口感层次",
+      "optional": true,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "冰箱冷冻室",
+    "坚硬表面（如桌角或墙角）"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "瓶装椰子汁",
+        "expr": "500ml"
+      },
+      {
+        "name": "咖啡调糖",
+        "expr": "10g"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "倒出多余椰汁",
+      "instruction": "500ml 瓶装椰汁倒掉 200ml，立刻拧紧瓶盖。",
+      "duration_sec": 30,
+      "tips": [
+        "倒掉部分是为了给液体冻结膨胀预留空间，防止爆瓶"
+      ],
+      "produces": "预留空间的椰汁瓶",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_sha-tang-ye-zi-bing-sha/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "冷冻处理",
+      "instruction": "将这瓶椰汁放入冰箱冷冻区并冷冻 10 小时以上。",
+      "duration_sec": 36000,
+      "tips": [
+        "需确保彻底冻硬"
+      ],
+      "produces": "冻结的椰汁瓶",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_sha-tang-ye-zi-bing-sha/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "抽打成沙",
+      "instruction": "将这瓶椰汁取出，确认瓶中椰汁已彻底冻结后，在墙角、椅背、桌角等坚硬表面上用力抽打。",
+      "duration_sec": 120,
+      "tips": [
+        "请务必确认表面不会因此受到损伤",
+        "用力需均匀，使内部冰块碎裂成沙"
+      ],
+      "produces": "瓶内冰沙",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_sha-tang-ye-zi-bing-sha/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "倒出冰沙",
+      "instruction": "当抽打到冻结椰汁变成冰沙状态，打开瓶盖倒出冰沙。",
+      "duration_sec": 30,
+      "tips": [
+        "若倒出困难，可继续抽打几下"
+      ],
+      "produces": "碗装冰沙",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_sha-tang-ye-zi-bing-sha/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "调味装饰",
+      "instruction": "在冰沙表面均匀撒上咖啡调糖或坚果碎。",
+      "duration_sec": 30,
+      "tips": [
+        "咖啡调糖的焦香是风味关键"
+      ],
+      "produces": "成品砂糖椰子冰沙",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_sha-tang-ye-zi-bing-sha/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "完成",
+      "instruction": "制作完成，立即享用。",
+      "duration_sec": 0,
+      "tips": [
+        "室温下约可维持30分钟"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_sha-tang-ye-zi-bing-sha/step_6.jpg"
+    }
+  ],
+  "tips": [
+    "瓶装椰汁可以提前冰冻，但是不宜超过 7 天，否则有变质风险。",
+    "300g在零下18度制成的冰沙在室温下通常可维持30分钟。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_sha-tang-ye-zi-bing-sha.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_sha-tang-ye-zi-bing-sha_overview.jpg",
+  "id": "other_sha-tang-ye-zi-bing-sha",
+  "status": "published"
+}

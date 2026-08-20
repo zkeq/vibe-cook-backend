@@ -1,0 +1,151 @@
+{
+  "title": "芝麻烧饼",
+  "summary": "芝麻烧饼是北方家喻户晓的面点，外皮沾满芝麻酥香可口，内层层次分明、松软适口。面粉提供充足的碳水化合物，芝麻含有丰富的钙和不饱和脂肪酸。制作过程虽然包含揉面、做油酥等步骤，但操作并不复杂，初学者也能跟着做出来。",
+  "difficulty": 3,
+  "calories": 282,
+  "duration_min": 40,
+  "category": "其他",
+  "tags": [
+    "面点",
+    "北方菜",
+    "中式早餐",
+    "烧饼"
+  ],
+  "ingredients": [
+    {
+      "name": "面粉",
+      "amount": "330g (300g用于面团，30g用于油酥)",
+      "buying_tip": "建议使用中筋面粉",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酵母粉",
+      "amount": "3g",
+      "buying_tip": "选用高活性干酵母",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白糖",
+      "amount": "3g",
+      "buying_tip": "普通白砂糖即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "温水",
+      "amount": "180g (40℃)",
+      "buying_tip": "水温不宜过高以免烫死酵母",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "40g+适量刷油",
+      "buying_tip": "选用味道较淡的植物油",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "十三香",
+      "amount": "4g",
+      "buying_tip": "超市调料区均有售",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "2g",
+      "buying_tip": "普通食盐",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白芝麻",
+      "amount": "适量",
+      "buying_tip": "选用脱皮白芝麻更美观",
+      "optional": true,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "电饼铛",
+    "小碗",
+    "擀面杖",
+    "平底锅"
+  ],
+  "servings": {
+    "base": 7,
+    "formula": [
+      {
+        "name": "面粉",
+        "expr": "330 / 7"
+      },
+      {
+        "name": "酵母粉",
+        "expr": "3 / 7"
+      },
+      {
+        "name": "温水",
+        "expr": "180 / 7"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "制作面团",
+      "instruction": "将300克面粉、3克酵母粉、3克白糖、180克温水和20克食用油混合，揉成面团，醒面10分钟",
+      "duration_sec": 900,
+      "tips": [
+        "温水有助于酵母活性",
+        "加入少量油可使面团更顺滑"
+      ],
+      "produces": "醒发好的面团",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhi-ma-shao-bing/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "制作油酥",
+      "instruction": "在小碗中放入30克面粉、2克盐、4克十三香和20克食用油，拌匀后静置备用",
+      "duration_sec": 120,
+      "tips": [
+        "油酥的稠度应适中，方便涂抹"
+      ],
+      "produces": "油酥调料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhi-ma-shao-bing/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "成型加工",
+      "instruction": "将面擀成长方形，抹上调好的油酥，从一头卷起，切成7个面剂子。对折后用虎口收拢，先沾水再沾白芝麻，最后擀成小圆饼",
+      "duration_sec": 600,
+      "tips": [
+        "卷起时尽量紧实，层次会更分明",
+        "沾水是为了让芝麻粘得更牢固"
+      ],
+      "produces": "烧饼生坯",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhi-ma-shao-bing/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "烙制成熟",
+      "instruction": "电饼铛预热倒入凉油铺满锅底，放入饼胚，上方也刷点油涂匀。盖上盖子选大饼档，听到提示音后出锅",
+      "duration_sec": 480,
+      "tips": [
+        "两面刷油可以锁住水分，口感更酥脆"
+      ],
+      "produces": "芝麻烧饼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhi-ma-shao-bing/step_4.jpg"
+    }
+  ],
+  "tips": [
+    "如果没有电饼铛，也可以用平底锅，需注意火候防止烙糊",
+    "芝麻如果没有也可不用，一样好吃"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_zhi-ma-shao-bing.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_zhi-ma-shao-bing_overview.jpg",
+  "id": "other_zhi-ma-shao-bing",
+  "status": "published"
+}

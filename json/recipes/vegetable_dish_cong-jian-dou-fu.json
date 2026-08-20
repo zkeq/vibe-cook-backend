@@ -1,0 +1,203 @@
+{
+  "title": "葱煎豆腐",
+  "summary": "外焦里嫩，葱香浓郁，咸鲜微辣，是一道家常风味。豆腐富含植物蛋白和钙质，搭配青椒和葱段，营养均衡。",
+  "difficulty": 3,
+  "calories": 364,
+  "duration_min": 30,
+  "category": "素菜",
+  "tags": [
+    "家常菜",
+    "高蛋白",
+    "素食"
+  ],
+  "ingredients": [
+    {
+      "name": "白豆腐",
+      "amount": "0.8块",
+      "buying_tip": "建议购买质地较硬的北豆腐或老豆腐，不易破碎",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "0.67根",
+      "buying_tip": "选择叶色青绿、根部洁白的香葱",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "青辣椒",
+      "amount": "0.5只",
+      "buying_tip": "选择表皮光滑、硬挺的青椒",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "3g",
+      "buying_tip": "普通加碘食盐即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡精",
+      "amount": "1.5g",
+      "buying_tip": "用于提鲜，可按个人口味调整",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "9ml",
+      "buying_tip": "推荐使用耐高温的植物油",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "平底锅",
+    "菜刀",
+    "砧板",
+    "铲子",
+    "碟子"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "白豆腐",
+        "expr": "ceil(份数 * 0.8)"
+      },
+      {
+        "name": "青辣椒",
+        "expr": "份数 * 0.5"
+      },
+      {
+        "name": "葱",
+        "expr": "份数 * 0.67"
+      },
+      {
+        "name": "盐",
+        "expr": "份数 * 3"
+      },
+      {
+        "name": "鸡精",
+        "expr": "份数 * 1.5"
+      },
+      {
+        "name": "食用油",
+        "expr": "份数 * 9"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "豆腐改刀",
+      "instruction": "豆腐洗净。切约 5 mm 厚度，置于碟中。",
+      "duration_sec": 180,
+      "tips": [
+        "切片厚度要均匀，方便受热一致"
+      ],
+      "produces": "豆腐片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_cong-jian-dou-fu/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "切葱花",
+      "instruction": "葱洗净，除去根部，切成葱花，备用。",
+      "duration_sec": 60,
+      "tips": [
+        "葱花可以切得细碎一些更出味"
+      ],
+      "produces": "葱花",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_cong-jian-dou-fu/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "处理辣椒",
+      "instruction": "辣椒洗净，切开，去籽，切成 1cm * 1cm 状，备用。",
+      "duration_sec": 120,
+      "tips": [
+        "去籽可以降低辣度"
+      ],
+      "produces": "辣椒块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_cong-jian-dou-fu/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "热锅注油",
+      "instruction": "热锅，加入适量油（每份约9ml）。",
+      "duration_sec": 60,
+      "tips": [
+        "先热锅再倒油，可以防止粘锅"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_cong-jian-dou-fu/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "煎豆腐",
+      "instruction": "使油均匀布于锅底，均匀放入豆腐，小火煎至金黄翻面。",
+      "duration_sec": 300,
+      "tips": [
+        "必须掌握小火慢煎，不要急于翻面"
+      ],
+      "produces": "单面金黄豆腐",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_cong-jian-dou-fu/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "豆腐出锅",
+      "instruction": "待两面金黄，盛入碟中备用。",
+      "duration_sec": 300,
+      "tips": [
+        "翻面时动作要轻，避免弄碎豆腐"
+      ],
+      "produces": "煎好的豆腐片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_cong-jian-dou-fu/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "炒辣椒",
+      "instruction": "补油至覆盖锅底，倒入辣椒大火翻炒，并铲碾 3 分钟。",
+      "duration_sec": 180,
+      "tips": [
+        "铲碾辣椒能让其辣味和香味充分释放"
+      ],
+      "produces": "熟辣椒",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_cong-jian-dou-fu/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "调味与收汁",
+      "instruction": "倒入豆腐，翻炒，加入盐与鸡精，中火翻炒 1 分钟后倒入 10 ML 水，大火收汁。",
+      "duration_sec": 120,
+      "tips": [
+        "收汁能让豆腐更好地吸收调料的味道"
+      ],
+      "produces": "入味的豆腐",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_cong-jian-dou-fu/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "撒葱出锅",
+      "instruction": "出锅前撒上葱花，起锅盛盘。",
+      "duration_sec": 30,
+      "tips": [
+        "葱花最后撒，可以保持其翠绿的颜色和浓郁的香味"
+      ],
+      "produces": "葱煎豆腐成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_cong-jian-dou-fu/step_9.jpg"
+    }
+  ],
+  "tips": [
+    "煎豆腐时需掌握小火慢煎，新手需耐心操作",
+    "切豆腐时厚度保持在5mm左右，口感最佳",
+    "如对流程有改进建议，欢迎提出 Issue 或 Pull request"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_cong-jian-dou-fu.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_cong-jian-dou-fu_overview.jpg",
+  "id": "vegetable_dish_cong-jian-dou-fu",
+  "status": "published"
+}

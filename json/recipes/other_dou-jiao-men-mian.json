@@ -1,0 +1,314 @@
+{
+  "title": "豆角焖面",
+  "summary": "豆角焖面是一道北方家常面食，面条吸饱汤汁，口感软韧咸香，带着豆角的清爽和肉片的油润。五花肉提供蛋白质和脂肪，豆角富含膳食纤维和维生素，荤素搭配均衡。",
+  "difficulty": 3,
+  "calories": 1386,
+  "duration_min": 30,
+  "category": "其他",
+  "tags": [
+    "北方家常",
+    "面食",
+    "焖面",
+    "荤素均衡"
+  ],
+  "ingredients": [
+    {
+      "name": "鲜面条",
+      "amount": "300g",
+      "buying_tip": "建议选择韭叶或二细，口感更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "五花肉",
+      "amount": "100g",
+      "buying_tip": "最好选用五花肉，油润感更足",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "豆角",
+      "amount": "150g",
+      "buying_tip": "选择新鲜、无虫眼的豆角",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "2g",
+      "buying_tip": "普通食盐即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "10-18ml",
+      "buying_tip": "植物油即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡精",
+      "amount": "2g",
+      "buying_tip": "增鲜使用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "耗油",
+      "amount": "5g",
+      "buying_tip": "提供咸鲜味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "味精",
+      "amount": "1g",
+      "buying_tip": "最后提鲜使用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "十三香",
+      "amount": "1g",
+      "buying_tip": "北方风味核心调料",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "10ml",
+      "buying_tip": "主要用于调味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "5ml",
+      "buying_tip": "主要用于上色",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "10g",
+      "buying_tip": "大葱切段",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜头",
+      "amount": "10g",
+      "buying_tip": "建议多放一点，更有味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "5g",
+      "buying_tip": "切丝使用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "热水",
+      "amount": "150ml",
+      "buying_tip": "必须使用热水",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "菜刀",
+    "锅",
+    "砧板",
+    "勺子",
+    "筷子"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鲜面条",
+        "expr": "300 * n"
+      },
+      {
+        "name": "肉",
+        "expr": "100 * n"
+      },
+      {
+        "name": "豆角",
+        "expr": "150 * n"
+      },
+      {
+        "name": "盐",
+        "expr": "2 * n"
+      },
+      {
+        "name": "食用油",
+        "expr": "14 * n"
+      },
+      {
+        "name": "鸡精",
+        "expr": "2 * n"
+      },
+      {
+        "name": "生抽",
+        "expr": "10 * n"
+      },
+      {
+        "name": "耗油",
+        "expr": "5 * n"
+      },
+      {
+        "name": "十三香",
+        "expr": "1 * n"
+      },
+      {
+        "name": "老抽",
+        "expr": "5 * n"
+      },
+      {
+        "name": "味精",
+        "expr": "1 * n"
+      },
+      {
+        "name": "热水",
+        "expr": "150 * n"
+      },
+      {
+        "name": "葱",
+        "expr": "10 * n"
+      },
+      {
+        "name": "姜",
+        "expr": "5 * n"
+      },
+      {
+        "name": "蒜",
+        "expr": "10 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理蔬菜",
+      "instruction": "将豆角切成 5cm - 6cm 的小段；葱切成 1cm - 2cm 小段；姜切成 1mm x 1mm x 3cm 的长条；蒜拍碎切成 1mm 粒度。",
+      "duration_sec": 180,
+      "tips": [
+        "蒜最后放，所以切完可以先放一边"
+      ],
+      "produces": "切好的蔬菜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-jiao-men-mian/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "切肉",
+      "instruction": "将五花肉切成 2mm 厚度的肉片。",
+      "duration_sec": 60,
+      "tips": [
+        "略微冷冻的肉更好切薄片"
+      ],
+      "produces": "肉片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-jiao-men-mian/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "热锅挂油",
+      "instruction": "锅烧热至手放上方有明显烤手感，加入食用油并摇晃使油挂满锅壁三分之二。",
+      "duration_sec": 60,
+      "tips": [
+        "不粘锅可直接热油3-5秒"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-jiao-men-mian/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "爆香葱姜",
+      "instruction": "放入全部姜和葱段，翻炒爆香 5 秒。",
+      "duration_sec": 5,
+      "tips": [
+        "注意油飞溅，建议做好防护"
+      ],
+      "produces": "香底",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-jiao-men-mian/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "炒肉片",
+      "instruction": "放入全部肉片，静置 5 秒后再翻炒，使肉片均匀裹油并变色。",
+      "duration_sec": 40,
+      "tips": [
+        "不急着翻动是为了让肉片稍微定型或出油"
+      ],
+      "produces": "变色肉片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-jiao-men-mian/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "调味及炒豆角",
+      "instruction": "沿锅边淋入生抽翻炒，再依次加入盐、老抽、耗油、十三香、鸡精和豆角，翻炒 2 分钟。",
+      "duration_sec": 130,
+      "tips": [
+        "老抽主要控制颜色深浅"
+      ],
+      "produces": "半熟菜料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-jiao-men-mian/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "加水及舀汤",
+      "instruction": "加入热水，水开后用勺子舀出锅内 1/2 的菜汤备用。",
+      "duration_sec": 40,
+      "tips": [
+        "注意不要把菜舀出来了"
+      ],
+      "produces": "菜汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-jiao-men-mian/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "铺面焖煮",
+      "instruction": "将面条平铺在菜上方，盖盖中火焖 5 分钟。",
+      "duration_sec": 300,
+      "tips": [
+        "面条不要接触锅底，防止糊锅"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-jiao-men-mian/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "二次淋汤",
+      "instruction": "打开锅盖，将舀出的菜汤分次均匀撒在面条上，盖盖再中火焖 3 分钟。",
+      "duration_sec": 210,
+      "tips": [
+        "淋汤可以让面条受热更均匀且入味"
+      ],
+      "produces": "焖熟的面条",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-jiao-men-mian/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "最后调味与搅拌",
+      "instruction": "撒入蒜粒和味精，使用筷子不断翻炒将菜、肉、面搅拌均匀后关火。",
+      "duration_sec": 60,
+      "tips": [
+        "如果喜欢吃湿一点的可以提前关火"
+      ],
+      "produces": "豆角焖面",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dou-jiao-men-mian/step_10.jpg"
+    }
+  ],
+  "tips": [
+    "面条粗细区别：毛细（像细粉丝）、细（像香头）、二细（常规炒面粗细）、三细（像粗粉条）、韭叶（像韭菜叶宽）、大宽（像宽粉）。",
+    "焖面过程中要注意火候，防止底部烧焦。",
+    "最后加入生蒜粒是北方焖面的灵魂做法。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_dou-jiao-men-mian.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_dou-jiao-men-mian_overview.jpg",
+  "id": "other_dou-jiao-men-mian",
+  "status": "published"
+}

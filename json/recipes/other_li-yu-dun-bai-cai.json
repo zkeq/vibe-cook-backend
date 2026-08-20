@@ -1,0 +1,201 @@
+{
+  "title": "鲤鱼炖白菜",
+  "summary": "鲤鱼炖白菜是一道鲜香浓郁的家常炖菜，鱼肉软嫩入味，白菜清甜吸汁，属于典型的北方风味。鲤鱼富含优质蛋白和不饱和脂肪酸，搭配白菜提供膳食纤维和维生素，营养均衡。制作过程需要煎鱼和炖煮，有一定难度但不算复杂，适合有基础烹饪经验的朋友尝试，从备料到出锅大约需要 40 分钟。",
+  "difficulty": 3,
+  "calories": 792,
+  "duration_min": 40,
+  "category": "其他",
+  "tags": [
+    "家常菜",
+    "北方风味",
+    "炖菜",
+    "高蛋白"
+  ],
+  "ingredients": [
+    {
+      "name": "鲤鱼",
+      "amount": "1.2 斤",
+      "buying_tip": "选择鲜活且清理干净的鲤鱼，肉质更鲜嫩",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "娃娃菜",
+      "amount": "13 片",
+      "buying_tip": "可选用白菜心，口感更清甜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "10ml",
+      "buying_tip": "普通植物油即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "3 片",
+      "buying_tip": "老姜去腥效果更好",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜",
+      "amount": "3 瓣",
+      "buying_tip": "切成块备用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "5-8 克",
+      "buying_tip": "根据口味调节",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "3ml",
+      "buying_tip": "用于上色",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "6ml",
+      "buying_tip": "用于提鲜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "桂皮",
+      "amount": "1 块",
+      "buying_tip": "挑选干燥、香气浓郁的",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "八角",
+      "amount": "3 个",
+      "buying_tip": "完整的八角香气更足",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "郫县豆瓣酱",
+      "amount": "20 克",
+      "buying_tip": "北方风味炖菜的灵魂调料",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "干辣椒",
+      "amount": "4-6 个",
+      "buying_tip": "根据个人口味选择辣度",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "锅铲",
+    "盛菜盘"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鲤鱼",
+        "expr": "1.2 * n"
+      },
+      {
+        "name": "娃娃菜",
+        "expr": "13 * n"
+      },
+      {
+        "name": "郫县豆瓣酱",
+        "expr": "20 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "食材处理",
+      "instruction": "鲤鱼清洗干净，在鱼身上多划几个伤口（改刀），方便入味。",
+      "duration_sec": 300,
+      "tips": [
+        "鱼腹内的黑膜要撕掉，否则会有腥味"
+      ],
+      "produces": "处理好的鲤鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-yu-dun-bai-cai/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "备菜",
+      "instruction": "娃娃菜清洗干净放入盘中备用。",
+      "duration_sec": 120,
+      "tips": [
+        "娃娃菜可以多准备一些，炖煮后体积会缩小"
+      ],
+      "produces": "洗净的娃娃菜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-yu-dun-bai-cai/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "炒制底料",
+      "instruction": "锅中加油，等油热放入“少盐”、“姜”、“蒜”、“郫县豆瓣酱”、“桂皮”、“八角”炒出香味。",
+      "duration_sec": 60,
+      "tips": [
+        "小火慢炒，避免豆瓣酱糊锅"
+      ],
+      "produces": "香料底油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-yu-dun-bai-cai/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "煎鱼",
+      "instruction": "把鱼放锅里煎，总共煎 3 分钟，每 30 秒翻一次面。",
+      "duration_sec": 180,
+      "tips": [
+        "翻面时动作要轻，防止鱼皮破损"
+      ],
+      "produces": "微焦的鲤鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-yu-dun-bai-cai/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "加入配料",
+      "instruction": "加入水（水量尽量和鱼平齐，可以少一点点），放入“生抽”、“老抽”、“娃娃菜”。",
+      "duration_sec": 60,
+      "tips": [
+        "建议加入温水，这样鱼肉不容易柴"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-yu-dun-bai-cai/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "炖煮出锅",
+      "instruction": "大火炖 15-20 分钟，汤汁快干时添加“盐”即可出锅。",
+      "duration_sec": 1200,
+      "tips": [
+        "最后收汁程度看个人喜好，留点汤汁拌饭也很香"
+      ],
+      "produces": "鲤鱼炖白菜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-yu-dun-bai-cai/step_6.jpg"
+    }
+  ],
+  "tips": [
+    "也可以放一些粉条，粉条需先用冷水或热水泡软，可以和娃娃菜一起放入",
+    "干辣椒根据个人口味选择，不吃辣可以不放",
+    "调料比例建议根据鱼的实际大小进行同比例缩放"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_li-yu-dun-bai-cai.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_li-yu-dun-bai-cai_overview.jpg",
+  "id": "other_li-yu-dun-bai-cai",
+  "status": "published"
+}

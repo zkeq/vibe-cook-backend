@@ -1,0 +1,308 @@
+{
+  "title": "牛排的做法",
+  "summary": "这是一道经典的西式煎牛排，焦香外壳包裹着鲜嫩多汁的肉心，搭配黄油、大蒜和香草，风味浓郁。富含优质蛋白质、油脂及铁、锌等矿物质。",
+  "difficulty": 4,
+  "calories": 1605,
+  "duration_min": 30,
+  "category": "其他",
+  "tags": [
+    "西式",
+    "煎炸",
+    "高蛋白",
+    "硬菜"
+  ],
+  "ingredients": [
+    {
+      "name": "牛排",
+      "amount": "450-500g (两片)",
+      "buying_tip": "建议参考专业选购指南选择适合的部位",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "橄榄油",
+      "amount": "10-15ml",
+      "buying_tip": "推荐特级初榨橄榄油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "黄油",
+      "amount": "20-25g",
+      "buying_tip": "用于后期淋油增香",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "5g",
+      "buying_tip": "推荐大颗粒海盐",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "黑胡椒粉",
+      "amount": "2g",
+      "buying_tip": "推荐粗颗粒现磨黑胡椒",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大蒜",
+      "amount": "1个 (约25-30g)",
+      "buying_tip": "实际用量约为5-10g，需压扁使用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香料",
+      "amount": "2g (3-6根)",
+      "buying_tip": "推荐新鲜迷迭香或百里香，不建议用粉末",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "口蘑",
+      "amount": "5-10个",
+      "buying_tip": "配菜之一",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "小土豆",
+      "amount": "5-10个 (每个约20g)",
+      "buying_tip": "配菜之一",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "小番茄",
+      "amount": "5-10个 (每个约15g)",
+      "buying_tip": "配菜之一",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "预制牛排酱汁",
+      "amount": "适量",
+      "buying_tip": "根据个人口味选择",
+      "optional": true,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "平底锅（推荐铸铁）",
+    "锡箔纸",
+    "厨房纸",
+    "汤匙",
+    "厨房剪刀",
+    "菜刀",
+    "微波炉"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "牛排",
+        "expr": "450-500g * n"
+      },
+      {
+        "name": "黑胡椒粉",
+        "expr": "2g * n"
+      },
+      {
+        "name": "盐",
+        "expr": "5g * n"
+      },
+      {
+        "name": "大蒜",
+        "expr": "1个 * n"
+      },
+      {
+        "name": "橄榄油",
+        "expr": "10-15ml * n"
+      },
+      {
+        "name": "黄油",
+        "expr": "20-25g * n"
+      },
+      {
+        "name": "口蘑",
+        "expr": "5-10个 * n"
+      },
+      {
+        "name": "小土豆",
+        "expr": "5-10个 * n"
+      },
+      {
+        "name": "小番茄",
+        "expr": "5-10个 * n"
+      },
+      {
+        "name": "百里香",
+        "expr": "2g * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "牛排解冻",
+      "instruction": "从冰箱取出牛排。若冰冻需提前一晚冷藏解冻，并在烹饪前半小时放至常温。",
+      "duration_sec": 1800,
+      "tips": [
+        "请勿将牛排置于水中或加热解冻"
+      ],
+      "produces": "常温牛排",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_niu-pai-de-zuo-fa/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "配菜预处理",
+      "instruction": "将小番茄、小土豆和口蘑洗净，对半切开备用。",
+      "duration_sec": 300,
+      "tips": [],
+      "produces": "切好的配菜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_niu-pai-de-zuo-fa/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "大蒜处理",
+      "instruction": "大蒜剥皮，留5-8个大蒜瓣，用刀背压扁。",
+      "duration_sec": 60,
+      "tips": [],
+      "produces": "压扁的蒜瓣",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_niu-pai-de-zuo-fa/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "牛排预处理",
+      "instruction": "肉眼牛排需剪断中心结缔组织；西冷可剔除边油。最后用厨房纸吸干表面全部水分。",
+      "duration_sec": 120,
+      "tips": [
+        "吸干水分是产生焦香外壳的关键"
+      ],
+      "produces": "干燥的待煎牛排",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_niu-pai-de-zuo-fa/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "热锅热油",
+      "instruction": "高火热锅，加入橄榄油，热锅15-30秒至油温6-8成。",
+      "duration_sec": 30,
+      "tips": [
+        "油温需足够高才能锁住肉汁"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_niu-pai-de-zuo-fa/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "即时腌制",
+      "instruction": "将海盐和黑胡椒均匀洒在牛排表面并涂抹揉搓。完成后立即下锅。",
+      "duration_sec": 60,
+      "tips": [
+        "不推荐提前腌制，以免盐分析出水分影响口感"
+      ],
+      "produces": "腌制好的牛排",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_niu-pai-de-zuo-fa/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "第一面煎制",
+      "instruction": "将牛排由近及远放入锅中，高火煎制1.5分钟（视厚度调整）。",
+      "duration_sec": 90,
+      "tips": [
+        "2-3cm厚度适用此时间"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_niu-pai-de-zuo-fa/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "土豆预熟",
+      "instruction": "煎肉同时，将土豆微波加热10分钟或水煮3-5分钟。",
+      "duration_sec": 600,
+      "tips": [],
+      "produces": "半熟土豆",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_niu-pai-de-zuo-fa/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "翻面煎制",
+      "instruction": "牛排翻面，继续煎制1.5分钟。",
+      "duration_sec": 90,
+      "tips": [],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_niu-pai-de-zuo-fa/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "侧面煎制",
+      "instruction": "若是西冷或菲力，需用工具将牛排竖起煎侧面约30秒。",
+      "duration_sec": 30,
+      "tips": [],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_niu-pai-de-zuo-fa/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "加入香料黄油",
+      "instruction": "切中火，快速加入黄油、大蒜、百里香，推动黄油融化并将大蒜压在肉下。",
+      "duration_sec": 30,
+      "tips": [],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_niu-pai-de-zuo-fa/step_11.jpg"
+    },
+    {
+      "index": 12,
+      "title": "淋油增香",
+      "instruction": "倾斜平底锅，用汤匙舀起热油不断淋在牛排上，每面各持续30秒。",
+      "duration_sec": 60,
+      "tips": [
+        "若油变深褐色说明温度过高，需移开灶台"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_niu-pai-de-zuo-fa/step_12.jpg"
+    },
+    {
+      "index": 13,
+      "title": "醒肉",
+      "instruction": "牛排盛出放在案板上，用锡箔纸包裹静置5-10分钟。",
+      "duration_sec": 600,
+      "tips": [
+        "醒肉能锁住水分，使肉质更鲜嫩"
+      ],
+      "produces": "熟牛排",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_niu-pai-de-zuo-fa/step_13.jpg"
+    },
+    {
+      "index": 14,
+      "title": "煎配菜",
+      "instruction": "利用锅中余油，中火煎土豆、番茄、蘑菇5分钟。",
+      "duration_sec": 300,
+      "tips": [],
+      "produces": "熟配菜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_niu-pai-de-zuo-fa/step_14.jpg"
+    },
+    {
+      "index": 15,
+      "title": "切块装盘",
+      "instruction": "牛排切成1.5cm宽条，与配菜一同装盘，淋上余油或酱汁。",
+      "duration_sec": 120,
+      "tips": [],
+      "produces": "成品牛排",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_niu-pai-de-zuo-fa/step_15.jpg"
+    }
+  ],
+  "tips": [
+    "电磁炉火候：高火1.8-2.2kw，中火800-1400w，小火200-600w。",
+    "燃气灶火候：高火旋转气阀70%-90%，中火40%-60%，小火10%-30%。",
+    "调味建议：大蒜、黑胡椒和黄油是核心，可根据喜好加入小米辣等创新调料。",
+    "油温判断：淋油时冒泡且颜色不深褐为宜；锅中出现大量水通常是由于解冻或吸水不彻底。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_niu-pai-de-zuo-fa.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_niu-pai-de-zuo-fa_overview.jpg",
+  "id": "other_niu-pai-de-zuo-fa",
+  "status": "published"
+}

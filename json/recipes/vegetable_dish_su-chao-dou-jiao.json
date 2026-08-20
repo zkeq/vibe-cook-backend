@@ -1,0 +1,244 @@
+{
+  "title": "素炒豆角",
+  "summary": "这是一道酱香浓郁的家常小炒，豆角软嫩入味，鲜辣下饭。富含膳食纤维和多种维生素，有助于促进消化。做法简单，新手也能轻松上手，从备菜到出锅大约 20 分钟。",
+  "difficulty": 2,
+  "calories": 107,
+  "duration_min": 20,
+  "category": "素菜",
+  "tags": [
+    "家常菜",
+    "酱香",
+    "下饭",
+    "简单"
+  ],
+  "ingredients": [
+    {
+      "name": "豆角",
+      "amount": "250g",
+      "buying_tip": "选择色泽翠绿、饱满且容易折断的鲜嫩豆角",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "小米椒",
+      "amount": "2个",
+      "buying_tip": "喜欢更辣的可以选择颜色鲜红的小米辣",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "3圈",
+      "buying_tip": "选用新鲜小葱，香味更足",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜",
+      "amount": "2颗",
+      "buying_tip": "饱满无发芽的独蒜或瓣蒜均可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "6ml",
+      "buying_tip": "普通佐餐生抽即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "2ml",
+      "buying_tip": "主要用于上色，不宜过多",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "耗油",
+      "amount": "6ml",
+      "buying_tip": "提鲜必备",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "6g",
+      "buying_tip": "普通食用盐",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "10ml-15ml",
+      "buying_tip": "推荐使用烟点较高的植物油",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "锅盖",
+    "剪刀"
+  ],
+  "servings": {
+    "base": 2,
+    "formula": [
+      {
+        "name": "豆角",
+        "expr": "250 * n / 2"
+      },
+      {
+        "name": "小米椒",
+        "expr": "2 * n / 2"
+      },
+      {
+        "name": "葱",
+        "expr": "3 * n / 2"
+      },
+      {
+        "name": "蒜",
+        "expr": "2 * n / 2"
+      },
+      {
+        "name": "生抽",
+        "expr": "6 * n / 2"
+      },
+      {
+        "name": "老抽",
+        "expr": "2 * n / 2"
+      },
+      {
+        "name": "耗油",
+        "expr": "6 * n / 2"
+      },
+      {
+        "name": "盐",
+        "expr": "6 * n / 2"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "切配辅料",
+      "instruction": "葱切花，蒜切沫，备用。",
+      "duration_sec": 60,
+      "tips": [
+        "蒜沫可以切得碎一些，更容易出味"
+      ],
+      "produces": "葱花、蒜沫",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_su-chao-dou-jiao/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "调配酱汁",
+      "instruction": "生抽、老抽、耗油、盐混合调料汁，备用。",
+      "duration_sec": 30,
+      "tips": [
+        "提前调好酱汁可以避免炒菜时手忙脚乱"
+      ],
+      "produces": "酱汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_su-chao-dou-jiao/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "处理辣椒",
+      "instruction": "小米椒切圈，备用。",
+      "duration_sec": 30,
+      "tips": [
+        "怕辣的可以去掉辣椒籽"
+      ],
+      "produces": "小米椒圈",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_su-chao-dou-jiao/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "处理豆角",
+      "instruction": "豆角去筋，45° 斜切4-10cm小段，备用。",
+      "duration_sec": 180,
+      "tips": [
+        "去筋后口感更软嫩",
+        "斜切可以增加受热面积，更易入味"
+      ],
+      "produces": "豆角段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_su-chao-dou-jiao/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "爆香底料",
+      "instruction": "起锅烧油(10ml - 15ml)，冒烟后放入葱、小米椒，翻炒至闻到香味。",
+      "duration_sec": 30,
+      "tips": [
+        "油温不宜过高，防止葱花烧焦"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_su-chao-dou-jiao/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "初炒豆角",
+      "instruction": "加入豆角，翻炒30s。",
+      "duration_sec": 30,
+      "tips": [
+        "让豆角均匀裹上油脂"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_su-chao-dou-jiao/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "加入酱汁",
+      "instruction": "加入料汁，开大火翻炒2分钟。",
+      "duration_sec": 120,
+      "tips": [
+        "大火翻炒能激发出酱香味"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_su-chao-dou-jiao/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "加水",
+      "instruction": "倒入 150ml 水。",
+      "duration_sec": 10,
+      "tips": [
+        "水量大约没过豆角的一半即可"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_su-chao-dou-jiao/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "焖制",
+      "instruction": "转中小火，盖上锅盖焖制 8-10 分钟。",
+      "duration_sec": 540,
+      "tips": [
+        "焖制是为了确保豆角熟透，避免中毒"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_su-chao-dou-jiao/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "最后增香",
+      "instruction": "加入蒜切沫，出锅。",
+      "duration_sec": 20,
+      "tips": [
+        "最后加蒜沫是这道菜灵魂酱香的关键"
+      ],
+      "produces": "素炒豆角",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_su-chao-dou-jiao/step_10.jpg"
+    }
+  ],
+  "tips": [
+    "切豆角需要一定的刀工，不会的可以使用剪刀",
+    "豆角必须彻底煮熟，否则可能引起食物中毒"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_su-chao-dou-jiao.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_su-chao-dou-jiao_overview.jpg",
+  "id": "vegetable_dish_su-chao-dou-jiao",
+  "status": "published"
+}

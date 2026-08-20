@@ -1,0 +1,273 @@
+{
+  "title": "卤菜的做法",
+  "summary": "这是一道经典中式卤味，肉质鲜嫩入味，香气浓郁，卤汁可反复使用、越陈越香，适合做凉菜、下酒或搭配主食。菜品富含优质蛋白和多种维生素，营养均衡。制作需要一点耐心，但步骤清晰，对新手比较友好。",
+  "difficulty": 3,
+  "calories": 467,
+  "duration_min": 720,
+  "category": "其他",
+  "tags": [
+    "卤味",
+    "中式",
+    "凉菜",
+    "下酒菜",
+    "牛腱子"
+  ],
+  "ingredients": [
+    {
+      "name": "卤料包",
+      "amount": "1包(约10g)",
+      "buying_tip": "超市即可购买",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "黄豆酱",
+      "amount": "15ml",
+      "buying_tip": "增加酱香风味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": "15ml",
+      "buying_tip": "提升口味层次",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蚝油",
+      "amount": "15ml",
+      "buying_tip": "提鲜必备",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "南腐乳",
+      "amount": "15ml",
+      "buying_tip": "增色增香",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "洋葱",
+      "amount": "半个(约100g)",
+      "buying_tip": "选新鲜紫洋葱更香",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生姜",
+      "amount": "30g",
+      "buying_tip": "去腥必备",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大蒜",
+      "amount": "40g",
+      "buying_tip": "整颗拍碎即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "干辣椒",
+      "amount": "10g",
+      "buying_tip": "根据个人口味调整辣度",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "120ml",
+      "buying_tip": "用于调味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "60ml",
+      "buying_tip": "用于上色",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "10-15g",
+      "buying_tip": "根据口味适量添加",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白糖",
+      "amount": "30g",
+      "buying_tip": "最好是黄冰糖，用于熬糖色",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "啤酒",
+      "amount": "1罐(330ml)",
+      "buying_tip": "去腥增香，使肉质更软烂",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "牛腱子",
+      "amount": "500g",
+      "buying_tip": "选带筋的牛腱子口感更好",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "清水",
+      "amount": "足量",
+      "buying_tip": "需要没过所有肉类",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "高压锅",
+    "滤网",
+    "炒锅",
+    "菜刀",
+    "砧板"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "牛腱子",
+        "expr": "500 * n"
+      },
+      {
+        "name": "生抽",
+        "expr": "120 * n"
+      },
+      {
+        "name": "老抽",
+        "expr": "60 * n"
+      },
+      {
+        "name": "啤酒",
+        "expr": "330 * n"
+      },
+      {
+        "name": "白糖",
+        "expr": "30 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "牛腱子去血水",
+      "instruction": "牛腱子提前浸泡在冷水中 3 小时以上，去除血水",
+      "duration_sec": 10800,
+      "tips": [
+        "中间可以换几次水，效果更好"
+      ],
+      "produces": "去血水牛腱子",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lu-cai-de-zuo-fa/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "熬制糖色",
+      "instruction": "锅中加入 30g 白糖，小火加热至糖完全融化并呈现棕褐色，加入 150ml 热水，搅拌均匀备用",
+      "duration_sec": 600,
+      "tips": [
+        "加热水时小心溅出",
+        "熬糖色建议参考专门教程防止发苦"
+      ],
+      "produces": "糖色水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lu-cai-de-zuo-fa/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "准备辅料",
+      "instruction": "将洋葱切块，生姜和大蒜拍碎，干辣椒掰断备用",
+      "duration_sec": 300,
+      "tips": [
+        "大蒜不用剥得太干净，拍碎即可"
+      ],
+      "produces": "辅料盘",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lu-cai-de-zuo-fa/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "烧制卤水基底",
+      "instruction": "在高压锅中加入足量的水，放入卤料包、洋葱、生姜、大蒜、干辣椒，大火烧开",
+      "duration_sec": 600,
+      "tips": [
+        "水一定要足，保证后续能没过牛肉"
+      ],
+      "produces": "初步卤水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lu-cai-de-zuo-fa/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "调味卤水",
+      "instruction": "依次加入黄豆酱、豆瓣酱、蚝油、南腐乳、糖色、生抽、老抽、盐和啤酒，再次烧开",
+      "duration_sec": 300,
+      "tips": [
+        "每加一种调料建议搅拌均匀"
+      ],
+      "produces": "调味卤水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lu-cai-de-zuo-fa/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "牛肉焯水",
+      "instruction": "牛腱子放入锅中焯水 2-3 分钟，捞出并用热水冲洗干净表面的浮沫",
+      "duration_sec": 300,
+      "tips": [
+        "一定要用热水冲洗，冷水会让肉质紧缩变柴"
+      ],
+      "produces": "干净牛腱子",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lu-cai-de-zuo-fa/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "高压卤制",
+      "instruction": "将牛腱子放入卤水中，盖上高压锅盖，上汽后继续烹饪 25-30 分钟",
+      "duration_sec": 1800,
+      "tips": [
+        "确保卤水没过肉类"
+      ],
+      "produces": "卤熟牛肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lu-cai-de-zuo-fa/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "浸泡入味",
+      "instruction": "烹饪完成后不要开盖，自然冷却并浸泡一晚上",
+      "duration_sec": 28800,
+      "tips": [
+        "这是入味的关键步骤"
+      ],
+      "produces": "入味卤牛肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lu-cai-de-zuo-fa/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "冷藏切片",
+      "instruction": "将卤好的肉取出放入冰箱冷藏使其成型，食用前取出切片",
+      "duration_sec": 1800,
+      "tips": [
+        "冷藏后的牛肉更好切，不易散"
+      ],
+      "produces": "成品卤牛肉片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lu-cai-de-zuo-fa/step_9.jpg"
+    }
+  ],
+  "tips": [
+    "卤水过滤后可反复使用，越陈越香，存放时需重新烧开杀菌并冷冻",
+    "卤制素菜必须另取卤水，且该部分卤水不可再重复使用",
+    "卤水可作为牛肉面的汤底，味道极佳",
+    "凉拌时可按蒜末、葱花、白芝麻、辣椒粉 1:1:1:1 比例配制调料，加入热油和卤汤"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_lu-cai-de-zuo-fa.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_lu-cai-de-zuo-fa_overview.jpg",
+  "id": "other_lu-cai-de-zuo-fa",
+  "status": "published"
+}

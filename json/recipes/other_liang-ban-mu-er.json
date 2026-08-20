@@ -1,0 +1,217 @@
+{
+  "title": "凉拌木耳",
+  "summary": "凉拌木耳，由于发放物资中有很多干货，木耳是较为健康的食物。且凉拌木耳的烹饪方式也相对简单。",
+  "difficulty": 2,
+  "calories": 129,
+  "duration_min": 65,
+  "category": "其他",
+  "tags": [
+    "凉拌菜",
+    "素食",
+    "快手菜",
+    "健康饮食"
+  ],
+  "ingredients": [
+    {
+      "name": "干木耳",
+      "amount": "20g",
+      "buying_tip": "选用肉质厚实、无杂质的干木耳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "湿木耳",
+      "amount": "120g",
+      "buying_tip": "必须是新鲜的湿木耳，不可使用泡发过久的",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "蒜瓣",
+      "amount": "2-3个",
+      "buying_tip": "选择饱满的新鲜大蒜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "小米辣",
+      "amount": "2个",
+      "buying_tip": "根据个人嗜辣程度选择",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "2g",
+      "buying_tip": "普通食用盐即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白糖",
+      "amount": "5-10g",
+      "buying_tip": "用于提鲜和中和酸味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "15ml",
+      "buying_tip": "选用优质生抽增加咸香味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "醋",
+      "amount": "15ml",
+      "buying_tip": "陈醋或香醋皆可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香油",
+      "amount": "5ml",
+      "buying_tip": "纯芝麻香油风味更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "芥末",
+      "amount": "约2cm",
+      "buying_tip": "管装芥末酱，增加风味层次",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "煮锅",
+    "大碗",
+    "菜刀",
+    "砧板",
+    "漏勺"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "干木耳",
+        "expr": "20 * n"
+      },
+      {
+        "name": "湿木耳",
+        "expr": "120 * n"
+      },
+      {
+        "name": "蒜瓣",
+        "expr": "2.5 * n"
+      },
+      {
+        "name": "小米辣",
+        "expr": "2 * n"
+      },
+      {
+        "name": "盐",
+        "expr": "2 * n"
+      },
+      {
+        "name": "糖",
+        "expr": "7.5 * n"
+      },
+      {
+        "name": "生抽",
+        "expr": "15 * n"
+      },
+      {
+        "name": "醋",
+        "expr": "15 * n"
+      },
+      {
+        "name": "香油",
+        "expr": "5 * n"
+      },
+      {
+        "name": "芥末",
+        "expr": "2 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "泡发木耳",
+      "instruction": "将干木耳放入容器，加入约400ml水，泡发约45分钟。如果是湿木耳则跳过此步。",
+      "duration_sec": 2700,
+      "tips": [
+        "水量要没过木耳",
+        "干木耳泡发后体积会变大很多"
+      ],
+      "produces": "泡发好的木耳",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-mu-er/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "修整清洗",
+      "instruction": "将泡发好的木耳剪去根部硬块，并用清水彻底洗净杂质。",
+      "duration_sec": 180,
+      "tips": [
+        "根部容易藏沙，需仔细检查"
+      ],
+      "produces": "处理干净的木耳",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-mu-er/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "焯水处理",
+      "instruction": "起锅烧水，水沸腾后放入木耳，大火煮1.5-2分钟。",
+      "duration_sec": 120,
+      "tips": [
+        "不要煮太久以免失去脆感"
+      ],
+      "produces": "熟木耳",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-mu-er/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "准备调味料",
+      "instruction": "将蒜瓣、小米辣切碎放入中大碗中，依次加入盐、糖、生抽、醋、香油、芥末。",
+      "duration_sec": 300,
+      "tips": [
+        "芥末如不喜欢可不加",
+        "调料可根据口味微调"
+      ],
+      "produces": "凉拌酱汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-mu-er/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "沥水混合",
+      "instruction": "将煮好的木耳捞出，充分沥干水分，放入盛有调料的碗中。",
+      "duration_sec": 60,
+      "tips": [
+        "水分沥得越干越容易入味"
+      ],
+      "produces": "待拌匀的木耳",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-mu-er/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "搅拌装盘",
+      "instruction": "将木耳与调料充分搅拌均匀，端盘上桌。",
+      "duration_sec": 60,
+      "tips": [
+        "搅拌均匀确保每片木耳都沾上酱汁"
+      ],
+      "produces": "凉拌木耳",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-ban-mu-er/step_6.jpg"
+    }
+  ],
+  "tips": [
+    "调味品的数量可以根据个人口味进行调整，如果不喜欢芥末，可以不加入。",
+    "等木耳冷却入味后口味更佳，建议放置约15分钟。",
+    "木耳一定要彻底煮熟，但时间不宜过长保持爽脆。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_liang-ban-mu-er.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_liang-ban-mu-er_overview.jpg",
+  "id": "other_liang-ban-mu-er",
+  "status": "published"
+}

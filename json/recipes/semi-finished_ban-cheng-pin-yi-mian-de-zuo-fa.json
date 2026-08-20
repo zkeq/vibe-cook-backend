@@ -1,0 +1,107 @@
+{
+  "title": "半成品意面的做法",
+  "summary": "这是一道利用市售半成品快速完成的西式简餐，面条弹韧有嚼劲，搭配现成酱料风味浓郁。以碳水化合物为主，能迅速补充能量，并含有蛋白质。制作难度极低，新手也能零失误，从开火到装盘仅需约 2 分钟。",
+  "difficulty": 1,
+  "calories": 578,
+  "duration_min": 2,
+  "category": "半成品加工",
+  "tags": [
+    "西式简餐",
+    "快手菜",
+    "半成品",
+    "意面"
+  ],
+  "ingredients": [
+    {
+      "name": "半成品意大利面",
+      "amount": "1袋(约260g)",
+      "buying_tip": "推荐品牌圃美多，口感较好",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "清水",
+      "amount": "50ml",
+      "buying_tip": "普通饮用水即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "配套酱料",
+      "amount": "1袋",
+      "buying_tip": "通常随半成品面条附带",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "平底锅",
+    "微波炉",
+    "盘子"
+  ],
+  "servings": {
+    "base": 2,
+    "formula": [
+      {
+        "name": "半成品意面总重",
+        "expr": "260g * person"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "热锅并加水",
+      "instruction": "热锅，将 50 ml 清水倒入平底锅",
+      "duration_sec": 20,
+      "tips": [
+        "如果是微波炉法，需使用可加热的盘子"
+      ],
+      "produces": "加热中的锅底水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_ban-cheng-pin-yi-mian-de-zuo-fa/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "炒制面条",
+      "instruction": "将面条放入锅中，翻炒 1 分钟",
+      "duration_sec": 60,
+      "tips": [
+        "注意观察水分，避免干锅"
+      ],
+      "produces": "散开的意面",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_ban-cheng-pin-yi-mian-de-zuo-fa/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "加入酱料",
+      "instruction": "将酱料倒入，继续翻炒 1 分钟",
+      "duration_sec": 60,
+      "tips": [
+        "让酱料均匀包裹每一根面条"
+      ],
+      "produces": "裹满酱汁的意面",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_ban-cheng-pin-yi-mian-de-zuo-fa/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "装盘",
+      "instruction": "将炒好的意面盛入盘中即可",
+      "duration_sec": 10,
+      "tips": [
+        "趁热食用风味最佳"
+      ],
+      "produces": "成品意面",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_ban-cheng-pin-yi-mian-de-zuo-fa/step_4.jpg"
+    }
+  ],
+  "tips": [
+    "不同类型的意面烧制时长有所不同，这里是意大利直面的标准。",
+    "传统意大利面非常长。20 世纪下半叶开始流行短的意大利粉，典型长度 25–30 cm。",
+    "“Spaghettoni”是较厚的意大利粉，“Spaghettini”较细，“capellini”是更细版的意大利面。",
+    "微波炉法：将面、酱、水混合后 700W 加热 2 分钟，取出拌匀即可。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/semi-finished_ban-cheng-pin-yi-mian-de-zuo-fa.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/semi-finished_ban-cheng-pin-yi-mian-de-zuo-fa_overview.jpg",
+  "id": "semi-finished_ban-cheng-pin-yi-mian-de-zuo-fa",
+  "status": "published"
+}

@@ -1,0 +1,203 @@
+{
+  "title": "西红柿豆腐汤羹",
+  "summary": "一道清淡鲜美的家常汤羹，酸甜开胃，口感嫩滑。西红柿富含维生素 C 和番茄红素，搭配鸡蛋与豆腐，能补充优质蛋白，营养均衡易吸收。做法简单，只需切配翻炒和煮制，新手也能轻松掌握，从准备到出锅大约 15 分钟即可完成。",
+  "difficulty": 2,
+  "calories": 242,
+  "duration_min": 15,
+  "category": "其他",
+  "tags": [
+    "清淡",
+    "鲜美",
+    "家常汤",
+    "西红柿",
+    "豆腐"
+  ],
+  "ingredients": [
+    {
+      "name": "西红柿",
+      "amount": "1个",
+      "buying_tip": "选择表皮红润、捏起来稍软的西红柿，汁水更丰富。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": "1个",
+      "buying_tip": "选用新鲜的常温鸡蛋即可。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "豆腐",
+      "amount": "100g",
+      "buying_tip": "建议使用嫩豆腐或内酯豆腐，口感更顺滑。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "5ml",
+      "buying_tip": "普通植物油，如花生油或玉米油。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "2g",
+      "buying_tip": "普通食用盐。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "淀粉",
+      "amount": "5g",
+      "buying_tip": "玉米淀粉或太白粉均可，用于勾芡。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡精",
+      "amount": "2g",
+      "buying_tip": "用于提鲜，也可不放。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香葱",
+      "amount": "0.5根",
+      "buying_tip": "选择翠绿新鲜的小葱。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "1片",
+      "buying_tip": "切薄片以便入味。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "开水",
+      "amount": "350ml",
+      "buying_tip": "直接使用热水可以缩短烹饪时间。",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "汤勺",
+    "盛碗"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "西红柿",
+        "expr": "1 * n"
+      },
+      {
+        "name": "鸡蛋",
+        "expr": "1 * n"
+      },
+      {
+        "name": "豆腐",
+        "expr": "100 * n"
+      },
+      {
+        "name": "食用油",
+        "expr": "5 * n"
+      },
+      {
+        "name": "盐",
+        "expr": "2 * n"
+      },
+      {
+        "name": "淀粉",
+        "expr": "5 * n"
+      },
+      {
+        "name": "鸡精",
+        "expr": "2 * n"
+      },
+      {
+        "name": "香葱",
+        "expr": "0.5 * n"
+      },
+      {
+        "name": "姜",
+        "expr": "1 * n"
+      },
+      {
+        "name": "开水",
+        "expr": "350 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "食材预处理",
+      "instruction": "西红柿切成小丁、鸡蛋打入碗中搅拌、豆腐切块备用",
+      "duration_sec": 300,
+      "tips": [
+        "西红柿丁切得越小，炒制时越容易出汁"
+      ],
+      "produces": "切好的食材",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-dou-fu-tang-geng/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "炒制西红柿",
+      "instruction": "起锅烧油，放入姜片 5 S 后倒入入西红柿翻炒 30 S",
+      "duration_sec": 35,
+      "tips": [
+        "翻炒时可以稍微压一压西红柿，加速其软烂"
+      ],
+      "produces": "炒香的底料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-dou-fu-tang-geng/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "煮汤加料",
+      "instruction": "锅中加入开水，汤水烧开，60 S 后到入鸡蛋液、豆腐块",
+      "duration_sec": 120,
+      "tips": [
+        "倒入蛋液时可以沿锅圈淋入，形成漂亮蛋花"
+      ],
+      "produces": "半成品汤羹",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-dou-fu-tang-geng/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "勾芡",
+      "instruction": "汤水重新烧开后，加入水淀粉，沿一个方向搅拌 2 圈",
+      "duration_sec": 60,
+      "tips": [
+        "水淀粉要提前调匀，避免结块"
+      ],
+      "produces": "浓稠的汤羹",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-dou-fu-tang-geng/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "调味起锅",
+      "instruction": "加入鸡精、盐、香葱，30 S 后起锅",
+      "duration_sec": 30,
+      "tips": [
+        "香葱最后放可以保持色泽翠绿"
+      ],
+      "produces": "西红柿豆腐汤羹",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-dou-fu-tang-geng/step_5.jpg"
+    }
+  ],
+  "tips": [
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_xi-hong-shi-dou-fu-tang-geng.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_xi-hong-shi-dou-fu-tang-geng_overview.jpg",
+  "id": "other_xi-hong-shi-dou-fu-tang-geng",
+  "status": "published"
+}

@@ -1,0 +1,230 @@
+{
+  "title": "海边落日",
+  "summary": "这款鸡尾酒色彩层次分明，底部红石榴糖浆似晚霞，中间橙汁透亮，上层蓝橙酒液如海水，整体呈现海边落日的意境，喝起来酸甜清爽，带朗姆酒香。橙汁和柠檬汁含少量维生素 C，酒精能帮助放松。调酒步骤不复杂，但倒液沿搅拌棒做出分层需要一点耐心，新手跟着做也能成功，准备加调制大约一刻钟搞定。",
+  "difficulty": 3,
+  "calories": 173,
+  "duration_min": 15,
+  "category": "其他",
+  "tags": [
+    "鸡尾酒",
+    "调酒",
+    "朗姆酒",
+    "分层饮品"
+  ],
+  "ingredients": [
+    {
+      "name": "红石榴糖浆",
+      "amount": "15ml",
+      "buying_tip": "超市调料区或线上购买，用于底部颜色",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "NFC 橙汁",
+      "amount": "35~50ml",
+      "buying_tip": "建议选择非浓缩还原橙汁口感更自然",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "苏打水",
+      "amount": "50ml",
+      "buying_tip": "原味气泡水即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白朗姆",
+      "amount": "30ml",
+      "buying_tip": "选用基础款白朗姆酒作为基酒",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蓝橙力娇酒",
+      "amount": "15ml",
+      "buying_tip": "用于调制上层蓝色液体",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "柠檬汁",
+      "amount": "15ml",
+      "buying_tip": "建议使用新鲜柠檬现挤",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "冰块",
+      "amount": "适量",
+      "buying_tip": "建议准备大号冰块，融化较慢",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "柠檬",
+      "amount": "1 片",
+      "buying_tip": "新鲜柠檬，用于装饰",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "大号的玻璃杯",
+    "搅拌棒",
+    "量酒器",
+    "调酒杯",
+    "吸管",
+    "水果刀"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "红石榴糖浆",
+        "expr": "15 * servings"
+      },
+      {
+        "name": "橙汁",
+        "expr": "42.5 * servings"
+      },
+      {
+        "name": "苏打水",
+        "expr": "50 * servings"
+      },
+      {
+        "name": "白朗姆",
+        "expr": "30 * servings"
+      },
+      {
+        "name": "蓝橙力娇酒",
+        "expr": "15 * servings"
+      },
+      {
+        "name": "柠檬汁",
+        "expr": "15 * servings"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理柠檬",
+      "instruction": "将柠檬洗净，用水果刀切出一片备用。",
+      "duration_sec": 60,
+      "tips": [
+        "切片厚薄均匀更好看"
+      ],
+      "produces": "柠檬装饰片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hai-bian-luo-ri/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "准备玻璃杯",
+      "instruction": "选择一个容量在 350~400 毫升的透明玻璃杯。",
+      "duration_sec": 30,
+      "tips": [
+        "透明杯子能完美展示分层效果"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hai-bian-luo-ri/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "冰杯",
+      "instruction": "放入大冰块，用搅拌棒搅拌冰杯以降低杯温。",
+      "duration_sec": 60,
+      "tips": [
+        "冰杯可以延长冰爽口感"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hai-bian-luo-ri/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "加入底层糖浆",
+      "instruction": "倒入 15ml 红石榴糖浆作为底层。",
+      "duration_sec": 30,
+      "tips": [
+        "糖浆密度大，会沉在底部"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hai-bian-luo-ri/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "倒入橙汁分层",
+      "instruction": "让橙汁沿搅拌棒缓缓导入酒杯，直到酒杯容量的一半左右。",
+      "duration_sec": 120,
+      "tips": [
+        "这是分层的关键，速度要慢"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hai-bian-luo-ri/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "微调层次",
+      "instruction": "轻轻搅拌半圈，使颜色自然过渡。",
+      "duration_sec": 10,
+      "tips": [
+        "不要过度搅拌，否则会混合"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hai-bian-luo-ri/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "加入苏打水",
+      "instruction": "倒入 50ml 苏打水。",
+      "duration_sec": 30,
+      "tips": [
+        "增加清爽的口感"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hai-bian-luo-ri/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "摇晃上层酒液",
+      "instruction": "在调酒杯中加入白朗姆、蓝橙力娇酒、柠檬汁及冰块，剧烈摇晃（shake）。",
+      "duration_sec": 120,
+      "tips": [
+        "shake 可以让酒液充分冷却并混合"
+      ],
+      "produces": "蓝色混合酒液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hai-bian-luo-ri/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "完成分层",
+      "instruction": "将摇好的蓝色酒液轻轻倒入酒杯最上层。",
+      "duration_sec": 60,
+      "tips": [
+        "动作要轻柔，避免冲散下层"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hai-bian-luo-ri/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "装饰点缀",
+      "instruction": "插上柠檬片和吸管即可饮用。",
+      "duration_sec": 30,
+      "tips": [
+        "拍照后搅拌均匀饮用口感更佳"
+      ],
+      "produces": "成品鸡尾酒",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hai-bian-luo-ri/step_10.jpg"
+    }
+  ],
+  "tips": [
+    "倒液沿搅拌棒做出分层需要一点耐心，是这款酒成功的关键",
+    "建议使用大冰块，融化速度慢，不会过快稀释酒精",
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_hai-bian-luo-ri.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_hai-bian-luo-ri_overview.jpg",
+  "id": "other_hai-bian-luo-ri",
+  "status": "published"
+}

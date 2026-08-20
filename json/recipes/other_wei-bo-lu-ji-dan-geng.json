@@ -1,0 +1,231 @@
+{
+  "title": "微波炉鸡蛋羹",
+  "summary": "微波炉鸡蛋羹是一道简单快手的家常蒸蛋，口感嫩滑细腻，尤其适合作为夜宵或快速加餐。鸡蛋富含优质蛋白质和多种维生素，能为身体提供必要营养，虾皮还补充了钙质。这道菜对新手非常友好，无需掌握火候技巧，从打蛋调味到出炉，全程仅需约 10 分钟即可完成。",
+  "difficulty": 2,
+  "calories": 160,
+  "duration_min": 10,
+  "category": "其他",
+  "tags": [
+    "微波炉菜谱",
+    "快手菜",
+    "家常菜",
+    "蒸蛋",
+    "高蛋白"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": "2个",
+      "buying_tip": "选择新鲜、蛋壳完整的鸡蛋，单个约50±5g。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "水",
+      "amount": "200ml",
+      "buying_tip": "建议使用温水，口感会更嫩滑。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "虾皮",
+      "amount": "10个",
+      "buying_tip": "选用色泽微黄、干燥、无异味的虾皮。",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "5g",
+      "buying_tip": "选用新鲜翠绿的小葱。",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "3g",
+      "buying_tip": "普通食盐即可。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酱油",
+      "amount": "适量",
+      "buying_tip": "建议使用生抽或蒸鱼豉油。",
+      "optional": true,
+      "per_serving": false
+    },
+    {
+      "name": "芝麻油（香油）",
+      "amount": "1ml",
+      "buying_tip": "选用纯正芝麻油提升香气。",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "微波炉",
+    "陶瓷碗",
+    "筷子",
+    "菜刀",
+    "砧板",
+    "保鲜膜/可微波瓷盘"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鸡蛋",
+        "expr": "2 * n"
+      },
+      {
+        "name": "水",
+        "expr": "200 * n"
+      },
+      {
+        "name": "虾皮",
+        "expr": "10 * n"
+      },
+      {
+        "name": "葱",
+        "expr": "5 * n"
+      },
+      {
+        "name": "盐",
+        "expr": "3 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "打散鸡蛋",
+      "instruction": "将鸡蛋打入可使用微波炉加热的陶瓷碗中，使用筷子将其打散。",
+      "duration_sec": 60,
+      "tips": [
+        "一定要确保将鸡蛋彻底打散，否则加热时可能会发生轻度爆炸。"
+      ],
+      "produces": "蛋液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wei-bo-lu-ji-dan-geng/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "调味搅拌",
+      "instruction": "向蛋液中加入水和盐，搅拌均匀。",
+      "duration_sec": 60,
+      "tips": [
+        "搅拌至盐完全溶解，蛋液与水充分融合。"
+      ],
+      "produces": "稀释蛋液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wei-bo-lu-ji-dan-geng/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "加入虾皮",
+      "instruction": "将虾皮放入碗中，搅拌均匀，保证所有虾皮不会堆积在一起。",
+      "duration_sec": 30,
+      "tips": [
+        "分散虾皮可以使口感更均匀。"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wei-bo-lu-ji-dan-geng/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "准备葱花",
+      "instruction": "葱切碎至边长 0.6±3mm 状，放入碗中搅拌均匀。",
+      "duration_sec": 90,
+      "tips": [
+        "葱花不宜过大，以免影响口感。"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wei-bo-lu-ji-dan-geng/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "初次加热",
+      "instruction": "将碗覆盖保鲜膜或以可微波瓷盘加盖，放入微波炉加热 2 分钟(500W)。",
+      "duration_sec": 120,
+      "tips": [
+        "盖子或保鲜膜不得密封，必须留有涨缩量。"
+      ],
+      "produces": "半熟蛋羹",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wei-bo-lu-ji-dan-geng/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "二次加热",
+      "instruction": "小心地取下保鲜膜或其他覆盖物，然后继续加热 2 分钟。",
+      "duration_sec": 120,
+      "tips": [
+        "小心蒸汽烫伤。"
+      ],
+      "produces": "成品蛋羹",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wei-bo-lu-ji-dan-geng/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "水平旋转",
+      "instruction": "若微波炉不带旋转式加热盘，将碗缓慢的水平旋转 180 度，以确保内容物加热均匀。",
+      "duration_sec": 30,
+      "tips": [
+        "旋转有助于受热均匀。"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wei-bo-lu-ji-dan-geng/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "调香",
+      "instruction": "放入芝麻油。",
+      "duration_sec": 20,
+      "tips": [
+        "香油要在出炉前或刚出炉时放入。"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wei-bo-lu-ji-dan-geng/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "取出容器",
+      "instruction": "小心地从微波炉中拿出碗。",
+      "duration_sec": 10,
+      "tips": [
+        "碗非常烫，建议使用隔热手套。"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wei-bo-lu-ji-dan-geng/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "点缀酱油",
+      "instruction": "如果选择放入酱油，则确保酱油在鸡蛋羹表面流动后能以最薄的形式沾满鸡蛋羹表面即可。",
+      "duration_sec": 30,
+      "tips": [
+        "不要加太多，以免掩盖蛋香。"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wei-bo-lu-ji-dan-geng/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "完成",
+      "instruction": "开心的享受鸡蛋羹。",
+      "duration_sec": 0,
+      "tips": [
+        "趁热食用口感最佳。"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wei-bo-lu-ji-dan-geng/step_11.jpg"
+    }
+  ],
+  "tips": [
+    "鸡蛋 1 个约为 50±5g。若使用其他品种蛋品可按比例增减水量。",
+    "一定要确保将鸡蛋打散，否则可能会发生轻度鸡蛋爆炸。",
+    "鸡蛋和水不能超过碗容量的 2/3，否则可能发生溢出。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_wei-bo-lu-ji-dan-geng.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_wei-bo-lu-ji-dan-geng_overview.jpg",
+  "id": "other_wei-bo-lu-ji-dan-geng",
+  "status": "published"
+}

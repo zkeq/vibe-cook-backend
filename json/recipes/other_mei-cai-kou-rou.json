@@ -1,0 +1,261 @@
+{
+  "title": "梅菜扣肉",
+  "summary": "这是一道客家传统名菜，成菜酱红油亮、汤汁黏稠，扣肉肥而不腻、软烂醇香。五花肉富含优质蛋白和脂肪酸，搭配梅干菜能提供膳食纤维。整体工序稍多，需要掌握煮、炸、蒸的火候，对新手有一定挑战。",
+  "difficulty": 4,
+  "calories": 3756,
+  "duration_min": 150,
+  "category": "其他",
+  "tags": [
+    "客家菜",
+    "硬菜",
+    "猪肉",
+    "蒸菜"
+  ],
+  "ingredients": [
+    {
+      "name": "五花肉",
+      "amount": "200g",
+      "buying_tip": "选择肥瘦相间、层理分明的优质五花肉。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "梅菜",
+      "amount": "30g",
+      "buying_tip": "建议选用优质干梅菜，色泽乌黑发亮者佳。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "五香粉",
+      "amount": "2g",
+      "buying_tip": "市售普通五香粉即可。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "300ml",
+      "buying_tip": "炸肉时油量需充足。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白砂糖",
+      "amount": "5g",
+      "buying_tip": "细砂糖更易溶解。",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "30ml",
+      "buying_tip": "用于上色，选浓稠度高的。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "20ml",
+      "buying_tip": "调味提鲜用。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "小米椒",
+      "amount": "1个",
+      "buying_tip": "新鲜的小米椒风味更佳。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜末",
+      "amount": "10g",
+      "buying_tip": "新鲜大蒜切末。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用盐",
+      "amount": "2g",
+      "buying_tip": "普通加碘盐或海盐均可。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡精",
+      "amount": "2g",
+      "buying_tip": "提鲜使用。",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "筷子",
+    "大碗",
+    "盘子"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "五花肉",
+        "expr": "200 * n"
+      },
+      {
+        "name": "梅菜",
+        "expr": "30 * n"
+      },
+      {
+        "name": "五香粉",
+        "expr": "2 * n"
+      },
+      {
+        "name": "食用油",
+        "expr": "300 * n"
+      },
+      {
+        "name": "白砂糖",
+        "expr": "5 * n"
+      },
+      {
+        "name": "老抽",
+        "expr": "30 * n"
+      },
+      {
+        "name": "生抽",
+        "expr": "20 * n"
+      },
+      {
+        "name": "小米椒",
+        "expr": "1 * n"
+      },
+      {
+        "name": "蒜末",
+        "expr": "10 * n"
+      },
+      {
+        "name": "食用盐",
+        "expr": "2 * n"
+      },
+      {
+        "name": "鸡精",
+        "expr": "2 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "浸泡梅菜",
+      "instruction": "梅菜放到清水中，浸泡 1 小时。",
+      "duration_sec": 3600,
+      "tips": [
+        "浸泡是为了去除泥沙和多余盐分。"
+      ],
+      "produces": "泡发的梅菜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mei-cai-kou-rou/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "处理猪皮（可选）",
+      "instruction": "锅中倒入 50 ml 食用油，将整个五花肉猪皮朝下，放到锅中 1 分钟，取出刮掉猪皮上的杂质。",
+      "duration_sec": 60,
+      "tips": [
+        "此步骤可选，主要是为了让猪皮更干净。"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mei-cai-kou-rou/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "水煮五花肉",
+      "instruction": "锅中加入开水，放入五花肉，大火煮 20 分钟（至筷子可以插进五花肉），取出五花肉。",
+      "duration_sec": 1200,
+      "tips": [
+        "煮熟程度以筷子能穿透为准。"
+      ],
+      "produces": "半熟五花肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mei-cai-kou-rou/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "腌制五花肉",
+      "instruction": "在五花肉表面涂抹均匀老抽、五香粉、白砂糖，放置 15 分钟。",
+      "duration_sec": 900,
+      "tips": [
+        "涂抹均匀有助于后续油炸上色。"
+      ],
+      "produces": "腌制的五花肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mei-cai-kou-rou/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "油炸五花肉",
+      "instruction": "起锅烧油，加入五花肉，中火油炸直至两面金黄色（约 3-5 分钟）。",
+      "duration_sec": 240,
+      "tips": [
+        "炸的时候注意防溅油。"
+      ],
+      "produces": "金黄五花肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mei-cai-kou-rou/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "炒制梅菜",
+      "instruction": "起锅烧油，倒入梅菜，加上小米椒、蒜蓉、鸡精、食用盐后翻炒，直至炒干梅干菜水分。",
+      "duration_sec": 300,
+      "tips": [
+        "炒干水分是为了后续能更好地吸收肉油。"
+      ],
+      "produces": "炒香的梅菜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mei-cai-kou-rou/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "切片装碗",
+      "instruction": "五花肉切片（厚度约 0.5-1 cm），放在大碗中，撒上炒好的梅干菜。",
+      "duration_sec": 300,
+      "tips": [
+        "肉片厚薄要均匀。"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mei-cai-kou-rou/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "上锅蒸制",
+      "instruction": "中火蒸 45 分钟。",
+      "duration_sec": 2700,
+      "tips": [
+        "可以根据个人喜好调整时间，喜欢更软烂的可以多蒸会儿。"
+      ],
+      "produces": "熟扣肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mei-cai-kou-rou/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "倒扣装盘",
+      "instruction": "拿个盘子倒盖在五花肉大碗中，将五花肉倒扣在盘子中即可。",
+      "duration_sec": 60,
+      "tips": [
+        "倒扣时动作要稳，小心烫手。"
+      ],
+      "produces": "梅菜扣肉成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mei-cai-kou-rou/step_9.jpg"
+    }
+  ],
+  "tips": [
+    "不喜欢吃甜的可以去掉白砂糖，不影响主流程。",
+    "蒸制时间可以根据个人喜好调整。",
+    "炒干梅干菜的作用是为了在蒸的过程中充分吸收五花肉出的油。",
+    "油炸后的五花肉皮非常香，是这道菜的精华。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_mei-cai-kou-rou.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_mei-cai-kou-rou_overview.jpg",
+  "id": "other_mei-cai-kou-rou",
+  "status": "published"
+}

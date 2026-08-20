@@ -1,0 +1,238 @@
+{
+  "title": "烤茄子",
+  "summary": "烤茄子香气浓郁、外焦里嫩，孜然和蒜蓉的辛香完美融入软糯的茄肉，是街头烧烤风味在家轻松复刻的菜品。茄子富含维生素 P 和花青素，有助于保护心血管、抗氧化。做法需要用到烤箱，但步骤清晰，新手也能在大约半小时完成，很适合作为家庭聚餐的快手下饭菜。",
+  "difficulty": 3,
+  "calories": 145,
+  "duration_min": 30,
+  "category": "其他",
+  "tags": [
+    "烤箱菜",
+    "烧烤风味",
+    "素食",
+    "快手菜"
+  ],
+  "ingredients": [
+    {
+      "name": "茄子",
+      "amount": "1个(大约200g)",
+      "buying_tip": "选择表皮紫亮、手感较软且无腐烂的长条茄子",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "20-30毫升",
+      "buying_tip": "普通的植物油即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酱油（生抽）",
+      "amount": "4-6克",
+      "buying_tip": "建议使用生抽以保持色泽",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "小米椒",
+      "amount": "1个(大约20g)",
+      "buying_tip": "根据个人吃辣程度选择",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜蓉",
+      "amount": "3-4瓣",
+      "buying_tip": "新鲜大蒜捣碎风味更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "孜然",
+      "amount": "1-3克",
+      "buying_tip": "孜然粉或孜然粒均可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用盐",
+      "amount": "0.5-2克",
+      "buying_tip": "普通加碘盐",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "烤箱",
+    "碗",
+    "纸巾",
+    "叉子",
+    "刀",
+    "小刀"
+  ],
+  "servings": {
+    "base": 2,
+    "formula": [
+      {
+        "name": "茄子",
+        "expr": "0.5 * n"
+      },
+      {
+        "name": "食用油",
+        "expr": "15 * n"
+      },
+      {
+        "name": "酱油",
+        "expr": "3 * n"
+      },
+      {
+        "name": "小米椒",
+        "expr": "0.5 * n"
+      },
+      {
+        "name": "蒜蓉",
+        "expr": "2 * n"
+      },
+      {
+        "name": "孜然",
+        "expr": "1 * n"
+      },
+      {
+        "name": "食用盐",
+        "expr": "0.5 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "调配酱料",
+      "instruction": "将酱油、孜然、食用盐、蒜蓉和切碎的小米椒置于碗中，均匀搅拌备用",
+      "duration_sec": 120,
+      "tips": [
+        "小米椒切得越碎越入味"
+      ],
+      "produces": "混合酱料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-qie-zi/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "清洁茄子",
+      "instruction": "茄子洗净，用纸巾擦干表面的水分",
+      "duration_sec": 60,
+      "tips": [
+        "表面水分必须擦干，防止烤制时溅油"
+      ],
+      "produces": "干燥的茄子",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-qie-zi/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "扎孔透气",
+      "instruction": "用叉子在茄子的一侧扎 4-8 下",
+      "duration_sec": 30,
+      "tips": [
+        "扎孔是为了防止茄子内部压力过大导致爆裂"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-qie-zi/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "涂抹油脂",
+      "instruction": "使用 15-25ml 的食用油涂满茄子表面",
+      "duration_sec": 60,
+      "tips": [
+        "涂油要均匀，确保每一面都覆盖到"
+      ],
+      "produces": "油封茄子",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-qie-zi/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "预热烤箱",
+      "instruction": "将烤箱温度设置为 200℃ （打开烤箱风扇 大火），预热 2 分钟",
+      "duration_sec": 120,
+      "tips": [
+        "预热能让茄子受热更均匀"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-qie-zi/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "第一次烤制",
+      "instruction": "将茄子放入烤箱中层或者上层，烤制 12-15 分钟",
+      "duration_sec": 900,
+      "tips": [
+        "茄子表面有褶皱，且能按压 0.3-0.5cm 的深度即可"
+      ],
+      "produces": "半熟茄子",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-qie-zi/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "划开口子",
+      "instruction": "取出茄子，用刀茄子上竖着划一个口子。口子居中，上下距 1-1.5cm",
+      "duration_sec": 60,
+      "tips": [
+        "注意防烫，划口子时不要切穿底部"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-qie-zi/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "处理内部",
+      "instruction": "用小刀或者叉子伸入口子，竖着切割茄子内部",
+      "duration_sec": 60,
+      "tips": [
+        "切割内部是为了让酱料更好的渗入茄肉"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-qie-zi/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "填入酱料",
+      "instruction": "将口子微微掰开，倒入第一步准备的酱料",
+      "duration_sec": 60,
+      "tips": [
+        "尽量将蒜蓉铺匀"
+      ],
+      "produces": "填料茄子",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-qie-zi/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "第二次烤制",
+      "instruction": "再次将茄子放入烤箱，将烤箱温度设置为 200℃ ，烤制 4-7 分钟",
+      "duration_sec": 360,
+      "tips": [
+        "观察蒜蓉颜色，微微发黄即可"
+      ],
+      "produces": "成品烤茄子",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-qie-zi/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "出炉",
+      "instruction": "取出，关闭烤箱电源",
+      "duration_sec": 30,
+      "tips": [
+        "趁热食用口感最佳"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-qie-zi/step_11.jpg"
+    }
+  ],
+  "tips": [
+    "茄子表面有水分、未涂满食用油或未使用叉子扎孔可能导致茄子在烤制的过程中爆裂",
+    "第一次用刀划口子的时候，可以直接将茄子竖直切成两半，然后切割出纹路后涂抹上酱料",
+    "最终成品和楼下烧烤摊的烤茄子差不多，非常香"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_kao-qie-zi.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_kao-qie-zi_overview.jpg",
+  "id": "other_kao-qie-zi",
+  "status": "published"
+}

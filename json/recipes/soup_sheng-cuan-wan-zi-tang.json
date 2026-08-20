@@ -1,0 +1,205 @@
+{
+  "title": "生汆丸子汤",
+  "summary": "生汆丸子汤口感鲜嫩弹滑，是一道原汁原味的家常汤品。猪肉提供优质蛋白质，搭配木耳、黄花等食材，营养较为均衡。制作中需要自己剁肉并掌握挤丸子的火候，稍有些门槛，更适合有一定基础的厨艺爱好者。",
+  "difficulty": 4,
+  "calories": 857,
+  "duration_min": 60,
+  "category": "汤",
+  "tags": [
+    "家常菜",
+    "中式汤品",
+    "猪肉",
+    "高蛋白"
+  ],
+  "ingredients": [
+    {
+      "name": "猪前腿肉",
+      "amount": "500g",
+      "buying_tip": "肥瘦比例三七分为佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "6g",
+      "buying_tip": "根据肉量按比例调整",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "胡椒粉",
+      "amount": "2g",
+      "buying_tip": "用于去腥增香",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱姜花椒水",
+      "amount": "80g",
+      "buying_tip": "需提前浸泡出味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋清",
+      "amount": "1个",
+      "buying_tip": "增加丸子嫩度",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "土豆淀粉",
+      "amount": "40g",
+      "buying_tip": "口感比玉米淀粉更弹",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "熟豆油",
+      "amount": "适量",
+      "buying_tip": "保持丸子嫩滑",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "木耳",
+      "amount": "适量",
+      "buying_tip": "提前泡发并洗净",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "黄花",
+      "amount": "适量",
+      "buying_tip": "干黄花需提前泡发",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "粉丝",
+      "amount": "1把",
+      "buying_tip": "提前用温水泡软",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "小香葱",
+      "amount": "适量",
+      "buying_tip": "切碎备用",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "鸡粉",
+      "amount": "适量",
+      "buying_tip": "提鲜使用",
+      "optional": true,
+      "per_serving": false
+    },
+    {
+      "name": "香油",
+      "amount": "3-5滴",
+      "buying_tip": "出锅提香",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香菜",
+      "amount": "1小颗",
+      "buying_tip": "点缀及增香",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "辣椒油",
+      "amount": "按口味",
+      "buying_tip": "根据个人喜好添加",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "菜刀",
+    "砧板",
+    "汤锅",
+    "大碗",
+    "搅拌盆"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "盐量",
+        "expr": "猪肉斤数 * 6 克"
+      },
+      {
+        "name": "胡椒粉量",
+        "expr": "猪肉斤数 * 2 克"
+      },
+      {
+        "name": "土豆淀粉",
+        "expr": "用餐人数 * 40 克"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "手工剁肉",
+      "instruction": "将前腿肉改刀切开（肥瘦三七分），先用刀背砸松肉筋，再反复剁成肉末。",
+      "duration_sec": 900,
+      "tips": [
+        "机器打的肉馅太黏糊，手剁的口感更好",
+        "刀背砸肉能让肉质更疏松"
+      ],
+      "produces": "手工肉末",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_sheng-cuan-wan-zi-tang/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "肉馅调味与打水",
+      "instruction": "肉末加入盐和胡椒粉抓匀；分次加入葱姜花椒水，边加边顺时针揉匀让肉吸饱水；放入蛋清搅匀，再加入淀粉搅匀，最后加入熟豆油封住水分。",
+      "duration_sec": 600,
+      "tips": [
+        "每斤肉末加80克葱姜花椒水",
+        "必须顺着一个方向搅拌",
+        "熟豆油能保持丸子嫩滑弹牙"
+      ],
+      "produces": "调制肉馅",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_sheng-cuan-wan-zi-tang/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "汆煮丸子",
+      "instruction": "起锅烧水，水开后改小火保持似开非开的状态。上手挤出丸子下锅，待全部丸子漂浮起来后，继续小火煮1分钟。",
+      "duration_sec": 600,
+      "tips": [
+        "火不能大，否则丸子容易煮散",
+        "丸子漂起即代表基本成熟"
+      ],
+      "produces": "熟丸子及原汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_sheng-cuan-wan-zi-tang/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "汤底组装",
+      "instruction": "在碗底铺上泡好的粉丝，加入木耳、黄花、小香葱，并用盐、胡椒粉、鸡粉打底。将丸子连同原汤一起冲入碗中，淋上香油，放上香菜即可。",
+      "duration_sec": 300,
+      "tips": [
+        "用热汤冲入碗中可以瞬间激发配料香味",
+        "香油只需3-5滴即可"
+      ],
+      "produces": "生汆丸子汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_sheng-cuan-wan-zi-tang/step_4.jpg"
+    }
+  ],
+  "tips": [
+    "辣椒油可以根据口味在最后步骤放入",
+    "掌握好挤丸子的火候是成功的关键",
+    "如果觉得口感不够，可以适当增加搅拌肉馅的时间"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/soup_sheng-cuan-wan-zi-tang.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/soup_sheng-cuan-wan-zi-tang_overview.jpg",
+  "id": "soup_sheng-cuan-wan-zi-tang",
+  "status": "published"
+}

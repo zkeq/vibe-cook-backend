@@ -1,0 +1,241 @@
+{
+  "title": "巴基斯坦牛肉咖喱",
+  "summary": "这道巴基斯坦风味咖喱牛肉香浓软糯，酸辣开胃，带着浓郁的香料气息。牛肉提供优质蛋白，搭配番茄和酸奶，营养均衡。做法不算繁琐，但慢炖需要一点耐心，很适合在闲暇的周末从容准备。从头到尾大约两个半小时，就能端出一锅温暖的异国美味。",
+  "difficulty": 5,
+  "calories": 602,
+  "duration_min": 150,
+  "category": "其他",
+  "tags": [
+    "巴基斯坦菜",
+    "牛肉",
+    "咖喱",
+    "炖菜",
+    "异国风味"
+  ],
+  "ingredients": [
+    {
+      "name": "牛肉",
+      "amount": "1kg",
+      "buying_tip": "建议选择适合慢炖的牛肉部位，切成2cm小块",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "番茄",
+      "amount": "4个",
+      "buying_tip": "选择成熟饱满的番茄",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "螺丝椒",
+      "amount": "2个",
+      "buying_tip": "选择大个的螺丝椒",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "原味酸奶",
+      "amount": "1盒",
+      "buying_tip": "普通的无糖或原味酸奶，用于浓稠酱汁",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "Masala 粉",
+      "amount": "50g",
+      "buying_tip": "推荐品牌为 Shan",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜粉",
+      "amount": "5g",
+      "buying_tip": "市售普通蒜粉即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜粉",
+      "amount": "5g",
+      "buying_tip": "市售普通姜粉即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "适量（一层）",
+      "buying_tip": "普通植物油即可",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "水",
+      "amount": "250ml",
+      "buying_tip": "用于炖煮",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "普通的炒锅",
+    "电饭煲/电炖锅",
+    "菜刀",
+    "砧板",
+    "料理机（用于打番茄蓉）"
+  ],
+  "servings": {
+    "base": 5,
+    "formula": [
+      {
+        "name": "牛肉",
+        "expr": "1 * weight"
+      },
+      {
+        "name": "番茄",
+        "expr": "4 * weight"
+      },
+      {
+        "name": "螺丝椒",
+        "expr": "2 * weight"
+      },
+      {
+        "name": "原味酸奶",
+        "expr": "1 * weight"
+      },
+      {
+        "name": "Masala 粉",
+        "expr": "50 * weight"
+      },
+      {
+        "name": "蒜粉",
+        "expr": "5 * weight"
+      },
+      {
+        "name": "姜粉",
+        "expr": "5 * weight"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理辣椒",
+      "instruction": "全部螺丝椒切成段状，备用",
+      "duration_sec": 60,
+      "tips": [
+        "切段大小均匀即可"
+      ],
+      "produces": "螺丝椒段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ji-si-tan-niu-rou-ga-li/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "制作番茄蓉",
+      "instruction": "全部番茄打成番茄蓉，备用",
+      "duration_sec": 180,
+      "tips": [
+        "可以使用料理机快速处理"
+      ],
+      "produces": "番茄蓉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ji-si-tan-niu-rou-ga-li/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "处理牛肉",
+      "instruction": "牛肉切成 2cm 的小块，洗净备用",
+      "duration_sec": 300,
+      "tips": [
+        "切块不宜过大，方便入味和炖烂"
+      ],
+      "produces": "牛肉块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ji-si-tan-niu-rou-ga-li/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "热油",
+      "instruction": "炒锅中倒入一层油",
+      "duration_sec": 60,
+      "tips": [
+        "油层主要用来防止后续番茄蓉沸腾蒸发过快"
+      ],
+      "produces": "热油锅",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ji-si-tan-niu-rou-ga-li/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "炒制番茄",
+      "instruction": "倒入番茄蓉，持续搅拌 2-3 分钟，等待它越变越红",
+      "duration_sec": 180,
+      "tips": [
+        "持续搅拌防止糊锅"
+      ],
+      "produces": "浓缩番茄底料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ji-si-tan-niu-rou-ga-li/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "加入调味粉",
+      "instruction": "加入 5g 蒜粉，5g 姜粉和 1 包 50g 的 Masala 粉，搅拌均匀",
+      "duration_sec": 60,
+      "tips": [
+        "确保香料粉完全混合均匀"
+      ],
+      "produces": "香料底酱",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ji-si-tan-niu-rou-ga-li/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "加入主料",
+      "instruction": "加入牛肉和螺丝椒段，搅拌均匀",
+      "duration_sec": 60,
+      "tips": [
+        "让牛肉均匀裹上酱汁"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ji-si-tan-niu-rou-ga-li/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "调入酸奶",
+      "instruction": "加入 1 盒酸奶，搅拌均匀",
+      "duration_sec": 60,
+      "tips": [
+        "酸奶能让整个酱汁变得粘稠且口感柔和"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ji-si-tan-niu-rou-ga-li/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "转移慢炖",
+      "instruction": "将整锅材料转移到电饭煲/电炖锅，并加入 250 ml 的水，开启炖肉/慢炖档，设定时间 2-3 个小时",
+      "duration_sec": 9000,
+      "tips": [
+        "根据牛肉的韧度调整时间，越久越软糯"
+      ],
+      "produces": "炖煮中的咖喱",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ji-si-tan-niu-rou-ga-li/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "出锅检查",
+      "instruction": "等待完成，开锅检查牛肉软糯，即可食用",
+      "duration_sec": 60,
+      "tips": [
+        "如果汁水过多可以再适当收汁"
+      ],
+      "produces": "巴基斯坦牛肉咖喱",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ji-si-tan-niu-rou-ga-li/step_10.jpg"
+    }
+  ],
+  "tips": [
+    "这道菜非常正宗，是从巴基斯坦朋友处习得",
+    "通常配以 烙饼(roti)、馕(naan) 或 米饭 食用",
+    "如果想做 Chicken karahi 流程基本一致，但需先用油和花椒胡椒将鸡肉煎至变黄"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ba-ji-si-tan-niu-rou-ga-li.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ba-ji-si-tan-niu-rou-ga-li_overview.jpg",
+  "id": "other_ba-ji-si-tan-niu-rou-ga-li",
+  "status": "published"
+}

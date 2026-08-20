@@ -1,0 +1,264 @@
+{
+  "title": "广式萝卜牛腩",
+  "summary": "这是一道广式家常炖菜，牛腩软烂入味，萝卜吸饱汤汁后清甜浓郁，整体酱香回甘。富含优质蛋白和膳食纤维，开胃助消化。",
+  "difficulty": 4,
+  "calories": 483,
+  "duration_min": 150,
+  "category": "其他",
+  "tags": [
+    "广式",
+    "家常菜",
+    "炖菜",
+    "牛腩",
+    "白萝卜"
+  ],
+  "ingredients": [
+    {
+      "name": "牛腩",
+      "amount": "500g",
+      "buying_tip": "选择带有筋膜的坑腩口感更丰富",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白萝卜",
+      "amount": "1 根",
+      "buying_tip": "选择表皮光滑、拿起来沉甸甸的更清甜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜片",
+      "amount": "8 片",
+      "buying_tip": "老姜去腥效果更好",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜瓣",
+      "amount": "5 片",
+      "buying_tip": "普通大蒜即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "1 把",
+      "buying_tip": "用于打成葱结",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "八角",
+      "amount": "2 片",
+      "buying_tip": "干燥且完整的",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "桂皮",
+      "amount": "1 小块",
+      "buying_tip": "香味浓郁的",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "干辣椒",
+      "amount": "2 个",
+      "buying_tip": "根据个人口味增减",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香叶",
+      "amount": "2 片",
+      "buying_tip": "增香必备",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "南乳",
+      "amount": "1 块",
+      "buying_tip": "广式风味的关键，也称红腐乳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "柱侯酱",
+      "amount": "30g",
+      "buying_tip": "焖制牛羊肉的灵魂酱料",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蚝油",
+      "amount": "15g",
+      "buying_tip": "提鲜用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酱油",
+      "amount": "15g",
+      "buying_tip": "调味生抽即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "冰糖",
+      "amount": "10g",
+      "buying_tip": "增加亮度和回甘，可用白糖代替",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "5g",
+      "buying_tip": "根据酱料咸度最后微调",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "15g",
+      "buying_tip": "主要用于润色",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "汤锅",
+    "菜刀",
+    "砧板",
+    "调料碗"
+  ],
+  "servings": {
+    "base": 4,
+    "formula": [
+      {
+        "name": "牛腩",
+        "expr": "125 * n"
+      },
+      {
+        "name": "白萝卜",
+        "expr": "0.25 * n"
+      },
+      {
+        "name": "柱侯酱",
+        "expr": "7.5 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "萝卜预处理",
+      "instruction": "白萝卜洗净去皮，切成滚刀块备用。",
+      "duration_sec": 180,
+      "tips": [
+        "块不要切太小，否则久煮易烂"
+      ],
+      "produces": "切好的萝卜块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_guang-shi-luo-bo-niu-nan/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "牛腩焯水",
+      "instruction": "牛腩整块放入冷水中，加入 2 片姜和一把葱结，水开后煮 5-10 分钟撇去浮沫。",
+      "duration_sec": 600,
+      "tips": [
+        "整块焯水能更好保留肉香"
+      ],
+      "produces": "初步去腥的牛腩",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_guang-shi-luo-bo-niu-nan/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "牛腩切件",
+      "instruction": "将焯水后的牛腩捞出，切成自己喜欢的大小块状。",
+      "duration_sec": 180,
+      "tips": [
+        "焯过水的牛腩后续焖煮基本不再缩水"
+      ],
+      "produces": "牛腩块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_guang-shi-luo-bo-niu-nan/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "调配酱汁",
+      "instruction": "将南乳、柱侯酱、酱油、蚝油、糖、盐按比例放入碗中调和均匀。",
+      "duration_sec": 120,
+      "tips": [
+        "如果冰糖不方便融化，可用白糖代替"
+      ],
+      "produces": "混合酱料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_guang-shi-luo-bo-niu-nan/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "炒制牛腩",
+      "instruction": "热锅下油，爆香姜蒜，放入牛腩炒至表面干身。倒入调好的酱料炒香，可加少许老抽润色。",
+      "duration_sec": 300,
+      "tips": [
+        "炒干水分能让酱汁更入味"
+      ],
+      "produces": "上色的牛腩",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_guang-shi-luo-bo-niu-nan/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "加入热水",
+      "instruction": "向锅中倒入足量的热水，没过牛腩。",
+      "duration_sec": 60,
+      "tips": [
+        "必须加热水，冷水会使牛肉纤维收缩变柴"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_guang-shi-luo-bo-niu-nan/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "小火焖煮",
+      "instruction": "将牛腩及汤汁换到汤锅中，放入桂皮、八角、香叶和干辣椒，大火烧开转小火焖约 2 小时。",
+      "duration_sec": 7200,
+      "tips": [
+        "期间注意观察水量，防止干锅"
+      ],
+      "produces": "软烂的牛腩",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_guang-shi-luo-bo-niu-nan/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "加入萝卜",
+      "instruction": "当牛腩焖至半软状态时，加入白萝卜块继续焖煮 30 分钟。",
+      "duration_sec": 1800,
+      "tips": [
+        "萝卜会出水，此时不需要额外加水"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_guang-shi-luo-bo-niu-nan/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "收汁完成",
+      "instruction": "待萝卜焖至透明软烂，根据咸淡最后调味即可出锅。",
+      "duration_sec": 120,
+      "tips": [
+        "最后可以大火稍微收汁让汤汁更浓郁"
+      ],
+      "produces": "广式萝卜牛腩",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_guang-shi-luo-bo-niu-nan/step_9.jpg"
+    }
+  ],
+  "tips": [
+    "牛腩焯水后再切块，焖煮时基本不会缩水。",
+    "冰糖没有了可以用白糖代替，效果相近。",
+    "若喜欢色泽深红浓郁，老抽的比例可以适当增加。",
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_guang-shi-luo-bo-niu-nan.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_guang-shi-luo-bo-niu-nan_overview.jpg",
+  "id": "other_guang-shi-luo-bo-niu-nan",
+  "status": "published"
+}

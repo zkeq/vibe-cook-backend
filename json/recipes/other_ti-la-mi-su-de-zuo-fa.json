@@ -1,0 +1,226 @@
+{
+  "title": "提拉米苏的做法",
+  "summary": "这道意大利传统甜品无需烤箱，奶酪糊绵密轻盈，浸润咖啡液的手指饼干香醇柔软，属于入门级甜点。富含蛋白质和钙质，但糖分与热量较高，宜偶尔享用。操作简便，对烘焙新手十分友好，只需大约半小时动手，再冷藏四小时即可成型品尝。",
+  "difficulty": 4,
+  "calories": 809,
+  "duration_min": 270,
+  "category": "其他",
+  "tags": [
+    "甜点",
+    "意大利菜",
+    "免烤箱",
+    "下午茶"
+  ],
+  "ingredients": [
+    {
+      "name": "马斯卡彭芝士",
+      "amount": "450g",
+      "buying_tip": "建议购买冷藏保存的优质马斯卡彭芝士",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "手指饼干",
+      "amount": "1 包",
+      "buying_tip": "建议选择质地较硬的萨伏雅尔蒂手指饼干",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "放凉浓缩咖啡",
+      "amount": "350ml",
+      "buying_tip": "使用现磨浓缩咖啡风味更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "无菌鸡蛋",
+      "amount": "4 个",
+      "buying_tip": "由于涉及生食，必须使用可生食级别的无菌鸡蛋",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白砂糖",
+      "amount": "50g",
+      "buying_tip": "细砂糖更易溶解于蛋液中",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "可可粉",
+      "amount": "10g",
+      "buying_tip": "选用无糖纯可可粉",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "朗姆酒",
+      "amount": "35ml",
+      "buying_tip": "黑朗姆酒或咖啡利口酒皆可",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "玻璃乐扣容器",
+    "打蛋器",
+    "分蛋器",
+    "面粉筛",
+    "搅拌碗"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "马斯卡彭芝士",
+        "expr": "450 * base"
+      },
+      {
+        "name": "手指饼干",
+        "expr": "1 * base"
+      },
+      {
+        "name": "浓缩咖啡",
+        "expr": "350 * base"
+      },
+      {
+        "name": "无菌鸡蛋",
+        "expr": "4 * base"
+      },
+      {
+        "name": "白砂糖",
+        "expr": "50 * base"
+      },
+      {
+        "name": "可可粉",
+        "expr": "10 * base"
+      },
+      {
+        "name": "朗姆酒",
+        "expr": "35 * base"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "分离蛋黄蛋清",
+      "instruction": "使用分蛋器或蛋壳小心将4个无菌鸡蛋的蛋黄与蛋清分离，分别装在两个干净的碗中。",
+      "duration_sec": 120,
+      "tips": [
+        "装蛋白的碗必须无油无水"
+      ],
+      "produces": "分离好的蛋黄和蛋清",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ti-la-mi-su-de-zuo-fa/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "打发蛋白",
+      "instruction": "在蛋白中加入10g白砂糖，使用打蛋器打发至湿性发泡（提起打蛋器有弯曲的小尖角）。",
+      "duration_sec": 300,
+      "tips": [
+        "打发程度决定了成品的轻盈感"
+      ],
+      "produces": "打发蛋白霜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ti-la-mi-su-de-zuo-fa/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "蛋黄加糖搅拌",
+      "instruction": "在蛋黄中分三次加入剩余的40g白砂糖，持续搅拌至蛋黄颜色变浅且均匀。",
+      "duration_sec": 180,
+      "tips": [
+        "分次加入有助于砂糖充分溶解"
+      ],
+      "produces": "蛋黄糖液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ti-la-mi-su-de-zuo-fa/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "加入马斯卡彭芝士",
+      "instruction": "将马斯卡彭芝士分三次加入蛋黄液中，搅拌至完全顺滑无颗粒。",
+      "duration_sec": 300,
+      "tips": [
+        "芝士提前室温软化会更容易搅拌"
+      ],
+      "produces": "蛋黄芝士糊",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ti-la-mi-su-de-zuo-fa/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "加入朗姆酒",
+      "instruction": "在蛋黄芝士糊中最后加入35ml朗姆酒，搅拌均匀。",
+      "duration_sec": 60,
+      "tips": [
+        "不喜酒味可省略此步"
+      ],
+      "produces": "风味芝士糊",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ti-la-mi-su-de-zuo-fa/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "混合蛋白与芝士糊",
+      "instruction": "将打发好的蛋白分三次加入蛋黄芝士液中，采用翻拌的手法轻轻混合均匀。",
+      "duration_sec": 180,
+      "tips": [
+        "严禁转圈搅拌，防止蛋白消泡"
+      ],
+      "produces": "提拉米苏奶酪液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ti-la-mi-su-de-zuo-fa/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "饼干浸泡咖啡",
+      "instruction": "将手指饼干两面快速浸入放凉的浓缩咖啡液中，迅速取出平铺在容器底部。",
+      "duration_sec": 300,
+      "tips": [
+        "速度要快，饼干泡太久会断裂软烂"
+      ],
+      "produces": "咖啡手指饼干底层",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ti-la-mi-su-de-zuo-fa/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "组装铺层",
+      "instruction": "按照“一层饼干、一层芝士液”的顺序交替铺入容器，通常为两层饼干两层芝士。",
+      "duration_sec": 300,
+      "tips": [
+        "可根据容器高度酌情调整层数"
+      ],
+      "produces": "待冷藏的提拉米苏",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ti-la-mi-su-de-zuo-fa/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "冷藏成型",
+      "instruction": "盖上盖子或保鲜膜，放入冰箱冷藏至少四个小时。",
+      "duration_sec": 14400,
+      "tips": [
+        "冷藏时间越久，风味融合越好，心急可提前取出"
+      ],
+      "produces": "凝固的提拉米苏",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ti-la-mi-su-de-zuo-fa/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "筛粉装饰",
+      "instruction": "食用前从冰箱取出，在表面均匀筛上一层可可粉。",
+      "duration_sec": 60,
+      "tips": [
+        "吃之前再筛粉可以防止粉末受潮变黑"
+      ],
+      "produces": "成品提拉米苏",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ti-la-mi-su-de-zuo-fa/step_10.jpg"
+    }
+  ],
+  "tips": [
+    "关于蛋白打发的具体细节，可参考下厨房相关教程",
+    "如对制作流程有改进建议，欢迎提出 Issue 或 Pull request",
+    "容器建议使用玻璃乐扣，方便观察分层且密封性好"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ti-la-mi-su-de-zuo-fa.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ti-la-mi-su-de-zuo-fa_overview.jpg",
+  "id": "other_ti-la-mi-su-de-zuo-fa",
+  "status": "published"
+}

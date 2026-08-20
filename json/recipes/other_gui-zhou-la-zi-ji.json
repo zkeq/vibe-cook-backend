@@ -1,0 +1,218 @@
+{
+  "title": "贵州辣子鸡",
+  "summary": "贵州辣子鸡是贵州地区的经典家常菜，以糍粑辣椒和多种香料烹制而成，鸡肉香糯软烂，土豆绵密入味，整体风味香辣浓郁。鸡肉富含优质蛋白质，搭配土豆等配菜，营养均衡。",
+  "difficulty": 4,
+  "calories": 1441,
+  "duration_min": 90,
+  "category": "其他",
+  "tags": [
+    "贵州菜",
+    "辣子鸡",
+    "家常菜",
+    "香辣"
+  ],
+  "ingredients": [
+    {
+      "name": "农村玉米鸡",
+      "amount": "2000g (4斤)",
+      "buying_tip": "建议选用散养玉米鸡，肉质更紧实香糯",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "土豆",
+      "amount": "2个",
+      "buying_tip": "选黄心土豆，口感更绵密",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大蒜",
+      "amount": "2个",
+      "buying_tip": "整颗剥皮使用即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香叶",
+      "amount": "2片",
+      "buying_tip": "选用干燥无霉点的香叶",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "2块 (手指大小)",
+      "buying_tip": "老姜风味更足",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "20ml",
+      "buying_tip": "主要用于上色",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "花椒 or 麻椒",
+      "amount": "适量",
+      "buying_tip": "根据个人口味调节麻度",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "糍粑辣椒",
+      "amount": "500g",
+      "buying_tip": "建议用花溪党武、遵义子弹头、条子椒、大方皱椒混合打碎",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": "适量",
+      "buying_tip": "增加底味的咸香",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "啤酒",
+      "amount": "半瓶",
+      "buying_tip": "普通黄啤即可，用于去腥增香",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜苗",
+      "amount": "3根",
+      "buying_tip": "增加菜肴的清新香气",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酒糟",
+      "amount": "适量",
+      "buying_tip": "贵州风味的关键，提升鲜甜度",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "食用油 (菜籽油)",
+      "amount": "1000ml (2斤)",
+      "buying_tip": "推荐用菜籽油炸鸡，色泽更黄亮",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "漏勺"
+  ],
+  "servings": {
+    "base": 3,
+    "formula": [
+      {
+        "name": "鸡肉",
+        "expr": "4斤 / 3-4人"
+      },
+      {
+        "name": "啤酒",
+        "expr": "0.5瓶 / 4斤鸡"
+      },
+      {
+        "name": "糍粑辣椒",
+        "expr": "500g / 4斤鸡"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "炸制土豆与鸡块",
+      "instruction": "锅中加入半锅油，将切成长条的土豆炸至表面金黄捞出。待油温升高后，放入鸡块、生姜片和花椒炸制。",
+      "duration_sec": 600,
+      "tips": [
+        "土豆要先炸好捞出",
+        "油温要足够高再下鸡块"
+      ],
+      "produces": "炸金黄的土豆和初炸鸡块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gui-zhou-la-zi-ji/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "脱水处理",
+      "instruction": "持续炸制鸡块，直到锅中的油由浑浊（水汽）转为清澈，此时鸡块已炸好，捞出备用。",
+      "duration_sec": 900,
+      "tips": [
+        "油变清澈是水分干透的标志"
+      ],
+      "produces": "脱水后的干香鸡块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gui-zhou-la-zi-ji/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "调整油量",
+      "instruction": "从锅中捞出约三分之一的油，避免后续操作油量过大。",
+      "duration_sec": 60,
+      "tips": [
+        "预留适量底油即可"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gui-zhou-la-zi-ji/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "炒制底料",
+      "instruction": "加热剩余油，加入糍粑辣椒、豆瓣酱、生姜片，小火炒出红油，再倒入炸好的鸡块翻炒均匀。",
+      "duration_sec": 300,
+      "tips": [
+        "注意控制火候，糍粑辣椒易糊"
+      ],
+      "produces": "上色的红油鸡块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gui-zhou-la-zi-ji/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "焖煮入味",
+      "instruction": "加入老抽上色，倒入啤酒（量需盖过鸡块），放入香叶，盖盖焖煮10分钟，期间适时翻炒。",
+      "duration_sec": 600,
+      "tips": [
+        "啤酒要没过食材"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gui-zhou-la-zi-ji/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "加入配菜焖煮",
+      "instruction": "放入炸好的土豆条和整颗大蒜，继续盖盖焖煮20分钟。",
+      "duration_sec": 1200,
+      "tips": [
+        "大蒜整颗入锅口感更好"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gui-zhou-la-zi-ji/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "收汁出锅",
+      "instruction": "加入酒糟翻炒均匀，最后撒上切好的蒜苗段，即可出锅。",
+      "duration_sec": 120,
+      "tips": [
+        "酒糟不宜过早放入，最后提味即可"
+      ],
+      "produces": "贵州辣子鸡",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gui-zhou-la-zi-ji/step_7.jpg"
+    }
+  ],
+  "tips": [
+    "操作时需要注意频繁翻炒，因为糍粑辣椒含有水分且粘性大，非常容易糊底",
+    "选择多种辣椒混合制作的糍粑辣椒是这道菜风味正宗的关键"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_gui-zhou-la-zi-ji.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_gui-zhou-la-zi-ji_overview.jpg",
+  "id": "other_gui-zhou-la-zi-ji",
+  "status": "published"
+}

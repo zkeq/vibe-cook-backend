@@ -1,0 +1,139 @@
+{
+  "title": "金针菇汤",
+  "summary": "这是一道清淡爽口的家常汤品，口味鲜美，属简易快手菜。金针菇含有丰富的氨基酸和膳食纤维，加鸡蛋还能补充优质蛋白。制作门槛极低，新手也能轻松驾驭，从备菜到出锅大约只需 10 分钟。",
+  "difficulty": 2,
+  "calories": 149,
+  "duration_min": 10,
+  "category": "汤",
+  "tags": [
+    "清淡",
+    "快手菜",
+    "家常菜",
+    "高纤维"
+  ],
+  "ingredients": [
+    {
+      "name": "金针菇",
+      "amount": "400-500克",
+      "buying_tip": "市场里面售卖的一袋即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食盐",
+      "amount": "15克",
+      "buying_tip": "普通家用食盐",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "味精",
+      "amount": "5克",
+      "buying_tip": "颗粒均匀干燥者为佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": "1-2个",
+      "buying_tip": "根据个人喜好添加",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "香油/麻油",
+      "amount": "3-4滴",
+      "buying_tip": "出锅增香使用",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "锅",
+    "菜刀",
+    "水果刀",
+    "砧板"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "金针菇",
+        "expr": "450 * n"
+      },
+      {
+        "name": "食盐",
+        "expr": "15 * n"
+      },
+      {
+        "name": "味精",
+        "expr": "5 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理金针菇",
+      "instruction": "金针菇徒手掰散，越散越好不然容易藏牙，洗净备用。",
+      "duration_sec": 120,
+      "tips": [
+        "一定要掰散，避免食用时塞牙"
+      ],
+      "produces": "洗净撕开的金针菇",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_jin-zhen-gu-tang/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "切段",
+      "instruction": "用菜刀或者水果刀将上述金针菇段段切，可依据个人喜好，但长度不宜超过 5 cm。",
+      "duration_sec": 60,
+      "tips": [
+        "长度控制在5cm以内更方便入口"
+      ],
+      "produces": "金针菇段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_jin-zhen-gu-tang/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "入锅煮制",
+      "instruction": "将金针菇放入锅中，加水没过约食材总高度 1.1 倍，沸腾后等待 3 分钟。",
+      "duration_sec": 480,
+      "tips": [
+        "如果喜欢加蛋，水开后倒入蛋液"
+      ],
+      "produces": "半成品金针菇汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_jin-zhen-gu-tang/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "调味",
+      "instruction": "加入味精和食盐并搅拌。",
+      "duration_sec": 30,
+      "tips": [
+        "搅拌均匀使调味品充分溶解"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_jin-zhen-gu-tang/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "装盘",
+      "instruction": "继续加热约 30 秒，关火装盘。",
+      "duration_sec": 30,
+      "tips": [
+        "出锅后可滴入香油增香"
+      ],
+      "produces": "金针菇汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_jin-zhen-gu-tang/step_5.jpg"
+    }
+  ],
+  "tips": [
+    "如果喜欢在汤里加入鸡蛋，可在步骤 3 中水沸腾之后将打散的鸡蛋液倒入锅中。",
+    "出锅后可加入 3-4 滴香油（或者麻油）增香。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/soup_jin-zhen-gu-tang.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/soup_jin-zhen-gu-tang_overview.jpg",
+  "id": "soup_jin-zhen-gu-tang",
+  "status": "published"
+}

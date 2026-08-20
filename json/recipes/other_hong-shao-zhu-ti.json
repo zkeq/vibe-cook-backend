@@ -1,0 +1,224 @@
+{
+  "title": "红烧猪蹄",
+  "summary": "红烧猪蹄是一道汤汁浓郁、肉质软糯的经典家常菜，咸香甜美，极为下饭。猪蹄富含胶原蛋白和蛋白质，营养丰富。",
+  "difficulty": 4,
+  "calories": 639,
+  "duration_min": 60,
+  "category": "其他",
+  "tags": [
+    "硬菜",
+    "猪肉",
+    "高压锅",
+    "下饭",
+    "胶原蛋白"
+  ],
+  "ingredients": [
+    {
+      "name": "猪蹄",
+      "amount": "2~3 根",
+      "buying_tip": "建议请摊主帮忙剁好，省去处理麻烦",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "30ml",
+      "buying_tip": "普通的植物油即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香叶",
+      "amount": "2 片",
+      "buying_tip": "干货店或超市香料区均有售",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "5 片",
+      "buying_tip": "选用老姜风味更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "半根",
+      "buying_tip": "选用大葱段或小葱结均可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "桂皮",
+      "amount": "1 块",
+      "buying_tip": "约手指长短的一小块即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "冰糖",
+      "amount": "7-8 粒",
+      "buying_tip": "冰糖能让成品色泽更红亮",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "30 ml",
+      "buying_tip": "用于去腥，分两次使用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "20 ml",
+      "buying_tip": "用于提鲜咸",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "20 ml",
+      "buying_tip": "用于上色",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "8 克",
+      "buying_tip": "可根据最后收汁时的咸淡微调",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "八角",
+      "amount": "4 个",
+      "buying_tip": "又称大料，增加香气",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "高压锅",
+    "锅铲",
+    "筷子",
+    "菜刀"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "猪蹄",
+        "expr": "2.5 * servings"
+      },
+      {
+        "name": "冰糖",
+        "expr": "7.5 * servings"
+      },
+      {
+        "name": "食用油",
+        "expr": "30 * servings"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "焯水去血腥",
+      "instruction": "冷水锅中放入剁好的猪蹄，加入 20 ml 料酒与葱姜，煮 15 分钟去掉血腥",
+      "duration_sec": 900,
+      "tips": [
+        "必须冷水下锅，才能更好地逼出猪蹄中的血水"
+      ],
+      "produces": "焯水后的猪蹄",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-zhu-ti/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "熬制糖色",
+      "instruction": "热锅冷油，倒入 30ml 食用油，放入 7-8 粒冰糖，开小火，熬成糖色，期间用锅铲把冰糖压碎，大概熬 2 分钟",
+      "duration_sec": 120,
+      "tips": [
+        "全程小火，避免糖色发苦"
+      ],
+      "produces": "焦糖色油脂",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-zhu-ti/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "炒猪蹄上色",
+      "instruction": "熬成糖色后，放入焯过水的猪蹄，继续小火，翻炒猪蹄，直至所有猪蹄两面微黄",
+      "duration_sec": 180,
+      "tips": [
+        "均匀翻炒，让每一块猪蹄都裹上糖色"
+      ],
+      "produces": "上色后的猪蹄",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-zhu-ti/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "加入调料翻炒",
+      "instruction": "加入香叶 2 片、桂皮 1 块、八角 4 个、生抽 20 ml、老抽 20 ml、料酒 10 ml、姜 3 片、盐 8 克，转中火、继续翻炒 1 分钟",
+      "duration_sec": 60,
+      "tips": [
+        "中火翻炒能激发出香料的香味"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-zhu-ti/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "加水烧开",
+      "instruction": "加入开水或者冷水，水需要没过猪蹄，盖上锅盖，大火烧开，烧开之后关火",
+      "duration_sec": 300,
+      "tips": [
+        "建议加开水，肉质不易收缩变柴"
+      ],
+      "produces": "半成品猪蹄汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-zhu-ti/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "高压锅压制",
+      "instruction": "把锅内的食材全部倒入高压锅中，压制 15 分钟",
+      "duration_sec": 900,
+      "tips": [
+        "如果没有高压锅，可放在锅中大火转小火熬制，但需增加时长"
+      ],
+      "produces": "软糯的猪蹄",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-zhu-ti/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "回锅收汁",
+      "instruction": "15 分钟之后，把高压锅的食材倒入炒锅中，开大火收汁，此时可用筷子尝下味道、淡的话可以再加 2~3g 盐",
+      "duration_sec": 120,
+      "tips": [
+        "收汁过程要注意翻动，防止糊锅"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-zhu-ti/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "最后出锅",
+      "instruction": "大火收汁时长根据锅中的水来算，一般 30 秒即可，多留点也无碍、红烧猪蹄汤也是很下饭的",
+      "duration_sec": 30,
+      "tips": [
+        "汤汁浓稠度可根据个人喜好调整"
+      ],
+      "produces": "红烧猪蹄",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-zhu-ti/step_8.jpg"
+    }
+  ],
+  "tips": [
+    "这道菜对新手有一定挑战，建议有一定烹饪基础的人士尝试",
+    "借助高压锅可以极大简化流程并确保肉质软糯",
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_hong-shao-zhu-ti.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_hong-shao-zhu-ti_overview.jpg",
+  "id": "other_hong-shao-zhu-ti",
+  "status": "published"
+}

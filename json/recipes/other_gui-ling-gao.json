@@ -1,0 +1,148 @@
+{
+  "title": "龟苓膏",
+  "summary": "龟苓膏是一道广式传统甜品，口感嫩滑微苦回甘，常作为夏日消暑小食。龟苓膏能清热祛湿、滋阴养颜，是营养健康的一款点心。做法简单，新手也能轻松掌握，全程只需备料、搅拌和加热，冷藏等待约两小时后即可享用。",
+  "difficulty": 2,
+  "calories": 129,
+  "duration_min": 135,
+  "category": "其他",
+  "tags": [
+    "广式甜品",
+    "消暑小食",
+    "滋阴养颜",
+    "新手入门"
+  ],
+  "ingredients": [
+    {
+      "name": "龟苓膏粉",
+      "amount": "25克",
+      "buying_tip": "建议购买品牌信誉好的纯正龟苓膏粉",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "冷水",
+      "amount": "120毫升",
+      "buying_tip": "建议使用纯净水以保证口感",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "开水",
+      "amount": "500毫升",
+      "buying_tip": "需使用刚烧开的沸水",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白砂糖",
+      "amount": "100克",
+      "buying_tip": "可根据个人口味喜好调整用量",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "小锅",
+    "搅拌工具",
+    "模具或碗"
+  ],
+  "servings": {
+    "base": 4,
+    "formula": [
+      {
+        "name": "龟苓膏粉",
+        "expr": "6.25 * n"
+      },
+      {
+        "name": "冷水",
+        "expr": "30 * n"
+      },
+      {
+        "name": "开水",
+        "expr": "125 * n"
+      },
+      {
+        "name": "白砂糖",
+        "expr": "25 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "调制粉液",
+      "instruction": "在锅中倒入龟苓膏粉 25 克与冷水 120 毫升，充分搅拌至无颗粒感。",
+      "duration_sec": 60,
+      "tips": [
+        "一定要彻底搅拌均匀，否则成品会有疙瘩"
+      ],
+      "produces": "无颗粒粉液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gui-ling-gao/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "溶解糖水",
+      "instruction": "在另一个容器中加入白砂糖 100 克，倒入沸水 500 毫升，搅拌至糖完全溶解。",
+      "duration_sec": 60,
+      "tips": [
+        "确保糖完全溶解，避免口感不均"
+      ],
+      "produces": "糖水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gui-ling-gao/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "混合浆液",
+      "instruction": "将糖水缓慢倒入龟苓膏粉液中，立即搅拌均匀，避免结块。",
+      "duration_sec": 30,
+      "tips": [
+        "边倒边搅拌，动作要连贯迅速"
+      ],
+      "produces": "混合混合浆液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gui-ling-gao/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "加热熬煮",
+      "instruction": "将混合液体放入锅中，加热时保持中小火，并持续搅拌以防粘锅。",
+      "duration_sec": 300,
+      "tips": [
+        "必须保持中小火，且搅拌需触及锅底"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gui-ling-gao/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "煮至粘稠",
+      "instruction": "加热至液体变粘稠并开始冒小泡，即可关火。",
+      "duration_sec": 60,
+      "tips": [
+        "看到冒小泡且阻力感明显增加时即可停火"
+      ],
+      "produces": "熟化液体",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gui-ling-gao/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "冷却冷藏",
+      "instruction": "快速将液体倒入模具中，自然冷却凝固。建议冷藏 1~2 小时后食用，口感更佳。",
+      "duration_sec": 7200,
+      "tips": [
+        "冷却过程中不可随意移动容器，否则可能影响成型"
+      ],
+      "produces": "龟苓膏成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gui-ling-gao/step_6.jpg"
+    }
+  ],
+  "tips": [
+    "龟苓膏冷却过程中不可随意移动容器，否则可能影响成型。",
+    "加热时应避免使用大火，防止结块或糊底。",
+    "可根据个人口味添加蜂蜜、炼乳或水果食用。",
+    "不同品牌龟苓膏粉浓度略有差异，建议参照包装说明调整配比。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_gui-ling-gao.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_gui-ling-gao_overview.jpg",
+  "id": "other_gui-ling-gao",
+  "status": "published"
+}

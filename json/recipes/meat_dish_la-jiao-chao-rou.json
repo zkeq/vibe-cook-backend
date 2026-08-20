@@ -1,0 +1,245 @@
+{
+  "title": "辣椒炒肉",
+  "summary": "辣椒炒肉是一道湘味浓郁的家常菜，辣椒干香微焦，肉片滑嫩入味，咸鲜微辣十分下饭。猪肉富含优质蛋白质和 B 族维生素，青椒则提供丰富的维生素 C。",
+  "difficulty": 3,
+  "calories": 425,
+  "duration_min": 30,
+  "category": "荤菜",
+  "tags": [
+    "湘菜",
+    "家常菜",
+    "下饭菜",
+    "快手菜"
+  ],
+  "ingredients": [
+    {
+      "name": "青椒",
+      "amount": "3个",
+      "buying_tip": "推荐用螺丝椒或杭椒，不吃辣用尖椒或甜椒",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "猪瘦肉",
+      "amount": "200g",
+      "buying_tip": "选择新鲜猪瘦肉，顺纹理切片",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "3g",
+      "buying_tip": "用于腌制和调味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "3ml",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蚝油",
+      "amount": "3ml",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大蒜",
+      "amount": "5g",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "5g",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酱油",
+      "amount": "2ml",
+      "buying_tip": "主要用于上色",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "豆豉",
+      "amount": "3g",
+      "buying_tip": "增加风味层次",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "油",
+      "amount": "8ml",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "空碗"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "青椒",
+        "expr": "份数 * 3 个"
+      },
+      {
+        "name": "猪瘦肉",
+        "expr": "份数 * 200g"
+      },
+      {
+        "name": "盐",
+        "expr": "份数 * 3g"
+      },
+      {
+        "name": "生抽",
+        "expr": "份数 * 3ml"
+      },
+      {
+        "name": "蚝油",
+        "expr": "份数 * 3ml"
+      },
+      {
+        "name": "大蒜",
+        "expr": "份数 * 5g"
+      },
+      {
+        "name": "姜",
+        "expr": "份数 * 5g"
+      },
+      {
+        "name": "酱油",
+        "expr": "份数 * 2ml"
+      },
+      {
+        "name": "豆豉",
+        "expr": "份数 * 3g"
+      },
+      {
+        "name": "油",
+        "expr": "份数 * 8ml"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理青椒",
+      "instruction": "将青椒洗净，去除青椒把以及青椒籽，再用滚刀手法切好备用。",
+      "duration_sec": 180,
+      "tips": [
+        "滚刀块可以增加受热面积"
+      ],
+      "produces": "切好的青椒",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_la-jiao-chao-rou/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "准备配料",
+      "instruction": "大蒜用刀拍一下，再横切成蒜瓣，生姜切碎成姜末。",
+      "duration_sec": 60,
+      "tips": [
+        "大蒜拍过之后更容易释放香味"
+      ],
+      "produces": "蒜瓣和姜末",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_la-jiao-chao-rou/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "切制猪肉",
+      "instruction": "将猪瘦肉切成肉片（顺着猪肉的纹理切，即刀和肉的纹理呈水平线，出来的肉片，纹路呈“川”字）。",
+      "duration_sec": 300,
+      "tips": [
+        "顺纹理切出来的肉片口感更滑嫩"
+      ],
+      "produces": "肉片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_la-jiao-chao-rou/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "腌制猪肉",
+      "instruction": "将切好的猪肉洗净，放入空碗，再加入计算好的生抽、蚝油、盐搅拌均匀，腌制 10 分钟。",
+      "duration_sec": 600,
+      "tips": [
+        "腌制能让肉片提前入味并锁住水分"
+      ],
+      "produces": "腌制好的猪肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_la-jiao-chao-rou/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "干煸青椒",
+      "instruction": "热锅，不用倒油，把切好的青椒放入锅中，大火干煸至虎皮状后，再加 2g 盐继续翻炒 1 分钟后捞起。",
+      "duration_sec": 240,
+      "tips": [
+        "干煸是这道菜辣椒好吃的关键，不要放油"
+      ],
+      "produces": "干煸过的青椒",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_la-jiao-chao-rou/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "爆香底料",
+      "instruction": "不用洗锅，大火热锅，加入份数 * 8ml 油，等待 30s，加入蒜瓣、姜末翻炒 15s。",
+      "duration_sec": 45,
+      "tips": [
+        "油温热后再下料"
+      ],
+      "produces": "爆香的底油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_la-jiao-chao-rou/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "滑炒肉片与合炒",
+      "instruction": "加入腌制好的猪肉倒入锅内翻炒 2 分钟，再加入干煸过的青椒翻炒 1 分钟。",
+      "duration_sec": 180,
+      "tips": [
+        "大火快炒，防止肉质变老"
+      ],
+      "produces": "半成品菜肴",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_la-jiao-chao-rou/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "最后调味",
+      "instruction": "根据个人口味喜好加入豆豉，最后加入酱油，继续翻炒 30s。",
+      "duration_sec": 30,
+      "tips": [
+        "酱油起到提色增香的作用"
+      ],
+      "produces": "辣椒炒肉成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_la-jiao-chao-rou/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "出锅",
+      "instruction": "出锅，盛盘。",
+      "duration_sec": 10,
+      "tips": [],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_la-jiao-chao-rou/step_9.jpg"
+    }
+  ],
+  "tips": [
+    "辣椒只能选择青椒，螺丝椒为最优解，切勿选择其他品种辣椒！",
+    "掌握干煸和快炒的火候是成功的关键",
+    "猪肉切片时注意观察纹路，呈“川”字状为佳"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_la-jiao-chao-rou.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_la-jiao-chao-rou_overview.jpg",
+  "id": "meat_dish_la-jiao-chao-rou",
+  "status": "published"
+}

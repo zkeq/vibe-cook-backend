@@ -1,0 +1,126 @@
+{
+  "title": "黔式腊肠娃娃菜",
+  "summary": "这道菜咸鲜可口，融合了黔式腊肠的醇香与娃娃菜的清甜，是西南菜系中少见的不辣风味，南北皆宜。娃娃菜富含维生素和膳食纤维，搭配腊肠的蛋白质与脂肪，营养均衡。制作过程极为简单，无需掌握火候和额外调味，从备料到出锅仅需 15 分钟，非常适合新手和忙碌的日常。",
+  "difficulty": 1,
+  "calories": 1030,
+  "duration_min": 15,
+  "category": "其他",
+  "tags": [
+    "黔菜",
+    "不辣",
+    "快手菜",
+    "家常菜"
+  ],
+  "ingredients": [
+    {
+      "name": "黔式腊肠",
+      "amount": "200g",
+      "buying_tip": "选择具有黔式风味的烟熏腊肠风味更正宗",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "娃娃菜",
+      "amount": "300g",
+      "buying_tip": "挑选叶片紧实、颜色嫩黄的娃娃菜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "水",
+      "amount": "750ml",
+      "buying_tip": "普通饮用水即可",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "煮锅",
+    "计时器",
+    "菜刀",
+    "砧板",
+    "盘子"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "黔式腊肠",
+        "expr": "200 * $servings"
+      },
+      {
+        "name": "娃娃菜",
+        "expr": "300 * $servings"
+      },
+      {
+        "name": "水",
+        "expr": "750 * $servings"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "烧水",
+      "instruction": "锅内放入 750ml 水，开火加热至沸腾",
+      "duration_sec": 300,
+      "tips": [
+        "可以使用电热水器提前烧水以缩短时间"
+      ],
+      "produces": "沸水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qian-shi-la-chang-wa-wa-cai/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "煮腊肠",
+      "instruction": "放入腊肠，计时 13 分钟",
+      "duration_sec": 780,
+      "tips": [
+        "整根放入即可，煮熟后再切"
+      ],
+      "produces": "煮熟的腊肠",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qian-shi-la-chang-wa-wa-cai/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "煮娃娃菜",
+      "instruction": "放入娃娃菜，计时 2 分钟",
+      "duration_sec": 120,
+      "tips": [
+        "娃娃菜易熟，不要煮太久以保持口感"
+      ],
+      "produces": "煮熟的蔬菜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qian-shi-la-chang-wa-wa-cai/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "取出食材",
+      "instruction": "关火，夹出腊肠及娃娃菜",
+      "duration_sec": 30,
+      "tips": [
+        "注意防烫"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qian-shi-la-chang-wa-wa-cai/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "切配装盘",
+      "instruction": "娃娃菜切段、腊肠切片，装盘",
+      "duration_sec": 120,
+      "tips": [
+        "腊肠切薄片口感更佳"
+      ],
+      "produces": "黔式腊肠娃娃菜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qian-shi-la-chang-wa-wa-cai/step_5.jpg"
+    }
+  ],
+  "tips": [
+    "根据锅的大小，建议以水量没过食材为宜，宁多勿少",
+    "如果没有刀具，娃娃菜和腊肠不切也可以"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_qian-shi-la-chang-wa-wa-cai.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_qian-shi-la-chang-wa-wa-cai_overview.jpg",
+  "id": "other_qian-shi-la-chang-wa-wa-cai",
+  "status": "published"
+}

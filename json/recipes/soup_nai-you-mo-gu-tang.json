@@ -1,0 +1,217 @@
+{
+  "title": "奶油蘑菇汤",
+  "summary": "这是一道经典法式浓汤，口感丝滑绵密，菌香与奶香交融。蘑菇富含膳食纤维和微量元素，牛奶则提供优质蛋白与钙质。做法非常简单，新手也能轻松驾驭，从备料到完成大约需要 30 分钟。",
+  "difficulty": 1,
+  "calories": 426,
+  "duration_min": 30,
+  "category": "汤",
+  "tags": [
+    "西餐",
+    "法式",
+    "浓汤",
+    "新手友好",
+    "快手菜"
+  ],
+  "ingredients": [
+    {
+      "name": "白蘑菇",
+      "amount": "200克",
+      "buying_tip": "选择表面洁白光洁、无破损的白蘑菇",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "洋葱",
+      "amount": "50克",
+      "buying_tip": "白洋葱比紫洋葱味道更甜，适合做浓汤",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "黄油",
+      "amount": "15克",
+      "buying_tip": "建议使用动物性无盐黄油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "面粉",
+      "amount": "10克",
+      "buying_tip": "普通中筋面粉即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "牛奶",
+      "amount": "200毫升",
+      "buying_tip": "全脂牛奶口感更醇厚",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "淡奶油",
+      "amount": "30毫升",
+      "buying_tip": "动物性淡奶油风味最佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "清水",
+      "amount": "100毫升",
+      "buying_tip": "也可用等量鸡高汤替代",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "2克",
+      "buying_tip": "细盐更容易溶解",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "黑胡椒碎",
+      "amount": "1克",
+      "buying_tip": "现磨黑胡椒风味更浓郁",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "平底锅",
+    "菜刀",
+    "砧板",
+    "料理机",
+    "搅拌铲"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "白蘑菇",
+        "expr": "200 * n"
+      },
+      {
+        "name": "洋葱",
+        "expr": "50 * n"
+      },
+      {
+        "name": "黄油",
+        "expr": "15 * n"
+      },
+      {
+        "name": "面粉",
+        "expr": "10 * n"
+      },
+      {
+        "name": "牛奶",
+        "expr": "200 * n"
+      },
+      {
+        "name": "淡奶油",
+        "expr": "30 * n"
+      },
+      {
+        "name": "清水",
+        "expr": "100 * n"
+      },
+      {
+        "name": "盐",
+        "expr": "2 * n"
+      },
+      {
+        "name": "黑胡椒碎",
+        "expr": "1 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "食材预处理",
+      "instruction": "白蘑菇洗净切片备用，洋葱切成细末备用。",
+      "duration_sec": 300,
+      "tips": [
+        "蘑菇切片尽量厚薄均匀"
+      ],
+      "produces": "切好的食材",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_nai-you-mo-gu-tang/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "炒香洋葱",
+      "instruction": "平底锅中放入黄油，小火融化后加入洋葱末炒至透明出香味。",
+      "duration_sec": 180,
+      "tips": [
+        "注意保持小火，避免黄油烧焦变黑"
+      ],
+      "produces": "香气扑鼻的洋葱底料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_nai-you-mo-gu-tang/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "炒制蘑菇与炒面",
+      "instruction": "加入白蘑菇翻炒至出水变软，均匀撒入面粉，搅拌至面粉与食材融合。",
+      "duration_sec": 300,
+      "tips": [
+        "面粉要撒匀，防止成团结块"
+      ],
+      "produces": "蘑菇面粉混合物",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_nai-you-mo-gu-tang/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "加入液体煮沸",
+      "instruction": "分次加入牛奶和清水，边加边搅拌均匀，小火煮沸，保持搅拌防止糊底。",
+      "duration_sec": 120,
+      "tips": [
+        "分次加入液体能让汤底更顺滑"
+      ],
+      "produces": "汤坯",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_nai-you-mo-gu-tang/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "熬煮浓稠",
+      "instruction": "转小火煮约 10 分钟，直至汤汁变得浓稠。",
+      "duration_sec": 600,
+      "tips": [
+        "期间需偶尔搅拌"
+      ],
+      "produces": "浓稠的汤底",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_nai-you-mo-gu-tang/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "调味收尾",
+      "instruction": "倒入淡奶油继续加热 1 分钟，最后加入盐和黑胡椒碎调味。",
+      "duration_sec": 120,
+      "tips": [
+        "淡奶油不要煮太久，以免油水分离"
+      ],
+      "produces": "奶油蘑菇汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_nai-you-mo-gu-tang/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "精细化处理（可选）",
+      "instruction": "熄火后，可将汤汁倒入料理机或使用手持搅拌棒打成细腻的浓汤。",
+      "duration_sec": 180,
+      "tips": [
+        "打碎后的口感会更加丝滑绵密"
+      ],
+      "produces": "细腻浓汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_nai-you-mo-gu-tang/step_7.jpg"
+    }
+  ],
+  "tips": [
+    "可将部分蘑菇预留作为装饰，提前煎香再添加。",
+    "使用鸡高汤代替清水风味更佳，建议控制总液体不超过 300 毫升/份。",
+    "喜欢浓汤口感可适当增加面粉和淡奶油用量。",
+    "建议现做现吃，不建议冷藏或冷冻保存。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/soup_nai-you-mo-gu-tang.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/soup_nai-you-mo-gu-tang_overview.jpg",
+  "id": "soup_nai-you-mo-gu-tang",
+  "status": "published"
+}

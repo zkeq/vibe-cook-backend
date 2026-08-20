@@ -1,0 +1,222 @@
+{
+  "title": "啤酒鸭",
+  "summary": "这是一道风味独特的家常菜肴，鸭肉鲜香软烂，透着淡淡啤酒清香，热而不浮、香而不腻。鸭肉富含蛋白质，啤酒去腥增香，搭配食用更有滋味。做法对新手友好，从备料到出锅大约需要 1 小时。",
+  "difficulty": 4,
+  "calories": 170,
+  "duration_min": 60,
+  "category": "其他",
+  "tags": [
+    "家常菜",
+    "鸭肉",
+    "下饭菜",
+    "啤酒"
+  ],
+  "ingredients": [
+    {
+      "name": "鸭肉",
+      "amount": "半只（约 1kg）",
+      "buying_tip": "建议选择新鲜的麻鸭，肉质紧实且脂肪适中。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "啤酒",
+      "amount": "800ml",
+      "buying_tip": "选用清香型的拉格啤酒，去腥提味效果更佳。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽酱油",
+      "amount": "10-15ml",
+      "buying_tip": "选择优质酿造生抽，提供咸鲜味。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽酱油",
+      "amount": "5-10ml",
+      "buying_tip": "用于上色，不宜过多以免颜色过深。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "5 片",
+      "buying_tip": "老姜去腥效果更好。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜",
+      "amount": "12 瓣",
+      "buying_tip": "选用颗粒饱满的独蒜或瓣蒜。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "冰糖",
+      "amount": "10g",
+      "buying_tip": "冰糖能使成菜色泽更加红亮。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "干辣椒",
+      "amount": "5 个",
+      "buying_tip": "根据个人口味调整辣度。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "30ml",
+      "buying_tip": "用于焯水去腥。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "8g",
+      "buying_tip": "最后调味使用。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡精",
+      "amount": "5g",
+      "buying_tip": "增鲜使用。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "丁香",
+      "amount": "4 颗",
+      "buying_tip": "香气浓郁，不宜多放。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "八角",
+      "amount": "3 个",
+      "buying_tip": "常用炖煮香料。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香叶",
+      "amount": "3 片",
+      "buying_tip": "增加复合香气。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": "20g",
+      "buying_tip": "推荐郫县豆瓣酱，炒出红油更香。",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "漏勺",
+    "锅铲"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鸭肉",
+        "expr": "1000g * n"
+      },
+      {
+        "name": "啤酒",
+        "expr": "800ml * n"
+      },
+      {
+        "name": "豆瓣酱",
+        "expr": "20g * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "鸭肉焯水预处理",
+      "instruction": "把鸭子切成 3 cm 小块，鸭肉冷水下锅，加姜片、料酒，焯一遍水，盛出沥干水分，备用。",
+      "duration_sec": 600,
+      "tips": [
+        "一定要冷水下锅，这样能更好地逼出肉中的血水和异味。"
+      ],
+      "produces": "焯过水的鸭块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-jiu-ya/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "煸炒鸭肉",
+      "instruction": "炒锅烧热，放入约 100ml 食用油，大火待油烧开，鸭肉入锅翻炒至上色。",
+      "duration_sec": 300,
+      "tips": [
+        "炒的时候注意控干水分，防止热油溅出。"
+      ],
+      "produces": "表面金黄的鸭肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-jiu-ya/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "炒制糖色与底酱",
+      "instruction": "待鸭肉完全变色（肉眼可见泛白），将鸭肉拨到锅的一边，倒入豆瓣酱和糖，小火翻炒出香味和糖色。",
+      "duration_sec": 180,
+      "tips": [
+        "此时务必切换小火，避免豆瓣酱和冰糖炒糊发苦。"
+      ],
+      "produces": "上色的鸭肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-jiu-ya/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "加入香料调味",
+      "instruction": "加入丁香、八角、香叶、干辣椒、生抽、老抽、蒜，翻炒出香味。",
+      "duration_sec": 120,
+      "tips": [
+        "大蒜整瓣放入即可，炖煮后口感软糯。"
+      ],
+      "produces": "调味均匀的鸭肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-jiu-ya/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "加入啤酒焖煮",
+      "instruction": "倒入啤酒，没过鸭肉，加入盐、鸡精，然后中火将鸭子烧 30 分钟（牙口不好的话可以再多烧 5 分钟）。",
+      "duration_sec": 1800,
+      "tips": [
+        "焖煮过程中注意火力，防止汤汁烧干。",
+        "如果鸭肉较老，可适当延长焖煮时间。"
+      ],
+      "produces": "熟烂入味的啤酒鸭",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-jiu-ya/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "出锅装盘",
+      "instruction": "出锅盛盘，上桌食用。",
+      "duration_sec": 60,
+      "tips": [
+        "可以撒上少许葱花装饰。"
+      ],
+      "produces": "啤酒鸭成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-jiu-ya/step_6.jpg"
+    }
+  ],
+  "tips": [
+    "啤酒的量一定要足够把所有鸭肉没过，啤酒最好选择清香型的。",
+    "不要额外加水，全程使用啤酒炖煮风味最浓郁。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_pi-jiu-ya.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_pi-jiu-ya_overview.jpg",
+  "id": "other_pi-jiu-ya",
+  "status": "published"
+}

@@ -1,0 +1,226 @@
+{
+  "title": "炸串酱料",
+  "summary": "这款万能炸串酱料香辣浓郁、鲜咸适口，属于街头风味风格。主要提供脂肪和香辛料带来的芳香物质，能增进食欲。制作非常简单，对新手毫无压力，全程只需大约 10 分钟即可完成。",
+  "difficulty": 2,
+  "calories": 1826,
+  "duration_min": 10,
+  "category": "酱料",
+  "tags": [
+    "街头风味",
+    "香辣",
+    "万能酱料",
+    "炸串伴侣"
+  ],
+  "ingredients": [
+    {
+      "name": "干辣椒面",
+      "amount": "60g",
+      "buying_tip": "建议粗细辣椒面各准备一半，粗的增香细的提色",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "孜然粉",
+      "amount": "20g",
+      "buying_tip": "选用颗粒感略明显的孜然粉风味更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "胡椒粉",
+      "amount": "10g",
+      "buying_tip": "白胡椒粉或黑胡椒粉均可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "五香粉",
+      "amount": "15g",
+      "buying_tip": "市售普通五香粉即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食盐",
+      "amount": "20g",
+      "buying_tip": "普通加碘食盐",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "花椒粉",
+      "amount": "15g",
+      "buying_tip": "选用色泽棕红、麻味浓郁的为佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡精",
+      "amount": "8g",
+      "buying_tip": "用于提鲜，可根据口味增减",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "十三香",
+      "amount": "5g",
+      "buying_tip": "经典中式调味料",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "麻辣鲜",
+      "amount": "5g",
+      "buying_tip": "增加复合辣味的成品调料",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白芝麻",
+      "amount": "30g",
+      "buying_tip": "选用熟芝麻更香",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "适量（约200-300ml）",
+      "buying_tip": "选用色拉油或菜籽油，耐高温",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "香油",
+      "amount": "10ml",
+      "buying_tip": "纯正芝麻油",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "10ml",
+      "buying_tip": "起鲜咸调味作用",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "花椒油",
+      "amount": "10ml",
+      "buying_tip": "增加麻味层次感",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "蚝油",
+      "amount": "10ml",
+      "buying_tip": "增加酱料醇厚感",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "耐热大容器",
+    "炒锅",
+    "搅拌勺"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "干辣椒面",
+        "expr": "60g"
+      },
+      {
+        "name": "孜然粉",
+        "expr": "20g"
+      },
+      {
+        "name": "胡椒粉",
+        "expr": "10g"
+      },
+      {
+        "name": "五香粉",
+        "expr": "15g"
+      },
+      {
+        "name": "食盐",
+        "expr": "20g"
+      },
+      {
+        "name": "花椒粉",
+        "expr": "15g"
+      },
+      {
+        "name": "鸡精",
+        "expr": "8g"
+      },
+      {
+        "name": "十三香",
+        "expr": "5g"
+      },
+      {
+        "name": "麻辣鲜",
+        "expr": "5g"
+      },
+      {
+        "name": "白芝麻",
+        "expr": "30g"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "混合干料",
+      "instruction": "将干辣椒面、孜然粉、胡椒粉、五香粉、食盐、花椒粉、鸡精、十三香、麻辣鲜和白芝麻放入耐热容器内混合，搅拌均匀。",
+      "duration_sec": 60,
+      "tips": [
+        "确保容器完全干燥，防止油溅"
+      ],
+      "produces": "混合香料粉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_zha-chuan-jiang-liao/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "烧热油脂",
+      "instruction": "锅里烧热食用油，油的用量以能没过容器内所有原材料为标准。",
+      "duration_sec": 180,
+      "tips": [
+        "油温需烧至冒青烟，约七八成热"
+      ],
+      "produces": "热油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_zha-chuan-jiang-liao/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "泼油激发香味",
+      "instruction": "分三次将热油淋入混合料中，每次倒入约 1/3，淋油的同时需快速搅拌。",
+      "duration_sec": 120,
+      "tips": [
+        "不得一次性倒入所有热油，避免辣椒面糊掉"
+      ],
+      "produces": "基础辣油酱",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_zha-chuan-jiang-liao/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "调味收尾",
+      "instruction": "最后放入香油 10ml，生抽 10ml，花椒油 10ml，蚝油 10ml，再次搅拌均匀。",
+      "duration_sec": 60,
+      "tips": [
+        "最后一步的调味可按自己喜好灵活调整"
+      ],
+      "produces": "成品炸串酱料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_zha-chuan-jiang-liao/step_4.jpg"
+    }
+  ],
+  "tips": [
+    "最后一步的调味可按自己喜好添加。",
+    "不得一次性倒入所有热油，必须分次倒入并搅拌以充分激发香味并防止焦糊。",
+    "原料可按比例缩减制作少量尝试。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/condiment_zha-chuan-jiang-liao.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/condiment_zha-chuan-jiang-liao_overview.jpg",
+  "id": "condiment_zha-chuan-jiang-liao",
+  "status": "published"
+}

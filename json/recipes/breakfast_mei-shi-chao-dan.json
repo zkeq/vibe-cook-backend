@@ -1,0 +1,127 @@
+{
+  "title": "美式炒蛋",
+  "summary": "这是一道松软鲜嫩的美式家常蛋料理，加入牛奶后蛋花细密、口感绵润，富含优质蛋白和钙质。做法简单，对新手友好。",
+  "difficulty": 2,
+  "calories": 258,
+  "duration_min": 20,
+  "category": "早餐",
+  "tags": [
+    "美式",
+    "高蛋白",
+    "快手菜",
+    "蛋料理"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": "3个",
+      "buying_tip": "选择新鲜的走地鸡蛋口感更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "全脂牛奶/奶油",
+      "amount": "10g",
+      "buying_tip": "使用淡奶油口感会更加浓郁",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "黄油",
+      "amount": "5克",
+      "buying_tip": "建议使用无盐动物黄油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "1克",
+      "buying_tip": "普通食盐或海盐均可",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "不粘平底锅",
+    "大碗",
+    "搅拌器或筷子",
+    "硅胶铲"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鸡蛋",
+        "expr": "3 * n"
+      },
+      {
+        "name": "全脂牛奶/奶油",
+        "expr": "10 * n"
+      },
+      {
+        "name": "黄油",
+        "expr": "5 * n"
+      },
+      {
+        "name": "盐",
+        "expr": "1 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "搅打静置",
+      "instruction": "鸡蛋打入大碗中，加盐搅打至起泡，静置 15 分钟",
+      "duration_sec": 960,
+      "tips": [
+        "搅打出泡能让炒蛋更蓬松",
+        "静置可以使盐分充分融合"
+      ],
+      "produces": "调味蛋液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_mei-shi-chao-dan/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "小火预热",
+      "instruction": "黄油切小块入锅，倒入蛋液，开小火不断搅拌",
+      "duration_sec": 60,
+      "tips": [
+        "必须使用小火，防止鸡蛋过快凝固变老"
+      ],
+      "produces": "受热蛋液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_mei-shi-chao-dan/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "快速翻动",
+      "instruction": "黄油一融化，就快速翻动蛋液，将其打碎成细密状，在蛋液大体凝固前关火",
+      "duration_sec": 45,
+      "tips": [
+        "利用余温加热是嫩滑的关键，切勿在火上完全炒熟"
+      ],
+      "produces": "半熟蛋碎",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_mei-shi-chao-dan/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "润色装盘",
+      "instruction": "加入牛奶搅拌 15 秒，至炒蛋湿润绵密，装盘",
+      "duration_sec": 15,
+      "tips": [
+        "最后加入牛奶能迅速降温并形成绵密的质感"
+      ],
+      "produces": "成品美式炒蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_mei-shi-chao-dan/step_4.jpg"
+    }
+  ],
+  "tips": [
+    "想吃的更丰富可以在最后一步加上炒好的番茄丁，洋葱丁，培根丁，切好的芝士小丁等（需使用不出水的食材）",
+    "务必使用平底锅（不粘锅），否则容易粘锅导致失败",
+    "若是一人食炒1-2个鸡蛋，建议使用口径较小的锅以便于均匀搅拌"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_mei-shi-chao-dan.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_mei-shi-chao-dan_overview.jpg",
+  "id": "breakfast_mei-shi-chao-dan",
+  "status": "published"
+}

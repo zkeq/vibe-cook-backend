@@ -1,0 +1,137 @@
+{
+  "title": "酸梅汤（半成品加工）",
+  "summary": "酸梅汤（半成品加工）是一道酸甜爽口的夏日消暑饮品，传统京味风格。酸梅汤本身有生津止渴、帮助消化的好处。做法极其简单，只需按顺序搅拌即可，对新手毫无难度，全程大约五分钟就能完成。",
+  "difficulty": 1,
+  "calories": 603,
+  "duration_min": 5,
+  "category": "饮料",
+  "tags": [
+    "夏日消暑",
+    "传统京味",
+    "新手友好",
+    "五分钟快手"
+  ],
+  "ingredients": [
+    {
+      "name": "饮用水",
+      "amount": "1177g",
+      "buying_tip": "建议使用纯净水或矿泉水以保证口感",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酸梅晶固体饮料",
+      "amount": "120g",
+      "buying_tip": "选择传统京味品牌的酸梅晶效果更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "方糖",
+      "amount": "9g",
+      "buying_tip": "可选，用于调节甜度",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "北京二锅头酒",
+      "amount": "48g",
+      "buying_tip": "可选，用于增加风味层次",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "汤匙",
+    "容器",
+    "厨房秤"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "饮用水",
+        "expr": "1177 * n"
+      },
+      {
+        "name": "酸梅晶固体饮料",
+        "expr": "120 * n"
+      },
+      {
+        "name": "方糖",
+        "expr": "9 * n"
+      },
+      {
+        "name": "北京二锅头酒",
+        "expr": "48 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "准备基底水",
+      "instruction": "取饮用水 1177 克倒入准备好的容器中。",
+      "duration_sec": 30,
+      "tips": [
+        "建议使用常温水，方便后续搅拌溶解"
+      ],
+      "produces": "基底水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_suan-mei-tang-（-ban-cheng-pin-jia-gong-）/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "初次溶解酸梅晶",
+      "instruction": "放入酸梅晶固体饮料 60 克，使用汤匙顺时针搅拌 50 圈。",
+      "duration_sec": 60,
+      "tips": [
+        "分次搅拌可以防止固体颗粒结块"
+      ],
+      "produces": "半溶解酸梅汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_suan-mei-tang-（-ban-cheng-pin-jia-gong-）/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "再次溶解酸梅晶",
+      "instruction": "再放入剩下 60 克酸梅晶固体饮料，再次使用汤匙顺时针搅拌 50 圈。",
+      "duration_sec": 60,
+      "tips": [
+        "确保酸梅晶完全溶解，无明显颗粒"
+      ],
+      "produces": "基础酸梅汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_suan-mei-tang-（-ban-cheng-pin-jia-gong-）/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "调入方糖",
+      "instruction": "放入 9 克的方糖，使用汤匙顺时针搅拌 100 圈。",
+      "duration_sec": 90,
+      "tips": [
+        "如果没有准备方糖，可以省略此步"
+      ],
+      "produces": "加糖酸梅汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_suan-mei-tang-（-ban-cheng-pin-jia-gong-）/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "风味提升",
+      "instruction": "放入北京二锅头酒 48 克，用汤匙顺时针搅拌 30 圈。",
+      "duration_sec": 60,
+      "tips": [
+        "如果没有准备二锅头，可以省略此步"
+      ],
+      "produces": "成品酸梅汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_suan-mei-tang-（-ban-cheng-pin-jia-gong-）/step_5.jpg"
+    }
+  ],
+  "tips": [
+    "如果没有准备方糖或北京二锅头，可以省略操作中的第 4 步或第 5 步。",
+    "放入冰箱冷藏后再饮用效果更佳。",
+    "饮酒请勿驾车。",
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/drink_suan-mei-tang-（-ban-cheng-pin-jia-gong-）.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/drink_suan-mei-tang-（-ban-cheng-pin-jia-gong-）_overview.jpg",
+  "id": "drink_suan-mei-tang-（-ban-cheng-pin-jia-gong-）",
+  "status": "published"
+}

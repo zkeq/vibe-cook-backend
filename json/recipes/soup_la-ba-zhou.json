@@ -1,0 +1,282 @@
+{
+  "title": "腊八粥",
+  "summary": "腊八粥是一道传统节令甜粥，粥体粘稠软糯，融合了多种谷物、豆类和干果的复合香气。富含碳水化合物、矿物质和多种维生素，莲子还有养心安神之效，适合工作压力大的人食用。虽然食材种类多，但操作简单，耐心慢熬即可，对新手友好。",
+  "difficulty": 4,
+  "calories": 2042,
+  "duration_min": 180,
+  "category": "汤",
+  "tags": [
+    "腊八节",
+    "甜粥",
+    "传统美食",
+    "养生",
+    "五谷杂粮"
+  ],
+  "ingredients": [
+    {
+      "name": "饮用水",
+      "amount": "1 L",
+      "buying_tip": "建议使用过滤后的净水，口感更纯净",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大米",
+      "amount": "50 g",
+      "buying_tip": "选用优质东北大米，煮出的粥更香润",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "糯米",
+      "amount": "50 g",
+      "buying_tip": "圆糯米比长糯米更适合熬粥，增加粘稠度",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "花生",
+      "amount": "25 g",
+      "buying_tip": "选红皮花生，富含更多微量元素",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "红豆",
+      "amount": "25 g",
+      "buying_tip": "选色泽深红、颗粒饱满的红豆",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "红枣",
+      "amount": "25 g",
+      "buying_tip": "选个大肉厚的若羌枣或灰枣",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "薏米",
+      "amount": "50 g",
+      "buying_tip": "选颗粒均匀、色泽洁白、无霉味的",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "黑米",
+      "amount": "50 g",
+      "buying_tip": "选黑亮且带有自然光泽的黑米",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "小米",
+      "amount": "50 g",
+      "buying_tip": "选当年产的金黄色新米，米油更丰富",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "莲子",
+      "amount": "25 g",
+      "buying_tip": "建议选去芯莲子，避免苦味影响口感",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "绿豆",
+      "amount": "25 g",
+      "buying_tip": "选色泽鲜绿、外皮无破损的",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "黄豆",
+      "amount": "25 g",
+      "buying_tip": "选颗粒完整、无虫眼的非转基因黄豆",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "豌豆",
+      "amount": "25 g",
+      "buying_tip": "选干豌豆，颗粒圆润饱满的",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "红腰豆",
+      "amount": "25 g",
+      "buying_tip": "选个头匀称、颜色鲜艳的红腰豆",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "桂圆",
+      "amount": "25 g",
+      "buying_tip": "选肉厚、干爽、无异味的龙眼干",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "栗子",
+      "amount": "25 g",
+      "buying_tip": "选新鲜饱满、表皮有光泽的板栗",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "去壳核桃",
+      "amount": "25 g",
+      "buying_tip": "选核桃仁完整、无油哈味的",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "葡萄干",
+      "amount": "25 g",
+      "buying_tip": "选颗粒干净、肉质软硬适中的",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "冰糖",
+      "amount": "10~25 g",
+      "buying_tip": "多晶冰糖（黄冰糖）熬出的粥口感更醇厚",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "粥锅（或高压锅）",
+    "中号玻璃碗",
+    "小碗若干"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "饮用水",
+        "expr": "1 * n"
+      },
+      {
+        "name": "大米",
+        "expr": "50 * n"
+      },
+      {
+        "name": "糯米",
+        "expr": "50 * n"
+      },
+      {
+        "name": "薏米",
+        "expr": "50 * n"
+      },
+      {
+        "name": "黑米",
+        "expr": "50 * n"
+      },
+      {
+        "name": "小米",
+        "expr": "50 * n"
+      },
+      {
+        "name": "莲子",
+        "expr": "25 * n"
+      },
+      {
+        "name": "红豆",
+        "expr": "25 * n"
+      },
+      {
+        "name": "花生",
+        "expr": "25 * n"
+      },
+      {
+        "name": "红枣",
+        "expr": "25 * n"
+      },
+      {
+        "name": "冰糖",
+        "expr": "15 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "浸泡硬质豆类",
+      "instruction": "提前洗净绿豆、红豆、花生、黄豆、豌豆、红腰豆，放入玻璃碗，注入3/4碗的饮用水，浸泡一夜（或最少8小时）。",
+      "duration_sec": 28800,
+      "tips": [
+        "豆类质地坚硬，充分浸泡能缩短熬煮时间并确保口感软烂"
+      ],
+      "produces": "浸泡好的豆类",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_la-ba-zhou/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "浸泡谷物莲子",
+      "instruction": "提前洗净大米、糯米、薏米、黑米、小米、莲子，放入玻璃碗，注入3/4碗的饮用水，浸泡3小时。",
+      "duration_sec": 10800,
+      "tips": [
+        "谷物浸泡后吸饱水分，熬煮时更容易开花出浆"
+      ],
+      "produces": "浸泡好的谷物",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_la-ba-zhou/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "初步熬煮豆类",
+      "instruction": "倒掉豆类的浸泡水，将豆类倒入粥锅中，加入1升饮用水（或漫过食材1拇指块），大火煮沸后合盖，转小火煮30分钟。",
+      "duration_sec": 1800,
+      "tips": [
+        "豆类比米类难熟，必须先入锅熬煮"
+      ],
+      "produces": "半熟的豆汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_la-ba-zhou/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "加入谷物慢熬",
+      "instruction": "倒掉谷物的浸泡水，将谷物原料倒入粥锅中，合上锅盖，继续用小火煮60分钟。",
+      "duration_sec": 3600,
+      "tips": [
+        "加入米类后容易沉底，需偶尔搅拌防止糊底"
+      ],
+      "produces": "初步成型的浓粥",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_la-ba-zhou/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "加入干果调味",
+      "instruction": "洗净红枣（切成小片）、桂圆、栗子、核桃、葡萄干、冰糖，全部倒入锅中，合盖小火再煮60分钟。",
+      "duration_sec": 3600,
+      "tips": [
+        "红枣切片可以使其甜味更好地融入粥中"
+      ],
+      "produces": "完工的腊八粥",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_la-ba-zhou/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "确认出锅",
+      "instruction": "确认煮出的粥已达到粘稠软糯的状态后即可关火、盛盘食用。",
+      "duration_sec": 60,
+      "tips": [
+        "关火后焖5分钟口感更佳"
+      ],
+      "produces": "成品腊八粥",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_la-ba-zhou/step_6.jpg"
+    }
+  ],
+  "tips": [
+    "往粥锅加入食材时，应当进行搅拌，使食材原料均匀分布，并注意观察水位线，如低于食材应立即补水。",
+    "注意控制火候不要过大，定时搅拌。普通锅建议烧开水后再下原料，搅拌到再次烧开改小火，避免糊底。",
+    "如果有条件，建议改用高压锅或专用粥锅，效果更佳且更省心。",
+    "米类总量不建议超过150g，豆类不建议超过50g，以免粥体过稠。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/soup_la-ba-zhou.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/soup_la-ba-zhou_overview.jpg",
+  "id": "soup_la-ba-zhou",
+  "status": "published"
+}

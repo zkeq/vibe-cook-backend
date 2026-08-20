@@ -1,0 +1,235 @@
+{
+  "title": "炒茄子",
+  "summary": "这道家常炒茄子软嫩入味，酱香浓郁，加八角后风味更足。茄子富含膳食纤维、维生素 P 和钾元素，有助于保护心血管。做法简单，对新手友好，全程大火快炒，从备料到出锅大约二十分钟即可完成。",
+  "difficulty": 3,
+  "calories": 610,
+  "duration_min": 20,
+  "category": "素菜",
+  "tags": [
+    "家常菜",
+    "快手菜",
+    "酱香",
+    "心血管健康"
+  ],
+  "ingredients": [
+    {
+      "name": "茄子",
+      "amount": "1.8个",
+      "buying_tip": "选择表皮紫黑发亮、手感沉甸甸的嫩茄子",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "八角",
+      "amount": "1个",
+      "buying_tip": "选择颜色红棕、荚瓣完整的八角",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "虾皮",
+      "amount": "半把",
+      "buying_tip": "选择干燥、淡黄色、无异味的虾皮",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "香葱",
+      "amount": "2颗",
+      "buying_tip": "选择葱白长、叶片翠绿的香葱",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "肉末",
+      "amount": "50g",
+      "buying_tip": "建议选择肥三瘦七的猪肉末",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "酱油",
+      "amount": "40ml",
+      "buying_tip": "建议使用老抽挂色或生抽调味，视口味而定",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "糖",
+      "amount": "5g",
+      "buying_tip": "细砂糖或白砂糖均可",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "醋",
+      "amount": "10ml",
+      "buying_tip": "建议使用陈醋，风味更浓郁",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "菜籽油或花生油",
+      "amount": "适量",
+      "buying_tip": "选择高烟点的植物油适合大火快炒",
+      "optional": false,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "碗",
+    "锅铲"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "茄子数量",
+        "expr": "份数 * 1.8 个"
+      },
+      {
+        "name": "八角",
+        "expr": "份数 * 1 个"
+      },
+      {
+        "name": "虾皮",
+        "expr": "份数 * 正常男子手抓半把"
+      },
+      {
+        "name": "香葱",
+        "expr": "份数 * 2 颗"
+      },
+      {
+        "name": "肉末",
+        "expr": "份数 * 50 g"
+      },
+      {
+        "name": "酱油",
+        "expr": "份数 * 40 ml"
+      },
+      {
+        "name": "糖",
+        "expr": "份数 * 5 g"
+      },
+      {
+        "name": "醋",
+        "expr": "份数 * 10 ml"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "食材预处理",
+      "instruction": "将茄子洗净，竖切一刀分为两段。每段切成菱形块，放入碗中待命。",
+      "duration_sec": 300,
+      "tips": [
+        "菱形块增大受热面积，更易入味"
+      ],
+      "produces": "茄子块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qie-zi/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "准备辅料",
+      "instruction": "将香葱洗净切成葱花；八角切好备用。",
+      "duration_sec": 120,
+      "tips": [
+        "辅料提前备好，避免炒菜时手忙脚乱"
+      ],
+      "produces": "葱花、八角",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qie-zi/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "预炒肉末",
+      "instruction": "如使用肉末，用10-15ml油中火炒至变色（约1分钟），盛出备用。",
+      "duration_sec": 60,
+      "tips": [
+        "纯瘦肉末建议多加5ml油防止粘锅"
+      ],
+      "produces": "熟肉末",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qie-zi/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "热锅倒油",
+      "instruction": "开火热锅至无水，倒入食用油，油量需没过锅底的两倍。",
+      "duration_sec": 60,
+      "tips": [
+        "油可多不可少，否则茄子容易糊锅且口感干硬"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qie-zi/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "炸香辅料",
+      "instruction": "油温热至6成时，放入八角、虾皮、香葱。若无可选材料则热油至9成。",
+      "duration_sec": 40,
+      "tips": [
+        "若家用灶温度上升不明显，7成热即可进行下一步"
+      ],
+      "produces": "香油底",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qie-zi/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "下茄子翻炒",
+      "instruction": "油温至9成热时，倒入茄子大火翻炒约40秒。",
+      "duration_sec": 40,
+      "tips": [
+        "全程大火快炒是关键"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qie-zi/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "加入酱油",
+      "instruction": "将酱油倒入锅铲内（一人份约2.5锅铲），再淋入锅中翻炒。",
+      "duration_sec": 30,
+      "tips": [
+        "酱油宁少勿多，避免过咸"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qie-zi/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "合炒肉末",
+      "instruction": "茄子炒至半软时（约1分钟后），放回肉末，快速搅拌均匀。",
+      "duration_sec": 60,
+      "tips": [
+        "此时茄子开始释放水分并吸收油脂"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qie-zi/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "调味出锅",
+      "instruction": "加入糖和醋，继续翻炒至所有茄子变色变软后捞出。",
+      "duration_sec": 60,
+      "tips": [
+        "醋在最后加，翻炒20秒即出锅，防止酸味挥发"
+      ],
+      "produces": "炒茄子",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qie-zi/step_9.jpg"
+    }
+  ],
+  "tips": [
+    "酱油含盐，通常不必额外加盐。出锅前可品尝，若淡可微量加盐。",
+    "加入虾皮时需酌情减少酱油量。",
+    "炒制过程中严禁加水，否则会变成水煮茄子，影响口感。",
+    "糖和醋必须在最后阶段加入，快进快出保持风味。",
+    "油量是保证茄子软嫩的关键，宁多勿少。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_chao-qie-zi.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_chao-qie-zi_overview.jpg",
+  "id": "vegetable_dish_chao-qie-zi",
+  "status": "published"
+}

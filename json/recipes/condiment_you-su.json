@@ -1,0 +1,101 @@
+{
+  "title": "油酥",
+  "summary": "这是一道中式面点配料，常用于烙饼，能让成品层次分明、外酥里软。主要提供碳水化合物和脂肪，为身体补充能量。做法十分简单，新手友好，预计只需 3 分钟就能调好。",
+  "difficulty": 2,
+  "calories": 111,
+  "duration_min": 3,
+  "category": "酱料",
+  "tags": [
+    "中式面点",
+    "配料",
+    "新手友好",
+    "快手"
+  ],
+  "ingredients": [
+    {
+      "name": "面粉",
+      "amount": "约7.7g (按1张饼计)",
+      "buying_tip": "选用普通中筋面粉即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "油",
+      "amount": "10ml (按1张饼计)",
+      "buying_tip": "建议使用耐高温的植物油，如菜籽油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "0.5g (按1张饼计)",
+      "buying_tip": "普通食用盐即可",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "小碗",
+    "筷子",
+    "锅（加热油）"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "油",
+        "expr": "要烙饼的张数 * 10ml"
+      },
+      {
+        "name": "盐",
+        "expr": "要烙饼的张数 / 2 g"
+      },
+      {
+        "name": "面粉",
+        "expr": "要烙饼的张数 / 0.13 g"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "混合干料",
+      "instruction": "面粉盛小碗里，加入盐",
+      "duration_sec": 30,
+      "tips": [
+        "确保碗中没有水分"
+      ],
+      "produces": "面粉盐混合物",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_you-su/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "激发出香味",
+      "instruction": "加入 200 度的热油",
+      "duration_sec": 60,
+      "tips": [
+        "油温需达到200度以激发出面粉香味，注意防烫"
+      ],
+      "produces": "半成品油酥",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_you-su/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "搅拌成糊",
+      "instruction": "用筷子将其搅拌成无固状物体的糊状。",
+      "duration_sec": 90,
+      "tips": [
+        "搅拌要迅速，确保没有面粉颗粒"
+      ],
+      "produces": "油酥",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_you-su/step_3.jpg"
+    }
+  ],
+  "tips": [
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/condiment_you-su.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/condiment_you-su_overview.jpg",
+  "id": "condiment_you-su",
+  "status": "published"
+}

@@ -1,0 +1,239 @@
+{
+  "title": "日式肥牛丼饭",
+  "summary": "一道经典的日式家常盖饭，肥牛片与白洋葱在咸甜酱汁中炖煮入味，肉质软嫩，洋葱甜润，汁香浓郁。牛肉提供优质蛋白和血红素铁，洋葱富含膳食纤维与多种抗氧化物。",
+  "difficulty": 4,
+  "calories": 774,
+  "duration_min": 30,
+  "category": "其他",
+  "tags": [
+    "日式",
+    "盖饭",
+    "肥牛",
+    "家常菜"
+  ],
+  "ingredients": [
+    {
+      "name": "洋葱",
+      "amount": "1个",
+      "buying_tip": "务必选用外皮为白黄色的洋葱，不要用紫色的洋葱",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "肥牛",
+      "amount": "250g",
+      "buying_tip": "火锅肥牛即可，也可选用原切肥牛片",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "1~2根",
+      "buying_tip": "也可选用切好的葱段",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白芝麻",
+      "amount": "5g",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "味淋",
+      "amount": "40g",
+      "buying_tip": "也可用30g料酒代替",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酱油",
+      "amount": "30g",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "耗油",
+      "amount": "20g",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "糖",
+      "amount": "5g",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "5g",
+      "buying_tip": "可选，用于调色",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "温泉蛋",
+      "amount": "1-2个",
+      "buying_tip": "额外用作点缀",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "出汁",
+      "amount": "250g",
+      "buying_tip": "使用柴鱼干和昆布熬制的汤汁，可代替水",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "清酒",
+      "amount": "15g",
+      "buying_tip": "如有条件可加入以增加风味",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "碗",
+    "电子秤",
+    "微波炉"
+  ],
+  "servings": {
+    "base": 2,
+    "formula": [
+      {
+        "name": "米饭",
+        "expr": "160ml (一杯米)"
+      },
+      {
+        "name": "洋葱",
+        "expr": "1 个"
+      },
+      {
+        "name": "肥牛",
+        "expr": "250 克"
+      },
+      {
+        "name": "白芝麻",
+        "expr": "5 克"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理洋葱",
+      "instruction": "洋葱剥去外层去芯，切成月牙状",
+      "duration_sec": 120,
+      "tips": [
+        "去芯可以让口感更统一"
+      ],
+      "produces": "洋葱丝",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-fei-niu-jing-fan/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "处理葱花",
+      "instruction": "葱洗净切成 0.5cm 的小段",
+      "duration_sec": 60,
+      "tips": [],
+      "produces": "葱花",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-fei-niu-jing-fan/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "焙烤芝麻",
+      "instruction": "热锅直接放入白芝麻，前后晃动锅体使芝麻均匀受热至略呈金黄色",
+      "duration_sec": 180,
+      "tips": [
+        "注意火候，防止芝麻焦糊"
+      ],
+      "produces": "熟芝麻",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-fei-niu-jing-fan/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "肥牛焯水",
+      "instruction": "肥牛焯水 1 分钟后捞出",
+      "duration_sec": 60,
+      "tips": [
+        "如果是优质牛肉可跳过此步以保留风味"
+      ],
+      "produces": "半熟肥牛",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-fei-niu-jing-fan/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "调制酱汁",
+      "instruction": "将味淋（或料酒）、酱油、耗油、糖、老抽在碗中搅拌混合成调料",
+      "duration_sec": 120,
+      "tips": [
+        "可直接将碗放在电子秤上进行精准称重"
+      ],
+      "produces": "调料汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-fei-niu-jing-fan/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "翻炒洋葱",
+      "instruction": "热油锅放入洋葱，快速翻炒至洋葱变透明状",
+      "duration_sec": 180,
+      "tips": [
+        "大火快炒能激发洋葱甜味"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-fei-niu-jing-fan/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "加水炖煮",
+      "instruction": "关小火，加入 250g 水（或出汁），开回大火加热等待 3 分钟",
+      "duration_sec": 180,
+      "tips": [
+        "使用出汁味道更鲜美"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-fei-niu-jing-fan/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "混合烹煮",
+      "instruction": "加入牛肉和调料汁，不断翻动所有食材 10 分钟，防止食材粘锅",
+      "duration_sec": 600,
+      "tips": [
+        "如果觉得不够咸，可以逐克加入酱油调整"
+      ],
+      "produces": "牛丼浇头",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-fei-niu-jing-fan/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "盛装成品",
+      "instruction": "盛装肥牛丼至米饭上，淋上汁水，撒上葱花和白芝麻",
+      "duration_sec": 60,
+      "tips": [
+        "汁水是盖饭的灵魂，记得多淋一些"
+      ],
+      "produces": "日式肥牛丼饭",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-fei-niu-jing-fan/step_9.jpg"
+    }
+  ],
+  "tips": [
+    "如果用的是比较不错的牛肉，可以选择不焯水，能够更加保留牛肉的风味。",
+    "因为加入了味淋所以不会很腥，无需担心牛肉不熟，加热 10 分钟肯定熟了。",
+    "如果有条件，选择加入 15g 清酒可以提升香气。",
+    "冷藏后加热：微波炉单人份高火 2-3 分钟；锅加热需额外加 50ml 水并不断翻动。",
+    "咸度调整：建议尝一口汤汁，若咸度低于预期，每次加入 1g 酱油微调。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ri-shi-fei-niu-jing-fan.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ri-shi-fei-niu-jing-fan_overview.jpg",
+  "id": "other_ri-shi-fei-niu-jing-fan",
+  "status": "published"
+}

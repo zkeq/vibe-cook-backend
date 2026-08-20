@@ -1,0 +1,185 @@
+{
+  "title": "排骨山药玉米汤",
+  "summary": "排骨山药玉米汤清甜醇厚，山药软糯、玉米回甘，融合了排骨的鲜香，属于老少皆宜的家常汤品。它富含蛋白质、膳食纤维和多种维生素，有健脾益胃、增强抵抗力的作用。做法简单，预处理和炖煮步骤清晰，新手也能轻松上手，全程大约需要 1 小时即可完成。",
+  "difficulty": 2,
+  "calories": 1054,
+  "duration_min": 60,
+  "category": "其他",
+  "tags": [
+    "家常菜",
+    "汤品",
+    "健脾益胃",
+    "营养丰富"
+  ],
+  "ingredients": [
+    {
+      "name": "排骨",
+      "amount": "500g",
+      "buying_tip": "推荐购买精排，口感更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "山药",
+      "amount": "1根(大约300g)",
+      "buying_tip": "推荐铁棍山药，口感更软糯",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "胡萝卜",
+      "amount": "1根(大约150g)",
+      "buying_tip": "选择表皮光滑、颜色鲜艳的胡萝卜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "玉米",
+      "amount": "1根(大约250g)",
+      "buying_tip": "推荐甜玉米或糯玉米",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生姜",
+      "amount": "20g",
+      "buying_tip": "切片备用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "小葱",
+      "amount": "15g",
+      "buying_tip": "打结或切末备用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "15ml",
+      "buying_tip": "用于去腥",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "10ml",
+      "buying_tip": "普通植物油即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "饮用水",
+      "amount": "1500ml-2000ml",
+      "buying_tip": "建议一次性加足",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食盐",
+      "amount": "6g-8g",
+      "buying_tip": "根据个人口味适量添加",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "砂锅或深汤锅",
+    "菜刀",
+    "砧板",
+    "勺子",
+    "手套"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "排骨",
+        "expr": "500 * n"
+      },
+      {
+        "name": "山药",
+        "expr": "1 * n"
+      },
+      {
+        "name": "胡萝卜",
+        "expr": "1 * n"
+      },
+      {
+        "name": "玉米",
+        "expr": "1 * n"
+      },
+      {
+        "name": "饮用水",
+        "expr": "1500 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "食材预处理",
+      "instruction": "将胡萝卜洗净去皮切滚刀块；玉米洗净剁成圆柱块；山药去皮切成长段。",
+      "duration_sec": 480,
+      "tips": [
+        "处理山药建议佩戴手套，防止粘液导致皮肤过敏"
+      ],
+      "produces": "预处理后的蔬菜块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pai-gu-shan-yao-yu-mi-tang/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "排骨焯水",
+      "instruction": "冷水下排骨，加入姜片、葱结和料酒。大火煮沸后等待3分钟，撇去浮沫，捞出用40℃温水洗净沥干。",
+      "duration_sec": 600,
+      "tips": [
+        "一定要冷水下锅才能更好地逼出血水",
+        "使用温水清洗排骨可保持肉质鲜嫩"
+      ],
+      "produces": "焯水洗净的排骨",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pai-gu-shan-yao-yu-mi-tang/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "翻炒排骨",
+      "instruction": "热锅入油，放入姜片爆香，下排骨中火翻炒约1分钟至表面微焦。",
+      "duration_sec": 120,
+      "tips": [
+        "翻炒排骨能激发肉香，使汤头更浓郁"
+      ],
+      "produces": "微焦的排骨",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pai-gu-shan-yao-yu-mi-tang/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "炖煮过程",
+      "instruction": "一次性加入饮用水，放入胡萝卜、玉米和山药。大火烧开后转小火，盖盖慢炖40分钟。",
+      "duration_sec": 2700,
+      "tips": [
+        "建议一次性加足水，中途避免加冷水"
+      ],
+      "produces": "初具风味的汤品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pai-gu-shan-yao-yu-mi-tang/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "调味与出锅",
+      "instruction": "加入食盐搅拌均匀，继续小火炖煮2分钟，关火撒上葱末即可。",
+      "duration_sec": 180,
+      "tips": [
+        "盐要最后放，以免肉质变柴"
+      ],
+      "produces": "成品排骨山药玉米汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pai-gu-shan-yao-yu-mi-tang/step_5.jpg"
+    }
+  ],
+  "tips": [
+    "防氧化技巧：山药去皮后若不立即下锅，应浸泡在清水中，防止接触空气氧化变黑。",
+    "口感控制：若喜欢山药极度软糯，可与排骨同时下锅；若喜欢山药成块不散，可在排骨炖煮 20 分钟后再放入山药。",
+    "补水须知：炖煮过程中如发现水位低于食材，务必添加热水，避免加入冷水导致肉质纤维瞬间收缩变柴。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_pai-gu-shan-yao-yu-mi-tang.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_pai-gu-shan-yao-yu-mi-tang_overview.jpg",
+  "id": "other_pai-gu-shan-yao-yu-mi-tang",
+  "status": "published"
+}

@@ -1,0 +1,292 @@
+{
+  "title": "香煎翘嘴鱼",
+  "summary": "香煎翘嘴鱼是一道风味浓郁的家常河鲜，鱼身经腌晒后干香紧实，煎至外皮金黄酥脆，肉质细腻咸鲜，带着豆瓣与青椒的微辣回甜。鱼肉富含优质蛋白和不饱和脂肪酸，营养易吸收。",
+  "difficulty": 4,
+  "calories": 820,
+  "duration_min": 30,
+  "category": "其他",
+  "tags": [
+    "河鲜",
+    "家常菜",
+    "香煎",
+    "下饭菜"
+  ],
+  "ingredients": [
+    {
+      "name": "翘嘴鱼",
+      "amount": "2斤",
+      "buying_tip": "肉食性鱼类，肉细腻，口感好",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜末",
+      "amount": "20g",
+      "buying_tip": "选取新鲜生姜切末",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "50g",
+      "buying_tip": "半根左右",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜",
+      "amount": "4个",
+      "buying_tip": "整瓣或切片",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "青椒",
+      "amount": "适量",
+      "buying_tip": "切段备用",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "香菜",
+      "amount": "适量",
+      "buying_tip": "根据个人口味添加",
+      "optional": true,
+      "per_serving": false
+    },
+    {
+      "name": "老抽",
+      "amount": "2ml",
+      "buying_tip": "用于上色",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "白糖",
+      "amount": "10g",
+      "buying_tip": "提鲜用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": "适量",
+      "buying_tip": "增加风味和咸辣度",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "料酒",
+      "amount": "100ml",
+      "buying_tip": "去腥必备",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "4ml",
+      "buying_tip": "提鲜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "50g",
+      "buying_tip": "用于前期腌制",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "100ml",
+      "buying_tip": "耐高温植物油为佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "干辣椒",
+      "amount": "4-6个",
+      "buying_tip": "根据口味增减",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡精",
+      "amount": "适量",
+      "buying_tip": "调味",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "十三香",
+      "amount": "适量",
+      "buying_tip": "增加香气",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "陈醋",
+      "amount": "适量",
+      "buying_tip": "去腥增香",
+      "optional": false,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "晾晒绳",
+    "冰箱"
+  ],
+  "servings": {
+    "base": 2,
+    "formula": [
+      {
+        "name": "翘嘴鱼",
+        "expr": "1斤/人"
+      },
+      {
+        "name": "料酒",
+        "expr": "50ml/人"
+      },
+      {
+        "name": "食用油",
+        "expr": "50ml/人"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "宰杀清洗",
+      "instruction": "鱼开背杀好（切记是开背，不要剖腹），清洗干净。",
+      "duration_sec": 300,
+      "tips": [
+        "让卖鱼的帮忙处理开背更专业"
+      ],
+      "produces": "开背翘嘴鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-qiao-zui-yu/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "腌制入味",
+      "instruction": "鱼表面涂抹均匀盐，倒入料酒80ml、姜末20g，放入冰箱保鲜层腌制1-2天。",
+      "duration_sec": 86400,
+      "tips": [
+        "盐要涂抹均匀以确保入味"
+      ],
+      "produces": "腌制鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-qiao-zui-yu/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "晾晒脱水",
+      "instruction": "取出腌好的鱼，用绳挂起晾晒至半干（约1-2天，视天气而定）。",
+      "duration_sec": 86400,
+      "tips": [
+        "结合气温与阳光调整时间，半干状态口感最佳"
+      ],
+      "produces": "半干翘嘴鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-qiao-zui-yu/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "烹前处理",
+      "instruction": "食用前将鱼用清水清洗，彻底沥干水分。",
+      "duration_sec": 300,
+      "tips": [
+        "沥干水分是为了防止煎鱼时油溅"
+      ],
+      "produces": "待煎鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-qiao-zui-yu/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "热锅下鱼",
+      "instruction": "大火烧热锅后转小火，倒油铺满锅面，将鱼沿锅边划入，先煎鱼背面。",
+      "duration_sec": 60,
+      "tips": [
+        "锅一定要烧热，但煎鱼时要用小火"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-qiao-zui-yu/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "定型控火",
+      "instruction": "鱼入锅后不要急于移动，煎约30秒后再尝试晃动锅。",
+      "duration_sec": 30,
+      "tips": [
+        "刚入锅移动极易导致鱼皮破裂"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-qiao-zui-yu/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "双面煎制",
+      "instruction": "背面煎约1分钟后翻面，再煎1-2分钟，至两面金黄。",
+      "duration_sec": 180,
+      "tips": [
+        "耐心煎至金黄色泽"
+      ],
+      "produces": "金黄煎鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-qiao-zui-yu/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "炒制佐料",
+      "instruction": "将鱼推向锅边，在空位放入豆瓣酱炒香，随后放入姜蒜。",
+      "duration_sec": 60,
+      "tips": [
+        "小火炒出豆瓣酱红油和香味"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-qiao-zui-yu/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "加水焖煮",
+      "instruction": "炒香后加入料酒、生抽、老抽，倒入热水，水量与鱼平齐或略少。",
+      "duration_sec": 60,
+      "tips": [
+        "必须加热水，避免肉质遇冷收缩变柴"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-qiao-zui-yu/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "调味收汁",
+      "instruction": "改中大火煮5-10分钟，放入青椒段、白糖、鸡精、十三香、陈醋。",
+      "duration_sec": 600,
+      "tips": [
+        "注意观察青椒熟度，白糖提鲜，陈醋增香"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-qiao-zui-yu/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "出锅装盘",
+      "instruction": "转小火煮2-5分钟，放入葱和香菜，即可出锅。",
+      "duration_sec": 120,
+      "tips": [
+        "香菜最后放以保持色泽和香气"
+      ],
+      "produces": "香煎翘嘴鱼成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-qiao-zui-yu/step_11.jpg"
+    }
+  ],
+  "tips": [
+    "切记鱼是开背杀，腌制和晾晒时间控制在1-2天即可。",
+    "煎鱼全程保持小火，刚入锅时切勿移动，否则鱼皮会破。",
+    "里面的青椒吸收了鱼汤非常好吃，注意不要煮得太烂。",
+    "注意火候切换：前期煎鱼小火，中期焖煮中大火，后期收尾小火。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_xiang-jian-qiao-zui-yu.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_xiang-jian-qiao-zui-yu_overview.jpg",
+  "id": "other_xiang-jian-qiao-zui-yu",
+  "status": "published"
+}

@@ -1,0 +1,195 @@
+{
+  "title": "火腿饭团",
+  "summary": "一道简单快手的日式风味饭团，咸香火腿搭配沙拉酱与海苔，口感丰富饱腹。富含碳水化合物、蛋白质和维生素，能快速补充能量。制作难度极低，新手也能轻松上手，从煮饭到完成大约只需 1 小时。",
+  "difficulty": 4,
+  "calories": 665,
+  "duration_min": 60,
+  "category": "其他",
+  "tags": [
+    "日式",
+    "快手",
+    "饭团",
+    "便当",
+    "能量补充"
+  ],
+  "ingredients": [
+    {
+      "name": "火腿",
+      "amount": "100g",
+      "buying_tip": "建议选择肉含量较高的火腿，口感更佳。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "米饭",
+      "amount": "125g",
+      "buying_tip": "使用东北大米或日式短粒米，粘性更好易成型。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "水",
+      "amount": "90ml",
+      "buying_tip": "纯净水即可，用于煮制米饭。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "冷冻青豆",
+      "amount": "30g",
+      "buying_tip": "超市冷冻区常见，解冻后颜色鲜绿。",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "冷冻玉米粒",
+      "amount": "30g",
+      "buying_tip": "甜玉米粒口感更好。",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "海苔碎",
+      "amount": "10g",
+      "buying_tip": "选择即食海苔碎或拌饭海苔。",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "沙拉酱",
+      "amount": "20g",
+      "buying_tip": "强烈推荐日式蛋黄酱（Mayo）。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "10-15ml",
+      "buying_tip": "普通的植物油即可。",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "电饭锅",
+    "锅",
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "碗"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "火腿",
+        "expr": "100g * n"
+      },
+      {
+        "name": "米饭",
+        "expr": "125g * n"
+      },
+      {
+        "name": "水",
+        "expr": "90ml * n"
+      },
+      {
+        "name": "冷冻青豆",
+        "expr": "30g * n"
+      },
+      {
+        "name": "冷冻玉米粒",
+        "expr": "30g * n"
+      },
+      {
+        "name": "海苔碎",
+        "expr": "10g * n"
+      },
+      {
+        "name": "沙拉酱",
+        "expr": "20g * n"
+      },
+      {
+        "name": "食用油",
+        "expr": "10-15ml * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "煮制米饭",
+      "instruction": "将米饭和水放到电饭锅里，点击米饭模式，等待完成。",
+      "duration_sec": 2400,
+      "tips": [
+        "米水比例可根据个人喜好微调"
+      ],
+      "produces": "熟米饭",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_huo-tui-fan-tuan/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "焯烫配菜",
+      "instruction": "冷冻玉米粒和青豆放到锅里，加水没过所有食材，沸腾后静待 2 分钟后，捞出。",
+      "duration_sec": 300,
+      "tips": [
+        "捞出后建议沥干水分，避免米饭过湿"
+      ],
+      "produces": "熟玉米青豆",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_huo-tui-fan-tuan/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "处理火腿",
+      "instruction": "火腿切成 1cm 的方块。",
+      "duration_sec": 120,
+      "tips": [
+        "切块大小均匀有助于受热一致"
+      ],
+      "produces": "火腿丁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_huo-tui-fan-tuan/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "煎炒火腿",
+      "instruction": "锅中加入 10ml 食用油，加入火腿翻炒至火腿上色。",
+      "duration_sec": 300,
+      "tips": [
+        "中小火煎至表面微焦香味更浓"
+      ],
+      "produces": "熟火腿丁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_huo-tui-fan-tuan/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "混合搅拌",
+      "instruction": "将米饭，火腿，海苔碎，青豆，玉米粒，沙拉酱放入碗中，混合均匀即可。",
+      "duration_sec": 180,
+      "tips": [
+        "戴上一次性手套抓匀更方便"
+      ],
+      "produces": "饭团混合料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_huo-tui-fan-tuan/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "装盘成型",
+      "instruction": "装盘（如果有的话）。",
+      "duration_sec": 60,
+      "tips": [
+        "可以用模具压实或手捏成球状"
+      ],
+      "produces": "火腿饭团成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_huo-tui-fan-tuan/step_6.jpg"
+    }
+  ],
+  "tips": [
+    "沙拉酱的程度可以根据个人口味酌情删减。",
+    "可以尝试混合不同种类的沙拉酱以丰富口味。",
+    "参考资料：小红书 - 干饭选手又困了"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_huo-tui-fan-tuan.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_huo-tui-fan-tuan_overview.jpg",
+  "id": "other_huo-tui-fan-tuan",
+  "status": "published"
+}

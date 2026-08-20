@@ -1,0 +1,113 @@
+{
+  "title": "耙耙柑茶",
+  "summary": "耙耙柑茶是一款融合了柑橘清甜与茉莉花香的果茶饮品，口感清爽回甘，属于创意调饮，不限于特定菜系。耙耙柑富含维生素 C 与膳食纤维，搭配绿茶饮用能带来清新提神的体验。",
+  "difficulty": 2,
+  "calories": 81,
+  "duration_min": 15,
+  "category": "其他",
+  "tags": [
+    "果茶",
+    "饮品",
+    "下午茶",
+    "创意调饮"
+  ],
+  "ingredients": [
+    {
+      "name": "耙耙柑",
+      "amount": "1~2 个（200 克以上）",
+      "buying_tip": "选择容易分离果肉的柑橘，如耙耙柑或丑橘",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "茉莉绿茶",
+      "amount": "2~4 克",
+      "buying_tip": "选用香气浓郁的茉莉花茶基底",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "冰块",
+      "amount": "60 克",
+      "buying_tip": "建议使用纯净水制作的冰块",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蔗糖糖浆",
+      "amount": "10 克",
+      "buying_tip": "可按 1:1 比例自行熬制",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "搅拌机",
+    "电子秤",
+    "茶滤",
+    "300毫升玻璃杯"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "耙耙柑果肉",
+        "expr": "130g"
+      },
+      {
+        "name": "茉莉绿茶水",
+        "expr": "130ml"
+      },
+      {
+        "name": "蔗糖糖浆",
+        "expr": "10g"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "茉莉绿茶调配",
+      "instruction": "称量 2~4 克茶叶置于容器，加入 100 毫升开水，泡 6 分钟。随后往绿茶中放入 60 克冰块并搅拌冷却。待冰块完全融化后，将茶叶过滤，得到约 160 毫升茉莉绿茶水。",
+      "duration_sec": 420,
+      "tips": [
+        "推荐比例为 茶:水:冰 = 1~2:50:30",
+        "搅拌可以加速冷却并激发茶香"
+      ],
+      "produces": "茉莉绿茶茶水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ba-gan-cha/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "准备果肉与混合",
+      "instruction": "取出耙耙柑的肉瓣并剥去外皮取得果肉。取 130 克果肉、130 毫升茉莉绿茶水和 10 克蔗糖糖浆（可选）放入搅拌机中。",
+      "duration_sec": 180,
+      "tips": [
+        "剥皮时尽量去除白色经络以减少苦味",
+        "果肉与茶水的比例保持 1:1 为佳"
+      ],
+      "produces": "预混合液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ba-gan-cha/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "搅拌与装杯",
+      "instruction": "封盖启动搅拌机，搅拌 20 秒后将产物倒入约 300 毫升的透明玻璃杯中。最后取少量果肉撕碎撒在液面上装饰。",
+      "duration_sec": 60,
+      "tips": [
+        "搅拌时间不宜过长，保留一定果肉纤维口感更好",
+        "顶部的碎果肉能增加视觉层次感"
+      ],
+      "produces": "耙耙柑茶",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ba-gan-cha/step_3.jpg"
+    }
+  ],
+  "tips": [
+    "耙耙柑可以用其他容易分离果肉的柑橘替代，比如丑橘",
+    "果肉和茶水比例为 1:1，如果需要配置更大的分量，可按比例提升用量"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ba-ba-gan-cha.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ba-ba-gan-cha_overview.jpg",
+  "id": "other_ba-ba-gan-cha",
+  "status": "published"
+}

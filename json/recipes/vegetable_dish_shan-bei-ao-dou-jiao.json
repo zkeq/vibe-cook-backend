@@ -1,0 +1,276 @@
+{
+  "title": "陕北熬豆角",
+  "summary": "这是一道西北农家风味的炖菜，豆角绵软、土豆沙糯、番茄汤汁浓郁，酸香开胃。富含膳食纤维、维生素和碳水化合物，营养均衡。做法极其简单，食材用量可随喜好调整，几乎没有失败的可能，对新手特别友好。",
+  "difficulty": 2,
+  "calories": 191,
+  "duration_min": 30,
+  "category": "素菜",
+  "tags": [
+    "西北菜",
+    "农家风味",
+    "炖菜",
+    "下饭菜",
+    "新手友好"
+  ],
+  "ingredients": [
+    {
+      "name": "豆角",
+      "amount": "600g",
+      "buying_tip": "选择豆荚饱满、颜色翠绿且容易折断的嫩豆角",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "土豆",
+      "amount": "2个",
+      "buying_tip": "选择表皮光滑、不发芽、不发青的黄心土豆",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "西红柿",
+      "amount": "2个",
+      "buying_tip": "选择熟透、捏起来稍软的，汁水更丰富",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "螺丝椒",
+      "amount": "4个",
+      "buying_tip": "褶皱多、色深绿的螺丝椒口感更爽辣",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "12g",
+      "buying_tip": "普通食用盐即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "12ml",
+      "buying_tip": "鲜味生抽即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "五香粉",
+      "amount": "6g",
+      "buying_tip": "西北风味的灵魂调料",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蚝油",
+      "amount": "12ml",
+      "buying_tip": "提鲜增稠",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "3圈",
+      "buying_tip": "大葱或小葱均可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "2g",
+      "buying_tip": "新鲜老姜味道更浓",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜",
+      "amount": "2颗",
+      "buying_tip": "去皮新鲜蒜瓣",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香菜碎",
+      "amount": "适量",
+      "buying_tip": "根据个人口味添加",
+      "optional": true,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "锅盖"
+  ],
+  "servings": {
+    "base": 2,
+    "formula": [
+      {
+        "name": "豆角",
+        "expr": "300g * n"
+      },
+      {
+        "name": "土豆",
+        "expr": "1个 * n"
+      },
+      {
+        "name": "西红柿",
+        "expr": "1个 * n"
+      },
+      {
+        "name": "螺丝椒",
+        "expr": "2个 * n"
+      },
+      {
+        "name": "盐",
+        "expr": "6g * n"
+      },
+      {
+        "name": "生抽",
+        "expr": "6ml * n"
+      },
+      {
+        "name": "五香粉",
+        "expr": "3g * n"
+      },
+      {
+        "name": "蚝油",
+        "expr": "6ml * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理辅料",
+      "instruction": "葱切花，蒜切沫，姜切丝，备用。",
+      "duration_sec": 60,
+      "tips": [
+        "蒜末可以稍微切细一点，方便出味"
+      ],
+      "produces": "葱姜蒜末",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shan-bei-ao-dou-jiao/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "处理豆角",
+      "instruction": "豆角去筋，切2-10cm小段，备用。",
+      "duration_sec": 180,
+      "tips": [
+        "去筋可以保证口感不塞牙"
+      ],
+      "produces": "豆角段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shan-bei-ao-dou-jiao/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "处理土豆",
+      "instruction": "土豆去皮，切1cm³小块，备用。",
+      "duration_sec": 120,
+      "tips": [
+        "土豆块不要切太大，否则不易煮烂"
+      ],
+      "produces": "土豆块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shan-bei-ao-dou-jiao/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "处理西红柿",
+      "instruction": "西红柿去皮，切1cm³小块，备用。",
+      "duration_sec": 120,
+      "tips": [
+        "可以用开水烫一下西红柿表皮方便剥皮"
+      ],
+      "produces": "西红柿块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shan-bei-ao-dou-jiao/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "处理辣椒",
+      "instruction": "辣椒去仔，切0.15cm宽条，备用。",
+      "duration_sec": 60,
+      "tips": [
+        "怕辣的可以把辣椒筋也去掉"
+      ],
+      "produces": "辣椒条",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shan-bei-ao-dou-jiao/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "爆香底料",
+      "instruction": "起锅烧油(10ml - 15ml)，冒烟后放入葱姜蒜，翻炒至闻到葱姜蒜香味。",
+      "duration_sec": 45,
+      "tips": [
+        "油热后再下锅，香味激发更快"
+      ],
+      "produces": "底油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shan-bei-ao-dou-jiao/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "炒豆角",
+      "instruction": "加入豆角，翻炒至变色（青绿色变为翠绿色）。",
+      "duration_sec": 120,
+      "tips": [
+        "充分翻炒豆角可以去除豆腥味"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shan-bei-ao-dou-jiao/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "炒土豆",
+      "instruction": "加入土豆块，翻炒30s。",
+      "duration_sec": 30,
+      "tips": [
+        "让土豆表面均匀沾上油色"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shan-bei-ao-dou-jiao/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "加水炖煮",
+      "instruction": "加入热水（水面刚刚漫过菜），盖上锅盖熬至土豆变软（可以用筷子确认）。",
+      "duration_sec": 600,
+      "tips": [
+        "一定要加热水，冷水会让豆角变硬"
+      ],
+      "produces": "初步炖煮的菜肴",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shan-bei-ao-dou-jiao/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "调味收汁",
+      "instruction": "加入西红柿块，加入盐，生抽，蚝油，五香粉，辣椒，熬至西红柿成汁（注意搅拌，防止糊锅）。",
+      "duration_sec": 300,
+      "tips": [
+        "西红柿熬成汁后汤底会变得浓稠酸香"
+      ],
+      "produces": "熟成的熬豆角",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shan-bei-ao-dou-jiao/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "出锅",
+      "instruction": "加入香菜碎，出锅。",
+      "duration_sec": 15,
+      "tips": [
+        "香菜不宜久煮，拌匀即可"
+      ],
+      "produces": "陕北熬豆角成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shan-bei-ao-dou-jiao/step_11.jpg"
+    }
+  ],
+  "tips": [
+    "加入西红柿后开始继续熬制后，需要偶尔翻搅防止糊底",
+    "土豆块的大小决定了炖煮时间，建议切得均匀",
+    "水量控制在刚好没过食材即可，不宜过多变成汤菜"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_shan-bei-ao-dou-jiao.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_shan-bei-ao-dou-jiao_overview.jpg",
+  "id": "vegetable_dish_shan-bei-ao-dou-jiao",
+  "status": "published"
+}

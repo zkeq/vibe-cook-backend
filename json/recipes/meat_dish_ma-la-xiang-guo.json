@@ -1,0 +1,233 @@
+{
+  "title": "麻辣香锅",
+  "summary": "一道麻辣浓郁的川味家常菜，汇集蔬菜、肉类和豆制品，口感香辣过瘾、层次丰富。荤素搭配提供了优质蛋白质和多种维生素，营养全面。",
+  "difficulty": 3,
+  "calories": 1050,
+  "duration_min": 30,
+  "category": "荤菜",
+  "tags": [
+    "川味",
+    "家常菜",
+    "麻辣",
+    "荤素搭配"
+  ],
+  "ingredients": [
+    {
+      "name": "青菜（油菜、油麦菜、菠菜）",
+      "amount": "455g",
+      "buying_tip": "选新鲜的油菜、油麦菜或菠菜，比例可按喜好分配",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "无骨肉（猪肉、牛肉、鸡肉、鱼丸、火腿肠）",
+      "amount": "430g",
+      "buying_tip": "可包含猪肉、牛肉、鸡肉、鱼丸、火腿肠等",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "干豆腐",
+      "amount": "152g",
+      "buying_tip": "建议选择质地柔韧的干豆腐",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "北京麻辣方便面",
+      "amount": "1袋",
+      "buying_tip": "经典的北京麻辣方便面，口感更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "干辣椒",
+      "amount": "5g",
+      "buying_tip": "可根据吃辣程度调整数量",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "麻辣香锅调料",
+      "amount": "110g",
+      "buying_tip": "选用市售优质麻辣香锅底料",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "105g",
+      "buying_tip": "普通植物油即可",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "煮锅",
+    "炒锅",
+    "漏勺",
+    "筷子",
+    "厨房纸巾"
+  ],
+  "servings": {
+    "base": 3,
+    "formula": [
+      {
+        "name": "青菜",
+        "expr": "455g"
+      },
+      {
+        "name": "无骨肉",
+        "expr": "430g"
+      },
+      {
+        "name": "干豆腐",
+        "expr": "152g"
+      },
+      {
+        "name": "北京麻辣方便面",
+        "expr": "1袋"
+      },
+      {
+        "name": "干辣椒",
+        "expr": "5g"
+      },
+      {
+        "name": "麻辣香锅调料",
+        "expr": "110g"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "准备沸水",
+      "instruction": "烧开一锅水，水量需足够淹没后续步骤中的食材。",
+      "duration_sec": 300,
+      "tips": [
+        "建议大火烧水以节省时间"
+      ],
+      "produces": "沸水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-la-xiang-guo/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "焯青菜",
+      "instruction": "在开水中放入青菜，焯 5 分钟后盛出备用。",
+      "duration_sec": 300,
+      "tips": [
+        "不要焯水过久以免蔬菜变黄"
+      ],
+      "produces": "焯好的青菜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-la-xiang-guo/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "焯无骨肉",
+      "instruction": "在开水中放入无骨肉，焯 4 分钟后盛出备用。",
+      "duration_sec": 240,
+      "tips": [
+        "肉类焯水可以去除腥味和杂质"
+      ],
+      "produces": "焯好的无骨肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-la-xiang-guo/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "煮方便面",
+      "instruction": "在开水中放入北京麻辣方便面，煮 2 分钟后盛出备用。",
+      "duration_sec": 120,
+      "tips": [
+        "面条不宜煮得太软，因为后面还要翻炒"
+      ],
+      "produces": "半熟的方便面",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-la-xiang-guo/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "热油",
+      "instruction": "倒出开水，擦干锅具，放入 105 克食用油，大火加热 30 秒。",
+      "duration_sec": 30,
+      "tips": [
+        "一定要擦干锅具防止热油溅出"
+      ],
+      "produces": "热油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-la-xiang-guo/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "炒香调料",
+      "instruction": "放入麻辣香锅调料，翻炒 20 秒。",
+      "duration_sec": 20,
+      "tips": [
+        "动作要快，防止底料炒糊"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-la-xiang-guo/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "炒干辣椒",
+      "instruction": "放入干辣椒，翻炒 10 秒。",
+      "duration_sec": 10,
+      "tips": [
+        "辣椒香味溢出即可"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-la-xiang-guo/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "翻炒青菜",
+      "instruction": "放入焯过的青菜，改中火，翻炒 3 分钟。",
+      "duration_sec": 180,
+      "tips": [
+        "中火慢炒让蔬菜均匀挂上调料"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-la-xiang-guo/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "翻炒肉类",
+      "instruction": "放入焯过的无骨肉，翻炒 3 分钟。",
+      "duration_sec": 180,
+      "tips": [
+        "确保肉类充分吸收调料味道"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-la-xiang-guo/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "混合面条",
+      "instruction": "放入煮过的北京麻辣方便面，用筷子翻动 1 分钟。",
+      "duration_sec": 60,
+      "tips": [
+        "使用筷子可以避免面条断裂"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-la-xiang-guo/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "出锅",
+      "instruction": "关火，出锅装盘。",
+      "duration_sec": 10,
+      "tips": [
+        "装盘后可撒少量芝麻或香菜点缀"
+      ],
+      "produces": "麻辣香锅",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-la-xiang-guo/step_11.jpg"
+    }
+  ],
+  "tips": [
+    "大火通常温度在 240 摄氏度，以电磁炉为例，输入功率大约 2 千瓦。",
+    "中火通常温度在 120 摄氏度，以电磁炉为例，输入功率大约 1.4 千瓦。",
+    "青菜、无骨肉、干豆腐、北京麻辣方便面的配比为推荐配比，如果有自己喜欢的食材，可以按喜好重新分配比例。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_ma-la-xiang-guo.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_ma-la-xiang-guo_overview.jpg",
+  "id": "meat_dish_ma-la-xiang-guo",
+  "status": "published"
+}

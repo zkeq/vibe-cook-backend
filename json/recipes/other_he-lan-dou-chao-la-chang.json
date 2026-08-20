@@ -1,0 +1,147 @@
+{
+  "title": "荷兰豆炒腊肠",
+  "summary": "荷兰豆炒腊肠是一道清爽咸香的家常小炒，腊肠的油脂润着翠绿的荷兰豆，口感脆嫩不腻。荷兰豆富含优质蛋白质和多种维生素，有助于增强机体抗病能力。做法简单，几乎不需要刀工，初学者也能快速上手，从备料到出锅大约只需 15 分钟。",
+  "difficulty": 2,
+  "calories": 606,
+  "duration_min": 15,
+  "category": "其他",
+  "tags": [
+    "家常菜",
+    "快手菜",
+    "小炒"
+  ],
+  "ingredients": [
+    {
+      "name": "荷兰豆",
+      "amount": "50个",
+      "buying_tip": "选择色泽翠绿、豆荚饱满且没有明显虫眼的",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "腊肠",
+      "amount": "100g",
+      "buying_tip": "购买时询问是生的还是熟的，以便决定是否需要预蒸",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "10ml",
+      "buying_tip": "通用植物油即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "10ml",
+      "buying_tip": "用于提鲜上色",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "蒸锅",
+    "漏勺"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "荷兰豆",
+        "expr": "50 * n"
+      },
+      {
+        "name": "腊肠",
+        "expr": "100 * n"
+      },
+      {
+        "name": "食用油",
+        "expr": "10 * n"
+      },
+      {
+        "name": "生抽",
+        "expr": "10 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "预处理荷兰豆",
+      "instruction": "把荷兰豆去掉蒂，有时间的也可以同时把尾部去掉。",
+      "duration_sec": 120,
+      "tips": [
+        "去掉老筋口感更好"
+      ],
+      "produces": "处理好的荷兰豆",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_he-lan-dou-chao-la-chang/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "准备腊肠",
+      "instruction": "确认腊肠生熟：如果是生的，需要提前蒸一下；如果是熟的可以直接切片使用。",
+      "duration_sec": 600,
+      "tips": [
+        "生腊肠通常需要蒸10-15分钟"
+      ],
+      "produces": "熟腊肠片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_he-lan-dou-chao-la-chang/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "清洗与焯水",
+      "instruction": "把荷兰豆清洗干净，放入沸水中焯水大约 45s，至变色即可捞出，随后过凉水备用。",
+      "duration_sec": 60,
+      "tips": [
+        "过凉水可以保持荷兰豆的翠绿和爽脆"
+      ],
+      "produces": "半熟荷兰豆",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_he-lan-dou-chao-la-chang/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "热油",
+      "instruction": "热锅，锅内放入大约 10ml 食用油，等待 10 秒让油温升高。",
+      "duration_sec": 20,
+      "tips": [
+        "油温不宜过高，避免腊肠入锅即糊"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_he-lan-dou-chao-la-chang/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "煸炒腊肠",
+      "instruction": "放入腊肠，保持翻炒至腊肠微微卷边。",
+      "duration_sec": 60,
+      "tips": [
+        "一定要保持极小火，否则腊肠极易糊锅"
+      ],
+      "produces": "煸香的腊肠",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_he-lan-dou-chao-la-chang/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "合炒出锅",
+      "instruction": "放入荷兰豆，转为中大火，翻炒 30s 放入生抽，接着再翻炒 20-30s 即可。",
+      "duration_sec": 60,
+      "tips": [
+        "动作要快，保持豆子脆感"
+      ],
+      "produces": "荷兰豆炒腊肠",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_he-lan-dou-chao-la-chang/step_6.jpg"
+    }
+  ],
+  "tips": [
+    "在制作过程中没有放盐，是因为腊肠本身会有一些味道，同时生抽也会有一些咸味。",
+    "腊肠虽然味道不错，但属于不太健康的食物，建议少放。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_he-lan-dou-chao-la-chang.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_he-lan-dou-chao-la-chang_overview.jpg",
+  "id": "other_he-lan-dou-chao-la-chang",
+  "status": "published"
+}

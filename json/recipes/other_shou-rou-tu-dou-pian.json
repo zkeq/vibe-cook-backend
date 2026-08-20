@@ -1,0 +1,211 @@
+{
+  "title": "瘦肉土豆片",
+  "summary": "一道快手家常小炒，肉片滑嫩，土豆片软韧入味，带有蒜苗清香，属于典型的家常菜风格。瘦肉富含优质蛋白质和铁质，土豆提供碳水化合物和膳食纤维，搭配均衡。制作流程简单明了，需注意刀工和火候，适合有一定基础的新手尝试。",
+  "difficulty": 3,
+  "calories": 585,
+  "duration_min": 60,
+  "category": "其他",
+  "tags": [
+    "家常菜",
+    "快手菜",
+    "小炒",
+    "高蛋白"
+  ],
+  "ingredients": [
+    {
+      "name": "纯瘦肉",
+      "amount": "200g",
+      "buying_tip": "选择色泽红润、按压有弹性的猪里脊肉或后腿瘦肉",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "土豆",
+      "amount": "200g",
+      "buying_tip": "选择表皮光滑、无发芽、无青皮的土豆",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜苗",
+      "amount": "2 根（约 20 g）",
+      "buying_tip": "挑选叶片青翠、根部洁白且没有枯萎迹象的鲜蒜苗",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生粉",
+      "amount": "5g",
+      "buying_tip": "玉米淀粉或土豆淀粉均可，用于锁住肉片水分",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "10g",
+      "buying_tip": "建议使用酿造酱油，味道更醇厚",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "3g",
+      "buying_tip": "主要用于上色，不宜添加过多以免颜色过深",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用盐",
+      "amount": "2g",
+      "buying_tip": "普通精制食盐即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "10ml - 15ml",
+      "buying_tip": "建议使用大豆油、菜籽油等耐高温植物油",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "菜刀",
+    "砧板",
+    "炒锅",
+    "汤锅",
+    "碗",
+    "锅铲"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "纯瘦肉",
+        "expr": "200 * $servings"
+      },
+      {
+        "name": "土豆",
+        "expr": "200 * $servings"
+      },
+      {
+        "name": "蒜苗",
+        "expr": "20 * $servings"
+      },
+      {
+        "name": "生粉",
+        "expr": "5 * $servings"
+      },
+      {
+        "name": "生抽",
+        "expr": "10 * $servings"
+      },
+      {
+        "name": "老抽",
+        "expr": "3 * $servings"
+      },
+      {
+        "name": "食用盐",
+        "expr": "2 * $servings"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理土豆",
+      "instruction": "土豆去皮、对半切开，再切成约 2mm 的薄片，备用",
+      "duration_sec": 300,
+      "tips": [
+        "切片厚度尽量均匀，方便后续受热一致"
+      ],
+      "produces": "土豆片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shou-rou-tu-dou-pian/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "处理蒜苗",
+      "instruction": "蒜苗洗净，切成约 1cm 的段，备用",
+      "duration_sec": 120,
+      "tips": [
+        "蒜苗白和叶可以分开放，炒时先下白后下叶"
+      ],
+      "produces": "蒜苗段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shou-rou-tu-dou-pian/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "腌制瘦肉",
+      "instruction": "瘦肉洗净切成约 2mm 的薄片，放入碗中，加入 5g 生粉、5g 生抽、3g 老抽腌制十分钟，备用",
+      "duration_sec": 900,
+      "tips": [
+        "顺着肉的纤维切片，口感更嫩"
+      ],
+      "produces": "腌制好的肉片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shou-rou-tu-dou-pian/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "土豆焯水",
+      "instruction": "瘦肉腌制时，烧一锅开水，将土豆片放入锅中，焯水，约 5 分钟",
+      "duration_sec": 480,
+      "tips": [
+        "焯水可以缩短炒制时间，并去除多余淀粉"
+      ],
+      "produces": "半熟土豆片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shou-rou-tu-dou-pian/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "热油",
+      "instruction": "热锅，锅内放入 10ml - 15ml 食用油。等待 10 秒让油温升高",
+      "duration_sec": 30,
+      "tips": [
+        "油温不宜过高，防止肉片入锅即焦"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shou-rou-tu-dou-pian/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "炒肉与蒜苗",
+      "instruction": "放入瘦肉，翻炒至变色，倒入蒜苗一起炒，蒜苗炒约 20 秒",
+      "duration_sec": 60,
+      "tips": [
+        "肉片变色即下蒜苗，保持肉质滑嫩"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shou-rou-tu-dou-pian/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "加入土豆调味",
+      "instruction": "放入土豆，保持翻炒，加入 2g 食用盐、5g 生抽",
+      "duration_sec": 60,
+      "tips": [
+        "翻炒动作要快，确保调味均匀"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shou-rou-tu-dou-pian/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "出锅",
+      "instruction": "炒约 3 分钟，盛盘",
+      "duration_sec": 180,
+      "tips": [
+        "观察土豆片颜色变得透亮即可出锅"
+      ],
+      "produces": "瘦肉土豆片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shou-rou-tu-dou-pian/step_8.jpg"
+    }
+  ],
+  "tips": [
+    "土豆片焯水注意不宜太久，防止土豆片变软烂影响口感",
+    "腌制瘦肉要搅拌均匀，确保每一片肉都裹上淀粉和调料"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_shou-rou-tu-dou-pian.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_shou-rou-tu-dou-pian_overview.jpg",
+  "id": "other_shou-rou-tu-dou-pian",
+  "status": "published"
+}

@@ -1,0 +1,188 @@
+{
+  "title": "油焖大虾",
+  "summary": "这道鲁菜经典以咸甜交融的酱汁包裹整虾，成菜红亮油润，虾肉紧实弹嫩。虾本身富含优质蛋白与虾青素，脂肪含量低，是补充营养又不易增加负担的食材。制作时需要炼葱油、剪虾、焖烧、收汁，对火候和调味把握有一定要求，更适合有基础的厨友尝试。",
+  "difficulty": 4,
+  "calories": 584,
+  "duration_min": 40,
+  "category": "其他",
+  "tags": [
+    "鲁菜",
+    "海鲜",
+    "经典",
+    "油焖"
+  ],
+  "ingredients": [
+    {
+      "name": "黑虎虾/明虾",
+      "amount": "10只",
+      "buying_tip": "选择个头大、虾体紧实的黑虎虾或明虾",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "50g",
+      "buying_tip": "选用新鲜大葱，切段备用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "20g",
+      "buying_tip": "老姜去腥效果更佳，部分切片，部分切成姜米",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "黄酒",
+      "amount": "30g",
+      "buying_tip": "建议使用花雕酒或优质料酒",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "3g",
+      "buying_tip": "普通食盐即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "冰糖",
+      "amount": "10g",
+      "buying_tip": "冰糖能使成菜色泽更加红亮",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "植物油",
+      "amount": "适量",
+      "buying_tip": "选用无异味的食用油",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "花椒",
+      "amount": "5g",
+      "buying_tip": "用于炸制葱油增香",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "厨房剪刀",
+    "牙签",
+    "漏勺",
+    "盘子"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "虾",
+        "expr": "10 * n"
+      },
+      {
+        "name": "葱",
+        "expr": "50 * n"
+      },
+      {
+        "name": "姜",
+        "expr": "20 * n"
+      },
+      {
+        "name": "黄酒",
+        "expr": "30 * n"
+      },
+      {
+        "name": "盐",
+        "expr": "3 * n"
+      },
+      {
+        "name": "冰糖",
+        "expr": "10 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "食材处理",
+      "instruction": "剪去虾枪、虾须和虾爪，挑出头部沙包。从背部剪开挑出虾线，洗净备用。",
+      "duration_sec": 600,
+      "tips": [
+        "剪虾枪要到根部",
+        "开背可以使虾更入味"
+      ],
+      "produces": "处理好的虾",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_you-men-da-xia/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "炸制葱油",
+      "instruction": "冷油下花椒，三成热后油热离火。放入葱段和姜片，待葱稍微变黄后捞出沥干油，留油备用。",
+      "duration_sec": 300,
+      "tips": [
+        "不要让油温过高导致葱姜变焦变黑",
+        "多出的葱油可以留着拌面"
+      ],
+      "produces": "葱油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_you-men-da-xia/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "煎虾调味",
+      "instruction": "下葱油，将虾整齐摆放，煎至两面变色。轻轻按压虾头挤出虾脑。加入姜米、30g黄酒、两小碗水、3g盐和10g冰糖。",
+      "duration_sec": 300,
+      "tips": [
+        "按压虾头是汤汁红亮的秘诀"
+      ],
+      "produces": "焖煮中的虾",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_you-men-da-xia/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "焖烧",
+      "instruction": "大火烧开后，转小火盖上锅盖焖煮。直到虾身弯曲且虾皮发亮。",
+      "duration_sec": 600,
+      "tips": [
+        "中途严禁开盖",
+        "严禁中途加水"
+      ],
+      "produces": "熟虾",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_you-men-da-xia/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "摆盘与收汁",
+      "instruction": "将虾先捞出摆盘。将锅中汤汁过滤杂质后倒回锅中，加入少许葱油，大火收汁至剩余1/4时关火。",
+      "duration_sec": 300,
+      "tips": [
+        "过滤能让汤汁更顺滑油亮"
+      ],
+      "produces": "浓缩汤汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_you-men-da-xia/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "浇汁完成",
+      "instruction": "将浓缩好的汤汁均匀浇在摆好的虾身上即可。",
+      "duration_sec": 60,
+      "tips": [
+        "趁热食用口感最佳"
+      ],
+      "produces": "油焖大虾",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_you-men-da-xia/step_6.jpg"
+    }
+  ],
+  "tips": [
+    "做法参考老饭骨泰斗级大师还原的真味道",
+    "炼油火候至关重要，不可使葱姜变黑",
+    "焖煮过程中必须保证密封性，中途不可添水"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_you-men-da-xia.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_you-men-da-xia_overview.jpg",
+  "id": "other_you-men-da-xia",
+  "status": "published"
+}

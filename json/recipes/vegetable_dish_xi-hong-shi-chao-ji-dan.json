@@ -1,0 +1,213 @@
+{
+  "title": "西红柿炒鸡蛋",
+  "summary": "一道酸甜开胃的家常菜肴，嫩滑的鸡蛋裹着软烂多汁的西红柿，是中国家庭餐桌上的经典味道。鸡蛋提供优质蛋白质，西红柿富含维生素 C 和番茄红素，营养均衡好吸收。步骤简单，原材料易得，特别适合厨房新手入门，从头备菜到盛盘出锅大约只需 15 分钟。",
+  "difficulty": 2,
+  "calories": 252,
+  "duration_min": 15,
+  "category": "素菜",
+  "tags": [
+    "家常菜",
+    "快手菜",
+    "高蛋白",
+    "酸甜"
+  ],
+  "ingredients": [
+    {
+      "name": "西红柿",
+      "amount": "1个(约180g)",
+      "buying_tip": "挑选表皮红亮、手感微软的成熟西红柿，汁水更丰富",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": "1.5个",
+      "buying_tip": "选择新鲜鸡蛋，摇晃无响声者为佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "6ml",
+      "buying_tip": "普通植物油（如大豆油、花生油）即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "1.5-2g",
+      "buying_tip": "普通食用盐",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "糖",
+      "amount": "0-2g",
+      "buying_tip": "细砂糖更易溶解",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "葱花",
+      "amount": "0-10g",
+      "buying_tip": "小葱，颜色鲜绿者佳",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "盛蛋液的碗",
+    "锅铲",
+    "盘子"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "西红柿",
+        "expr": "1 个（约 180g） * 份数"
+      },
+      {
+        "name": "鸡蛋",
+        "expr": "1.5 个 * 份数，向上取整"
+      },
+      {
+        "name": "食用油",
+        "expr": "4ml * 鸡蛋/个"
+      },
+      {
+        "name": "盐",
+        "expr": "1.5-2g * 份数"
+      },
+      {
+        "name": "糖",
+        "expr": "0-2g * 份数"
+      },
+      {
+        "name": "葱花",
+        "expr": "0-10g * 份数"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "清洗西红柿",
+      "instruction": "西红柿洗净",
+      "duration_sec": 30,
+      "tips": [],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "西红柿去皮（可选）",
+      "instruction": "开水烫表皮，然后将西红柿放入冷水，剥去外皮",
+      "duration_sec": 120,
+      "tips": [
+        "去皮后口感更软糯"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "切块",
+      "instruction": "西红柿去蒂，切成边长不超过 4cm 的小块",
+      "duration_sec": 60,
+      "tips": [],
+      "produces": "西红柿块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "准备蛋液",
+      "instruction": "将鸡蛋打入碗中，加入 1g * 份数的盐，搅匀",
+      "duration_sec": 60,
+      "tips": [
+        "可以考虑向鸡蛋中加入 1ml 醋，这可以去除腥味，令鸡蛋更蓬松"
+      ],
+      "produces": "鸡蛋液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "热油",
+      "instruction": "热锅，加入食用油",
+      "duration_sec": 30,
+      "tips": [],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "炒制鸡蛋",
+      "instruction": "油热后，倒入鸡蛋液。翻炒至鸡蛋结为固体且颜色微微发黄",
+      "duration_sec": 90,
+      "tips": [],
+      "produces": "半熟鸡蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "盛出鸡蛋",
+      "instruction": "关火。将半熟鸡蛋盛盘，重新开火",
+      "duration_sec": 30,
+      "tips": [
+        "注意：不要洗锅，锅底留有的蛋香和余油会让西红柿更香"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "炒制西红柿",
+      "instruction": "加入西红柿块，锅铲拍打并翻炒 20 秒，或至西红柿软烂",
+      "duration_sec": 120,
+      "tips": [],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "混合食材",
+      "instruction": "向锅中加入半熟鸡蛋，翻炒均匀",
+      "duration_sec": 30,
+      "tips": [
+        "可以考虑加入 10ml 番茄酱和 50ml 清水，增加汤汁",
+        "可以额外加入一些其它熟肉和材料"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "最终调味",
+      "instruction": "加入剩余的盐、糖（可选，如果倾向于甜味版本）、葱花（可选），翻炒均匀",
+      "duration_sec": 30,
+      "tips": [],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "出锅盛盘",
+      "instruction": "关火，盛盘",
+      "duration_sec": 20,
+      "tips": [],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_11.jpg"
+    }
+  ],
+  "tips": [
+    "快速做法：直接在有半熟鸡蛋的锅中加入西红柿块，与鸡蛋一起翻炒直至西红柿软烂，再进行调味",
+    "口味偏好：如果不喜欢放盐，可以尝试将盐改为加入两滴生抽提鲜"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_xi-hong-shi-chao-ji-dan.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_xi-hong-shi-chao-ji-dan_overview.jpg",
+  "id": "vegetable_dish_xi-hong-shi-chao-ji-dan",
+  "status": "published"
+}

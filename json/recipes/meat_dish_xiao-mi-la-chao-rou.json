@@ -1,0 +1,192 @@
+{
+  "title": "小米辣炒肉",
+  "summary": "小米辣炒肉香辣过瘾，是一道典型的西南风味下饭菜，猪肉的鲜嫩搭配小米辣的爽辣，令人食欲大开。猪肉富含蛋白质和脂肪，辣椒提供丰富的维生素 C，能够促进食欲。",
+  "difficulty": 3,
+  "calories": 620,
+  "duration_min": 25,
+  "category": "荤菜",
+  "tags": [
+    "西南风味",
+    "下饭菜",
+    "香辣",
+    "快手菜"
+  ],
+  "ingredients": [
+    {
+      "name": "小米椒",
+      "amount": "20个",
+      "buying_tip": "挑选颜色鲜红、果实饱满且带有绿柄的更鲜辣",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "五花肉/瘦肉",
+      "amount": "200g",
+      "buying_tip": "五花肉口感更丰腴，瘦肉更清爽，建议按喜好选择",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "花生油",
+      "amount": "20ml",
+      "buying_tip": "优质花生油能增加菜肴的香气",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜蒜",
+      "amount": "50g",
+      "buying_tip": "选老姜和大蒜，味道更浓郁",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "1-2g",
+      "buying_tip": "根据个人口味适量添加",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "10ml",
+      "buying_tip": "普通生抽即可，用于提鲜提味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蚝油",
+      "amount": "10ml",
+      "buying_tip": "增加酱香味和醇厚感",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": "10g",
+      "buying_tip": "推荐郫县豆瓣酱，风味更正宗",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡精",
+      "amount": "10g",
+      "buying_tip": "用于最后提鲜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白糖",
+      "amount": "5g",
+      "buying_tip": "少量糖可平衡辣味，提升口感层次",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "碗"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "小米椒",
+        "expr": "20 * n"
+      },
+      {
+        "name": "五花肉/瘦肉",
+        "expr": "200 * n"
+      },
+      {
+        "name": "花生油",
+        "expr": "20 * n"
+      },
+      {
+        "name": "盐",
+        "expr": "1.5 * n"
+      },
+      {
+        "name": "生抽",
+        "expr": "10 * n"
+      },
+      {
+        "name": "蚝油",
+        "expr": "10 * n"
+      },
+      {
+        "name": "姜蒜",
+        "expr": "50 * n"
+      },
+      {
+        "name": "豆瓣酱",
+        "expr": "10 * n"
+      },
+      {
+        "name": "鸡精",
+        "expr": "10 * n"
+      },
+      {
+        "name": "白糖",
+        "expr": "5 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理小米辣",
+      "instruction": "将小米辣洗净，斜刀切大一点。",
+      "duration_sec": 120,
+      "tips": [
+        "斜刀切可以增加辣椒的受热面积，更易入味"
+      ],
+      "produces": "辣椒段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-mi-la-chao-rou/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "腌制猪肉",
+      "instruction": "将肉切丝或切片，倒入生抽、蚝油、盐混合均匀，腌制 5 分钟。",
+      "duration_sec": 420,
+      "tips": [
+        "腌制能让肉质更鲜嫩且提前入味"
+      ],
+      "produces": "腌制好的肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-mi-la-chao-rou/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "预炒肉片",
+      "instruction": "热锅倒油，先把肉下锅快速炒熟盛起备用。",
+      "duration_sec": 180,
+      "tips": [
+        "大火快炒，变色即盛出，防止肉质变老"
+      ],
+      "produces": "熟肉片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-mi-la-chao-rou/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "爆香翻炒",
+      "instruction": "锅内留底油，姜蒜爆香，倒入豆瓣酱翻炒出红油，倒入切好的小米辣，再倒入肉片，加入生抽、鸡精、盐、糖快速翻炒均匀即可。",
+      "duration_sec": 300,
+      "tips": [
+        "豆瓣酱一定要炒出红油，味道才浓郁"
+      ],
+      "produces": "小米辣炒肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-mi-la-chao-rou/step_4.jpg"
+    }
+  ],
+  "tips": [
+    "调料可以根据自己的喜好放，也可以加老抽，老抽更香！",
+    "这道菜辣味突出，不建议清淡饮食者尝试。",
+    "掌握好爆香和翻炒的火候是成功的关键。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_xiao-mi-la-chao-rou.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_xiao-mi-la-chao-rou_overview.jpg",
+  "id": "meat_dish_xiao-mi-la-chao-rou",
+  "status": "published"
+}

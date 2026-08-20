@@ -1,0 +1,272 @@
+{
+  "title": "干煎阿根廷红虾",
+  "summary": "一道鲜美诱人的海鲜快手菜，煎制后的阿根廷红虾肉质白嫩，口感鲜甜浓郁，虾壳酥香。富含碘、磷和虾青素等微量元素，有助于增强免疫力、保护心脏并降低胆固醇。难度适中，需要掌握火候和翻面技巧，但步骤清晰，新手按操作来也能成功。预计 大约 20 分钟即可完成。",
+  "difficulty": 3,
+  "calories": 309,
+  "duration_min": 20,
+  "category": "其他",
+  "tags": [
+    "海鲜",
+    "快手菜",
+    "红虾",
+    "煎炸"
+  ],
+  "ingredients": [
+    {
+      "name": "阿根廷红虾",
+      "amount": "2-3 只",
+      "buying_tip": "建议购买已经开背去虾线的速冻虾，省时省力",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "海盐",
+      "amount": "5g",
+      "buying_tip": "推荐研磨装，颗粒感更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "黑胡椒",
+      "amount": "适量",
+      "buying_tip": "推荐研磨装，现磨风味更浓郁",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "白葡萄酒",
+      "amount": "20ml",
+      "buying_tip": "选用普通的干白葡萄酒即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "1ml",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香菜",
+      "amount": "3 片",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "柠檬",
+      "amount": "1 片",
+      "buying_tip": "",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "洋葱",
+      "amount": "10g",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生姜",
+      "amount": "10g",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大蒜",
+      "amount": "10g",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "橄榄油",
+      "amount": "2 调羹",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "平底锅",
+    "厨房用纸",
+    "菜刀",
+    "砧板",
+    "油刷",
+    "调羹"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "阿根廷红虾",
+        "expr": "2.5 * servings"
+      },
+      {
+        "name": "海盐",
+        "expr": "5 * servings"
+      },
+      {
+        "name": "白葡萄酒",
+        "expr": "20 * servings"
+      },
+      {
+        "name": "生抽",
+        "expr": "1 * servings"
+      },
+      {
+        "name": "洋葱",
+        "expr": "10 * servings"
+      },
+      {
+        "name": "生姜",
+        "expr": "10 * servings"
+      },
+      {
+        "name": "大蒜",
+        "expr": "10 * servings"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "解冻",
+      "instruction": "阿根廷红虾解冻，最好是提前 1 天从速冻取出放到冷藏里自然解冻。",
+      "duration_sec": 0,
+      "tips": [
+        "自然解冻能更好保持风味和口感"
+      ],
+      "produces": "解冻的红虾",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-jian-a-gen-ting-hong-xia/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "清洗吸水",
+      "instruction": "解冻好的红虾洗净擦干备用。",
+      "duration_sec": 60,
+      "tips": [
+        "一定要沥干水分，赶时间可以用厨房用纸吸干"
+      ],
+      "produces": "干燥的红虾",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-jian-a-gen-ting-hong-xia/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "切配辅料",
+      "instruction": "生姜切片，洋葱切小方块，香菜叶茎分离并切碎，大蒜压碎切成末。",
+      "duration_sec": 180,
+      "tips": [
+        "大蒜切得越碎越容易入味"
+      ],
+      "produces": "切好的辅料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-jian-a-gen-ting-hong-xia/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "煸炒香料",
+      "instruction": "大火热锅，倒入两调羹橄榄油，放入生姜片、洋葱块和香菜茎煸炒。",
+      "duration_sec": 60,
+      "tips": [
+        "油温升高后再放入香料"
+      ],
+      "produces": "香料油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-jian-a-gen-ting-hong-xia/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "取出香料",
+      "instruction": "约 1 分钟后取出生姜、洋葱和香菜茎，弃用。",
+      "duration_sec": 30,
+      "tips": [
+        "仅保留油中的香味"
+      ],
+      "produces": "净底香料油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-jian-a-gen-ting-hong-xia/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "煎虾单面",
+      "instruction": "调中大火，放入红虾煎约 2 分钟，同时给每只虾刷上一层油。",
+      "duration_sec": 120,
+      "tips": [
+        "所有虾需要单面都完整接触平底锅"
+      ],
+      "produces": "单面半熟红虾",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-jian-a-gen-ting-hong-xia/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "翻面加蒜",
+      "instruction": "待底面虾壳微微焦黄时翻面，撒入大蒜碎末，轻微晃动平底锅。",
+      "duration_sec": 60,
+      "tips": [
+        "晃动锅底可使受热均匀并防止蒜末糊锅"
+      ],
+      "produces": "双面受热的红虾",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-jian-a-gen-ting-hong-xia/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "喷入白酒",
+      "instruction": "约 1 分钟后添加 20ml 白葡萄酒。",
+      "duration_sec": 60,
+      "tips": [
+        "白葡萄酒可去腥增香"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-jian-a-gen-ting-hong-xia/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "调味",
+      "instruction": "再煎 1 分钟后调中小火，均匀撒上一层盐和黑胡椒。",
+      "duration_sec": 60,
+      "tips": [
+        "调中小火防止盐和胡椒在高温下产生苦味"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-jian-a-gen-ting-hong-xia/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "提鲜",
+      "instruction": "给每只虾滴上一滴生抽。",
+      "duration_sec": 30,
+      "tips": [
+        "生抽只需一点点，用于提鲜而非上色"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-jian-a-gen-ting-hong-xia/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "撒花装盘",
+      "instruction": "撒上香菜叶，装入盘中。",
+      "duration_sec": 30,
+      "tips": [],
+      "produces": "装盘的红虾",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-jian-a-gen-ting-hong-xia/step_11.jpg"
+    },
+    {
+      "index": 12,
+      "title": "装饰",
+      "instruction": "切好柠檬片，摆放到盘边即可。",
+      "duration_sec": 30,
+      "tips": [],
+      "produces": "成品干煎阿根廷红虾",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-jian-a-gen-ting-hong-xia/step_12.jpg"
+    }
+  ],
+  "tips": [
+    "柠檬可提升虾的口感，但偏酸，可以根据喜好添加，也可以不用",
+    "趁热吃"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_gan-jian-a-gen-ting-hong-xia.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_gan-jian-a-gen-ting-hong-xia_overview.jpg",
+  "id": "other_gan-jian-a-gen-ting-hong-xia",
+  "status": "published"
+}

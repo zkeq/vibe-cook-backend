@@ -1,0 +1,236 @@
+{
+  "title": "肉蛋盖饭",
+  "summary": "这道菜酱香浓郁、咸甜适口，肉馅焦香、鸡蛋嫩滑，盖在热米饭上十分满足，属于家常快手料理。富含优质蛋白质和必需氨基酸，能快速补充能量。做法简单直观，新手也能轻松上手，从备料到出锅大约只需十五分钟。",
+  "difficulty": 3,
+  "calories": 1822,
+  "duration_min": 15,
+  "category": "主食",
+  "tags": [
+    "家常菜",
+    "快手料理",
+    "高蛋白",
+    "酱香"
+  ],
+  "ingredients": [
+    {
+      "name": "米饭",
+      "amount": "240g",
+      "buying_tip": "建议使用颗粒饱满的东北大米，口感更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": "4个",
+      "buying_tip": "选用新鲜土鸡蛋，蛋黄颜色更漂亮",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "肉馅",
+      "amount": "300g",
+      "buying_tip": "推荐肥瘦比例3:7的猪肉馅，口感不柴",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "10ml",
+      "buying_tip": "选用优质老抽，上色更红亮",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "25ml",
+      "buying_tip": "选用鲜味突出的生抽，控制咸度",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "醋",
+      "amount": "20ml",
+      "buying_tip": "陈醋或香醋均可，增加风味层次",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "红葱油",
+      "amount": "10g",
+      "buying_tip": "自制或市售红葱油皆可，是提升香味的关键",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "10g",
+      "buying_tip": "选用新鲜小香葱",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "油",
+      "amount": "30ml",
+      "buying_tip": "使用味道清淡的普通植物油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "糖",
+      "amount": "15g",
+      "buying_tip": "细砂糖更易在酱汁中溶解",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "电饭煲",
+    "炒锅",
+    "碗",
+    "锅盖",
+    "量杯"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "米饭",
+        "expr": "240g * n"
+      },
+      {
+        "name": "鸡蛋",
+        "expr": "4个 * n"
+      },
+      {
+        "name": "肉馅",
+        "expr": "300g * n"
+      },
+      {
+        "name": "老抽",
+        "expr": "10ml * n"
+      },
+      {
+        "name": "生抽",
+        "expr": "25ml * n"
+      },
+      {
+        "name": "醋",
+        "expr": "20ml * n"
+      },
+      {
+        "name": "红葱油",
+        "expr": "10g * n"
+      },
+      {
+        "name": "葱",
+        "expr": "10g * n"
+      },
+      {
+        "name": "油",
+        "expr": "30ml * n"
+      },
+      {
+        "name": "糖",
+        "expr": "15g * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "煮米饭",
+      "instruction": "煮好米饭，通常使用买米赠送的量杯，一杯米 240g",
+      "duration_sec": 0,
+      "tips": [
+        "建议提前半小时开启电饭煲程序"
+      ],
+      "produces": "熟米饭",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_rou-dan-gai-fan/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "热油",
+      "instruction": "锅中放油 30ml",
+      "duration_sec": 30,
+      "tips": [
+        "冷锅下油，中火预热"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_rou-dan-gai-fan/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "煎肉馅",
+      "instruction": "放入肉馅，调中火煎至两面微焦",
+      "duration_sec": 300,
+      "tips": [
+        "肉馅平铺，煎出猪油后味道更香"
+      ],
+      "produces": "焦香肉馅",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_rou-dan-gai-fan/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "下鸡蛋焖煮",
+      "instruction": "将鸡蛋打入锅中，不要打散，盖上锅盖",
+      "duration_sec": 60,
+      "tips": [
+        "保持蛋黄完整，盖盖能利用蒸汽让蛋液凝固"
+      ],
+      "produces": "肉蛋混合物",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_rou-dan-gai-fan/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "调制碗汁",
+      "instruction": "调一个碗汁，碗中放入计算中的对应数量的老抽，生抽，醋，糖，红葱油，搅拌均匀",
+      "duration_sec": 120,
+      "tips": [
+        "搅拌至糖完全融化，可根据口味微调咸甜"
+      ],
+      "produces": "调味汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_rou-dan-gai-fan/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "倒入酱汁焖煮",
+      "instruction": "打开锅盖，将碗汁倒入锅中，等待三分钟",
+      "duration_sec": 180,
+      "tips": [
+        "中火收汁，让肉和蛋充分吸收酱香"
+      ],
+      "produces": "酱香肉蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_rou-dan-gai-fan/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "组合盖饭",
+      "instruction": "关火，将肉蛋盖到米饭上",
+      "duration_sec": 60,
+      "tips": [
+        "连同浓郁的酱汁一起淋在米饭上"
+      ],
+      "produces": "成品肉蛋盖饭",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_rou-dan-gai-fan/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "安全检查",
+      "instruction": "安全检查，开始食用盖饭",
+      "duration_sec": 10,
+      "tips": [
+        "务必确认燃气灶已完全关闭"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_rou-dan-gai-fan/step_8.jpg"
+    }
+  ],
+  "tips": [
+    "如果喜欢甜口可以增加 10g 糖",
+    "请务必保证做完饭后关掉燃气设备以免发生危险"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_rou-dan-gai-fan.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_rou-dan-gai-fan_overview.jpg",
+  "id": "staple_rou-dan-gai-fan",
+  "status": "published"
+}

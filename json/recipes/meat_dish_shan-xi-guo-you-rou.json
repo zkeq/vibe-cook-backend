@@ -1,0 +1,231 @@
+{
+  "title": "山西过油肉",
+  "summary": "过油肉是山西传统名菜，肉片滑嫩、蒜苔爽脆，咸鲜微酸，带着陈醋的醇香，属于典型的地方家常风味。猪里脊提供优质蛋白，搭配木耳、蒜苔和葱头，营养均衡。",
+  "difficulty": 4,
+  "calories": 679,
+  "duration_min": 40,
+  "category": "荤菜",
+  "tags": [
+    "山西菜",
+    "家常菜",
+    "经典名菜",
+    "滑炒"
+  ],
+  "ingredients": [
+    {
+      "name": "猪里脊",
+      "amount": "150g",
+      "buying_tip": "选择色泽红润、按压有弹性的新鲜里脊肉",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜苔",
+      "amount": "6根",
+      "buying_tip": "挑选深绿色、顶端不发黄的鲜嫩蒜苔",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "木耳",
+      "amount": "20g",
+      "buying_tip": "选用肉质厚实的干木耳，泡发后口感更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱头",
+      "amount": "100g",
+      "buying_tip": "紫皮洋葱味道更浓郁，适合爆炒",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "300ml",
+      "buying_tip": "建议使用烟点较高的植物油，便于过油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱姜蒜",
+      "amount": "50g",
+      "buying_tip": "葱切段，姜切片，蒜切片备用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "20ml",
+      "buying_tip": "选用酿造酱油，色泽自然",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食盐",
+      "amount": "10g",
+      "buying_tip": "普通食用盐即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": "1个",
+      "buying_tip": "用于上浆，使肉质更滑嫩",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "淀粉",
+      "amount": "10g",
+      "buying_tip": "推荐使用红薯淀粉，挂糊更牢固",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "陈醋",
+      "amount": "10ml",
+      "buying_tip": "首选山西老陈醋，提供醇厚酸香",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "适量",
+      "buying_tip": "用于肉片去腥",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "花椒粉",
+      "amount": "适量",
+      "buying_tip": "增添地方风味的特殊香气",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "鸡精",
+      "amount": "适量",
+      "buying_tip": "提鲜用",
+      "optional": true,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "盛料碗",
+    "漏勺"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "猪里脊",
+        "expr": "150 * n"
+      },
+      {
+        "name": "蒜苔",
+        "expr": "6 * n"
+      },
+      {
+        "name": "木耳",
+        "expr": "20 * n"
+      },
+      {
+        "name": "葱头",
+        "expr": "100 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "泡发木耳",
+      "instruction": "木耳提前泡发好，如果着急可以用热水泡发。",
+      "duration_sec": 600,
+      "tips": [
+        "热水泡发速度快，但口感略逊于冷水慢泡"
+      ],
+      "produces": "泡发好的木耳",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shan-xi-guo-you-rou/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "肉片上浆腌制",
+      "instruction": "猪里脊切片放入碗中，加 20ml 生抽、料酒、花椒粉，打入一个鸡蛋搅拌均匀，加入红薯淀粉拌匀，最后倒入食用油封浆，腌制 15 分钟。",
+      "duration_sec": 900,
+      "tips": [
+        "用手搅拌能让肉片更好吸收水分",
+        "封浆可以锁住肉片水分"
+      ],
+      "produces": "腌制好的肉片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shan-xi-guo-you-rou/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "蔬菜切配",
+      "instruction": "蒜苔切成约 3cm 的段，葱头切成菱形块备用。",
+      "duration_sec": 180,
+      "tips": [
+        "切配大小均匀有助于受热一致"
+      ],
+      "produces": "蔬菜段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shan-xi-guo-you-rou/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "滑油处理",
+      "instruction": "起锅烧油量稍多，油温五成热时下入腌制好的肉片，迅速打散，肉片变色捞出控油备用。",
+      "duration_sec": 120,
+      "tips": [
+        "油温不宜过高，否则肉片容易变老"
+      ],
+      "produces": "过油肉片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shan-xi-guo-you-rou/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "留底油",
+      "instruction": "将锅中多余油倒出，仅留约 10ml 底油，加热至七成热。",
+      "duration_sec": 30,
+      "tips": [
+        "过油后的油过滤后可二次使用"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shan-xi-guo-you-rou/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "爆炒配料",
+      "instruction": "下入葱姜蒜爆香，先下蒜苔炒至断生，再加入木耳和葱头，淋入生抽、撒花椒粉，翻炒均匀后倒入肉片。",
+      "duration_sec": 120,
+      "tips": [
+        "蒜苔断生后再下其他蔬菜，保持脆爽"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shan-xi-guo-you-rou/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "调味出锅",
+      "instruction": "加入 10g 盐，起锅前沿锅边淋入 10ml 陈醋和少许鸡精，快速翻炒均匀后装盘。",
+      "duration_sec": 60,
+      "tips": [
+        "醋要在起锅前加，保留醋的香气而非只有酸味"
+      ],
+      "produces": "成品过油肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_shan-xi-guo-you-rou/step_7.jpg"
+    }
+  ],
+  "tips": [
+    "炸肉片时，表面微焦即可，注意控制火候以免过火。",
+    "起锅前也可以打个薄薄的水淀粉勾芡，口感会更加滑润。",
+    "陈醋是这道菜的灵魂，建议使用正宗山西老陈醋。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_shan-xi-guo-you-rou.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_shan-xi-guo-you-rou_overview.jpg",
+  "id": "meat_dish_shan-xi-guo-you-rou",
+  "status": "published"
+}

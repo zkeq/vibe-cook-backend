@@ -1,0 +1,227 @@
+{
+  "title": "Mojito莫吉托",
+  "summary": "这款鸡尾酒口感清爽酸甜，带有薄荷的清凉和朗姆酒的微醺，是经典的夏季饮品。酒精含量较低，佐以富含维生素 C 的青柠，能生津解渴、提神醒脑。制作十分简单，对新手友好，从备料到完成只需大约十分钟。",
+  "difficulty": 3,
+  "calories": 187,
+  "duration_min": 10,
+  "category": "饮料",
+  "tags": [
+    "鸡尾酒",
+    "夏季冷饮",
+    "莫吉托",
+    "低酒精度"
+  ],
+  "ingredients": [
+    {
+      "name": "青柠",
+      "amount": "1块",
+      "buying_tip": "选择皮薄多汁的新鲜青柠",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "薄荷叶",
+      "amount": "5株",
+      "buying_tip": "选用新鲜、叶片完整的薄荷",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "糖浆",
+      "amount": "20ml",
+      "buying_tip": "可使用自制砂糖水或市售调酒糖浆",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "金色朗姆酒",
+      "amount": "45ml",
+      "buying_tip": "金色朗姆酒比白朗姆酒风味更丰富",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蓝天原味伏特加",
+      "amount": "10ml",
+      "buying_tip": "增加口感层次，也可省略",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "打碎的冰块",
+      "amount": "适量",
+      "buying_tip": "建议使用碎冰而非大冰块",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "冰镇苏打水",
+      "amount": "适量",
+      "buying_tip": "必须是冰镇过的，以保持口感",
+      "optional": false,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "压汁器",
+    "海波杯",
+    "研杵"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "青柠",
+        "expr": "1 * n"
+      },
+      {
+        "name": "薄荷叶",
+        "expr": "5 * n"
+      },
+      {
+        "name": "糖浆",
+        "expr": "20 * n"
+      },
+      {
+        "name": "金色朗姆酒",
+        "expr": "45 * n"
+      },
+      {
+        "name": "蓝天原味伏特加",
+        "expr": "10 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理青柠并捣汁",
+      "instruction": "将切成半块的青柠之一切成小块，放入海波杯，随后用研杵将其捣出汁",
+      "duration_sec": 40,
+      "tips": [
+        "不要把皮捣得太碎，以免苦涩味过重"
+      ],
+      "produces": "杯底青柠汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_mojito-mo-ji-tuo/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "薄荷增香",
+      "instruction": "用 3-4 珠薄荷叶沿着杯口涂抹，随后将其放入杯中",
+      "duration_sec": 20,
+      "tips": [
+        "涂抹杯口可以让饮用时香气更浓郁"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_mojito-mo-ji-tuo/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "加入甜味剂",
+      "instruction": "加入 糖浆 20ml",
+      "duration_sec": 10,
+      "tips": [
+        "可根据口味微调糖浆量"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_mojito-mo-ji-tuo/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "加入基酒",
+      "instruction": "加入 金色朗姆酒 45ml 和 蓝天原味伏特加 10ml",
+      "duration_sec": 15,
+      "tips": [
+        "金色朗姆酒是这款风味的关键"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_mojito-mo-ji-tuo/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "补充酸度",
+      "instruction": "将剩下的半块青柠压出汁水放入杯中",
+      "duration_sec": 20,
+      "tips": [
+        "使用压汁器可以获取更多果汁"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_mojito-mo-ji-tuo/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "混合搅拌",
+      "instruction": "轻轻搅拌，使砂糖/糖浆处于半融合状态",
+      "duration_sec": 15,
+      "tips": [
+        "半融合状态能带来更有层次的口感"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_mojito-mo-ji-tuo/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "加入碎冰",
+      "instruction": "将打碎的冰块放入杯中，直到占杯中 3/4",
+      "duration_sec": 15,
+      "tips": [
+        "碎冰能让酒液迅速降温"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_mojito-mo-ji-tuo/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "注入苏打水",
+      "instruction": "加入冰镇苏打水直到刚好淹没碎冰",
+      "duration_sec": 10,
+      "tips": [
+        "慢慢倒入以保留更多气泡"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_mojito-mo-ji-tuo/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "旋转搅拌",
+      "instruction": "旋转搅拌半分钟",
+      "duration_sec": 30,
+      "tips": [
+        "让杯中液体和冰块充分热交换"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_mojito-mo-ji-tuo/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "补冰",
+      "instruction": "使用碎冰将海波杯补满",
+      "duration_sec": 10,
+      "tips": [
+        "补满碎冰视觉效果更好"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_mojito-mo-ji-tuo/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "装饰点缀",
+      "instruction": "将剩下的一株薄荷叶拍醒，插入碎冰，作装饰",
+      "duration_sec": 10,
+      "tips": [
+        "双手合十拍打薄荷叶可以瞬间激发香气"
+      ],
+      "produces": "成品莫吉托",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_mojito-mo-ji-tuo/step_11.jpg"
+    }
+  ],
+  "tips": [
+    "参考资料：莫吉托(Mojito)世界上最著名的经典鸡尾酒之一。",
+    "如果觉得酒味重，可以适当增加苏打水的比例。",
+    "青柠和薄荷必须新鲜，这是口感清爽的核心。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/drink_mojito-mo-ji-tuo.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/drink_mojito-mo-ji-tuo_overview.jpg",
+  "id": "drink_mojito-mo-ji-tuo",
+  "status": "published"
+}

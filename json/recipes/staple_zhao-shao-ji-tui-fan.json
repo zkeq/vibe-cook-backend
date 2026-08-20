@@ -1,0 +1,336 @@
+{
+  "title": "照烧鸡腿饭",
+  "summary": "照烧鸡腿饭是一道甜咸适口的下饭菜，鸡腿煎得焦香后融入浓郁酱汁，口感嫩滑入味。鸡腿肉富含优质蛋白，搭配西兰花和胡萝卜能补充膳食纤维与维生素。制作稍需一点去骨技巧，但整体不复杂，新手跟着步骤也能成功。从备料到出锅，大约 30 分钟就能端上餐桌。",
+  "difficulty": 4,
+  "calories": 1670,
+  "duration_min": 30,
+  "category": "主食",
+  "tags": [
+    "家常菜",
+    "日式",
+    "鸡肉",
+    "快手菜"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡腿",
+      "amount": "500g(约3只)",
+      "buying_tip": "选择新鲜、肉质紧实的整只鸡腿",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "15ml",
+      "buying_tip": "普通烹饪料酒即可，用于去腥",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "30ml",
+      "buying_tip": "建议选用酿造生抽，味道更鲜美",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蜂蜜",
+      "amount": "15ml",
+      "buying_tip": "可用20g白糖+5g淀粉+0.5ml醋代替",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "黑椒碎",
+      "amount": "5g",
+      "buying_tip": "现磨的黑胡椒碎香气更浓郁",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "黑椒粉",
+      "amount": "5g",
+      "buying_tip": "用于腌制，使肉质更入味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "2.5g",
+      "buying_tip": "普通食用盐",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "西兰花",
+      "amount": "50g",
+      "buying_tip": "选花球紧实、颜色翠绿的，可用青椒代替",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "胡萝卜",
+      "amount": "50g",
+      "buying_tip": "选表皮光滑、颜色鲜亮的",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "12ml",
+      "buying_tip": "用于给肉上色，不宜过多",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大蒜",
+      "amount": "10g",
+      "buying_tip": "拍碎即可，不用切末",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生姜",
+      "amount": "10g",
+      "buying_tip": "切片使用，用于腌制和爆香",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "15-25ml",
+      "buying_tip": "普通植物油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "清水",
+      "amount": "30ml",
+      "buying_tip": "普通饮用水",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "米饭",
+      "amount": "300-400g",
+      "buying_tip": "软硬适中的热米饭",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "砧板",
+    "菜刀",
+    "碗",
+    "炒锅",
+    "燃气灶"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鸡腿",
+        "expr": "500 * n"
+      },
+      {
+        "name": "料酒",
+        "expr": "15 * n"
+      },
+      {
+        "name": "生抽",
+        "expr": "30 * n"
+      },
+      {
+        "name": "蜂蜜",
+        "expr": "15 * n"
+      },
+      {
+        "name": "黑椒碎",
+        "expr": "5 * n"
+      },
+      {
+        "name": "黑椒粉",
+        "expr": "5 * n"
+      },
+      {
+        "name": "盐",
+        "expr": "2.5 * n"
+      },
+      {
+        "name": "西兰花",
+        "expr": "50 * n"
+      },
+      {
+        "name": "胡萝卜",
+        "expr": "50 * n"
+      },
+      {
+        "name": "老抽",
+        "expr": "12 * n"
+      },
+      {
+        "name": "大蒜",
+        "expr": "10 * n"
+      },
+      {
+        "name": "生姜",
+        "expr": "10 * n"
+      },
+      {
+        "name": "食用油",
+        "expr": "20 * n"
+      },
+      {
+        "name": "清水",
+        "expr": "30 * n"
+      },
+      {
+        "name": "米饭",
+        "expr": "350 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "准备鸡腿",
+      "instruction": "取一只鸡腿，鸡皮朝下放在砧板上",
+      "duration_sec": 30,
+      "tips": [
+        "确保砧板平稳"
+      ],
+      "produces": "待处理鸡腿",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhao-shao-ji-tui-fan/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "划开鸡肉",
+      "instruction": "用刀尖沿着鸡腿骨头的轮廓轻轻划开，从一端到另一端",
+      "duration_sec": 60,
+      "tips": [
+        "用刀尖操作时注意安全"
+      ],
+      "produces": "露出骨头的鸡腿",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhao-shao-ji-tui-fan/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "剥离骨头",
+      "instruction": "用手指或刀背慢慢推开鸡肉，让骨头暴露出来。如果遇到筋膜，用刀尖切断",
+      "duration_sec": 60,
+      "tips": [
+        "尽量贴着骨头剔肉减少浪费"
+      ],
+      "produces": "骨肉分离的鸡腿",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhao-shao-ji-tui-fan/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "拔出骨头",
+      "instruction": "当鸡肉完全分离后，握住骨头一端，轻轻扭转并拔出",
+      "duration_sec": 30,
+      "tips": [
+        "注意不要被碎骨刺到手"
+      ],
+      "produces": "去骨鸡腿肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhao-shao-ji-tui-fan/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "完成去骨",
+      "instruction": "重复上述步骤将所有鸡腿去骨",
+      "duration_sec": 120,
+      "tips": [
+        "熟能生巧"
+      ],
+      "produces": "全部去骨鸡腿肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhao-shao-ji-tui-fan/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "腌制鸡腿",
+      "instruction": "去骨鸡腿加入黑胡椒粉、黑胡椒碎、盐、姜片腌制 5 分钟",
+      "duration_sec": 300,
+      "tips": [
+        "可以稍微抓揉一下让调料分布均匀"
+      ],
+      "produces": "腌制好的鸡腿",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhao-shao-ji-tui-fan/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "调制酱汁",
+      "instruction": "碗里加入料酒、生抽、蜂蜜、老抽清水拌匀",
+      "duration_sec": 60,
+      "tips": [
+        "如果用白糖代替蜂蜜，需搅拌至完全溶解"
+      ],
+      "produces": "照烧酱汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhao-shao-ji-tui-fan/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "处理蔬菜",
+      "instruction": "蔬菜焯水 1-2 分钟煮熟捞起",
+      "duration_sec": 120,
+      "tips": [
+        "水中加少许盐和油可保持蔬菜色泽"
+      ],
+      "produces": "熟蔬菜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhao-shao-ji-tui-fan/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "爆香蒜瓣",
+      "instruction": "热锅放油 15 ml 放入拍碎的大蒜爆香",
+      "duration_sec": 30,
+      "tips": [
+        "小火爆香，避免蒜瓣焦糊"
+      ],
+      "produces": "香油蒜瓣",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhao-shao-ji-tui-fan/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "煎鸡腿",
+      "instruction": "放入鸡腿中小火煎至两面金黄，如果感觉锅中太干，补 5-10 ml 油",
+      "duration_sec": 300,
+      "tips": [
+        "先煎鸡皮那一面，可以逼出鸡油"
+      ],
+      "produces": "金黄鸡腿",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhao-shao-ji-tui-fan/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "焖煮收汁",
+      "instruction": "加入调好的酱汁，盖好盖子中小火焖 5-10 分钟熟透，酱汁浓稠起泡即可",
+      "duration_sec": 450,
+      "tips": [
+        "每隔3-5分钟翻搅一下防止糊锅"
+      ],
+      "produces": "照烧鸡腿",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhao-shao-ji-tui-fan/step_11.jpg"
+    },
+    {
+      "index": 12,
+      "title": "切件摆盘",
+      "instruction": "切件，和蔬菜一起摆在饭面，淋入煎鸡腿的酱汁即可",
+      "duration_sec": 120,
+      "tips": [
+        "鸡腿稍微放凉一点更好切"
+      ],
+      "produces": "照烧鸡腿饭",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zhao-shao-ji-tui-fan/step_12.jpg"
+    }
+  ],
+  "tips": [
+    "如果使用白砂糖、淀粉组合代替一定让白砂糖和淀粉完全溶解再下锅，否则容易糊锅",
+    "焖煮时每隔 3-5 分钟翻搅一下，避免局部过热",
+    "如果酱汁冒大泡、颜色变深褐，或边缘出现细密焦糖结晶，立即关火"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_zhao-shao-ji-tui-fan.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_zhao-shao-ji-tui-fan_overview.jpg",
+  "id": "staple_zhao-shao-ji-tui-fan",
+  "status": "published"
+}

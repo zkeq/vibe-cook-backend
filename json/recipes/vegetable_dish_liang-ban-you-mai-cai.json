@@ -1,0 +1,176 @@
+{
+  "title": "凉拌油麦菜",
+  "summary": "一道清爽解腻的家常凉菜，芝麻酱的醇厚包裹着油麦菜的脆嫩，酸甜咸香交织，非常开胃。油麦菜富含维生素和膳食纤维，芝麻酱则补充钙与健康脂肪，营养均衡。",
+  "difficulty": 1,
+  "calories": 191,
+  "duration_min": 15,
+  "category": "素菜",
+  "tags": [
+    "凉菜",
+    "快手菜",
+    "素食",
+    "家常菜"
+  ],
+  "ingredients": [
+    {
+      "name": "油麦菜",
+      "amount": "1颗(约200g)",
+      "buying_tip": "挑选叶片翠绿、无枯黄、根部坚实的油麦菜。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "芝麻酱",
+      "amount": "10ml",
+      "buying_tip": "选择配料表只有芝麻，无额外添加剂的纯芝麻酱。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "醋",
+      "amount": "15ml",
+      "buying_tip": "陈醋或香醋均可，视个人口味酸度调节。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酱油",
+      "amount": "5ml",
+      "buying_tip": "建议使用生抽，提鲜且不影响菜色。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蚝油",
+      "amount": "10ml",
+      "buying_tip": "增加厚重感和鲜味。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白糖",
+      "amount": "5g",
+      "buying_tip": "用于中和酸味并提鲜。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香油",
+      "amount": "5ml",
+      "buying_tip": "增添香气，同时有助于化开芝麻酱。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜",
+      "amount": "2头",
+      "buying_tip": "新鲜大蒜，辛辣味更足。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "适量",
+      "buying_tip": "根据个人口味轻重添加。",
+      "optional": false,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "菜刀",
+    "砧板",
+    "搅拌碗",
+    "大盆"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "油麦菜",
+        "expr": "1 * 份数"
+      },
+      {
+        "name": "醋",
+        "expr": "15ml * 份数"
+      },
+      {
+        "name": "酱油",
+        "expr": "5ml * 份数"
+      },
+      {
+        "name": "芝麻酱",
+        "expr": "10ml * 份数"
+      },
+      {
+        "name": "香油",
+        "expr": "5ml * 份数"
+      },
+      {
+        "name": "糖",
+        "expr": "5g * 份数"
+      },
+      {
+        "name": "蚝油",
+        "expr": "10ml * 份数"
+      },
+      {
+        "name": "蒜",
+        "expr": "2头 * 份数"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理大蒜",
+      "instruction": "将蒜瓣拍碎并剁成细小的蒜末。",
+      "duration_sec": 120,
+      "tips": [
+        "蒜末越细，香味越容易散发。"
+      ],
+      "produces": "蒜末",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-you-mai-cai/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "调配酱汁",
+      "instruction": "将醋、酱油、芝麻酱、香油、糖、蚝油以及蒜末全部放入碗中，搅拌至完全融合均匀。",
+      "duration_sec": 180,
+      "tips": [
+        "芝麻酱如果太稠，可以分次少量加入香油或凉白开泄开。"
+      ],
+      "produces": "调味酱汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-you-mai-cai/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "切油麦菜",
+      "instruction": "油麦菜洗净沥干水分，切成长度约 4cm 的段。",
+      "duration_sec": 120,
+      "tips": [
+        "切段不宜过长，方便食用。"
+      ],
+      "produces": "油麦菜段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-you-mai-cai/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "混合拌匀",
+      "instruction": "将油麦菜段放入大盆中，倒入调好的酱汁，充分搅拌均匀即可装盘。",
+      "duration_sec": 120,
+      "tips": [
+        "一定要搅拌均匀，让每一根菜叶都裹上酱汁。"
+      ],
+      "produces": "凉拌油麦菜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_liang-ban-you-mai-cai/step_4.jpg"
+    }
+  ],
+  "tips": [
+    "芝麻酱可以用花生酱代替，风味略有不同。",
+    "芝麻酱一定要和油麦菜混合均匀才更好吃。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_liang-ban-you-mai-cai.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_liang-ban-you-mai-cai_overview.jpg",
+  "id": "vegetable_dish_liang-ban-you-mai-cai",
+  "status": "published"
+}

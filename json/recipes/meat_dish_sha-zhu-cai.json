@@ -1,0 +1,292 @@
+{
+  "title": "杀猪菜",
+  "summary": "这是一道源自东北的经典炖菜，酸爽鲜香、暖心暖胃。酸菜富含乳酸菌和膳食纤维，排骨提供优质蛋白与钙质，血肠则能补充铁元素。",
+  "difficulty": 4,
+  "calories": 1657,
+  "duration_min": 60,
+  "category": "荤菜",
+  "tags": [
+    "东北菜",
+    "炖菜",
+    "酸菜",
+    "家常菜"
+  ],
+  "ingredients": [
+    {
+      "name": "血肠",
+      "amount": "200g",
+      "buying_tip": "选择色泽鲜红、质地有弹性的新鲜血肠",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酸菜",
+      "amount": "500g",
+      "buying_tip": "选用自然发酵、色泽金黄、气味清香的东北酸菜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "排骨",
+      "amount": "400g",
+      "buying_tip": "建议购买精肋排，肉质更嫩",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "10g",
+      "buying_tip": "普通烹饪料酒即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜瓣",
+      "amount": "5个",
+      "buying_tip": "新鲜大蒜去皮即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜粉",
+      "amount": "5g",
+      "buying_tip": "如无姜粉可用新鲜姜片替代",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "干辣椒",
+      "amount": "5个",
+      "buying_tip": "根据个人口味调整辣度",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香叶",
+      "amount": "2片",
+      "buying_tip": "干燥完整的香叶",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "八角",
+      "amount": "1个",
+      "buying_tip": "完整的八角茴香",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱结",
+      "amount": "1个",
+      "buying_tip": "新鲜小葱打结使用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香油",
+      "amount": "12g",
+      "buying_tip": "纯正芝麻香油，10g用于炒制，2g用于蘸料",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "菜籽油",
+      "amount": "10g",
+      "buying_tip": "推荐菜籽油，成色更亮",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "5g",
+      "buying_tip": "普通加碘食盐",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "辣椒油",
+      "amount": "5g",
+      "buying_tip": "蘸料用，可自制或购买成品",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "10g",
+      "buying_tip": "蘸料用，提鲜之选",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜蓉",
+      "amount": "5g",
+      "buying_tip": "蘸料用，现磨蒜蓉最香",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "牙签",
+    "炒锅",
+    "电压力锅",
+    "汤盆",
+    "菜刀",
+    "砧板"
+  ],
+  "servings": {
+    "base": 2,
+    "formula": [
+      {
+        "name": "血肠",
+        "expr": "200 * n / 2"
+      },
+      {
+        "name": "酸菜",
+        "expr": "500 * n / 2"
+      },
+      {
+        "name": "排骨",
+        "expr": "400 * n / 2"
+      },
+      {
+        "name": "热水",
+        "expr": "600 * n / 2"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "预处理血肠",
+      "instruction": "血肠用牙签多扎一些小孔，然后放水中小火煮十分钟，不要让水烧开，保持 80 度。",
+      "duration_sec": 600,
+      "tips": [
+        "扎孔是为了排气，防止受热膨胀爆裂",
+        "水温非常关键，绝对不能沸腾"
+      ],
+      "produces": "半熟血肠",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_sha-zhu-cai/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "血肠切块",
+      "instruction": "将煮好的血肠捞出，稍凉后切成厚块备用。",
+      "duration_sec": 120,
+      "tips": [
+        "切的时候动作要轻，防止血肠碎裂"
+      ],
+      "produces": "血肠块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_sha-zhu-cai/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "排骨焯水",
+      "instruction": "排骨冷水入锅，加入料酒，煮沸撇去浮沫，控干水分备用。",
+      "duration_sec": 300,
+      "tips": [
+        "冷水入锅能更好去除血水"
+      ],
+      "produces": "净排骨",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_sha-zhu-cai/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "爆香底料",
+      "instruction": "锅内放入菜籽油，放入蒜瓣、干辣椒、姜粉炒香。",
+      "duration_sec": 60,
+      "tips": [
+        "中小火炒香，防止辣椒炒糊"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_sha-zhu-cai/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "翻炒排骨",
+      "instruction": "放入排骨翻炒至表面金黄。",
+      "duration_sec": 180,
+      "tips": [
+        "炒至表面微焦能增加肉香味"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_sha-zhu-cai/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "炒酸菜",
+      "instruction": "酸菜洗净拧干水分，放入锅中，加入香油，大火翻炒二分钟。",
+      "duration_sec": 120,
+      "tips": [
+        "香油可以去除酸味并让酸菜更香",
+        "一定要拧干水分再炒"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_sha-zhu-cai/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "加水",
+      "instruction": "加入 600 毫升热水。",
+      "duration_sec": 30,
+      "tips": [
+        "必须用热水，保证汤底醇厚"
+      ],
+      "produces": "酸菜排骨汤基底",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_sha-zhu-cai/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "入锅调味",
+      "instruction": "将锅中食材转入电压力锅，加香叶、八角、葱结、盐。",
+      "duration_sec": 60,
+      "tips": [
+        "确认压力锅密封圈放置正确"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_sha-zhu-cai/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "压力烹饪",
+      "instruction": "启动浓香模式压 40 分钟。",
+      "duration_sec": 2400,
+      "tips": [
+        "浓香模式能让排骨软烂入味"
+      ],
+      "produces": "炖好的酸菜排骨",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_sha-zhu-cai/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "焖煮血肠",
+      "instruction": "放气开盖，加入血肠和枸杞，盖上锅盖焖二分钟即可。",
+      "duration_sec": 120,
+      "tips": [
+        "血肠已经是熟的，不需再加热，利用余温焖透即可"
+      ],
+      "produces": "成品杀猪菜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_sha-zhu-cai/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "准备蘸料",
+      "instruction": "按照辣椒油 5g、生抽 10g、蒜蓉 5g、香油 2g 的比例调制蘸料。",
+      "duration_sec": 60,
+      "tips": [
+        "蘸料是吃血肠的灵魂，不可省略"
+      ],
+      "produces": "蘸料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_sha-zhu-cai/step_11.jpg"
+    }
+  ],
+  "tips": [
+    "血肠处理是难点，务必保持 80 度水温防止爆开",
+    "炒酸菜时加入香油是中和酸味的关键技巧",
+    "建议使用电压力锅以缩短烹饪时间并保证肉质软烂",
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_sha-zhu-cai.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_sha-zhu-cai_overview.jpg",
+  "id": "meat_dish_sha-zhu-cai",
+  "status": "published"
+}

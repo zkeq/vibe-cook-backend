@@ -1,0 +1,154 @@
+{
+  "title": "排骨苦瓜汤",
+  "summary": "排骨苦瓜汤是一道汤色清亮、鲜美回甘的粤式家常汤品，排骨软烂、苦瓜清热解腻。富含蛋白质与维生素，虾皮还能补充钙质。",
+  "difficulty": 4,
+  "calories": 905,
+  "duration_min": 240,
+  "category": "其他",
+  "tags": [
+    "粤菜",
+    "汤品",
+    "清热",
+    "家常菜"
+  ],
+  "ingredients": [
+    {
+      "name": "排骨",
+      "amount": "250g-500g",
+      "buying_tip": "建议选择新鲜小排，肉质更嫩",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "苦瓜",
+      "amount": "100g-200g",
+      "buying_tip": "挑选表皮颗粒饱满、翠绿的苦瓜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "虾皮",
+      "amount": "5g-15g",
+      "buying_tip": "选择色泽自然、无异味的干虾皮",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生姜",
+      "amount": "5g-10g",
+      "buying_tip": "老姜去腥效果更好",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "0.3g-0.6g/250ml",
+      "buying_tip": "出锅前根据汤量调整",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白胡椒",
+      "amount": "0.1g-0.5g/250ml",
+      "buying_tip": "白胡椒粉可提鲜去膻",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "电压力锅",
+    "砂锅",
+    "炒锅",
+    "菜刀",
+    "砧板"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "排骨",
+        "expr": "250g * n"
+      },
+      {
+        "name": "苦瓜",
+        "expr": "100g * n"
+      },
+      {
+        "name": "虾皮",
+        "expr": "5g * n"
+      },
+      {
+        "name": "生姜",
+        "expr": "5g * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "排骨预处理",
+      "instruction": "排骨洗净，切到约 4cm ±2cm * 3 ± 2cm 的小块。",
+      "duration_sec": 300,
+      "tips": [
+        "如没有剁排骨的工具，可以求助摊主"
+      ],
+      "produces": "排骨块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pai-gu-ku-gua-tang/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "排骨焯水",
+      "instruction": "炒锅倒入冷水 700ml 和排骨一起加热至煮沸，关火捞出排骨。",
+      "duration_sec": 600,
+      "tips": [
+        "冷水下锅能更好逼出血水去腥"
+      ],
+      "produces": "焯水后的排骨",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pai-gu-ku-gua-tang/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "处理苦瓜",
+      "instruction": "苦瓜中间切为两半，清除干净内部的种子和苦瓜瓤，切为 0.5 ± 0.3 cm 的苦瓜条，洗净。",
+      "duration_sec": 300,
+      "tips": [
+        "仔细去除白色的苦瓜瓤可以有效减轻苦味"
+      ],
+      "produces": "苦瓜条",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pai-gu-ku-gua-tang/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "烹饪（汤锅法或压力锅法）",
+      "instruction": "汤锅法：倒入1100ml水和排骨，沸腾后下苦瓜和虾皮转小火炖120-240分钟；压力锅法：倒入1000ml水、排骨、虾皮和苦瓜，选择炖汤功能烹饪（约45分钟）。",
+      "duration_sec": 7200,
+      "tips": [
+        "汤锅法在120分钟后可捞肉尝试，若肉骨易分离即可",
+        "压力锅可大幅简化过程"
+      ],
+      "produces": "排骨苦瓜汤底",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pai-gu-ku-gua-tang/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "调味出锅",
+      "instruction": "出锅时加盐和白胡椒，推荐量为每 250ml 加入 0.3 到 0.6g 盐，0.1 到 0.5g 白胡椒。",
+      "duration_sec": 60,
+      "tips": [
+        "最后放盐可以保持肉质鲜嫩"
+      ],
+      "produces": "成品排骨苦瓜汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pai-gu-ku-gua-tang/step_5.jpg"
+    }
+  ],
+  "tips": [
+    "可以使用其他带有鲜味的食材代替虾皮，如瑶柱",
+    "苦瓜瓤必须去除干净，否则汤头会过苦",
+    "一份分量约够4人食用",
+    "传统慢炖建议提前4小时准备"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_pai-gu-ku-gua-tang.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_pai-gu-ku-gua-tang_overview.jpg",
+  "id": "other_pai-gu-ku-gua-tang",
+  "status": "published"
+}

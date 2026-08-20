@@ -1,0 +1,256 @@
+{
+  "title": "糖醋排骨",
+  "summary": "糖醋排骨是一道酸甜可口、外酥里嫩的传统名菜，广受欢迎。排骨富含优质蛋白和钙质，有较好的滋补效果。这道菜涉及焯水、油炸、炒糖色和收汁等多个步骤，对火候和调味有一定要求，虽然流程优化后成功率较高，但仍需注意细节。",
+  "difficulty": 4,
+  "calories": 1022,
+  "duration_min": 45,
+  "category": "其他",
+  "tags": [
+    "糖醋",
+    "排骨",
+    "传统名菜",
+    "酸甜",
+    "硬菜"
+  ],
+  "ingredients": [
+    {
+      "name": "排骨",
+      "amount": "300g",
+      "buying_tip": "建议选择肉质紧实的肋排，并请摊主剁成均匀小块",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白砂糖",
+      "amount": "30g",
+      "buying_tip": "选用细砂糖更易于溶解",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "300-350ml",
+      "buying_tip": "选用烟点较高的植物油，如菜籽油或花生油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "5ml",
+      "buying_tip": "选用高品质酿造生抽，提鲜效果更好",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蚝油",
+      "amount": "5ml",
+      "buying_tip": "优质蚝油能增加料汁的浓稠度和鲜味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "5ml",
+      "buying_tip": "主要用于上色，不宜放多",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡精",
+      "amount": "2g",
+      "buying_tip": "用于提鲜，可根据口味调整",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜片",
+      "amount": "2片",
+      "buying_tip": "选用老姜，去腥效果更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "芝麻",
+      "amount": "2g",
+      "buying_tip": "建议使用熟白芝麻，点缀效果好且更香",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "番茄酱",
+      "amount": "10g",
+      "buying_tip": "选用原味番茄酱，增加酸甜层次",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香醋",
+      "amount": "5ml",
+      "buying_tip": "选用陈醋或香醋，避免使用白醋以免口感过冲",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "五香粉",
+      "amount": "0.5g",
+      "buying_tip": "只需少量，增添风味层次",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "煮锅",
+    "漏勺",
+    "温度计",
+    "菜刀",
+    "砧板"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "排骨",
+        "expr": "300 * n"
+      },
+      {
+        "name": "白砂糖",
+        "expr": "30 * n"
+      },
+      {
+        "name": "食用油",
+        "expr": "350 * n"
+      },
+      {
+        "name": "生抽",
+        "expr": "5 * n"
+      },
+      {
+        "name": "蚝油",
+        "expr": "5 * n"
+      },
+      {
+        "name": "老抽",
+        "expr": "5 * n"
+      },
+      {
+        "name": "鸡精",
+        "expr": "2 * n"
+      },
+      {
+        "name": "姜片",
+        "expr": "2 * n"
+      },
+      {
+        "name": "芝麻",
+        "expr": "2 * n"
+      },
+      {
+        "name": "番茄酱",
+        "expr": "10 * n"
+      },
+      {
+        "name": "香醋",
+        "expr": "5 * n"
+      },
+      {
+        "name": "五香粉",
+        "expr": "0.5 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "排骨焯水",
+      "instruction": "排骨与姜片放入冷水中，大火加热至水沸腾、出现大量泡沫后转中火，待水持续沸腾时再转小火焯水 2–3 分钟，捞出备用。",
+      "duration_sec": 480,
+      "tips": [
+        "必须冷水下锅",
+        "注意观察火力变化"
+      ],
+      "produces": "已焯水的排骨",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-pai-gu/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "清洗排骨",
+      "instruction": "用开水反复清洗排骨 2–3 遍，确保彻底去除血沫。",
+      "duration_sec": 120,
+      "tips": [
+        "应使用开水清洗，避免温差过大导致肉质变柴"
+      ],
+      "produces": "洁净的排骨",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-pai-gu/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "油炸排骨",
+      "instruction": "在锅中倒入足够量的食用油进行深炸，待油温升至约 170°C 后，下排骨炸制 3–5 分钟，直至表面略呈金黄色，捞出控油。",
+      "duration_sec": 600,
+      "tips": [
+        "油量需足以覆盖排骨 2/3",
+        "炸之前可撒少量干淀粉提升酥脆感"
+      ],
+      "produces": "炸至金黄的排骨",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-pai-gu/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "炒制糖水",
+      "instruction": "另取干净锅，置于小火上加热 50 ml 热水，加入白砂糖 30 g，轻轻搅拌直至糖完全溶解，并略呈淡黄色。",
+      "duration_sec": 180,
+      "tips": [
+        "重点在于确保糖完全溶解",
+        "无需过分依赖颜色判断"
+      ],
+      "produces": "糖水基底",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-pai-gu/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "调味翻炒",
+      "instruction": "将炸好的排骨倒入糖水中，迅速翻炒 30 秒后，依次加入香醋 5 ml、生抽 5 ml、蚝油 5 ml、鸡精 2 g、番茄酱 10 g、五香粉 0.5 g，再次翻炒 30 秒使调料均匀裹覆，加开水至没过排骨。",
+      "duration_sec": 120,
+      "tips": [
+        "翻炒动作要快",
+        "加入的水必须是开水"
+      ],
+      "produces": "初步入味的排骨",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-pai-gu/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "上色收汁",
+      "instruction": "用大火将液体煮沸后，加入老抽 5 ml 进行上色，并快速收汁；若排骨块大，可转小火焖煮 5–10 分钟入味。",
+      "duration_sec": 600,
+      "tips": [
+        "切勿采用中火长时间炖煮 20 分钟",
+        "收汁阶段需快速翻炒防止糊锅"
+      ],
+      "produces": "色泽红亮的糖醋排骨",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-pai-gu/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "装盘点缀",
+      "instruction": "起锅装盘，撒上芝麻 2 g，即可享用。",
+      "duration_sec": 60,
+      "tips": [
+        "趁热撒芝麻更香"
+      ],
+      "produces": "成品糖醋排骨",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-pai-gu/step_7.jpg"
+    }
+  ],
+  "tips": [
+    "炸排骨时可轻撒少量干淀粉以提升酥脆口感。",
+    "焯水必须冷水下锅，清洗必须使用开水，以防肉质变柴。",
+    "炒糖水步骤的关键在于确保白糖完全溶解，不必强求深颜色。",
+    "收汁阶段应快速翻炒，确保调料均匀包裹，避免长时间炖煮损伤口感。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_tang-cu-pai-gu.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_tang-cu-pai-gu_overview.jpg",
+  "id": "other_tang-cu-pai-gu",
+  "status": "published"
+}

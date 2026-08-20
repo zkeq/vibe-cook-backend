@@ -1,0 +1,139 @@
+{
+  "title": "米粥",
+  "summary": "白粥清淡绵软，是家常必备的暖胃主食，米香纯粹，老少皆宜。富含碳水化合物和少量蛋白质，易于消化吸收，有补脾、和胃、清肺的食养之效。",
+  "difficulty": 2,
+  "calories": 308,
+  "duration_min": 25,
+  "category": "汤",
+  "tags": [
+    "清淡",
+    "暖胃",
+    "易消化",
+    "主食"
+  ],
+  "ingredients": [
+    {
+      "name": "米",
+      "amount": "60ml-110ml",
+      "buying_tip": "选择米粒饱满、无霉变的优质大米",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "水",
+      "amount": "米体积的9-12倍",
+      "buying_tip": "建议使用过滤纯净水口感更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "植物油",
+      "amount": "生米体积 / 10",
+      "buying_tip": "普通食用油即可",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "煮锅",
+    "量杯"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "大火加热时间T1",
+        "expr": "1.5 分钟 / 500ml * 水体积"
+      },
+      {
+        "name": "最早食用时间Tr",
+        "expr": "10 分钟 / 500ml * 水体积"
+      },
+      {
+        "name": "油质量Mo",
+        "expr": "生米体积 / 10"
+      },
+      {
+        "name": "冷藏时间Tc",
+        "expr": "生米体积 / 10 ml/分钟"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "油米混合（可选）",
+      "instruction": "将 Mo ml 的油与洗净的米混合，尽量确保完全混合，即每粒米上至少都沾上少量油。",
+      "duration_sec": 60,
+      "tips": [
+        "确保每粒米都沾上油可以使粥更绵滑"
+      ],
+      "produces": "油润的大米",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_mi-zhou/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "冷藏保存（可选）",
+      "instruction": "将米-油混合物品冷藏保存，冷藏时间 Tc。",
+      "duration_sec": 300,
+      "tips": [
+        "冷藏时间 Tc = 生米体积 / 10"
+      ],
+      "produces": "冷藏后的油米",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_mi-zhou/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "加水入锅",
+      "instruction": "将米和水加入锅中。",
+      "duration_sec": 30,
+      "tips": [
+        "注意水和米的比例在9-12倍之间"
+      ],
+      "produces": "待煮的米水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_mi-zhou/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "大火加热",
+      "instruction": "开大火，加热到 T1 时间。",
+      "duration_sec": 90,
+      "tips": [
+        "T1 = 1.5 * (水体积/500)"
+      ],
+      "produces": "沸腾前的米水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_mi-zhou/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "转小火",
+      "instruction": "在 T1 之前将火关小。",
+      "duration_sec": 10,
+      "tips": [
+        "如果忘记此步骤，水可能会漫出而熄灭火焰。非常危险！"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_mi-zhou/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "持续加热至熟",
+      "instruction": "继续加热到 Tr 时间。在 Tr 时关闭火源。",
+      "duration_sec": 600,
+      "tips": [
+        "Tr 是最早可以食用的时间点"
+      ],
+      "produces": "米粥",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_mi-zhou/step_6.jpg"
+    }
+  ],
+  "tips": [
+    "掌握好火候和水量是成功的关键",
+    "溢锅非常危险，请务必在T1前转小火",
+    "如果您发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/soup_mi-zhou.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/soup_mi-zhou_overview.jpg",
+  "id": "soup_mi-zhou",
+  "status": "published"
+}

@@ -1,0 +1,178 @@
+{
+  "title": "昂刺鱼豆腐汤",
+  "summary": "昂刺鱼豆腐汤是一道口感鲜嫩、汤白味浓的家常汤品，鱼肉刺少肉嫩，豆腐滑润，带有胡椒的微辛暖意，适合各个年龄层。鱼富含优质蛋白质，搭配豆腐能补充钙质，营养均衡好吸收。",
+  "difficulty": 3,
+  "calories": 321,
+  "duration_min": 40,
+  "category": "其他",
+  "tags": [
+    "家常菜",
+    "鱼汤",
+    "高蛋白",
+    "补钙"
+  ],
+  "ingredients": [
+    {
+      "name": "昂刺鱼或者沙光鱼",
+      "amount": "1条",
+      "buying_tip": "选择鲜活、表皮粘液完整的鱼",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "豆腐",
+      "amount": "100g",
+      "buying_tip": "建议选用嫩豆腐，口感更滑润",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香葱",
+      "amount": "1根",
+      "buying_tip": "选用新鲜翠绿的香葱",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "1块",
+      "buying_tip": "老姜去腥效果更好",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "15ml",
+      "buying_tip": "普通植物油即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "适量",
+      "buying_tip": "用于腌制和去腥",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "食用盐",
+      "amount": "10-15g",
+      "buying_tip": "建议分次添加以调整咸淡",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "胡椒粉",
+      "amount": "3-5g",
+      "buying_tip": "白胡椒粉能暖胃并提升汤的鲜味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "开水",
+      "amount": "1L",
+      "buying_tip": "必须准备开水以确保汤色浓白",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "大碗",
+    "锅盖"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "昂刺鱼或者沙光鱼",
+        "expr": "1 * n"
+      },
+      {
+        "name": "豆腐",
+        "expr": "100 * n"
+      },
+      {
+        "name": "香葱",
+        "expr": "1 * n"
+      },
+      {
+        "name": "食用油",
+        "expr": "15 * n"
+      },
+      {
+        "name": "开水",
+        "expr": "1000 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "鱼材处理与腌制",
+      "instruction": "鱼处理好后洗净（特别注意肚内的血丝、不洗干净会有腥味），放入大碗中，倒入料酒、10g 姜片、5g 盐，腌制 15 分钟。",
+      "duration_sec": 900,
+      "tips": [
+        "肚内血丝是腥味的主要来源，必须彻底清除"
+      ],
+      "produces": "腌制好的鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ang-ci-yu-dou-fu-tang/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "豆腐预处理",
+      "instruction": "豆腐切块，放入凉水浸泡 5 分钟，捞出备用。",
+      "duration_sec": 300,
+      "tips": [
+        "浸泡凉水可以去除豆腥味并防止豆腐破碎"
+      ],
+      "produces": "豆腐块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ang-ci-yu-dou-fu-tang/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "煎鱼防粘",
+      "instruction": "煎鱼前，先用生姜片擦一下锅防止粘锅，倒入油（油量为 15ml * 鱼的条数 ），烧热后放入鱼煎 2~3 分钟，期间需要晃动一下鱼，防止粘底，且需要翻一次身。",
+      "duration_sec": 180,
+      "tips": [
+        "生姜擦锅是传统防粘妙招",
+        "煎鱼时不要频繁翻动，待定型后再翻面"
+      ],
+      "produces": "两面微黄的昂刺鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ang-ci-yu-dou-fu-tang/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "大火炖煮汤底",
+      "instruction": "待鱼全部煎好之后，倒入开水、5ml 料酒、姜片，小火转至大火，盖上锅盖、大火煮 10 分钟（水要稍微多一些，后面会蒸发掉一些）。",
+      "duration_sec": 600,
+      "tips": [
+        "必须加开水且保持大火，这是汤汁变白的秘诀"
+      ],
+      "produces": "浓白鱼汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ang-ci-yu-dou-fu-tang/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "加入豆腐与调味",
+      "instruction": "见汤变白后倒入准备好的豆腐，调中火再煮 5 分钟，加入 10g 盐、3g 胡椒粉调味，最后撒上葱花出锅。",
+      "duration_sec": 300,
+      "tips": [
+        "胡椒粉不仅去腥，还能提供暖意"
+      ],
+      "produces": "昂刺鱼豆腐汤成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ang-ci-yu-dou-fu-tang/step_5.jpg"
+    }
+  ],
+  "tips": [
+    "注意去腥和煎鱼防粘，这是本菜成功的关键",
+    "鱼富含优质蛋白质，搭配豆腐能补充钙质，营养均衡",
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ang-ci-yu-dou-fu-tang.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ang-ci-yu-dou-fu-tang_overview.jpg",
+  "id": "other_ang-ci-yu-dou-fu-tang",
+  "status": "published"
+}

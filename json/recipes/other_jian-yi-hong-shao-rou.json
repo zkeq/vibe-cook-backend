@@ -1,0 +1,230 @@
+{
+  "title": "简易红烧肉",
+  "summary": "这道家常美味色泽红润油亮，口感软糯，肥而不腻，酱香浓郁，搭配米饭特别过瘾。五花肉提供优质蛋白质和必需脂肪酸，加上鹌鹑蛋或豆皮，营养更全面。",
+  "difficulty": 3,
+  "calories": 2775,
+  "duration_min": 90,
+  "category": "其他",
+  "tags": [
+    "红烧肉",
+    "家常菜",
+    "五花肉",
+    "软糯"
+  ],
+  "ingredients": [
+    {
+      "name": "猪五花肉",
+      "amount": "3~4 斤",
+      "buying_tip": "选择肥瘦相间的精品五花肉",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生姜",
+      "amount": "6 片",
+      "buying_tip": "老姜去腥效果更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "冰糖",
+      "amount": "15 克",
+      "buying_tip": "约 7 块，用于上色和提鲜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "10ml",
+      "buying_tip": "普通生抽即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "15ml",
+      "buying_tip": "主要用于上色",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "5ml",
+      "buying_tip": "去腥必备",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "开水",
+      "amount": "600ml-900ml",
+      "buying_tip": "必须使用热水以防肉质收缩",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香叶",
+      "amount": "3 片",
+      "buying_tip": "增加香气",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "八角",
+      "amount": "2 个",
+      "buying_tip": "经典红烧香料",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鹌鹑蛋/鸡蛋",
+      "amount": "0-2 个",
+      "buying_tip": "可选，增加风味和营养",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "豆皮",
+      "amount": "0-80g",
+      "buying_tip": "可选，吸收汤汁后口感极佳",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "2-3g",
+      "buying_tip": "最后调味使用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大葱",
+      "amount": "适量",
+      "buying_tip": "取葱白部分",
+      "optional": false,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "菜刀",
+    "磨刀石",
+    "炒锅",
+    "叉子或牙签",
+    "烧水壶"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "猪五花肉",
+        "expr": "x * 1.75kg"
+      },
+      {
+        "name": "冰糖",
+        "expr": "x * 15g"
+      },
+      {
+        "name": "开水",
+        "expr": "x * 750ml"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "食材预处理",
+      "instruction": "猪五花肉切成约 4.5cm 的大块；豆皮切 2cm 宽；生姜切 3mm 厚片；大葱取葱白备用。",
+      "duration_sec": 600,
+      "tips": [
+        "五花肉冷冻半小时至一小时后更易切齐"
+      ],
+      "produces": "处理好的肉块和辅料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-yi-hong-shao-rou/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "准备配料",
+      "instruction": "烧开水；将鹌鹑蛋煮熟剥壳，并用叉子或牙签在表面扎孔以便入味。",
+      "duration_sec": 600,
+      "tips": [
+        "扎孔越多越容易吸收汤汁"
+      ],
+      "produces": "开水、处理好的鹌鹑蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-yi-hong-shao-rou/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "焯水去腥",
+      "instruction": "冷水锅中放入五花肉块，加入料酒、葱、姜，煮 15 分钟捞出沥干。",
+      "duration_sec": 900,
+      "tips": [
+        "一定要冷水下锅才能逼出肉里的血沫"
+      ],
+      "produces": "焯水后的五花肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-yi-hong-shao-rou/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "煸炒出油",
+      "instruction": "锅中放两片生姜，开中小火直接放入五花肉，不放油，将肉的六个面都煎至出油且微焦。",
+      "duration_sec": 300,
+      "tips": [
+        "煸出的猪油可以倒出留作他用"
+      ],
+      "produces": "煎好的五花肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-yi-hong-shao-rou/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "炒糖色与上色",
+      "instruction": "将肉推至一边，加入冰糖炒至融化上色，随后加入 10ml 生抽、15ml 老抽、5ml 料酒翻炒均匀。",
+      "duration_sec": 180,
+      "tips": [
+        "炒糖色时注意火候，避免发苦"
+      ],
+      "produces": "上色后的五花肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-yi-hong-shao-rou/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "初次炖煮",
+      "instruction": "加入烧好的开水没过食材，放入 2 片生姜、3 片香叶、2 个八角，盖盖煮沸后转中小火炖 40 分钟。",
+      "duration_sec": 2400,
+      "tips": [
+        "如果肉块切得过大，需适当延长炖煮时间"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-yi-hong-shao-rou/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "加入辅料继续炖煮",
+      "instruction": "加入准备好的鹌鹑蛋和豆皮，继续中小火炖煮 40 分钟。",
+      "duration_sec": 2400,
+      "tips": [
+        "中途可适当翻搅防止粘锅"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-yi-hong-shao-rou/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "收汁出锅",
+      "instruction": "打开锅盖，待汤汁浓稠时转大火收汁，加入 2-3g 盐翻炒均匀后出锅。",
+      "duration_sec": 180,
+      "tips": [
+        "切记不可将汤汁完全收干，留点汤拌饭更好吃"
+      ],
+      "produces": "红烧肉成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-yi-hong-shao-rou/step_8.jpg"
+    }
+  ],
+  "tips": [
+    "如果有可能，请尽量把刀磨的锋利一些，切肉更整齐。",
+    "炖肉必须使用开水，否则冷水会使蛋白质收缩导致口感变柴。",
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_jian-yi-hong-shao-rou.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_jian-yi-hong-shao-rou_overview.jpg",
+  "id": "other_jian-yi-hong-shao-rou",
+  "status": "published"
+}

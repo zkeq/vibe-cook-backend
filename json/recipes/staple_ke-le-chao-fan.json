@@ -1,0 +1,237 @@
+{
+  "title": "可乐炒饭",
+  "summary": "这道菜以可乐替代糖调味，带来独特的焦香微甜风味，酱汁浓郁包裹粒粒米饭，属于创意家常炒饭。鸡蛋和火腿肠提供优质蛋白质与能量，搭配主食米饭，营养均衡管饱。",
+  "difficulty": 3,
+  "calories": 913,
+  "duration_min": 20,
+  "category": "主食",
+  "tags": [
+    "创意家常",
+    "可乐",
+    "炒饭",
+    "新手友好"
+  ],
+  "ingredients": [
+    {
+      "name": "米饭",
+      "amount": "200g",
+      "buying_tip": "建议使用隔夜米饭，水分较少，炒出来粒粒分明",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "可乐",
+      "amount": "160ml",
+      "buying_tip": "含糖或无糖均可，含糖可乐口感更好",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": "3个",
+      "buying_tip": "选用新鲜的普通鸡蛋即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "火腿肠",
+      "amount": "20-100g",
+      "buying_tip": "也可以用午餐肉代替",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "油",
+      "amount": "25ml",
+      "buying_tip": "普通植物油或玉米油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "15ml",
+      "buying_tip": "日常调味生抽",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "7.5ml",
+      "buying_tip": "用于上色。若用无糖可乐或不加豆瓣酱需各追加5ml",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": "7.5ml",
+      "buying_tip": "增加酱香味，可选",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "蚝油",
+      "amount": "5ml",
+      "buying_tip": "用于提鲜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱花",
+      "amount": "5g",
+      "buying_tip": "新鲜小葱切碎",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "胡椒粉",
+      "amount": "1g",
+      "buying_tip": "白胡椒或黑胡椒均可",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "铲子",
+    "剪刀",
+    "菜刀",
+    "砧板"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "米饭",
+        "expr": "200 * n"
+      },
+      {
+        "name": "可乐",
+        "expr": "160 * n"
+      },
+      {
+        "name": "鸡蛋",
+        "expr": "3 * n"
+      },
+      {
+        "name": "火腿肠",
+        "expr": "20 * n"
+      },
+      {
+        "name": "油",
+        "expr": "25 * n"
+      },
+      {
+        "name": "生抽",
+        "expr": "15 * n"
+      },
+      {
+        "name": "老抽",
+        "expr": "7.5 * n"
+      },
+      {
+        "name": "豆瓣酱",
+        "expr": "7.5 * n"
+      },
+      {
+        "name": "蚝油",
+        "expr": "5 * n"
+      },
+      {
+        "name": "葱花",
+        "expr": "5 * n"
+      },
+      {
+        "name": "胡椒粉",
+        "expr": "1 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "煎制鸡蛋",
+      "instruction": "将锅烧热后，加入 25 ml 油，放两个鸡蛋，煎至底部完全凝固。",
+      "duration_sec": 120,
+      "tips": [
+        "注意火候，防止底部烧焦"
+      ],
+      "produces": "半熟煎蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ke-le-chao-fan/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "鸡蛋翻面",
+      "instruction": "翻面，煎至两面完全凝固。",
+      "duration_sec": 60,
+      "tips": [
+        "两面都凝固即可，不需要太老"
+      ],
+      "produces": "全熟煎蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ke-le-chao-fan/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "处理蛋块",
+      "instruction": "关火，将鸡蛋取出，剪成 2-5 cm² 的小块后放回锅中（也可以直接用锅铲铲碎）。",
+      "duration_sec": 60,
+      "tips": [
+        "剪碎的蛋块大小均匀会更美观"
+      ],
+      "produces": "鸡蛋碎",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ke-le-chao-fan/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "调制酱汁",
+      "instruction": "重新开火，倒入可乐、生抽、老抽、豆瓣酱、蚝油，搅拌均匀。",
+      "duration_sec": 30,
+      "tips": [
+        "如果使用无糖可乐，记得多加点老抽上色"
+      ],
+      "produces": "可乐酱汁底",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ke-le-chao-fan/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "收汁翻炒",
+      "instruction": "加热到锅内液体剩 1/3，倒入米饭和火腿肠翻炒。",
+      "duration_sec": 300,
+      "tips": [
+        "收汁过程中要不断搅拌，防止糊锅"
+      ],
+      "produces": "初步炒饭",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ke-le-chao-fan/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "焖煮鸡蛋",
+      "instruction": "翻炒均匀后，改小火，锅内食物中心挖一个洞，打入 1 个鸡蛋，盖上锅盖，焖 2 分钟。",
+      "duration_sec": 120,
+      "tips": [
+        "这一步能增加炒饭的湿润度和层次感"
+      ],
+      "produces": "含半熟蛋的炒饭",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ke-le-chao-fan/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "出锅装盘",
+      "instruction": "开盖翻炒至第三颗鸡蛋熟透，撒上葱花和胡椒粉，出锅。",
+      "duration_sec": 60,
+      "tips": [
+        "如果喜欢干一点，可以多炒一会儿"
+      ],
+      "produces": "可乐炒饭",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ke-le-chao-fan/step_7.jpg"
+    }
+  ],
+  "tips": [
+    "含糖可乐口感更好",
+    "如果喜欢干一点，多炒一会儿",
+    "如果嫌麻烦，可以在第一步直接放 3 个鸡蛋，取消挖洞打另一个鸡蛋的步骤"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_ke-le-chao-fan.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_ke-le-chao-fan_overview.jpg",
+  "id": "staple_ke-le-chao-fan",
+  "status": "published"
+}

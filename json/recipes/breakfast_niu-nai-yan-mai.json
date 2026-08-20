@@ -1,0 +1,150 @@
+{
+  "title": "牛奶燕麦",
+  "summary": "一份高蛋白、高纤维的便捷营养早餐，将牛奶的滑润、燕麦的谷香与煎蛋的嫩脆巧妙结合，入口温热柔和、易于消化，饱腹感强。制作过程简单直接，对新手极为友好，全程约三分钟即可完成，搭配蔬果更添清爽。",
+  "difficulty": 1,
+  "calories": 421,
+  "duration_min": 3,
+  "category": "早餐",
+  "tags": [
+    "高蛋白",
+    "高纤维",
+    "简单",
+    "营养早餐",
+    "快手菜"
+  ],
+  "ingredients": [
+    {
+      "name": "牛奶",
+      "amount": "280ml",
+      "buying_tip": "建议选用巴氏奶，口感更好",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "燕麦",
+      "amount": "40g",
+      "buying_tip": "可根据喜好选择常规燕麦或快煮燕麦",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": "1个",
+      "buying_tip": "新鲜鸡蛋即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "水",
+      "amount": "200ml",
+      "buying_tip": "用于煮燕麦，直饮水为佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "少量",
+      "buying_tip": "用于锅底防粘",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "椒盐",
+      "amount": "3g",
+      "buying_tip": "用于鸡蛋调味",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "早餐杯",
+    "煮锅",
+    "平底锅",
+    "微波炉（可选）"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "牛奶",
+        "expr": "280ml * n"
+      },
+      {
+        "name": "鸡蛋",
+        "expr": "1个 * n"
+      },
+      {
+        "name": "燕麦",
+        "expr": "40g * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "准备牛奶",
+      "instruction": "将冷的牛奶倒入早餐杯中备用。",
+      "duration_sec": 10,
+      "tips": [
+        "牛奶不需要预热，后面加入的热燕麦会使其变温"
+      ],
+      "produces": "预装牛奶的杯子",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_niu-nai-yan-mai/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "烹饪燕麦",
+      "instruction": "锅中加入200ml水，烧开后放入燕麦，煮约2分钟直至熟透。",
+      "duration_sec": 120,
+      "tips": [
+        "如果是直饮水可以直接加入燕麦加热",
+        "也可以使用微波炉法：将快煮燕麦与牛奶混合，中火微波4分钟"
+      ],
+      "produces": "煮熟的燕麦",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_niu-nai-yan-mai/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "混合燕麦与牛奶",
+      "instruction": "将煮好的燕麦捞出，倒入装有牛奶的杯子中并搅拌。",
+      "duration_sec": 20,
+      "tips": [
+        "尽量不要将煮燕麦的水倒入牛奶，以免冲淡口感"
+      ],
+      "produces": "牛奶燕麦粥",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_niu-nai-yan-mai/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "煎鸡蛋",
+      "instruction": "热锅放底油，油热后打入鸡蛋，每面煎20秒，可撒入3g椒盐调味。",
+      "duration_sec": 60,
+      "tips": [
+        "煎蛋熟度可根据个人喜好调整"
+      ],
+      "produces": "煎蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_niu-nai-yan-mai/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "装盘享用",
+      "instruction": "将煎蛋装盘，配合牛奶燕麦一同食用。",
+      "duration_sec": 10,
+      "tips": [
+        "建议在2分钟内食用，口感最佳"
+      ],
+      "produces": "完整早餐",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_niu-nai-yan-mai/step_5.jpg"
+    }
+  ],
+  "tips": [
+    "由于不同微波炉火力不同，微波时间需根据实际情况微调",
+    "使用微波炉时，不建议混合物超过容器容量的50%，防止溢出",
+    "不建议使用玻璃杯在微波炉中高功率烹饪，以防炸裂",
+    "搭配水果、蔬菜或苏打饼干食用，营养更全面"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_niu-nai-yan-mai.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_niu-nai-yan-mai_overview.jpg",
+  "id": "breakfast_niu-nai-yan-mai",
+  "status": "published"
+}

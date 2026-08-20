@@ -1,0 +1,138 @@
+{
+  "title": "洋葱炒鸡蛋",
+  "summary": "洋葱炒鸡蛋是一道咸香适口、葱香浓郁的家常菜肴，鸡蛋嫩滑，洋葱清甜，属于国民下饭菜。鸡蛋富含优质蛋白质和多种维生素，洋葱含有膳食纤维和抗氧化物质，是一道营养均衡的快手菜。",
+  "difficulty": 2,
+  "calories": 562,
+  "duration_min": 5,
+  "category": "其他",
+  "tags": [
+    "家常菜",
+    "下饭菜",
+    "快手菜",
+    "营养均衡"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": "2个",
+      "buying_tip": "选择蛋壳完整、表面略粗糙的新鲜鸡蛋",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "洋葱",
+      "amount": "50g",
+      "buying_tip": "紫皮洋葱味道更香，白皮洋葱口感更清甜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "50ml",
+      "buying_tip": "选用烟点较高的植物油，如菜籽油或花生油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "2g",
+      "buying_tip": "建议使用细盐以便于在蛋液中溶解",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "半根",
+      "buying_tip": "选用新鲜的小葱，葱白葱绿都要",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "2ml",
+      "buying_tip": "普通的烹饪黄酒或料酒均可，用于去腥增香",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "大碗",
+    "炒锅",
+    "铲子",
+    "菜刀",
+    "砧板"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鸡蛋",
+        "expr": "2 * servings"
+      },
+      {
+        "name": "洋葱",
+        "expr": "50 * servings"
+      },
+      {
+        "name": "食用油",
+        "expr": "50 * servings"
+      },
+      {
+        "name": "盐",
+        "expr": "2 * servings"
+      },
+      {
+        "name": "葱",
+        "expr": "0.5 * servings"
+      },
+      {
+        "name": "料酒",
+        "expr": "2 * servings"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "备料搅拌",
+      "instruction": "鸡蛋打入大碗中，加入洋葱片、盐后搅拌 60 S",
+      "duration_sec": 60,
+      "tips": [
+        "洋葱切片尽量厚薄均匀",
+        "充分搅拌使盐分完全融合"
+      ],
+      "produces": "蛋液洋葱混合液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-cong-chao-ji-dan/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "炒制成型",
+      "instruction": "起锅烧油，倒入鸡蛋，一面煎炸 30-45 S ，翻面继续翻炒，反复 2-3 分钟 后散上料酒出锅",
+      "duration_sec": 180,
+      "tips": [
+        "油温热一些再下蛋液，可以让鸡蛋更蓬松",
+        "料酒在出锅前沿锅边淋入，利用高温激发出香气"
+      ],
+      "produces": "炒熟的洋葱鸡蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-cong-chao-ji-dan/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "装盘装饰",
+      "instruction": "鸡蛋装盘，散上葱花",
+      "duration_sec": 30,
+      "tips": [
+        "葱花要在出锅后撒上，保持翠绿的颜色和清香"
+      ],
+      "produces": "成品洋葱炒鸡蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-cong-chao-ji-dan/step_3.jpg"
+    }
+  ],
+  "tips": [
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_yang-cong-chao-ji-dan.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_yang-cong-chao-ji-dan_overview.jpg",
+  "id": "other_yang-cong-chao-ji-dan",
+  "status": "published"
+}

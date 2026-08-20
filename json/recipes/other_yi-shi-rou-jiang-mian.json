@@ -1,0 +1,159 @@
+{
+  "title": "意式肉酱面",
+  "summary": "意式肉酱面是一道简单快手的家常西餐，酱汁浓郁、面条筋道，适合忙碌的日常。肉末和洋葱搭配成品意面酱，能快速补充蛋白质与碳水化合物，洋葱还含有膳食纤维。做法对初学者十分友好，全程只需简单切炒，熟练后 15 分钟就能端上桌，比方便面更满足。",
+  "difficulty": 1,
+  "calories": 1199,
+  "duration_min": 15,
+  "category": "其他",
+  "tags": [
+    "西餐",
+    "意面",
+    "快手菜",
+    "肉酱"
+  ],
+  "ingredients": [
+    {
+      "name": "意大利面",
+      "amount": "180g",
+      "buying_tip": "根据包装说明选择喜欢的粗细",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "肉沫",
+      "amount": "80g",
+      "buying_tip": "猪肉或牛肉沫均可，新鲜为佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白洋葱",
+      "amount": "150g",
+      "buying_tip": "紫洋葱也可以，白洋葱口感更甜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "意大利面酱",
+      "amount": "300g",
+      "buying_tip": "注意区分意面酱（Pasta Sauce）与番茄沙司",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "10-15ml",
+      "buying_tip": "普通植物油或橄榄油均可",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "煮锅",
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "漏勺"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "意大利面",
+        "expr": "n * 180"
+      },
+      {
+        "name": "肉沫",
+        "expr": "n * 80"
+      },
+      {
+        "name": "洋葱",
+        "expr": "n * 150"
+      },
+      {
+        "name": "意大利面酱",
+        "expr": "n * 300"
+      },
+      {
+        "name": "食用油",
+        "expr": "n * 12.5"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "煮意面",
+      "instruction": "锅中加水，烧开后放入意面，根据包装指示煮 6 - 12 分钟。",
+      "duration_sec": 600,
+      "tips": [
+        "可以在水中加少许盐让面条更入味"
+      ],
+      "produces": "熟意面",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yi-shi-rou-jiang-mian/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "准备配菜",
+      "instruction": "在煮面的同时，将洋葱切成小丁。",
+      "duration_sec": 120,
+      "tips": [
+        "切洋葱时注意不要流泪"
+      ],
+      "produces": "洋葱丁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yi-shi-rou-jiang-mian/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "炒制洋葱",
+      "instruction": "空锅中倒油，中火下入洋葱碎，时刻搅拌直到洋葱变成半透明状。",
+      "duration_sec": 180,
+      "tips": [
+        "注意火力，不要让洋葱烧糊"
+      ],
+      "produces": "炒香的洋葱",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yi-shi-rou-jiang-mian/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "炒肉沫",
+      "instruction": "下入肉沫继续搅拌，将其搅散，直到肉末完全变成棕色。",
+      "duration_sec": 180,
+      "tips": [
+        "肉沫要彻底搅散口感才好"
+      ],
+      "produces": "熟肉末",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yi-shi-rou-jiang-mian/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "混合酱汁",
+      "instruction": "加入意大利面酱，稍微搅拌均匀即可。",
+      "duration_sec": 60,
+      "tips": [
+        "面酱本身是熟的，无需长时间熬煮"
+      ],
+      "produces": "肉酱汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yi-shi-rou-jiang-mian/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "拌面出锅",
+      "instruction": "把煮好的意大利面沥干水分，倒入肉酱中搅拌均匀（或将肉酱淋在面上）。",
+      "duration_sec": 60,
+      "tips": [
+        "趁热搅拌味道更佳"
+      ],
+      "produces": "意式肉酱面",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yi-shi-rou-jiang-mian/step_6.jpg"
+    }
+  ],
+  "tips": [
+    "意大利面分为很多不同的粗细，煮面条之前请注意意面盒子上标注的时间",
+    "意大利面酱并不是番茄酱（番茄沙司），加的调味料不同，购买时需注意区分"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_yi-shi-rou-jiang-mian.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_yi-shi-rou-jiang-mian_overview.jpg",
+  "id": "other_yi-shi-rou-jiang-mian",
+  "status": "published"
+}
