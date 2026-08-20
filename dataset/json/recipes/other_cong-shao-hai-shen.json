@@ -1,0 +1,243 @@
+{
+  "title": "葱烧海参",
+  "summary": "这是一道经典的鲁菜家常烧制海味，以浓郁的葱香和软糯入味的海参为特色，汤汁稠亮咸鲜回甜。海参富含胶原蛋白与多种微量元素，对滋养身体很有益处。整体烹饪难度不高，但需提前花时间将干海参充分泡发，实际烧制过程约三十分钟即可完成，新手只要按步骤操作也容易成功。",
+  "difficulty": 3,
+  "calories": 299,
+  "duration_min": 30,
+  "category": "其他",
+  "tags": [
+    "鲁菜",
+    "海味",
+    "滋补",
+    "家常菜"
+  ],
+  "ingredients": [
+    {
+      "name": "泡发好的海参（北极参）",
+      "amount": "4个",
+      "buying_tip": "建议选用肉质肥厚且已完全泡发的北极参",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大葱葱白",
+      "amount": "1根",
+      "buying_tip": "选用较粗的葱白，香气更浓郁",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "20-25ml",
+      "buying_tip": "普通植物油即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蚝油",
+      "amount": "20g",
+      "buying_tip": "建议选用优质蚝油以保证鲜味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "5g",
+      "buying_tip": "用于调味和上色",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白糖",
+      "amount": "2g",
+      "buying_tip": "主要用于提鲜回甜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "淀粉",
+      "amount": "2g",
+      "buying_tip": "玉米淀粉或土豆淀粉均可",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "空碗",
+    "筷子"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "泡发好的海参",
+        "expr": "4 * n"
+      },
+      {
+        "name": "大葱葱白",
+        "expr": "1 * n"
+      },
+      {
+        "name": "食用油",
+        "expr": "20 * n"
+      },
+      {
+        "name": "蚝油",
+        "expr": "20 * n"
+      },
+      {
+        "name": "生抽",
+        "expr": "5 * n"
+      },
+      {
+        "name": "白糖",
+        "expr": "2 * n"
+      },
+      {
+        "name": "淀粉",
+        "expr": "2 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理大葱",
+      "instruction": "葱白切成 1cm 的段，备用。",
+      "duration_sec": 60,
+      "tips": [
+        "切段大小要均匀"
+      ],
+      "produces": "葱段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cong-shao-hai-shen/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "处理海参",
+      "instruction": "海参切成 1cm 的段，备用。",
+      "duration_sec": 60,
+      "tips": [
+        "海参内部要清理干净"
+      ],
+      "produces": "海参段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cong-shao-hai-shen/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "调制料汁",
+      "instruction": "准备一个空碗，倒入 20g 蚝油， 10g 生抽， 2g 白糖，搅拌均匀。",
+      "duration_sec": 60,
+      "tips": [
+        "搅拌至白糖基本溶解"
+      ],
+      "produces": "调味酱汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cong-shao-hai-shen/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "准备水淀粉",
+      "instruction": "另一个空碗倒入淀粉，水，制备水淀粉，勾芡用。",
+      "duration_sec": 30,
+      "tips": [
+        "淀粉和水的比例约为1:3"
+      ],
+      "produces": "水淀粉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cong-shao-hai-shen/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "热锅凉油",
+      "instruction": "热锅，锅内放入 20ml - 25ml 食用油。等待 10 秒让油温升高。",
+      "duration_sec": 20,
+      "tips": [],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cong-shao-hai-shen/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "炸制葱油",
+      "instruction": "放入葱白，调小火，大概煎 3-5 分钟即可。",
+      "duration_sec": 240,
+      "tips": [
+        "注意不要让葱白变焦",
+        "全程小火慢煎"
+      ],
+      "produces": "葱油及煎好的葱段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cong-shao-hai-shen/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "盛出葱段",
+      "instruction": "用筷子夹出葱白，放入盘中备用。",
+      "duration_sec": 30,
+      "tips": [],
+      "produces": "备用葱段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cong-shao-hai-shen/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "炒香料汁",
+      "instruction": "倒入调好的料汁，炒香，等待 1 - 2 分钟 。",
+      "duration_sec": 90,
+      "tips": [
+        "料汁入锅后受热会变浓稠"
+      ],
+      "produces": "浓缩酱汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cong-shao-hai-shen/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "翻炒海参",
+      "instruction": "放入切好的海参，翻炒 1 分钟",
+      "duration_sec": 60,
+      "tips": [
+        "让海参均匀裹上酱汁"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cong-shao-hai-shen/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "焖煮入味",
+      "instruction": "加入 100 ml 的水， 中小火， 等待 5 分钟",
+      "duration_sec": 300,
+      "tips": [
+        "焖煮期间可以观察水量"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cong-shao-hai-shen/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "勾芡回葱",
+      "instruction": "等待锅中汤汁快干的时候，加入水淀粉，加入前面取出的葱白",
+      "duration_sec": 60,
+      "tips": [
+        "水淀粉使用前再次搅拌一下"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cong-shao-hai-shen/step_11.jpg"
+    },
+    {
+      "index": 12,
+      "title": "收汁盛盘",
+      "instruction": "在外观呈粘稠状态后关火，盛盘",
+      "duration_sec": 30,
+      "tips": [
+        "汤汁浓亮即可出锅"
+      ],
+      "produces": "葱烧海参成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cong-shao-hai-shen/step_12.jpg"
+    }
+  ],
+  "tips": [
+    "操作时，需要注意观察锅中的水量，如快见底的时候就直接接入水淀粉即可。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_cong-shao-hai-shen.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_cong-shao-hai-shen_overview.jpg",
+  "id": "other_cong-shao-hai-shen",
+  "status": "published"
+}

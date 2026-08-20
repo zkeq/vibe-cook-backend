@@ -1,0 +1,282 @@
+{
+  "title": "糖醋鲤鱼",
+  "summary": "糖醋鲤鱼是经典鲁菜，外酥里嫩、酸甜适口，鱼身炸至金黄浇上红亮糖醋汁，十分诱人。鱼肉富含优质蛋白和多种矿物质，易于消化吸收。",
+  "difficulty": 4,
+  "calories": 1011,
+  "duration_min": 60,
+  "category": "其他",
+  "tags": [
+    "鲁菜",
+    "家宴",
+    "鱼类",
+    "酸甜"
+  ],
+  "ingredients": [
+    {
+      "name": "鲤鱼",
+      "amount": "约 3 斤",
+      "buying_tip": "建议选择鲜活且大小适中的鲤鱼，过大或过小都不合适",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "番茄酱",
+      "amount": "40g",
+      "buying_tip": "选择色泽鲜艳的番茄酱",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白糖",
+      "amount": "20g",
+      "buying_tip": "细砂糖更易溶解",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白醋",
+      "amount": "10g",
+      "buying_tip": "普通白醋或米醋均可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "淀粉",
+      "amount": "210g",
+      "buying_tip": "包含挂糊用的200g和勾芡用的10g",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "35g",
+      "buying_tip": "包含腌制用的30g和面糊用的5g",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大葱",
+      "amount": "30g",
+      "buying_tip": "约半颗",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "30g",
+      "buying_tip": "老姜去腥效果更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "25g",
+      "buying_tip": "用于去腥腌制",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "面粉",
+      "amount": "100g",
+      "buying_tip": "普通中筋面粉即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": "1个",
+      "buying_tip": "用于增加面糊粘性和色泽",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "清水",
+      "amount": "240g",
+      "buying_tip": "包含挂糊180g、料汁50g及水淀粉10g",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "约 1L",
+      "buying_tip": "炸鱼需要较多油量",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香菜",
+      "amount": "1颗",
+      "buying_tip": "用于成菜点缀",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "盆",
+    "菜刀",
+    "笊篱",
+    "锅铲",
+    "炒锅",
+    "毛巾",
+    "小碗"
+  ],
+  "servings": {
+    "base": 3,
+    "formula": []
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "清洗处理",
+      "instruction": "将鱼清洗干净，确保无鱼鳞等异物",
+      "duration_sec": 180,
+      "tips": [
+        "注意鱼腹内的黑膜也要清洗干净"
+      ],
+      "produces": "洗净的鲤鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "改刀处理",
+      "instruction": "将鱼头朝左，鱼肚朝下，右手持刀。刀竖直切下 1cm，按紧鱼身往左片 3-4cm，再将鱼片中间轻轻划一刀",
+      "duration_sec": 300,
+      "tips": [
+        "改刀是为了方便挂糊定型和入味"
+      ],
+      "produces": "改刀后的鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "准备腌制辅料",
+      "instruction": "将大姜切片，大葱切段",
+      "duration_sec": 60,
+      "tips": [
+        "切段即可，主要用于去腥"
+      ],
+      "produces": "葱姜块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "提取葱姜汁",
+      "instruction": "用力将大葱大姜里的汁水挤到装鱼的盆中",
+      "duration_sec": 60,
+      "tips": [
+        "用力挤出汁水效果更好"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "腌制去腥",
+      "instruction": "加入 20g 盐，25g 料酒，涂抹均匀给鲤鱼进行“按摩”腌制",
+      "duration_sec": 1800,
+      "tips": [
+        "推荐腌制 30 分钟以上，时间越长腥味越小"
+      ],
+      "produces": "腌制好的鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "调制面糊",
+      "instruction": "在一个干净盆中加入 100g 面粉、200g 淀粉、180g 水、5g 盐，搅拌至可拉丝状态后打入一个鸡蛋再次搅匀",
+      "duration_sec": 300,
+      "tips": [
+        "面糊需粘稠且呈可拉丝状态"
+      ],
+      "produces": "面糊",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "擦干挂糊",
+      "instruction": "用干毛巾将鱼身上的水擦干，然后均匀挂上面糊",
+      "duration_sec": 120,
+      "tips": [
+        "擦干水可以使面糊挂得更牢固"
+      ],
+      "produces": "挂糊的鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "热油烧制",
+      "instruction": "起锅烧油（约 1L），将油温烧至 7 成热（约 200-240 度）",
+      "duration_sec": 300,
+      "tips": [
+        "油温一定要够，否则鱼皮不酥且易脱糊"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "入锅炸制",
+      "instruction": "捏起鱼尾，将鱼头沉入锅底，用勺子往鱼身上淋热油，待面糊成型后慢慢放入锅中，用锅铲和笊篱托住头部防止炸糊",
+      "duration_sec": 420,
+      "tips": [
+        "注意先淋油定型再入锅"
+      ],
+      "produces": "定型的炸鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "翻面复炸",
+      "instruction": "用锅铲和笊篱配合将鱼翻身，再炸两分钟后盛入盘中",
+      "duration_sec": 120,
+      "tips": [
+        "注意翻身动作要轻，保持鱼身完整"
+      ],
+      "produces": "金黄酥脆的鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "调配料汁",
+      "instruction": "将 50g 清水、40g 番茄酱、20g 白糖、10g 白醋混合；另备 10g 淀粉和 10g 水调成水淀粉",
+      "duration_sec": 120,
+      "tips": [
+        "提前调好料汁防止操作时手忙脚乱"
+      ],
+      "produces": "料汁与水淀粉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_11.jpg"
+    },
+    {
+      "index": 12,
+      "title": "熬制糖醋汁",
+      "instruction": "大火烧热锅倒入料汁烧开，转小火加入水淀粉边倒边搅拌，20秒后关火",
+      "duration_sec": 60,
+      "tips": [
+        "注意控制粘稠度，不要熬得太稠"
+      ],
+      "produces": "红亮糖醋汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_12.jpg"
+    },
+    {
+      "index": 13,
+      "title": "淋汁成菜",
+      "instruction": "将熬好的糖醋汁均匀浇在鱼身上，点缀香菜或葱花",
+      "duration_sec": 30,
+      "tips": [
+        "趁热浇汁口感最佳"
+      ],
+      "produces": "糖醋鲤鱼成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tang-cu-li-yu/step_13.jpg"
+    }
+  ],
+  "tips": [
+    "这道菜难度系数中等偏上，对新手不太友好，需掌握改刀、挂糊和火候",
+    "腌制时间越长，鱼腥味就越小",
+    "炸鱼时要注意油温控制，防止底部炸糊",
+    "糖醋汁的稠度要适中，以便能均匀挂在鱼身上"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_tang-cu-li-yu.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_tang-cu-li-yu_overview.jpg",
+  "id": "other_tang-cu-li-yu",
+  "status": "published"
+}

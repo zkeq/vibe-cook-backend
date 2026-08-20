@@ -1,0 +1,256 @@
+{
+  "title": "手工水饺",
+  "summary": "手工水饺是一道中式经典主食，皮薄馅大、鲜美多汁，饱腹又可以根据个人口味随意调味。猪肉馅提供优质蛋白质和脂肪，搭配韭菜还能补充维生素与膳食纤维。",
+  "difficulty": 5,
+  "calories": 1313,
+  "duration_min": 180,
+  "category": "主食",
+  "tags": [
+    "手工",
+    "面食",
+    "中式经典",
+    "猪肉韭菜",
+    "高难度"
+  ],
+  "ingredients": [
+    {
+      "name": "面粉",
+      "amount": "200g",
+      "buying_tip": "建议选中筋面粉或饺子专用粉",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "冷水",
+      "amount": "150ml",
+      "buying_tip": "普通饮用水即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "瘦肉末",
+      "amount": "250g",
+      "buying_tip": "建议选择新鲜的前腿肉或里脊肉",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "肥肉末",
+      "amount": "20g",
+      "buying_tip": "增加口感油润度",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "芝麻香油",
+      "amount": "2-3ml",
+      "buying_tip": "用于和面增加香气",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "3g",
+      "buying_tip": "去腥必备",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "15g",
+      "buying_tip": "新鲜小葱为佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "3g",
+      "buying_tip": "普通食盐",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蚝油",
+      "amount": "2ml",
+      "buying_tip": "提鲜用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "2ml",
+      "buying_tip": "调色调味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香油",
+      "amount": "2ml",
+      "buying_tip": "拌馅用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": "1个",
+      "buying_tip": "取蛋清拌馅使肉质滑嫩",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "黑醋",
+      "amount": "10-20ml",
+      "buying_tip": "蘸料用",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "大蒜",
+      "amount": "3瓣",
+      "buying_tip": "蘸料用",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "擀面杖",
+    "直径30cm以上的盆",
+    "菜刀",
+    "砧板",
+    "筷子",
+    "大锅"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "面粉",
+        "expr": "200 * n"
+      },
+      {
+        "name": "冷水",
+        "expr": "150 * n"
+      },
+      {
+        "name": "瘦肉末",
+        "expr": "250 * n"
+      },
+      {
+        "name": "鸡蛋",
+        "expr": "1 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "揉面准备",
+      "instruction": "盆中加入所有面粉和芝麻香油，在面粉中央挖个小洞。",
+      "duration_sec": 60,
+      "tips": [
+        "加入香油可以使皮更有韧性且带清香"
+      ],
+      "produces": "初步混合的面粉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_shou-gong-shui-jiao/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "加水和面",
+      "instruction": "分4-5次加入冷水并搅和，当出现碎末状干燥面团时停止加水，用手将面团压实，直到盆光面光。",
+      "duration_sec": 300,
+      "tips": [
+        "加水要少量多次，防止面团过稀"
+      ],
+      "produces": "实心面团",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_shou-gong-shui-jiao/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "面团醒发",
+      "instruction": "将面团置于桌上，用盆倒扣，在25度环境温度下醒发约45分钟。",
+      "duration_sec": 2700,
+      "tips": [
+        "醒发是为了让面筋松弛，方便后续擀皮"
+      ],
+      "produces": "醒发好的面团",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_shou-gong-shui-jiao/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "揉条切剂",
+      "instruction": "将面团搓成长条并重复揉搓3次，最后切成20份均匀的面团，搓成直径3-3.5cm的球状。",
+      "duration_sec": 300,
+      "tips": [
+        "重复搓条能增加饺子皮的筋道感"
+      ],
+      "produces": "面剂子",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_shou-gong-shui-jiao/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "擀皮",
+      "instruction": "撒上面粉防粘，将面团压扁，用擀面杖擀成直径8cm、边缘厚2mm、中间厚3mm的圆片。",
+      "duration_sec": 600,
+      "tips": [
+        "中间略厚可以防止饺子露底"
+      ],
+      "produces": "饺子皮",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_shou-gong-shui-jiao/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "剁馅调味",
+      "instruction": "猪肉剁成肉末，加入葱姜末搅拌；韭菜切至3mm以下长度。混合肉沫、韭菜、蚝油、生抽、香油和蛋清。",
+      "duration_sec": 900,
+      "tips": [
+        "建议用两把菜刀剁肉口感更好",
+        "韭菜要最后放，防止出水"
+      ],
+      "produces": "饺子馅",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_shou-gong-shui-jiao/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "静置入味",
+      "instruction": "馅料搅拌均匀后放置30分钟，使调料充分渗透。",
+      "duration_sec": 1800,
+      "tips": [
+        "静置时间不能省，否则馅料不入味"
+      ],
+      "produces": "熟成馅料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_shou-gong-shui-jiao/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "包饺子",
+      "instruction": "左手拿皮，右手用筷子夹约皮直径1/2的馅。沿圆周合拢捏实，确保不漏。",
+      "duration_sec": 600,
+      "tips": [
+        "面皮放馅的一面不要沾到面粉，否则粘不牢"
+      ],
+      "produces": "生饺子",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_shou-gong-shui-jiao/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "煮饺子",
+      "instruction": "水烧开后下饺子，调至中火。水开后分三次加入50ml冷水。第三次水开后加入冷水，转小火等60秒出锅。",
+      "duration_sec": 600,
+      "tips": [
+        "加冷水是为了防止水一直沸腾导致皮破"
+      ],
+      "produces": "熟水饺",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_shou-gong-shui-jiao/step_9.jpg"
+    }
+  ],
+  "tips": [
+    "煮水饺不需要盖锅盖，防止表皮破损。",
+    "蘸料建议：黑醋10-20ml，可搭配姜丝、香油或蒜泥。",
+    "吃完蒜泥后建议清洁口腔，以免残留气味影响交谈。",
+    "新手擀皮若不圆，可以多练习手眼配合。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_shou-gong-shui-jiao.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_shou-gong-shui-jiao_overview.jpg",
+  "id": "staple_shou-gong-shui-jiao",
+  "status": "published"
+}

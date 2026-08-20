@@ -1,0 +1,258 @@
+{
+  "title": "老友猪肉粉",
+  "summary": "老友猪肉粉酸辣鲜香，米粉爽滑，带着豆豉与酸笋特有的浓郁风味，是典型的南宁家常味。猪肉提供优质蛋白质，米粉则快速补充碳水能量。",
+  "difficulty": 3,
+  "calories": 927,
+  "duration_min": 40,
+  "category": "其他",
+  "tags": [
+    "南宁风味",
+    "老友粉",
+    "酸辣",
+    "家常菜"
+  ],
+  "ingredients": [
+    {
+      "name": "米粉",
+      "amount": "250g",
+      "buying_tip": "建议选用干米粉或当地鲜湿米粉",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "猪肉",
+      "amount": "50g",
+      "buying_tip": "选择里脊肉或前腿肉口感更嫩",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酸笋",
+      "amount": "50g",
+      "buying_tip": "选购气味浓郁、色泽自然的酸笋",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "剁椒",
+      "amount": "15g",
+      "buying_tip": "可根据个人口味调整辣度",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "豆豉",
+      "amount": "30g",
+      "buying_tip": "推荐使用黑豆豉，风味更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大蒜",
+      "amount": "10g",
+      "buying_tip": "选用新鲜大蒜，香味更足",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "10-20ml",
+      "buying_tip": "普通烹饪料酒即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "15ml",
+      "buying_tip": "选用优质生抽提鲜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白糖",
+      "amount": "5g",
+      "buying_tip": "用于提鲜，中和酸辣味",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "米醋",
+      "amount": "5ml",
+      "buying_tip": "选用纯米酿造的米醋",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "5ml",
+      "buying_tip": "普通食用盐",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "油",
+      "amount": "15ml",
+      "buying_tip": "建议使用花生油或调和油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生粉",
+      "amount": "15ml",
+      "buying_tip": "用于腌制猪肉，保持口感嫩滑",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "胡椒粉",
+      "amount": "10ml",
+      "buying_tip": "选用白胡椒粉效果更好",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "碗",
+    "菜刀",
+    "砧板"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "米粉",
+        "expr": "250g"
+      },
+      {
+        "name": "猪肉",
+        "expr": "50g"
+      },
+      {
+        "name": "酸笋",
+        "expr": "50g"
+      },
+      {
+        "name": "剁椒",
+        "expr": "15g"
+      },
+      {
+        "name": "豆豉",
+        "expr": "30g"
+      },
+      {
+        "name": "大蒜",
+        "expr": "10g"
+      },
+      {
+        "name": "料酒",
+        "expr": "10-20ml"
+      },
+      {
+        "name": "生抽",
+        "expr": "15ml"
+      },
+      {
+        "name": "白糖",
+        "expr": "5g"
+      },
+      {
+        "name": "米醋",
+        "expr": "5ml"
+      },
+      {
+        "name": "盐",
+        "expr": "5ml"
+      },
+      {
+        "name": "油",
+        "expr": "15ml"
+      },
+      {
+        "name": "生粉",
+        "expr": "15ml"
+      },
+      {
+        "name": "胡椒粉",
+        "expr": "10ml"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "腌制猪肉",
+      "instruction": "全部猪肉用料酒、盐、生抽、生粉、胡椒粉倒在一个碗里调味，搅拌均匀后备用。",
+      "duration_sec": 300,
+      "tips": [
+        "腌制时间稍长一点肉质会更入味"
+      ],
+      "produces": "腌制好的猪肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-you-zhu-rou-fen/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "炒干酸笋",
+      "instruction": "热锅不放油，下全部酸笋把水分炒干，炒干的酸笋中间留出一点空间。",
+      "duration_sec": 180,
+      "tips": [
+        "炒干水分能有效去除酸笋的苦涩味"
+      ],
+      "produces": "干炒酸笋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-you-zhu-rou-fen/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "爆香佐料",
+      "instruction": "放入 10ml - 15ml 食用油与全部大蒜、剁椒、豆豉到酸笋中间，炒出香味后全部推到中间翻炒。",
+      "duration_sec": 60,
+      "tips": [
+        "注意火候，避免豆豉炒糊变苦"
+      ],
+      "produces": "炒香的底料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-you-zhu-rou-fen/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "炒猪肉",
+      "instruction": "放入全部调味好的猪肉，持续放入 10ml 生抽炒一分钟。",
+      "duration_sec": 60,
+      "tips": [
+        "大火快炒以保持猪肉的嫩度"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-you-zhu-rou-fen/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "煮汤底",
+      "instruction": "放入 5ml 米醋、10ml 生抽、450ml 清水一起煮开。",
+      "duration_sec": 180,
+      "tips": [
+        "水量的多少决定了汤头的浓郁程度"
+      ],
+      "produces": "老友汤底",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-you-zhu-rou-fen/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "煮粉盛盘",
+      "instruction": "水煮开后，放入温水泡好的米粉，继续煮 3 分钟即可盛盘。",
+      "duration_sec": 180,
+      "tips": [
+        "不要煮太久，以免米粉失去弹性"
+      ],
+      "produces": "老友猪肉粉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lao-you-zhu-rou-fen/step_6.jpg"
+    }
+  ],
+  "tips": [
+    "米粉必须提前用 50 度的温水泡半小时，否则口感会很差。",
+    "白糖是可选的，根据个人对甜味的接受程度决定是否添加。",
+    "酸笋是这道菜的灵魂，一定要先干炒出水分。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_lao-you-zhu-rou-fen.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_lao-you-zhu-rou-fen_overview.jpg",
+  "id": "other_lao-you-zhu-rou-fen",
+  "status": "published"
+}

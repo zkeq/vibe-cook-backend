@@ -1,0 +1,261 @@
+{
+  "title": "基础牛奶面包",
+  "summary": "这款基础牛奶面包通过酵头预发酵简化了传统面包的制作，成品奶香浓郁，质地松软。富含碳水化合物和蛋白质，能为身体提供能量。",
+  "difficulty": 5,
+  "calories": 2048,
+  "duration_min": 200,
+  "category": "其他",
+  "tags": [
+    "烘焙",
+    "面包",
+    "牛奶面包",
+    "基础款"
+  ],
+  "ingredients": [
+    {
+      "name": "高筋或中筋面粉",
+      "amount": "3.5 cup (1 cup酵头 + 2.5 cup面团)",
+      "buying_tip": "尽量使用高筋面粉，但避免使用低筋面粉",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": "1 个",
+      "buying_tip": "不过分要求大小及重量",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "糖或糖浆",
+      "amount": "1/8 cup",
+      "buying_tip": "如有糖浆是最好的",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "干酵母",
+      "amount": "2 g",
+      "buying_tip": "确定酵母没有过期",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "2 g",
+      "buying_tip": "普通食盐即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "30℃ 温水",
+      "amount": "1 cup",
+      "buying_tip": "以不烫手为宜，用于酵头",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "奶制品(奶粉/牛奶/淡奶油/炼乳)",
+      "amount": "1/4 cup",
+      "buying_tip": "最好使用奶粉，奶香味十足，但不要使用任何复方奶粉",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "黄油或玉米油",
+      "amount": "1/8 cup",
+      "buying_tip": "黄油尽量选用动脂无盐的，避免使用豆油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "谷朊粉",
+      "amount": "1/4 ~ 1/2 cup",
+      "buying_tip": "从小麦中提取的蛋白质，增加面包筋度",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "香草精",
+      "amount": "3 g",
+      "buying_tip": "常用来中和蛋腥味",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "烤箱",
+    "量杯",
+    "布",
+    "擀面杖",
+    "硅油纸或模具",
+    "刮刀",
+    "刮板",
+    "喷壶",
+    "筛子",
+    "面板或硅胶垫",
+    "刷子"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "酵头面粉",
+        "expr": "1 * base"
+      },
+      {
+        "name": "温水",
+        "expr": "1 * base"
+      },
+      {
+        "name": "酵母",
+        "expr": "2 * base"
+      },
+      {
+        "name": "盐",
+        "expr": "2 * base"
+      },
+      {
+        "name": "面团面粉",
+        "expr": "2.5 * base"
+      },
+      {
+        "name": "鸡蛋",
+        "expr": "1 * base"
+      },
+      {
+        "name": "糖/糖浆",
+        "expr": "0.125 * base"
+      },
+      {
+        "name": "奶制品",
+        "expr": "0.25 * base"
+      },
+      {
+        "name": "油脂",
+        "expr": "0.125 * base"
+      },
+      {
+        "name": "谷朊粉",
+        "expr": "0.25 * base"
+      },
+      {
+        "name": "香草精",
+        "expr": "3 * base"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "制作酵头",
+      "instruction": "将酵母和30℃温水混合静置5分钟，随后与1 cup面粉混合成粘稠面糊。",
+      "duration_sec": 600,
+      "tips": [
+        "水温以不烫手为宜",
+        "酵头应该是特别粘稠的面糊"
+      ],
+      "produces": "预发酵酵头面糊",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-chu-niu-nai-mian-bao/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "酵头第一次发酵",
+      "instruction": "用布盖上，放置在温暖的地方发酵 45~60 分钟。",
+      "duration_sec": 3600,
+      "tips": [
+        "最终面糊表面应有大量气泡且体积明显增大"
+      ],
+      "produces": "发酵好的酵头",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-chu-niu-nai-mian-bao/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "混合面团原料",
+      "instruction": "将剩下的面粉、鸡蛋、糖、奶制品、油脂等原料与酵头混合搅拌，直至无干粉并形成大面团。",
+      "duration_sec": 600,
+      "tips": [
+        "如果太黏无法成型可补加1/4 cup面粉",
+        "搅拌时要刮净容器壁"
+      ],
+      "produces": "初步面团",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-chu-niu-nai-mian-bao/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "揉制面团",
+      "instruction": "在面板上用手掌下部推开面团并对折揉制，直至表面没有干粉结块。",
+      "duration_sec": 600,
+      "tips": [
+        "如果面团太硬可喷水并静置20分钟"
+      ],
+      "produces": "光滑面团",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-chu-niu-nai-mian-bao/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "面团第二次发酵",
+      "instruction": "容器内喷油，放入面团盖布发酵 1 小时至体积两倍大。",
+      "duration_sec": 3600,
+      "tips": [
+        "容器至少要是面团的三倍大"
+      ],
+      "produces": "发酵面团",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-chu-niu-nai-mian-bao/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "排气与整形",
+      "instruction": "面团按压排气，擀成1cm厚片卷起，旋转90度重复操作，最后放入模具。",
+      "duration_sec": 600,
+      "tips": [
+        "接缝处务必朝下放置"
+      ],
+      "produces": "整形面包坯",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-chu-niu-nai-mian-bao/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "最后发酵与预热",
+      "instruction": "在模具内继续发酵 30~45 分钟，同时将烤箱调至最高温预热 20 分钟。",
+      "duration_sec": 2700,
+      "tips": [
+        "预热是烘焙成功的关键"
+      ],
+      "produces": "待烤面包坯",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-chu-niu-nai-mian-bao/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "烘烤",
+      "instruction": "面包表面划缝、刷蛋液。放入烤箱，上下火 180℃ 烤 30 分钟，再调至 165℃ 烤 10 分钟。",
+      "duration_sec": 2400,
+      "tips": [
+        "若表面变色太快可覆盖锡纸"
+      ],
+      "produces": "成品牛奶面包",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-chu-niu-nai-mian-bao/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "冷却与保存",
+      "instruction": "放凉后装入食品袋，密封过夜回软。",
+      "duration_sec": 300,
+      "tips": [
+        "第二天早上是最好的品尝时机"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ji-chu-niu-nai-mian-bao/step_9.jpg"
+    }
+  ],
+  "tips": [
+    "1 cup 面粉约等于 120g，1 cup 水为 250ml。",
+    "发酵失败可检查酵母活性，或尝试将烤箱预热至60℃后关闭放入面团。",
+    "面包切片后可冷冻保存一个月，千万不要冷藏，否则水分流失快。",
+    "推荐吃法：面包切片煎烤后夹入流心蛋和酱料食用。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ji-chu-niu-nai-mian-bao.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ji-chu-niu-nai-mian-bao_overview.jpg",
+  "id": "other_ji-chu-niu-nai-mian-bao",
+  "status": "published"
+}

@@ -1,0 +1,376 @@
+{
+  "title": "牛油火锅底料",
+  "summary": "这道重庆火锅底料以大量牛油为基底，糅合糍粑辣椒和多种香辛料，熬出的底料麻辣醇厚、香气浓烈，是涮烫毛肚、鸭肠等食材的灵魂。牛油和猪油提供了丰富能量，辣椒与花椒能温中散寒、促进食欲。",
+  "difficulty": 5,
+  "calories": 585,
+  "duration_min": 60,
+  "category": "半成品加工",
+  "tags": [
+    "重庆火锅",
+    "底料",
+    "麻辣",
+    "牛油",
+    "川菜"
+  ],
+  "ingredients": [
+    {
+      "name": "牛油",
+      "amount": "4500g",
+      "buying_tip": "选用颜色微黄、气味浓郁的优质黄牛油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "色拉油或菜籽油",
+      "amount": "1000ml",
+      "buying_tip": "菜籽油熬制出的底料香味更浓郁",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "纯猪油",
+      "amount": "500g",
+      "buying_tip": "猪油可增加油脂的润滑感和香气层次",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "郫县豆瓣",
+      "amount": "1000g",
+      "buying_tip": "推荐使用陈年特级豆瓣，色泽更深沉",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "糍粑辣椒",
+      "amount": "3000g",
+      "buying_tip": "用干辣椒煮软后捣碎制成，是红油的关键",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老姜",
+      "amount": "250g",
+      "buying_tip": "洗净去泥，部分切片备用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大葱",
+      "amount": "100g",
+      "buying_tip": "切段，用于牛油去腥",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "洋葱",
+      "amount": "100g",
+      "buying_tip": "切丝，用于牛油去腥",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大蒜",
+      "amount": "200g",
+      "buying_tip": "切片，分两次使用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "永川豆豉",
+      "amount": "10g",
+      "buying_tip": "剁碎后使用，增加咸鲜度",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "豆母子",
+      "amount": "140g",
+      "buying_tip": "增加酱香味的关键辅料",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "红花椒",
+      "amount": "150g",
+      "buying_tip": "选用茂汶花椒，麻味纯正",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "麦芽粉",
+      "amount": "12.5g",
+      "buying_tip": "肉香型，用于提鲜增香",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "52度白酒",
+      "amount": "150ml",
+      "buying_tip": "去腥并助香气挥发",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "颗粒香料",
+      "amount": "100g",
+      "buying_tip": "将香料打碎至4mm，制作老油时使用",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "整形香料",
+      "amount": "150g",
+      "buying_tip": "洗净备用，用于普通底料",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "干辣椒面",
+      "amount": "15g",
+      "buying_tip": "制作老油时加入，增加辣度",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "山奈",
+      "amount": "5g",
+      "buying_tip": "香辛料，增加回香",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "八角",
+      "amount": "10g",
+      "buying_tip": "经典的五香味来源",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "草果",
+      "amount": "10g",
+      "buying_tip": "去籽使用，防止发苦",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "肉桂",
+      "amount": "10g",
+      "buying_tip": "提供浓郁的甜香味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "丁香",
+      "amount": "5g",
+      "buying_tip": "气味极强，不可多放",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "小茴香",
+      "amount": "10g",
+      "buying_tip": "增香去腻",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白芷",
+      "amount": "10g",
+      "buying_tip": "去腥增香",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "荜拨",
+      "amount": "5g",
+      "buying_tip": "特有的辛香味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香草",
+      "amount": "10g",
+      "buying_tip": "增加草本芬芳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香果",
+      "amount": "10g",
+      "buying_tip": "提升整体香气",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "山楂",
+      "amount": "10g",
+      "buying_tip": "解腻并有助于香料出味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "陈皮",
+      "amount": "5g",
+      "buying_tip": "理气调和",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香茅",
+      "amount": "10g",
+      "buying_tip": "增加清新香气",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "砂仁",
+      "amount": "10g",
+      "buying_tip": "辛温香燥",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白蔻",
+      "amount": "10g",
+      "buying_tip": "去异增辛",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香叶",
+      "amount": "10g",
+      "buying_tip": "常用增香叶片",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "粉碎机",
+    "大炒锅",
+    "漏勺",
+    "不锈钢容器",
+    "温度计"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "火锅底料/老油总产出",
+        "expr": "7.5 kg"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "牛油去腥处理",
+      "instruction": "锅置旺火放入牛油烧至八成热(240±10°C)，放入老姜、大葱、洋葱、大蒜各100g，炸干后捞出，以吸尽牛油腥味。",
+      "duration_sec": 600,
+      "tips": [
+        "油温极高，放入蔬菜时需小心溅油",
+        "炸至焦黄但不可炸糊"
+      ],
+      "produces": "去腥牛油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_niu-you-huo-guo-di-liao/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "炒制糍粑辣椒",
+      "instruction": "向锅中加入色拉油（或菜籽油）和纯猪油，待油温降至五成热(150±10°C)时放入糍粑辣椒，持续翻炒 5-8 分钟。",
+      "duration_sec": 480,
+      "tips": [
+        "需不停翻动，防止辣椒粘锅"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_niu-you-huo-guo-di-liao/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "炒制豆瓣",
+      "instruction": "放入豆瓣炒散，转用中小火慢炒，直至料渣略微发白且呈现翻砂状态（发出沙沙声）。",
+      "duration_sec": 600,
+      "tips": [
+        "豆瓣含水量高，必须小火慢熬出香味"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_niu-you-huo-guo-di-liao/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "加入姜蒜调味",
+      "instruction": "观察油液呈现樱桃红色时，放入剩余的姜片(150g)和大蒜(100g)炒香，约 15 秒。",
+      "duration_sec": 15,
+      "tips": [
+        "此步骤为二次增香"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_niu-you-huo-guo-di-liao/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "加入辅料与花椒",
+      "instruction": "放入剁碎的豆豉、豆母子炒香，随后放入红花椒和小茴香继续炒制。",
+      "duration_sec": 60,
+      "tips": [
+        "花椒不宜久炒，以免发苦"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_niu-you-huo-guo-di-liao/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "加入核心香料",
+      "instruction": "若制作老油则放入颗粒香料，否则放入整形香料翻炒均匀。",
+      "duration_sec": 60,
+      "tips": [
+        "香料需提前洗净或粉碎"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_niu-you-huo-guo-di-liao/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "调味收尾",
+      "instruction": "放入麦芽粉炒散，最后倒入白酒炒匀即可起锅。",
+      "duration_sec": 60,
+      "tips": [
+        "白酒能激发出所有香料的复合香气"
+      ],
+      "produces": "火锅底料初品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_niu-you-huo-guo-di-liao/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "底料静置熟化",
+      "instruction": "将底料装入容器，置于 10-20°C 环境下静置 5 天，待其味道融合后再使用。",
+      "duration_sec": 432000,
+      "tips": [
+        "静置是底料醇厚的关键"
+      ],
+      "produces": "成品火锅底料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_niu-you-huo-guo-di-liao/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "火锅老油炼制（可选）",
+      "instruction": "底料加干辣椒面静置24小时后，加水烧开撇沫，中小火熬25-30分钟，过滤去渣后油水分离，最后将油炼干水分即成老油。",
+      "duration_sec": 3600,
+      "tips": [
+        "炼干水分的标志是油面不再有水蒸气冒出且油色透亮"
+      ],
+      "produces": "火锅老油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_niu-you-huo-guo-di-liao/step_9.jpg"
+    }
+  ],
+  "tips": [
+    "操作时请务必擦干手上和工具上的水滴，以免油锅爆炸造成严重烧伤",
+    "炒制过程中要时刻观察火候，豆瓣和辣椒一旦炒焦，整锅料会发苦",
+    "香料的比例可以根据个人喜好微调，但丁香和草果不可过量",
+    "建议在通风良好的环境下操作，因为气味非常浓烈"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/semi-finished_niu-you-huo-guo-di-liao.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/semi-finished_niu-you-huo-guo-di-liao_overview.jpg",
+  "id": "semi-finished_niu-you-huo-guo-di-liao",
+  "status": "published"
+}

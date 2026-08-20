@@ -1,0 +1,130 @@
+{
+  "title": "温泉蛋",
+  "summary": "温泉蛋源自日本，蛋白呈半流动凝乳状，蛋黄却温润凝固，口感滑嫩细腻，与溏心蛋恰好相反。鸡蛋富含优质蛋白、卵磷脂和多种维生素，营养十分全面。",
+  "difficulty": 3,
+  "calories": 72,
+  "duration_min": 33,
+  "category": "其他",
+  "tags": [
+    "日式",
+    "小食",
+    "鸡蛋",
+    "低温烹饪"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": "1个",
+      "buying_tip": "建议购买正规可生食鸡蛋制作",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "昆布酱油",
+      "amount": "适量",
+      "buying_tip": "一种日式的少盐酱油，用于为温泉蛋调味",
+      "optional": true,
+      "per_serving": false
+    },
+    {
+      "name": "香葱",
+      "amount": "适量",
+      "buying_tip": "额外用作点缀，增加风味",
+      "optional": true,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "锅",
+    "厨房用温度计",
+    "杯子",
+    "小碗"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鸡蛋",
+        "expr": "1 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "准备与控温",
+      "instruction": "在锅中盛装一定量自来水，确保水面没过约鸡蛋 3cm，水中插入温度计。开火逐渐调整功率，使水温保持在 70 摄氏度。",
+      "duration_sec": 300,
+      "tips": [
+        "若使用机械式温度计探头需没入水中至少 6cm",
+        "锅可以采用稍厚的锅，方便控制温度"
+      ],
+      "produces": "70℃恒温热水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wen-quan-dan/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "放入鸡蛋",
+      "instruction": "将鸡蛋放入锅中。鸡蛋不可互相堆叠，应皆在底部，并留有空间可以晃动。",
+      "duration_sec": 30,
+      "tips": [
+        "动作要轻，防止蛋壳破裂"
+      ],
+      "produces": "锅中的鸡蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wen-quan-dan/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "恒温烹煮",
+      "instruction": "保持当前 70 摄氏度水温持续加热 25 分钟。",
+      "duration_sec": 1500,
+      "tips": [
+        "需要耐心观察温度计，随时微调火力"
+      ],
+      "produces": "半熟温泉蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wen-quan-dan/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "准备冰水",
+      "instruction": "在烹煮过程中，准备一杯冰水备用。",
+      "duration_sec": 60,
+      "tips": [
+        "冰水能让鸡蛋迅速降温，防止余温过度加热蛋黄"
+      ],
+      "produces": "冰水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wen-quan-dan/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "冰镇降温",
+      "instruction": "捞出鸡蛋，并立刻放入冰水中，等待 3 分钟。",
+      "duration_sec": 180,
+      "tips": [
+        "必须立刻放入冰水"
+      ],
+      "produces": "冷却的温泉蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wen-quan-dan/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "装碗完成",
+      "instruction": "将鸡蛋打入小碗，加入昆布酱油和葱花点缀。",
+      "duration_sec": 60,
+      "tips": [
+        "温泉蛋蛋白较嫩，打蛋时需小心"
+      ],
+      "produces": "成品温泉蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wen-quan-dan/step_6.jpg"
+    }
+  ],
+  "tips": [
+    "若使用机械式温度计则探头需没入水中至少 6cm，若使用电子温度计则无特殊要求",
+    "锅可以采用稍厚的锅，方便控制温度",
+    "虽然 70 摄氏度 25 分钟已经完全可以杀死沙门氏菌，但还是要尽量少吃，或购买正规可生食鸡蛋制作"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_wen-quan-dan.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_wen-quan-dan_overview.jpg",
+  "id": "other_wen-quan-dan",
+  "status": "published"
+}

@@ -1,0 +1,237 @@
+{
+  "title": "红烧冬瓜",
+  "summary": "红烧冬瓜是一道色泽红亮、香鲜味美的家常素菜，口感软糯入味，属于大众喜爱的中式烧菜。冬瓜本身富含水分、膳食纤维和维生素 C，具有清热解暑、利尿消肿的作用，搭配简单的调味料，营养又好消化。",
+  "difficulty": 3,
+  "calories": 519,
+  "duration_min": 25,
+  "category": "其他",
+  "tags": [
+    "中式烧菜",
+    "素菜",
+    "清热",
+    "家常菜"
+  ],
+  "ingredients": [
+    {
+      "name": "冬瓜",
+      "amount": "300g",
+      "buying_tip": "选择皮色深绿、肉质厚实且掂起来沉甸甸的冬瓜。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "50ml",
+      "buying_tip": "选用普通的植物油即可。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "2ml",
+      "buying_tip": "用于去腥增香，常用料酒即可。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "淀粉",
+      "amount": "10g",
+      "buying_tip": "建议使用玉米淀粉或生粉。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "10ml",
+      "buying_tip": "选用鲜味较浓的生抽。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "15ml",
+      "buying_tip": "主要用于上色，建议选择色泽红亮的。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡精",
+      "amount": "3g",
+      "buying_tip": "用于提鲜，可根据个人喜好添加。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香葱",
+      "amount": "0.5根",
+      "buying_tip": "选择颜色翠绿、新鲜的小葱。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜末",
+      "amount": "1粒",
+      "buying_tip": "老姜的味道更浓郁，去腥效果好。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蚝油",
+      "amount": "15ml",
+      "buying_tip": "增加菜肴的咸鲜度和浓稠感。",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "大碗",
+    "锅铲"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "冬瓜",
+        "expr": "300 * n"
+      },
+      {
+        "name": "食用油",
+        "expr": "50 * n"
+      },
+      {
+        "name": "料酒",
+        "expr": "2 * n"
+      },
+      {
+        "name": "淀粉",
+        "expr": "10 * n"
+      },
+      {
+        "name": "生抽",
+        "expr": "10 * n"
+      },
+      {
+        "name": "老抽",
+        "expr": "15 * n"
+      },
+      {
+        "name": "鸡精",
+        "expr": "3 * n"
+      },
+      {
+        "name": "香葱",
+        "expr": "0.5 * n"
+      },
+      {
+        "name": "姜末",
+        "expr": "1 * n"
+      },
+      {
+        "name": "蚝油",
+        "expr": "15 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "食材预处理",
+      "instruction": "冬瓜去皮，切 边长不超过 2cm 小块",
+      "duration_sec": 300,
+      "tips": [
+        "切块大小均匀可以保证受热一致"
+      ],
+      "produces": "冬瓜块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-dong-gua/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "煎炸冬瓜",
+      "instruction": "起锅烧油，放入冬瓜，缓缓翻滚煎炸 2 分钟 ，直至冬瓜表面泛金黄色",
+      "duration_sec": 120,
+      "tips": [
+        "中小火煎炸，避免外焦内生"
+      ],
+      "produces": "金黄色冬瓜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-dong-gua/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "盛出备用",
+      "instruction": "取出冬瓜，放入大碗备用",
+      "duration_sec": 30,
+      "tips": [
+        "可以稍微沥一下油"
+      ],
+      "produces": "半熟冬瓜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-dong-gua/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "炒制底料",
+      "instruction": "利用锅中的剩余油，依次放入姜末、生抽、蚝油，翻炒 15 S",
+      "duration_sec": 15,
+      "tips": [
+        "火不要太大，防止生抽和蚝油糊锅"
+      ],
+      "produces": "香浓底油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-dong-gua/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "大火焖煮",
+      "instruction": "重新倒入冬瓜，翻炒 30 S 后，加入开水，水要没过冬瓜表面，大火煮 10 分钟",
+      "duration_sec": 630,
+      "tips": [
+        "加入开水能让冬瓜口感更软糯"
+      ],
+      "produces": "焖煮中的冬瓜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-dong-gua/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "上色焖煮",
+      "instruction": "加入老抽上色，继续煮，直至冬瓜软糯（筷子可以轻松插近冬瓜）",
+      "duration_sec": 300,
+      "tips": [
+        "老抽分次少量加入，避免颜色过深"
+      ],
+      "produces": "软糯红烧冬瓜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-dong-gua/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "最后调味",
+      "instruction": "加入鸡精、料酒、香葱翻炒后 30 S， 取出冬瓜到大碗中",
+      "duration_sec": 30,
+      "tips": [
+        "葱花最后放颜色更好看"
+      ],
+      "produces": "已调味的冬瓜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-dong-gua/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "勾芡浇汁",
+      "instruction": "锅中剩余汤汁保留，倒入水淀粉，煮开后汤汁浇灌在冬瓜表面",
+      "duration_sec": 60,
+      "tips": [
+        "水淀粉勾芡能让成品色泽更加明亮"
+      ],
+      "produces": "红烧冬瓜成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-shao-dong-gua/step_8.jpg"
+    }
+  ],
+  "tips": [
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+    "冬瓜煎炸至金黄色是口感软糯入味的关键。",
+    "水一定要没过冬瓜，保证有足够的焖煮时间。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_hong-shao-dong-gua.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_hong-shao-dong-gua_overview.jpg",
+  "id": "other_hong-shao-dong-gua",
+  "status": "published"
+}

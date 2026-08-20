@@ -1,0 +1,281 @@
+{
+  "title": "鱼香肉丝",
+  "summary": "鱼香肉丝是一道经典川菜，口味酸甜微辣，肉丝滑嫩，配以胡萝卜、青椒和木耳，口感丰富。富含蛋白质和多种维生素，荤素搭配，营养均衡。制作有一定难度，需要调好鱼香汁并掌握翻炒火候，新手建议严格按步骤操作。",
+  "difficulty": 4,
+  "calories": 421,
+  "duration_min": 40,
+  "category": "荤菜",
+  "tags": [
+    "川菜",
+    "酸甜",
+    "肉丝",
+    "经典"
+  ],
+  "ingredients": [
+    {
+      "name": "里脊肉",
+      "amount": "200g",
+      "buying_tip": "选择色泽红润、有弹性的新鲜里脊肉",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "胡萝卜",
+      "amount": "100g",
+      "buying_tip": "选购体型匀称、表皮光滑的胡萝卜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "青椒",
+      "amount": "100g",
+      "buying_tip": "选择皮薄质脆的青椒",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "木耳（干）",
+      "amount": "5g",
+      "buying_tip": "选择干燥、无异味的黑木耳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "10ml",
+      "buying_tip": "酿造生抽味道更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "5ml",
+      "buying_tip": "常用烹饪料酒即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蛋清",
+      "amount": "1个",
+      "buying_tip": "用于上浆，保持肉质嫩滑",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "淀粉",
+      "amount": "10g",
+      "buying_tip": "建议使用玉米淀粉或土豆淀粉",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "醋",
+      "amount": "15ml",
+      "buying_tip": "建议使用陈醋或米醋",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白糖",
+      "amount": "10g",
+      "buying_tip": "普通白砂糖",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "5g",
+      "buying_tip": "普通食用盐",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "20g",
+      "buying_tip": "老姜味道更辛辣浓郁",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "20g",
+      "buying_tip": "选用大葱或小葱均可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜",
+      "amount": "2瓣",
+      "buying_tip": "选择饱满的蒜瓣",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": "15g",
+      "buying_tip": "推荐使用郫县豆瓣酱并剁碎",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "碗",
+    "漏勺"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "里脊肉",
+        "expr": "200 * servings"
+      },
+      {
+        "name": "胡萝卜",
+        "expr": "100 * servings"
+      },
+      {
+        "name": "青椒",
+        "expr": "100 * servings"
+      },
+      {
+        "name": "木耳",
+        "expr": "5 * servings"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "制作腌料",
+      "instruction": "将生抽 5ml、料酒 5ml、淀粉 5g、水 20ml、蛋清 1 个混合均匀。",
+      "duration_sec": 60,
+      "tips": [
+        "充分搅拌使淀粉完全溶解"
+      ],
+      "produces": "腌料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yu-xiang-rou-si/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "制作香汁",
+      "instruction": "将生抽 5ml、醋 15ml、白糖 10 克、盐 1 克、淀粉 5g、水 20ml 混合均匀。",
+      "duration_sec": 60,
+      "tips": [
+        "糖和盐需要搅拌至基本溶解"
+      ],
+      "produces": "香汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yu-xiang-rou-si/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "腌制肉丝",
+      "instruction": "用制作好的腌料腌制里脊肉 15-30 分钟。注意将肉抓匀。",
+      "duration_sec": 1200,
+      "tips": [
+        "抓匀能让肉丝更好地吸收水分和料汁"
+      ],
+      "produces": "腌好的肉丝",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yu-xiang-rou-si/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "处理木耳",
+      "instruction": "干木耳提前泡发 4 个小时，洗净，切成小块。",
+      "duration_sec": 300,
+      "tips": [
+        "泡发时间不计入总烹饪时长"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yu-xiang-rou-si/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "处理蔬菜",
+      "instruction": "青椒洗净切丝；胡萝卜洗净切丝并进行焯水。",
+      "duration_sec": 600,
+      "tips": [
+        "胡萝卜焯水可以缩短后期炒制时间"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yu-xiang-rou-si/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "切配辅料",
+      "instruction": "姜、蒜切沫，葱切成 5mm 的小段。",
+      "duration_sec": 180,
+      "tips": [
+        "姜蒜沫切细一点香味更容易释放"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yu-xiang-rou-si/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "滑炒肉丝",
+      "instruction": "锅烧热加 15ml 油，倒入腌肉快速滑散至变白，盛出备用。",
+      "duration_sec": 60,
+      "tips": [
+        "滑肉动作要快，变白即出锅以防肉质变老"
+      ],
+      "produces": "炒过的肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yu-xiang-rou-si/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "炒香底料",
+      "instruction": "锅内重新加 5ml 油，倒入全部葱、姜、蒜、豆瓣酱炒香。",
+      "duration_sec": 30,
+      "tips": [
+        "豆瓣酱建议提前剁碎"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yu-xiang-rou-si/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "炒制配菜",
+      "instruction": "倒入胡萝卜翻炒 20s 后，放入青椒和木耳，继续翻炒 2 分钟。",
+      "duration_sec": 140,
+      "tips": [
+        "保持大火翻炒"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yu-xiang-rou-si/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "合炒肉丝",
+      "instruction": "倒入炒过的肉，快速翻炒均匀。注意不要炒超过 20 秒。",
+      "duration_sec": 20,
+      "tips": [
+        "此步仅为混合均匀，时间不宜长"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yu-xiang-rou-si/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "勾芡收汁",
+      "instruction": "倒入香汁，快速翻炒均匀。注意不要炒超过 15 秒，关火盛盘。",
+      "duration_sec": 15,
+      "tips": [
+        "倒入香汁前再次搅拌，防止淀粉沉淀"
+      ],
+      "produces": "鱼香肉丝",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yu-xiang-rou-si/step_11.jpg"
+    }
+  ],
+  "tips": [
+    "新手建议严格按步骤操作，掌握翻炒火候",
+    "鱼香汁的调配是这道菜的灵魂",
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_yu-xiang-rou-si.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_yu-xiang-rou-si_overview.jpg",
+  "id": "meat_dish_yu-xiang-rou-si",
+  "status": "published"
+}

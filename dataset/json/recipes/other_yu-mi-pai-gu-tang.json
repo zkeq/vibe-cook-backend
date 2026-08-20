@@ -1,0 +1,260 @@
+{
+  "title": "玉米排骨汤",
+  "summary": "玉米排骨汤是一道鲜美清甜的家常汤品，排骨软烂，玉米和胡萝卜带来自然甜味。富含蛋白质、维生素和膳食纤维，营养均衡。做法简单，对新手友好，只需将排骨焯水煸香后慢炖约一小时即可完成。从备菜到出锅大约需要一个半小时。",
+  "difficulty": 3,
+  "calories": 1724,
+  "duration_min": 90,
+  "category": "其他",
+  "tags": [
+    "家常菜",
+    "汤品",
+    "清甜",
+    "营养均衡"
+  ],
+  "ingredients": [
+    {
+      "name": "排骨",
+      "amount": "500-800g",
+      "buying_tip": "建议购买新鲜的猪小排，肉质更嫩",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "玉米",
+      "amount": "1-2根",
+      "buying_tip": "建议选用甜玉米，增加汤头的清甜度",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "胡萝卜",
+      "amount": "1-2根",
+      "buying_tip": "选择表皮光滑、颜色鲜艳的胡萝卜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生姜",
+      "amount": "适量（大片）",
+      "buying_tip": "老姜去腥效果更好",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "大葱",
+      "amount": "小半根",
+      "buying_tip": "新鲜大葱段用于焯水和煸炒",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "10ml",
+      "buying_tip": "普通植物油即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "醋",
+      "amount": "10ml",
+      "buying_tip": "陈醋或香醋均可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "10ml",
+      "buying_tip": "用于排骨焯水去腥",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "黑胡椒粉",
+      "amount": "4g",
+      "buying_tip": "增添风味层次",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用盐",
+      "amount": "10-15g",
+      "buying_tip": "根据最后汤的剩余量微调",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香葱",
+      "amount": "1根",
+      "buying_tip": "最后撒入点缀",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "开水",
+      "amount": "1000ml",
+      "buying_tip": "必须准备足量开水",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "砂锅",
+    "铁锅",
+    "菜刀",
+    "砧板",
+    "炒锅"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "排骨",
+        "expr": "500-800g"
+      },
+      {
+        "name": "玉米",
+        "expr": "1根"
+      },
+      {
+        "name": "胡萝卜",
+        "expr": "1根"
+      },
+      {
+        "name": "开水",
+        "expr": "1000ml"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "切葱段",
+      "instruction": "大葱切成 3-4cm 的大段，用刀背拍一下",
+      "duration_sec": 30,
+      "tips": [
+        "拍一下更容易释放葱香"
+      ],
+      "produces": "葱段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-mi-pai-gu-tang/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "玉米改刀",
+      "instruction": "玉米剁成小块",
+      "duration_sec": 120,
+      "tips": [
+        "注意安全，用力要稳"
+      ],
+      "produces": "玉米块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-mi-pai-gu-tang/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "胡萝卜改刀",
+      "instruction": "胡萝卜切成滚刀块",
+      "duration_sec": 120,
+      "tips": [
+        "滚刀块受热更均匀且不易碎"
+      ],
+      "produces": "胡萝卜块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-mi-pai-gu-tang/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "准备姜片",
+      "instruction": "生姜去皮切大片",
+      "duration_sec": 60,
+      "tips": [
+        "大片方便最后挑出"
+      ],
+      "produces": "姜片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-mi-pai-gu-tang/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "排骨改刀",
+      "instruction": "新鲜的排骨砍成小块",
+      "duration_sec": 300,
+      "tips": [
+        "砍块时注意避开碎骨"
+      ],
+      "produces": "排骨块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-mi-pai-gu-tang/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "排骨焯水",
+      "instruction": "排骨凉水下锅，放入大葱、生姜、料酒开始焯水，大火烧开，撇去浮沫，捞出排骨，沥干水分",
+      "duration_sec": 600,
+      "tips": [
+        "必须凉水下锅才能彻底逼出血水"
+      ],
+      "produces": "净排骨",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-mi-pai-gu-tang/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "煸炒排骨",
+      "instruction": "热锅凉油，切大片的生姜和排骨一起下锅煸炒，待排骨表面微微焦黄，放入醋，继续煸炒一分钟",
+      "duration_sec": 300,
+      "tips": [
+        "加醋不仅去腥，还能加速肉质软烂"
+      ],
+      "produces": "煸香排骨",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-mi-pai-gu-tang/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "冲入开水",
+      "instruction": "冲入开水，一次给足，之后就不要再加了，大火烧开",
+      "duration_sec": 120,
+      "tips": [
+        "一定要用开水，否则肉质会迅速收缩变柴"
+      ],
+      "produces": "汤底",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-mi-pai-gu-tang/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "炖玉米",
+      "instruction": "先下入玉米，放入胡椒粉，盖盖小火炖二十分钟",
+      "duration_sec": 1200,
+      "tips": [
+        "保持微沸状态即可"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-mi-pai-gu-tang/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "炖胡萝卜",
+      "instruction": "然后放入胡萝卜，盖盖继续小火炖四十分钟",
+      "duration_sec": 2400,
+      "tips": [
+        "胡萝卜不宜过早放入，避免煮成泥"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-mi-pai-gu-tang/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "最后调味",
+      "instruction": "出锅前三分钟，放入盐，最后撒上一把小葱花即可",
+      "duration_sec": 180,
+      "tips": [
+        "盐要最后放，以免肉质变紧不入味"
+      ],
+      "produces": "成品玉米排骨汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-mi-pai-gu-tang/step_11.jpg"
+    }
+  ],
+  "tips": [
+    "这道菜制作起来并不难，而且食材简单，对新手友好",
+    "适合降温的时候来上一大碗",
+    "水要一次性加足，中途加水会冲淡汤的鲜味"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_yu-mi-pai-gu-tang.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_yu-mi-pai-gu-tang_overview.jpg",
+  "id": "other_yu-mi-pai-gu-tang",
+  "status": "published"
+}

@@ -1,0 +1,229 @@
+{
+  "title": "孜然牛肉",
+  "summary": "孜然牛肉是一道香辣鲜嫩的家常小炒，浓郁的孜然风味与牛肉的软滑、青椒的清脆融合得恰到好处。牛肉富含优质蛋白和铁，搭配青椒还能补充维生素，营养均衡。制作需要一些刀工和火候把控，适合有一定下厨基础的爱好者尝试。算上腌肉和备菜，全程大约 45 分钟就能端上餐桌。",
+  "difficulty": 3,
+  "calories": 612,
+  "duration_min": 45,
+  "category": "荤菜",
+  "tags": [
+    "家常菜",
+    "香辣",
+    "小炒",
+    "高蛋白"
+  ],
+  "ingredients": [
+    {
+      "name": "牛柳或牛肩肉",
+      "amount": "250g",
+      "buying_tip": "选择纹理清晰、色泽鲜红的牛柳或牛肩肉口感更嫩",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "青椒",
+      "amount": "2颗(约200g)",
+      "buying_tip": "挑选皮薄翠绿的青椒，口感更清脆",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "孜然",
+      "amount": "20g",
+      "buying_tip": "优先选择孜然颗粒，香气比粉末更浓郁",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "小米椒",
+      "amount": "3颗(约15g)",
+      "buying_tip": "根据个人嗜辣程度增减",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽酱油",
+      "amount": "20ml",
+      "buying_tip": "使用普通生抽调味提鲜即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "淀粉",
+      "amount": "10g",
+      "buying_tip": "玉米淀粉或土豆淀粉均可，用于锁住肉汁",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "油",
+      "amount": "15ml",
+      "buying_tip": "推荐使用烟点较高的植物油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "3g",
+      "buying_tip": "最后根据口味微调",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "1根(约20g)",
+      "buying_tip": "选用新鲜小葱，香气更足",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "捣药罐",
+    "厨用纸"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "牛柳或牛肩肉",
+        "expr": "250 * n"
+      },
+      {
+        "name": "青椒",
+        "expr": "2 * n"
+      },
+      {
+        "name": "孜然",
+        "expr": "20 * n"
+      },
+      {
+        "name": "小米椒",
+        "expr": "3 * n"
+      },
+      {
+        "name": "生抽酱油",
+        "expr": "20 * n"
+      },
+      {
+        "name": "淀粉",
+        "expr": "10 * n"
+      },
+      {
+        "name": "油",
+        "expr": "15 * n"
+      },
+      {
+        "name": "盐",
+        "expr": "3 * n"
+      },
+      {
+        "name": "葱",
+        "expr": "1 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "准备香料",
+      "instruction": "将小米椒切碎，和孜然粒一起放入捣药罐捣碎成颗粒。",
+      "duration_sec": 120,
+      "tips": [
+        "捣碎能让香料更入味",
+        "时间紧张可跳过捣碎步骤"
+      ],
+      "produces": "孜然辣椒颗粒",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zi-ran-niu-rou/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "处理蔬菜",
+      "instruction": "青椒切头去籽，切成丝。葱切段。",
+      "duration_sec": 180,
+      "tips": [
+        "喜欢辣的可以不去籽"
+      ],
+      "produces": "青椒丝、葱段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zi-ran-niu-rou/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "牛肉预处理",
+      "instruction": "牛肉提前解冻，过水洗净，用厨用纸吸干，顺着纹理切成片。",
+      "duration_sec": 300,
+      "tips": [
+        "顺着纹理切牛肉口感更好",
+        "吸干水分是腌制入味的关键"
+      ],
+      "produces": "牛肉片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zi-ran-niu-rou/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "腌制牛肉",
+      "instruction": "加入生抽、淀粉、油，均匀搅拌，静置30分钟。",
+      "duration_sec": 1800,
+      "tips": [
+        "腌制时间一定要充足，肉质才会软滑"
+      ],
+      "produces": "腌好的牛肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zi-ran-niu-rou/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "爆香煸炒",
+      "instruction": "热锅下油，放入葱段爆香后，放入腌好的牛肉煸炒。",
+      "duration_sec": 120,
+      "tips": [
+        "热锅凉油能防止粘锅"
+      ],
+      "produces": "变色牛肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zi-ran-niu-rou/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "加入调料",
+      "instruction": "牛肉变色后均匀放入孜然辣椒颗粒并炒熟。",
+      "duration_sec": 60,
+      "tips": [
+        "确保调料分布均匀"
+      ],
+      "produces": "调味牛肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zi-ran-niu-rou/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "辅料断生",
+      "instruction": "下入青椒丝，断生后放盐。",
+      "duration_sec": 60,
+      "tips": [
+        "青椒不宜久炒，保持脆嫩"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zi-ran-niu-rou/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "大火出锅",
+      "instruction": "大火炒1分钟后关火，再翻炒30秒保证受热均匀即可出锅。",
+      "duration_sec": 90,
+      "tips": [
+        "最后阶段大火能增加镬气"
+      ],
+      "produces": "孜然牛肉成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_zi-ran-niu-rou/step_8.jpg"
+    }
+  ],
+  "tips": [
+    "牛肉顺着纹理切片可使口感更嫩",
+    "孜然颗粒比粉末香气更浓郁",
+    "牛肉入锅前务必吸干水分防止脱浆",
+    "如果您发现有问题或改进流程，请提出 Issue 或 Pull request"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_zi-ran-niu-rou.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_zi-ran-niu-rou_overview.jpg",
+  "id": "meat_dish_zi-ran-niu-rou",
+  "status": "published"
+}

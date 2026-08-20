@@ -1,0 +1,208 @@
+{
+  "title": "醉排骨",
+  "summary": "醉排骨是福州传统名菜，口感外酥里嫩，酸甜开胃，带着独特的鱼露鲜香。排骨富含蛋白质和钙质，营养解馋。这道菜需要掌握挂糊和复炸的技巧，更适合有一定下厨经验的朋友尝试，全程大约需要 40 分钟完成。",
+  "difficulty": 4,
+  "calories": 934,
+  "duration_min": 40,
+  "category": "其他",
+  "tags": [
+    "闽菜",
+    "福州名菜",
+    "酸甜",
+    "炸物"
+  ],
+  "ingredients": [
+    {
+      "name": "排骨",
+      "amount": "200g",
+      "buying_tip": "建议选择精肋排，肉质更均匀",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白砂糖",
+      "amount": "10g",
+      "buying_tip": "普通白砂糖即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "500ml",
+      "buying_tip": "建议使用耐高温的植物油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鱼露",
+      "amount": "5ml",
+      "buying_tip": "闽菜灵魂调味品，可用民天牌等本地品牌",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "芝麻",
+      "amount": "5g",
+      "buying_tip": "白芝麻更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "番茄酱",
+      "amount": "5g",
+      "buying_tip": "用于增色和调味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香醋",
+      "amount": "5ml",
+      "buying_tip": "福州本地多用福建红曲醋，香醋亦可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜头",
+      "amount": "2粒",
+      "buying_tip": "新鲜大蒜，切末备用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "1根",
+      "buying_tip": "选用小葱",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "地瓜粉",
+      "amount": "30g",
+      "buying_tip": "地瓜粉颗粒感强，炸出来更酥脆",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋黄",
+      "amount": "1个",
+      "buying_tip": "用于增加挂糊的粘稠度和色泽",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "油锅",
+    "大碗",
+    "小碗",
+    "勺子",
+    "盘子"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "排骨",
+        "expr": "200 * $servings"
+      },
+      {
+        "name": "白砂糖",
+        "expr": "10 * $servings"
+      },
+      {
+        "name": "鱼露",
+        "expr": "5 * $servings"
+      },
+      {
+        "name": "地瓜粉",
+        "expr": "30 * $servings"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "清洗排骨",
+      "instruction": "排骨中加入 5 g 地瓜粉和水进行搅拌，清洗 2-3 遍后放入大碗备用",
+      "duration_sec": 180,
+      "tips": [
+        "地瓜粉可以有效吸附排骨表面的血污和杂质"
+      ],
+      "produces": "干净的排骨",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zui-pai-gu/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "挂糊腌制",
+      "instruction": "排骨中加入鱼露、地瓜粉、鸡蛋黄 充分搅拌",
+      "duration_sec": 120,
+      "tips": [
+        "确保每一块排骨都均匀裹上地瓜粉和蛋液"
+      ],
+      "produces": "挂糊的排骨",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zui-pai-gu/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "初次下锅",
+      "instruction": "将排骨一个一个放入锅中（切记不可以整碗倒入），保证每个不要粘在一起",
+      "duration_sec": 180,
+      "tips": [
+        "一个个下锅是为了防止排骨在炸的过程中粘连成团"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zui-pai-gu/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "油炸定型",
+      "instruction": "全部放入后，每 30 S 用勺子来回两面翻转瘦肉块，直至排骨表面金黄",
+      "duration_sec": 300,
+      "tips": [
+        "频繁翻动可以让排骨受热更均匀，防止局部炸糊"
+      ],
+      "produces": "初步炸好的金黄排骨",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zui-pai-gu/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "复炸酥脆",
+      "instruction": "取出排骨，一分钟后倒入油锅中继续炸，直至瘦肉块表面出现焦黄后，取出放入大碗备用",
+      "duration_sec": 120,
+      "tips": [
+        "复炸是排骨口感酥脆的关键步骤"
+      ],
+      "produces": "焦黄酥脆的排骨",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zui-pai-gu/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "调制醉汁",
+      "instruction": "准备一个小碗，加入蒜末、香醋、白砂糖、鱼露、番茄酱、葱花、芝麻搅拌均匀，倒入 5 ml 热油",
+      "duration_sec": 120,
+      "tips": [
+        "热油可以瞬间激发蒜末、葱花和鱼露的香味"
+      ],
+      "produces": "调味汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zui-pai-gu/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "混合装盘",
+      "instruction": "将汤汁浇灌入排骨，在充分搅拌后倒入盘中",
+      "duration_sec": 60,
+      "tips": [
+        "趁热搅拌能让排骨表面迅速吸收酸甜酱汁"
+      ],
+      "produces": "成品醉排骨",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zui-pai-gu/step_7.jpg"
+    }
+  ],
+  "tips": [
+    "鱼露，又称鱼酱油，是一种广东、福建等地常见的调味品，效果类似于生抽但更鲜香",
+    "如果没有鱼露，可以用老抽代替，但排骨颜色会偏黑，正常成色应该是金黄色"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_zui-pai-gu.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_zui-pai-gu_overview.jpg",
+  "id": "other_zui-pai-gu",
+  "status": "published"
+}

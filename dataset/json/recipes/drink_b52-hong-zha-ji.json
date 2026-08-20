@@ -1,0 +1,127 @@
+{
+  "title": "B52轰炸机",
+  "summary": "这款鸡尾酒口感层次分明，入口先是伏特加的烈，紧接着是咖啡奶油的回甘，点燃后饮用有独特的冰火体验，属于经典创意鸡尾酒。咖啡酒与百利甜酒提供了少量咖啡因和奶脂，但整体营养以酒精为主。制作需要练习分层倒酒和点火技巧，对新手稍有难度，整个过程大约只需 5 分钟。",
+  "difficulty": 3,
+  "calories": 80,
+  "duration_min": 5,
+  "category": "饮料",
+  "tags": [
+    "鸡尾酒",
+    "分层",
+    "经典",
+    "伏特加",
+    "咖啡酒"
+  ],
+  "ingredients": [
+    {
+      "name": "甘露咖啡酒",
+      "amount": "10ml",
+      "buying_tip": "常见的咖啡利口酒，用于底层上色和风味。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "爱尔兰百利甜酒",
+      "amount": "10ml",
+      "buying_tip": "奶油利口酒，用于中间分层。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蓝天原味伏特加",
+      "amount": "10ml",
+      "buying_tip": "作为顶层助燃物，也可使用其他高浓度烈酒。",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "吧勺",
+    "利口酒杯",
+    "打火机"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "甘露咖啡酒",
+        "expr": "10 * n"
+      },
+      {
+        "name": "爱尔兰百利甜酒",
+        "expr": "10 * n"
+      },
+      {
+        "name": "蓝天原味伏特加",
+        "expr": "10 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "底层分层",
+      "instruction": "在利口酒杯的最底层倒入甘露咖啡酒到 1/3 处。(10ml)",
+      "duration_sec": 30,
+      "tips": [
+        "直接倒入即可，尽量不要挂壁"
+      ],
+      "produces": "底层咖啡酒层",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_b52-hong-zha-ji/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "中层分层",
+      "instruction": "顺着吧勺缓缓倒入爱尔兰百利甜酒，也是 1/3 处 (10ml)。",
+      "duration_sec": 90,
+      "tips": [
+        "注意要慢，保证层次分明",
+        "太快甜酒会和咖啡混合"
+      ],
+      "produces": "双层分层液体",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_b52-hong-zha-ji/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "顶层分层",
+      "instruction": "最后在上层倒入蓝天原味伏特加 （10ml)",
+      "duration_sec": 60,
+      "tips": [
+        "同样需要利用吧勺缓冲，防止破坏分层"
+      ],
+      "produces": "三层分层鸡尾酒",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_b52-hong-zha-ji/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "预热杯口",
+      "instruction": "用打火机热一下杯口",
+      "duration_sec": 20,
+      "tips": [
+        "预热杯口有助于顶部酒精更容易点燃"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_b52-hong-zha-ji/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "点火演示",
+      "instruction": "点燃顶层伏特加，看到淡蓝色的小火苗。",
+      "duration_sec": 10,
+      "tips": [
+        "注意用火安全，头发和衣物避开"
+      ],
+      "produces": "燃烧的B52轰炸机",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_b52-hong-zha-ji/step_5.jpg"
+    }
+  ],
+  "tips": [
+    "喝的时候，现在酒吧常用的方法是提供一个吸管，在火还燃烧的时候插入，然后快速全部吸入。",
+    "由于吸管太细，其中氧气不足，所以火苗会灭掉，不必担心。",
+    "这时候，会感到一股热辣顺着喉咙一直烈到胃，之后就是久久的咖啡奶油回甘。非常刺激又好喝。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/drink_b52-hong-zha-ji.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/drink_b52-hong-zha-ji_overview.jpg",
+  "id": "drink_b52-hong-zha-ji",
+  "status": "published"
+}

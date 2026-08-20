@@ -1,0 +1,265 @@
+{
+  "title": "水煮牛肉",
+  "summary": "水煮牛肉是川菜中的经典麻辣味型，口感滑嫩、汤汁红亮、香辣烫鲜。牛肉富含优质蛋白质和铁，搭配豆芽可补充膳食纤维。",
+  "difficulty": 3,
+  "calories": 431,
+  "duration_min": 40,
+  "category": "其他",
+  "tags": [
+    "川菜",
+    "麻辣",
+    "中餐",
+    "热菜"
+  ],
+  "ingredients": [
+    {
+      "name": "牛肉",
+      "amount": "300g",
+      "buying_tip": "选择牛里脊或黄瓜条，肉质更滑嫩",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "豆芽",
+      "amount": "100g",
+      "buying_tip": "建议选择黄豆芽，口感更脆爽",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": "1个",
+      "buying_tip": "新鲜鸡蛋即可，主要使用蛋清使牛肉滑嫩",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香菜",
+      "amount": "5根",
+      "buying_tip": "挑选叶片翠绿无黄叶的",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": "10g",
+      "buying_tip": "推荐郫县豆瓣酱，味道更正宗",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "10ml",
+      "buying_tip": "普通烹饪料酒即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "淀粉",
+      "amount": "15g",
+      "buying_tip": "玉米淀粉或红薯淀粉均可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "干辣椒粉",
+      "amount": "5g",
+      "buying_tip": "根据个人口味选择辣度",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "20g",
+      "buying_tip": "老姜味道更浓郁",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜",
+      "amount": "3瓣",
+      "buying_tip": "选择饱满的蒜瓣",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "红辣椒",
+      "amount": "1根",
+      "buying_tip": "新鲜小米辣或二荆条",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蚝油",
+      "amount": "8g",
+      "buying_tip": "提鲜必备",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "汤碗",
+    "漏勺"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "牛肉",
+        "expr": "300g * n"
+      },
+      {
+        "name": "豆芽",
+        "expr": "100g * n"
+      },
+      {
+        "name": "鸡蛋",
+        "expr": "1个 * n"
+      },
+      {
+        "name": "豆瓣酱",
+        "expr": "10g * n"
+      },
+      {
+        "name": "淀粉",
+        "expr": "15g * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理牛肉",
+      "instruction": "牛肉洗干净切片。",
+      "duration_sec": 300,
+      "tips": [
+        "牛肉要逆着纹路切，这样口感才不会柴"
+      ],
+      "produces": "牛肉片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shui-zhu-niu-rou/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "腌制牛肉",
+      "instruction": "加入 15g 姜丝，1 个鸡蛋，15g 淀粉，8g 蚝油，10ml 料酒搅拌均匀，腌制 15 分钟。",
+      "duration_sec": 900,
+      "tips": [
+        "顺着一个方向搅拌，让牛肉充分吸收水分"
+      ],
+      "produces": "腌好的牛肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shui-zhu-niu-rou/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "准备配菜",
+      "instruction": "香菜洗干净切好。",
+      "duration_sec": 60,
+      "tips": [
+        "香菜梗和叶可以分开存放"
+      ],
+      "produces": "香菜段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shui-zhu-niu-rou/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "炒制底料",
+      "instruction": "锅里倒油，加入豆瓣酱，5g 姜丝，蒜片。",
+      "duration_sec": 120,
+      "tips": [
+        "小火慢炒出红油，注意不要炒糊"
+      ],
+      "produces": "红油底料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shui-zhu-niu-rou/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "煮红汤",
+      "instruction": "倒入开水，煮成红汤。",
+      "duration_sec": 180,
+      "tips": [
+        "水量要没过待会儿要煮的牛肉"
+      ],
+      "produces": "红汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shui-zhu-niu-rou/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "焯烫豆芽",
+      "instruction": "豆芽洗干净去掉尾须，放进开水里焯熟。",
+      "duration_sec": 120,
+      "tips": [
+        "豆芽断生即可捞出，保持脆感"
+      ],
+      "produces": "熟豆芽",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shui-zhu-niu-rou/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "装碗垫底",
+      "instruction": "将豆芽铺入碗底。",
+      "duration_sec": 30,
+      "tips": [
+        "尽量铺平，方便后续放牛肉"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shui-zhu-niu-rou/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "煮牛肉",
+      "instruction": "将牛肉片一片一片的放进红汤中，煮熟以后捞出。",
+      "duration_sec": 180,
+      "tips": [
+        "牛肉片变色即可捞出，煮久了会老"
+      ],
+      "produces": "熟牛肉片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shui-zhu-niu-rou/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "铺放牛肉",
+      "instruction": "将牛肉铺在豆芽上，撒上香菜梗。",
+      "duration_sec": 30,
+      "tips": [
+        "均匀覆盖在豆芽上"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shui-zhu-niu-rou/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "摆放辅料",
+      "instruction": "撒上香菜叶，辣椒粉，辣椒圈。",
+      "duration_sec": 30,
+      "tips": [
+        "辣椒粉放在最中间，方便泼油"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shui-zhu-niu-rou/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "泼油激香",
+      "instruction": "另起锅烧热油，将热油淋在菜上面，就完成了。",
+      "duration_sec": 60,
+      "tips": [
+        "油温要足够高，淋油时会有滋滋声，注意防烫"
+      ],
+      "produces": "水煮牛肉成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shui-zhu-niu-rou/step_11.jpg"
+    }
+  ],
+  "tips": [
+    "注意火候，牛肉切勿煮太久以保持嫩滑",
+    "泼油时注意安全，避免油溅出伤人",
+    "牛肉切片尽量厚薄均匀",
+    "豆瓣酱已有盐分，一般无需额外加盐"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_shui-zhu-niu-rou.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_shui-zhu-niu-rou_overview.jpg",
+  "id": "other_shui-zhu-niu-rou",
+  "status": "published"
+}

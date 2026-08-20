@@ -1,0 +1,126 @@
+{
+  "title": "蒜香酱油",
+  "summary": "蒜香酱油是一道蒜香浓郁、咸鲜油润的家常蘸料，常用于白切鸡、饺子等菜肴的提味。大蒜和芝麻分别具有抗菌和补充不饱和脂肪酸的作用。做法极其简单，对新手非常友好，全程只需大约 5 分钟即可完成。",
+  "difficulty": 2,
+  "calories": 177,
+  "duration_min": 5,
+  "category": "酱料",
+  "tags": [
+    "家常",
+    "蘸料",
+    "快手",
+    "蒜香"
+  ],
+  "ingredients": [
+    {
+      "name": "蒜头",
+      "amount": "2 瓣",
+      "buying_tip": "选择表皮完整、蒜瓣饱满的蒜头",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白芝麻",
+      "amount": "5 克",
+      "buying_tip": "建议选择熟白芝麻，味道更香",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "花生油",
+      "amount": "15 毫升",
+      "buying_tip": "推荐浓香型压榨花生油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酱油",
+      "amount": "30 毫升",
+      "buying_tip": "建议使用生抽或鲜味酱油",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "蘸料碟",
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "筷子"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "蒜头",
+        "expr": "2 * n"
+      },
+      {
+        "name": "白芝麻",
+        "expr": "5 * n"
+      },
+      {
+        "name": "花生油",
+        "expr": "15 * n"
+      },
+      {
+        "name": "酱油",
+        "expr": "30 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理大蒜",
+      "instruction": "用菜刀拍碎蒜头，可稍微切成粗粒",
+      "duration_sec": 30,
+      "tips": [
+        "拍碎的蒜头比切片的更易出味"
+      ],
+      "produces": "碎蒜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_suan-xiang-jiang-you/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "调配基底",
+      "instruction": "往蘸料碟中加入 30 毫升酱油和 5 克白芝麻",
+      "duration_sec": 20,
+      "tips": [
+        "芝麻先放入碟中，等待热油激发香气"
+      ],
+      "produces": "酱油芝麻混合物",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_suan-xiang-jiang-you/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "炸制蒜油",
+      "instruction": "起锅加入花生油，油温滚烫后加入拍好的蒜头，炸半分钟",
+      "duration_sec": 60,
+      "tips": [
+        "注意观察蒜色，微微发黄即可，避免炸糊变苦"
+      ],
+      "produces": "蒜香热油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_suan-xiang-jiang-you/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "混合完成",
+      "instruction": "关火，迅速把热油及蒜头倒入蘸料碟，用筷子搅拌均匀",
+      "duration_sec": 30,
+      "tips": [
+        "倒入热油时会有轻微溅油，注意安全"
+      ],
+      "produces": "蒜香酱油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_suan-xiang-jiang-you/step_4.jpg"
+    }
+  ],
+  "tips": [
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request",
+    "油温必须足够滚烫，才能激发出蒜和芝麻的深层香味"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/condiment_suan-xiang-jiang-you.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/condiment_suan-xiang-jiang-you_overview.jpg",
+  "id": "condiment_suan-xiang-jiang-you",
+  "status": "published"
+}

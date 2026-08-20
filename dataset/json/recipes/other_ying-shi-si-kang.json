@@ -1,0 +1,200 @@
+{
+  "title": "英式司康",
+  "summary": "英式司康是一款经典英式下午茶点心，外酥内软，蛋奶香气浓郁，搭配果酱或奶油食用风味更佳。它主要由面粉、黄油、鸡蛋和淡奶油制成，富含碳水化合物 and 蛋白质，能快速补充能量。制作过程较为简单，只要掌握基本揉面手法，新手也能胜任，从准备到出炉大约需要一小时。",
+  "difficulty": 3,
+  "calories": 1197,
+  "duration_min": 60,
+  "category": "其他",
+  "tags": [
+    "英式下午茶",
+    "烘焙",
+    "司康",
+    "甜点"
+  ],
+  "ingredients": [
+    {
+      "name": "无盐黄油",
+      "amount": "40g",
+      "buying_tip": "推荐品牌总统",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "低筋面粉",
+      "amount": "180g",
+      "buying_tip": "选用高品质低筋面粉",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "糖",
+      "amount": "30g",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "1g",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "泡打粉",
+      "amount": "5g",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": "1个(约50g)",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "淡奶油",
+      "amount": "45g",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "奶油奶酪",
+      "amount": "50g",
+      "buying_tip": "",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "烤箱",
+    "电子秤",
+    "搅拌容器",
+    "案板",
+    "擀面杖",
+    "切模或刀",
+    "烘焙刷"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "无盐黄油",
+        "expr": "40 * n"
+      },
+      {
+        "name": "低筋面粉",
+        "expr": "180 * n"
+      },
+      {
+        "name": "糖",
+        "expr": "30 * n"
+      },
+      {
+        "name": "盐",
+        "expr": "1 * n"
+      },
+      {
+        "name": "泡打粉",
+        "expr": "5 * n"
+      },
+      {
+        "name": "鸡蛋",
+        "expr": "1 * n"
+      },
+      {
+        "name": "淡奶油",
+        "expr": "45 * n"
+      },
+      {
+        "name": "奶油奶酪",
+        "expr": "50 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "准备蛋奶液",
+      "instruction": "鸡蛋打散，称量出 30g 蛋液放入干净容器中，放入全量淡奶油和奶油奶酪混合均匀。",
+      "duration_sec": 300,
+      "tips": [
+        "如果奶酪太硬可以水浴加热至大约 40 度再混合"
+      ],
+      "produces": "蛋奶混合液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ying-shi-si-kang/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "混合干粉",
+      "instruction": "将低筋面粉，盐，糖，泡打粉放入干净容器中混合均匀。",
+      "duration_sec": 120,
+      "tips": [],
+      "produces": "粉类混合物",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ying-shi-si-kang/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "搓入黄油",
+      "instruction": "黄油切成小块，放入上一步的混合物中，用手将黄油捏入混合物中。",
+      "duration_sec": 300,
+      "tips": [
+        "质地应呈现出粗玉米粉状"
+      ],
+      "produces": "粉油混合物",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ying-shi-si-kang/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "合成面团",
+      "instruction": "将第一步的蛋奶混合液倒入上一步得到的粉油混合物中，搅拌均匀，叠压成均匀面团。",
+      "duration_sec": 180,
+      "tips": [
+        "采用叠压方式，避免过度揉搓导致起筋"
+      ],
+      "produces": "司康面团",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ying-shi-si-kang/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "擀压分切",
+      "instruction": "面团放到案板上，擀成 1.5cm 厚的面片，用刀或者模具分切成合适的形状。",
+      "duration_sec": 300,
+      "tips": [],
+      "produces": "司康生坯",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ying-shi-si-kang/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "表面刷蛋液",
+      "instruction": "用刷子蘸取剩余的 20g 鸡蛋液，刷在司康表面。",
+      "duration_sec": 120,
+      "tips": [
+        "刷蛋液可使成品表面金黄诱人"
+      ],
+      "produces": "待烤司康",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ying-shi-si-kang/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "烘烤",
+      "instruction": "烤箱预热 180 度，烤制 27 分钟。",
+      "duration_sec": 1620,
+      "tips": [
+        "注意观察上色情况"
+      ],
+      "produces": "英式司康",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ying-shi-si-kang/step_7.jpg"
+    }
+  ],
+  "tips": [
+    "最简单的分切方案是擀成圆形面皮，用刀切成 6 个扇形"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ying-shi-si-kang.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ying-shi-si-kang_overview.jpg",
+  "id": "other_ying-shi-si-kang",
+  "status": "published"
+}

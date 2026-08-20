@@ -1,0 +1,271 @@
+{
+  "title": "金钱蛋",
+  "summary": "金钱蛋是一道外焦里嫩、咸香微辣的湘味家常菜，煎至金黄的蛋片形似铜钱，寓意吉祥。鸡蛋与青红椒搭配，富含优质蛋白质和多种维生素，营养均衡。",
+  "difficulty": 3,
+  "calories": 427,
+  "duration_min": 30,
+  "category": "素菜",
+  "tags": [
+    "湘菜",
+    "家常菜",
+    "鸡蛋",
+    "下饭菜"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": "5个",
+      "buying_tip": "选择新鲜的普通鸡蛋即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "玉米淀粉",
+      "amount": "40g",
+      "buying_tip": "选用细滑的玉米淀粉",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "20-35ml",
+      "buying_tip": "选用烟点较高的植物油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "线椒",
+      "amount": "15g",
+      "buying_tip": "选择颜色翠绿、手感硬实的线椒",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "小米辣",
+      "amount": "6-15g",
+      "buying_tip": "根据吃辣程度选择数量，约2-5个",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": "15ml",
+      "buying_tip": "推荐红油豆瓣酱，味道更浓郁",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜",
+      "amount": "10g",
+      "buying_tip": "约2-3瓣，选择饱满的蒜瓣",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "小葱",
+      "amount": "3g",
+      "buying_tip": "约1-2根，增加香气",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "15ml",
+      "buying_tip": "普通佐餐生抽即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蚝油",
+      "amount": "15ml",
+      "buying_tip": "选择提鲜效果好的蚝油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "糖",
+      "amount": "5g",
+      "buying_tip": "白砂糖或绵白糖均可",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "煮锅",
+    "菜刀",
+    "砧板",
+    "不粘锅",
+    "小碗"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鸡蛋",
+        "expr": "n * 5"
+      },
+      {
+        "name": "玉米淀粉",
+        "expr": "n * 40"
+      },
+      {
+        "name": "食用油",
+        "expr": "n * 25"
+      },
+      {
+        "name": "线椒",
+        "expr": "n * 15"
+      },
+      {
+        "name": "小米辣",
+        "expr": "n * 10"
+      },
+      {
+        "name": "豆瓣酱",
+        "expr": "n * 15"
+      },
+      {
+        "name": "蒜",
+        "expr": "n * 10"
+      },
+      {
+        "name": "小葱",
+        "expr": "n * 3"
+      },
+      {
+        "name": "生抽",
+        "expr": "n * 15"
+      },
+      {
+        "name": "蚝油",
+        "expr": "n * 15"
+      },
+      {
+        "name": "糖",
+        "expr": "n * 5"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "煮蛋",
+      "instruction": "鸡蛋冷水下锅，大火煮开转小火煮 8 分钟",
+      "duration_sec": 600,
+      "tips": [
+        "冷水下锅可防止蛋壳破裂"
+      ],
+      "produces": "熟鸡蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jin-qian-dan/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "冷却剥壳",
+      "instruction": "用自来水冲凉，方便剥皮",
+      "duration_sec": 120,
+      "tips": [
+        "充分冲凉后剥壳更完整"
+      ],
+      "produces": "剥壳熟蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jin-qian-dan/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "切配料",
+      "instruction": "蒜切沫（粒径不大于 1 mm），线椒和小米辣切小粒（约 2-3 mm）",
+      "duration_sec": 180,
+      "tips": [
+        "蒜末切细点更容易出香味"
+      ],
+      "produces": "蔬菜配料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jin-qian-dan/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "切蛋片",
+      "instruction": "每个熟鸡蛋沿短轴切成体积类似的 4 份",
+      "duration_sec": 60,
+      "tips": [
+        "刀刃蘸点水切口会更平滑"
+      ],
+      "produces": "鸡蛋片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jin-qian-dan/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "裹粉（可选）",
+      "instruction": "如果打算沾淀粉，每片鸡蛋粘上淀粉，抖掉多余的淀粉",
+      "duration_sec": 60,
+      "tips": [
+        "裹粉可以增加焦脆感并防止散开"
+      ],
+      "produces": "裹粉蛋片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jin-qian-dan/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "煎制第一面",
+      "instruction": "锅内放入 25 ml 油（如果不沾淀粉，放 20 ml），放入熟鸡蛋片",
+      "duration_sec": 180,
+      "tips": [
+        "推荐使用不粘锅"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jin-qian-dan/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "翻面补油",
+      "instruction": "煎至微焦黄后，补 10 ml 油（如果不沾淀粉，补 10 ml），翻面",
+      "duration_sec": 30,
+      "tips": [
+        "补油可以保证第二面也煎出虎皮状"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jin-qian-dan/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "炒制配料",
+      "instruction": "第二面微黄后，加入线椒、小米辣、蒜末煎制约一分钟，翻面",
+      "duration_sec": 60,
+      "tips": [
+        "让辣椒和蒜的香味渗入蛋片"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jin-qian-dan/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "加酱调味",
+      "instruction": "接着加豆瓣酱煎制约几十秒，翻面",
+      "duration_sec": 40,
+      "tips": [
+        "豆瓣酱含有盐分，注意火候不要糊锅"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jin-qian-dan/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "调汁出锅",
+      "instruction": "生抽、耗油、糖调成汁，轻轻颠锅后即可出锅",
+      "duration_sec": 60,
+      "tips": [
+        "动作要轻，避免把蛋片炒散"
+      ],
+      "produces": "金钱蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jin-qian-dan/step_10.jpg"
+    }
+  ],
+  "tips": [
+    "原汁原味的做法建议辣椒放 15 g，不能吃辣的减少到 6 g，还可以剔除辣椒籽",
+    "推荐使用不粘锅，使用不粘锅时初次放油可以减少 5 ml",
+    "应确保鸡蛋剥皮时已经完全凝固",
+    "不宜过度翻炒，容易散"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_jin-qian-dan.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_jin-qian-dan_overview.jpg",
+  "id": "vegetable_dish_jin-qian-dan",
+  "status": "published"
+}

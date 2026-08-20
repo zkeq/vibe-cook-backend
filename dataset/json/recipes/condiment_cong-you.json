@@ -1,0 +1,170 @@
+{
+  "title": "葱油",
+  "summary": "葱油是一道提香增鲜的家常调味油，带着浓郁的葱香和开洋的复合鲜味，用来拌馅、凉拌或热菜明油都很适合。主要提供油脂能量，葱姜等辛香料还含有植物活性成分，可辅助去腥开胃。做法简单，对新手友好，一般准备加熬制大约 30 分钟就能完成。",
+  "difficulty": 3,
+  "calories": 2069,
+  "duration_min": 30,
+  "category": "酱料",
+  "tags": [
+    "调味油",
+    "葱香",
+    "开洋",
+    "家常",
+    "中式"
+  ],
+  "ingredients": [
+    {
+      "name": "油",
+      "amount": "200g",
+      "buying_tip": "建议选用色泽清亮、气味淡雅的植物油，如玉米油或葵花籽油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "80g",
+      "buying_tip": "大葱小葱均可，小葱香味更细腻，大葱香味更浓郁",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "洋葱",
+      "amount": "150g",
+      "buying_tip": "选用紫洋葱炸出的油香味更足",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "开洋",
+      "amount": "50g",
+      "buying_tip": "选用干燥度高、无异味的优质干虾米",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "20g",
+      "buying_tip": "选用新鲜老姜去腥效果更好",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "10ml",
+      "buying_tip": "普通厨用料酒即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香菜",
+      "amount": "适量",
+      "buying_tip": "带根的新鲜香菜炸出的油更香",
+      "optional": true,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "漏勺",
+    "厨房纸巾",
+    "玻璃瓶"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "油",
+        "expr": "200 * n"
+      },
+      {
+        "name": "葱",
+        "expr": "80 * n"
+      },
+      {
+        "name": "姜",
+        "expr": "20 * n"
+      },
+      {
+        "name": "料酒",
+        "expr": "10 * n"
+      },
+      {
+        "name": "洋葱",
+        "expr": "150 * n"
+      },
+      {
+        "name": "开洋",
+        "expr": "50 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "泡发开洋",
+      "instruction": "开洋泡入 50 度温水中，加入 10ml 料酒去腥，泡 10 分钟后取出沥干水分",
+      "duration_sec": 600,
+      "tips": [
+        "开洋必须彻底沥干或用厨房纸擦干，否则入油锅会剧烈溅油"
+      ],
+      "produces": "去腥开洋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_cong-you/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "预处理葱和香菜",
+      "instruction": "葱，香菜洗净，切成 5cm 长的段，擦干表面水份",
+      "duration_sec": 180,
+      "tips": [
+        "水分是溅油的元凶，请务必保证食材干燥"
+      ],
+      "produces": "葱段与香菜段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_cong-you/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "预处理洋葱",
+      "instruction": "洋葱切成丝，在锅里用热水煮 5 分钟，取出沥干水份",
+      "duration_sec": 420,
+      "tips": [
+        "水煮可以去除洋葱的辛辣味，使其在炸制过程中更易释放甜香"
+      ],
+      "produces": "半熟洋葱丝",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_cong-you/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "切姜片",
+      "instruction": "姜去皮，切成片",
+      "duration_sec": 60,
+      "tips": [
+        "姜片可以切得略厚一些，防止过快炸糊"
+      ],
+      "produces": "姜片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_cong-you/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "熬制葱油",
+      "instruction": "锅里倒入全部油，放入上述预处理好的材料，开中小火炸 20 分钟",
+      "duration_sec": 1200,
+      "tips": [
+        "全程保持中小火，观察食材颜色，待葱段变黄焦枯即可关火",
+        "熬制过程中可偶尔搅拌，确保受热均匀"
+      ],
+      "produces": "成品葱油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_cong-you/step_5.jpg"
+    }
+  ],
+  "tips": [
+    "炸后的开洋葱渣也可以食用，葱油可以滤掉这些料渣，也可以保留",
+    "开洋可以极大提升葱油鲜香，并增加鲜甜风味",
+    "保存葱油建议使用干燥洁净的玻璃瓶，冷却后密封冷藏"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/condiment_cong-you.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/condiment_cong-you_overview.jpg",
+  "id": "condiment_cong-you",
+  "status": "published"
+}

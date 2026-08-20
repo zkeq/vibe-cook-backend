@@ -1,0 +1,158 @@
+{
+  "title": "简易版炒糖色的做法",
+  "summary": "糖色是中餐红烧类菜肴上色的关键技法，火候到位时能带来红亮光泽与独特的焦香风味。主要成分为糖，提供能量，但更多是调和菜肴色泽与口味。",
+  "difficulty": 4,
+  "calories": 1028,
+  "duration_min": 10,
+  "category": "酱料",
+  "tags": [
+    "红烧",
+    "上色",
+    "基础技法",
+    "焦香"
+  ],
+  "ingredients": [
+    {
+      "name": "冰糖/白砂糖/绵白糖",
+      "amount": "50g",
+      "buying_tip": "冰糖炒出的色泽最红亮，单晶冰糖约15块",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "油",
+      "amount": "100ml",
+      "buying_tip": "普通食用油即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "开水",
+      "amount": "500ml",
+      "buying_tip": "其中100ml用于起锅，400ml用于最后降温",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱姜蒜、花椒等辅料",
+      "amount": "适量",
+      "buying_tip": "用于进阶调味版，需提前切好备用",
+      "optional": true,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "锅铲",
+    "灶台/电磁炉"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "糖",
+        "expr": "每 1000g 肉对应 50g 糖，可根据个人口味增减 10g"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "预处理准备",
+      "instruction": "在开火前，必须将 400ml 开水和所有准备好的葱姜蒜辅料放置在灶台手边，确保 1 秒内可以拿取。",
+      "duration_sec": 30,
+      "tips": [
+        "这是防止发苦的关键，最后一步操作必须极快"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "加水起锅",
+      "instruction": "开火，并向锅中倒入 100ml 开水。",
+      "duration_sec": 10,
+      "tips": [
+        "使用开水可以加快进度"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "加入油脂",
+      "instruction": "向锅中倒入 100ml 油，与第一步间隔越短越好，此时可用中大火。",
+      "duration_sec": 10,
+      "tips": [
+        "水油混合炒法更易控制"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "下糖并调温",
+      "instruction": "放入糖（冰糖建议提前敲碎），调整火力为中火。",
+      "duration_sec": 20,
+      "tips": [
+        "冰糖耦合度越低融化越快"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "持续搅拌",
+      "instruction": "一直搅拌至糖液变成棕褐色。",
+      "duration_sec": 180,
+      "tips": [
+        "必须不停搅拌防止局部过热"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "转小火观察",
+      "instruction": "糖液变棕褐色后转为小火。观察糖液变稀，呈现红茶色，再变成酱红色并起密集小泡泡。",
+      "duration_sec": 60,
+      "tips": [
+        "此时需高度集中注意力"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "临界点判定",
+      "instruction": "待小泡泡逐渐消失并出现大泡泡时，糖色制作完成。",
+      "duration_sec": 10,
+      "tips": [
+        "大泡泡出现是糖色完成的标志"
+      ],
+      "produces": "糖色原液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "降温中止反应",
+      "instruction": "快速执行操作：直接加入 400ml 开水；或者先加入辅料/肉类翻炒 5-10 秒爆香后再加水。",
+      "duration_sec": 15,
+      "tips": [
+        "必须立刻倒入开水，否则几秒钟内就会发苦"
+      ],
+      "produces": "成品糖色",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa/step_8.jpg"
+    }
+  ],
+  "tips": [
+    "炒糖色过程火不要太大，电磁炉若火候控制不当易发苦或发甜",
+    "冰糖色泽最亮，但必须水油炒；绵白糖可不加水",
+    "最后一步加水必须是开水，避免剧烈溅油或糖液凝固",
+    "如果您遵循本指南制作发现有问题，请提出 Issue 或 Pull request"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa_overview.jpg",
+  "id": "condiment_jian-yi-ban-chao-tang-se-de-zuo-fa",
+  "status": "published"
+}

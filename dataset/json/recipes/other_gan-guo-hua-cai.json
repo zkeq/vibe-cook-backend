@@ -1,0 +1,222 @@
+{
+  "title": "干锅花菜",
+  "summary": "干锅花菜是一道湘味家常菜，口感脆嫩干香，五花肉焦香四溢，带着微微辣意。花菜富含维生素 C 和膳食纤维，搭配五花肉补充蛋白质与能量。制作难度适中，只需注意焯水后充分沥干并把五花肉煸出油脂，适合有一定基础的烹饪新手。从准备到出锅大约需要 40 分钟。",
+  "difficulty": 3,
+  "calories": 759,
+  "duration_min": 40,
+  "category": "其他",
+  "tags": [
+    "湘菜",
+    "家常菜",
+    "干锅",
+    "热菜"
+  ],
+  "ingredients": [
+    {
+      "name": "花菜",
+      "amount": "400g",
+      "buying_tip": "选择花簇紧实、颜色洁白无黑点的花菜。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "五花肉",
+      "amount": "100g",
+      "buying_tip": "选择肥瘦相间的五花肉，口感更焦香。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "辣椒",
+      "amount": "1-2 根",
+      "buying_tip": "可选用小红辣椒，增加辣味与色彩。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "10ml",
+      "buying_tip": "建议使用酿造生抽，味道更醇厚。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白糖",
+      "amount": "5g",
+      "buying_tip": "普通白砂糖即可。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜瓣",
+      "amount": "3-4 个",
+      "buying_tip": "选择饱满、无发芽的蒜头。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "2g",
+      "buying_tip": "普通食盐。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "油",
+      "amount": "10ml",
+      "buying_tip": "建议使用植物油。",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "漏勺",
+    "锅盖"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "花菜",
+        "expr": "400 * servings"
+      },
+      {
+        "name": "五花肉",
+        "expr": "100 * servings"
+      },
+      {
+        "name": "辣椒",
+        "expr": "1.5 * servings"
+      },
+      {
+        "name": "生抽",
+        "expr": "10 * servings"
+      },
+      {
+        "name": "白糖",
+        "expr": "5 * servings"
+      },
+      {
+        "name": "蒜瓣",
+        "expr": "3.5 * servings"
+      },
+      {
+        "name": "盐",
+        "expr": "2 * servings"
+      },
+      {
+        "name": "油",
+        "expr": "10 * servings"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理花菜",
+      "instruction": "花菜朵朝下，没入淡盐水中浸泡 20 分钟。然后洗净用小刀拆成小朵。",
+      "duration_sec": 1380,
+      "tips": [
+        "淡盐水浸泡可以有效去除花菜中的杂质和虫卵。"
+      ],
+      "produces": "处理好的花菜朵",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-guo-hua-cai/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "焯水过凉",
+      "instruction": "入开水锅中焯水 1 分钟，捞出立即用冷水冲淋至完全凉透，沥水备用。",
+      "duration_sec": 120,
+      "tips": [
+        "焯水后过冷水是保持花菜脆嫩的关键。"
+      ],
+      "produces": "焯水沥干的花菜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-guo-hua-cai/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "切配辅料",
+      "instruction": "五花肉切成薄片，大蒜白色切下用刀背拍扁，小红辣椒切成段。",
+      "duration_sec": 300,
+      "tips": [
+        "五花肉切薄片更容易煸出油脂。"
+      ],
+      "produces": "切好的肉和辅料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-guo-hua-cai/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "爆香葱白",
+      "instruction": "锅烧热放油，油热下大葱白爆香。",
+      "duration_sec": 60,
+      "tips": [
+        "注意火候，避免将葱白炸糊。"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-guo-hua-cai/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "煸炒五花肉",
+      "instruction": "下五花肉片入锅，用中火煸炒至表面全部变色，继续煸炒一会儿，把肥肉部分的油份逼出一部分。",
+      "duration_sec": 240,
+      "tips": [
+        "煸出五花肉的油脂会让整道菜更香。"
+      ],
+      "produces": "焦香五花肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-guo-hua-cai/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "加入主料",
+      "instruction": "倒入红辣椒段和花菜，翻炒几下。",
+      "duration_sec": 30,
+      "tips": [],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-guo-hua-cai/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "调味",
+      "instruction": "加入 10 ml 生抽。",
+      "duration_sec": 20,
+      "tips": [],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-guo-hua-cai/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "大火翻炒",
+      "instruction": "再加入 5 g 白糖，转大火不断翻炒 1 分钟。",
+      "duration_sec": 60,
+      "tips": [
+        "大火翻炒能产生锅气，使菜肴干香。"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-guo-hua-cai/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "收尾焖制",
+      "instruction": "把大蒜叶部分切成段，放入锅中，翻炒几下后，关火盖上盖子焖 1 分钟即可。",
+      "duration_sec": 90,
+      "tips": [
+        "最后焖一分钟能让蒜香更深入食材。"
+      ],
+      "produces": "干锅花菜成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-guo-hua-cai/step_9.jpg"
+    }
+  ],
+  "tips": [
+    "焯水后必须充分沥干水分，否则口感不脆。",
+    "五花肉要煸炒至出油焦黄才香。",
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_gan-guo-hua-cai.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_gan-guo-hua-cai_overview.jpg",
+  "id": "other_gan-guo-hua-cai",
+  "status": "published"
+}

@@ -1,0 +1,202 @@
+{
+  "title": "蒜苔炒肉末",
+  "summary": "蒜苔炒肉末是北方家常菜，咸鲜脆嫩，蒜香浓郁。蒜苔富含膳食纤维和维生素，五花肉提供蛋白质，荤素搭配均衡。做法简单，备料轻松，新手也能快速上手。从切配到出锅大约只需 10 分钟。",
+  "difficulty": 2,
+  "calories": 258,
+  "duration_min": 10,
+  "category": "荤菜",
+  "tags": [
+    "家常菜",
+    "北方菜",
+    "快手菜",
+    "下饭菜"
+  ],
+  "ingredients": [
+    {
+      "name": "蒜苔",
+      "amount": "1扎(约190g)",
+      "buying_tip": "挑选尖端不发蔫、颜色翠绿且粗细均匀的蒜苔",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "五花肉薄片",
+      "amount": "4片(约20g)",
+      "buying_tip": "建议买超市现成的五花肉薄片，更方便切丝且无需腌制",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "10ml",
+      "buying_tip": "普通植物油即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜瓣",
+      "amount": "2瓣",
+      "buying_tip": "选用饱满无霉变的蒜瓣",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "15ml",
+      "buying_tip": "酿造生抽，提鲜上色效果更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食盐",
+      "amount": "2g",
+      "buying_tip": "普通食用盐",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "锅铲"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "蒜苔",
+        "expr": "190 * n"
+      },
+      {
+        "name": "五花肉薄片",
+        "expr": "20 * n"
+      },
+      {
+        "name": "食用油",
+        "expr": "10 * n"
+      },
+      {
+        "name": "蒜瓣",
+        "expr": "2 * n"
+      },
+      {
+        "name": "生抽",
+        "expr": "15 * n"
+      },
+      {
+        "name": "食盐",
+        "expr": "2 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "食材预处理-蒜苔",
+      "instruction": "蒜苔切成 5cm 小段，备用",
+      "duration_sec": 60,
+      "tips": [
+        "切段长度尽量保持一致，受热更均匀"
+      ],
+      "produces": "蒜苔段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_suan-tai-chao-rou-mo/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "食材预处理-五花肉",
+      "instruction": "五花肉切成 5mm * 5cm 丝状，备用",
+      "duration_sec": 90,
+      "tips": [
+        "顺着肉的纹理切，口感更好"
+      ],
+      "produces": "五花肉丝",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_suan-tai-chao-rou-mo/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "食材预处理-大蒜",
+      "instruction": "蒜瓣拍碎切成末，备用",
+      "duration_sec": 30,
+      "tips": [
+        "拍碎后再切更容易释放蒜香"
+      ],
+      "produces": "蒜末",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_suan-tai-chao-rou-mo/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "热锅凉油",
+      "instruction": "热锅，锅内放入 10ml 食用油。等待 10 秒让油温升高",
+      "duration_sec": 10,
+      "tips": [
+        "热锅凉油可以防止肉丝粘锅"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_suan-tai-chao-rou-mo/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "爆香蒜末",
+      "instruction": "放入蒜末，中火翻炒 10 秒 将蒜末炒出香味",
+      "duration_sec": 10,
+      "tips": [
+        "注意火候，避免蒜末炒焦变苦"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_suan-tai-chao-rou-mo/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "炒肉上色",
+      "instruction": "放入五花肉和 5ml 生抽，中火翻炒 30 秒 将肉炒熟并上色",
+      "duration_sec": 30,
+      "tips": [
+        "生抽在此步骤主要起到上色增香作用"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_suan-tai-chao-rou-mo/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "放入蒜苔",
+      "instruction": "将蒜苔放入锅内并加入 10ml 生抽，翻炒 30 秒",
+      "duration_sec": 30,
+      "tips": [
+        "让蒜苔均匀裹上油分和生抽"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_suan-tai-chao-rou-mo/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "焖炒至软",
+      "instruction": "锅内加入 20g 水，中火翻炒 5 分钟 将蒜苔炒至稍稍变软",
+      "duration_sec": 300,
+      "tips": [
+        "加少量水焖炒能让蒜苔熟透且保持脆嫩，不至于干焦"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_suan-tai-chao-rou-mo/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "调味出锅",
+      "instruction": "最后加入 2g 食盐，中火翻炒 30 秒，即可出锅装盘",
+      "duration_sec": 30,
+      "tips": [
+        "最后加盐可以避免蒜苔过早出水导致口感不脆"
+      ],
+      "produces": "蒜苔炒肉末",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_suan-tai-chao-rou-mo/step_9.jpg"
+    }
+  ],
+  "tips": [
+    "加入食盐前可尝一下咸淡，自行决定是否增减盐量",
+    "选用五花肉薄片是因为切肉简单且不用腌制即可入味"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_suan-tai-chao-rou-mo.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_suan-tai-chao-rou-mo_overview.jpg",
+  "id": "meat_dish_suan-tai-chao-rou-mo",
+  "status": "published"
+}

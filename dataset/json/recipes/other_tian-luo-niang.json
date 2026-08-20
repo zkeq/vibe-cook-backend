@@ -1,0 +1,281 @@
+{
+  "title": "田螺酿",
+  "summary": "田螺酿是阳朔“十八酿”之首，螺肉韧而紧致、猪肉嫩滑，紫苏薄荷清香扑鼻，曾登上《舌尖上的中国 2》。富含蛋白质和多种微量元素，螺肉与猪肉搭配营养互补。",
+  "difficulty": 4,
+  "calories": 533,
+  "duration_min": 40,
+  "category": "其他",
+  "tags": [
+    "阳朔十八酿",
+    "舌尖上的中国",
+    "特色美食",
+    "家常菜"
+  ],
+  "ingredients": [
+    {
+      "name": "大田螺",
+      "amount": "20-25个(约1000g)",
+      "buying_tip": "乒乓球大小，最好上午买回以便吐沙",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "猪肉",
+      "amount": "250g",
+      "buying_tip": "肥瘦比例 3:7 的前夹肉最佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "新鲜薄荷叶",
+      "amount": "10g",
+      "buying_tip": "这道菜的点睛之笔",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "紫苏叶",
+      "amount": "10g",
+      "buying_tip": "与田螺是绝配，尽量不要省略",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生姜",
+      "amount": "1小块(约15g)",
+      "buying_tip": "切末备用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "2根(约30g)",
+      "buying_tip": "新鲜小葱即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "桂林三花酒",
+      "amount": "15ml",
+      "buying_tip": "没有可用料酒代替，但风味会打折扣",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "30ml",
+      "buying_tip": "分两份使用，一份调馅一份调汁",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食盐",
+      "amount": "5g",
+      "buying_tip": "分次使用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "30ml",
+      "buying_tip": "常规植物油即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酸笋",
+      "amount": "50g",
+      "buying_tip": "广西特色，增加风味",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "大蒜",
+      "amount": "5瓣(约20g)",
+      "buying_tip": "拍碎备用",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "干辣椒",
+      "amount": "4个",
+      "buying_tip": "根据口味增减",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "蚝油",
+      "amount": "10ml",
+      "buying_tip": "增加馅料鲜味",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "淀粉",
+      "amount": "10g",
+      "buying_tip": "使馅料更粘稠上劲",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "白胡椒粉",
+      "amount": "2g",
+      "buying_tip": "去腥增香",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "刷子",
+    "老虎钳",
+    "菜刀",
+    "大锅",
+    "牙签",
+    "打肉机",
+    "炒锅"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "大田螺",
+        "expr": "20个"
+      },
+      {
+        "name": "猪肉",
+        "expr": "250g"
+      },
+      {
+        "name": "新鲜薄荷叶",
+        "expr": "10g"
+      },
+      {
+        "name": "紫苏叶",
+        "expr": "10g"
+      },
+      {
+        "name": "生姜",
+        "expr": "15g"
+      },
+      {
+        "name": "葱",
+        "expr": "30g"
+      },
+      {
+        "name": "桂林三花酒",
+        "expr": "15ml"
+      },
+      {
+        "name": "生抽",
+        "expr": "30ml"
+      },
+      {
+        "name": "食盐",
+        "expr": "5g"
+      },
+      {
+        "name": "食用油",
+        "expr": "30ml"
+      },
+      {
+        "name": "酸笋",
+        "expr": "50g"
+      },
+      {
+        "name": "大蒜",
+        "expr": "20g"
+      },
+      {
+        "name": "干辣椒",
+        "expr": "4个"
+      },
+      {
+        "name": "蚝油",
+        "expr": "10ml"
+      },
+      {
+        "name": "淀粉",
+        "expr": "10g"
+      },
+      {
+        "name": "白胡椒粉",
+        "expr": "2g"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "吐沙",
+      "instruction": "将田螺放入清水盆中静置一下午，水中可滴入香油或芥末加速吐沙。",
+      "duration_sec": 14400,
+      "tips": [
+        "提前半天准备",
+        "滴香油或芥末能显著加快速度"
+      ],
+      "produces": "吐净沙的田螺",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tian-luo-niang/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "处理田螺",
+      "instruction": "刷洗外壳，用老虎钳剪掉尾部，水开后焯烫1-2分钟。捞出挑出螺肉，去掉螺盖和泥肠，洗净螺壳甩干。",
+      "duration_sec": 600,
+      "tips": [
+        "刷洗时间可以久一些",
+        "焯水时间不可太久，否则螺肉会老",
+        "尾部剪掉1/3到一半"
+      ],
+      "produces": "干净的螺壳与精制螺肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tian-luo-niang/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "制作馅料",
+      "instruction": "螺肉剁碎，猪肉剁成肉末，加入切碎的薄荷、紫苏、姜葱及调料（三花酒、生抽、盐、可选蚝油等），顺时针搅拌上劲。",
+      "duration_sec": 600,
+      "tips": [
+        "螺肉不要剁成泥，保留颗粒感",
+        "图省事可直接使用打肉机",
+        "一定要朝一个方向搅拌"
+      ],
+      "produces": "田螺肉馅",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tian-luo-niang/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "酿制",
+      "instruction": "用筷子将肉馅塞入处理好的田螺壳中，尽量塞满塞紧。",
+      "duration_sec": 600,
+      "tips": [
+        "塞紧实但不要撑破螺壳"
+      ],
+      "produces": "酿好的田螺",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tian-luo-niang/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "焖煮",
+      "instruction": "热锅凉油炒香酸笋和辣椒，加水和调料烧开，放入田螺中小火焖煮10分钟，最后放入剩余薄荷紫苏大火收汁。",
+      "duration_sec": 900,
+      "tips": [
+        "肉馅定型前不要频繁翻动",
+        "薄荷和紫苏分两次放，最后一次增加清香味"
+      ],
+      "produces": "田螺酿成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tian-luo-niang/step_5.jpg"
+    }
+  ],
+  "tips": [
+    "食用方法：先吮吸壳内汤汁，再用牙签挑出或用嘴猛吸出肉馅",
+    "螺肉和猪肉最佳比例为 1:1",
+    "薄荷是这道菜的精华，紫苏配田螺是绝配，两者至少要有其一",
+    "没有三花酒可用料酒代替，但风味会打折扣",
+    "焯水时间一定要短，久了螺肉变老发硬",
+    "搭配冰镇漓泉啤酒是阳朔当地的标准吃法"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_tian-luo-niang.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_tian-luo-niang_overview.jpg",
+  "id": "other_tian-luo-niang",
+  "status": "published"
+}

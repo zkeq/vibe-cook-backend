@@ -1,0 +1,220 @@
+{
+  "title": "西红柿土豆炖牛肉",
+  "summary": "一道家常炖菜，酸甜开胃，汤汁浓郁，牛肉软烂，土豆绵密。牛肉提供优质蛋白，西红柿富含番茄红素，搭配土豆和洋葱，营养均衡。操作简单，无需复杂技巧，新手也能轻松上手。",
+  "difficulty": 4,
+  "calories": 827,
+  "duration_min": 90,
+  "category": "其他",
+  "tags": [
+    "家常菜",
+    "炖菜",
+    "牛肉",
+    "酸甜"
+  ],
+  "ingredients": [
+    {
+      "name": "牛肉",
+      "amount": "500-700g",
+      "buying_tip": "推荐选用牛腩位，油脂丰富口感更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "土豆",
+      "amount": "2-3个",
+      "buying_tip": "中等个头，以锅能盛下为准",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "西红柿",
+      "amount": "2-3个",
+      "buying_tip": "拳头大小，选熟透的汁水更多",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "洋葱",
+      "amount": "1个",
+      "buying_tip": "比拳头稍大一点的个头",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "1根",
+      "buying_tip": "普通大葱即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "4片",
+      "buying_tip": "老姜去腥效果更好",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "约50g",
+      "buying_tip": "用于去腥，分多次使用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "花椒",
+      "amount": "3g",
+      "buying_tip": "用于增香，后续会捞出",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "八角",
+      "amount": "1-1.5个",
+      "buying_tip": "不宜过多，以免抢味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香叶",
+      "amount": "2片",
+      "buying_tip": "干香叶即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "油",
+      "amount": "10-15ml",
+      "buying_tip": "若用牛腩可减至10ml",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白糖/冰糖",
+      "amount": "适量",
+      "buying_tip": "用于中和西红柿的酸味",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "生抽",
+      "amount": "15ml",
+      "buying_tip": "推荐千禾酿造无添加生抽",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "适量",
+      "buying_tip": "主要用于上色",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "黑胡椒粉/白胡椒粉",
+      "amount": "2g",
+      "buying_tip": "根据个人口味选择",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "番茄膏/番茄酱",
+      "amount": "5-10g",
+      "buying_tip": "或用一个番茄罐头代替，增加汤汁浓度",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "高压锅",
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "砂锅（可选）"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "牛肉",
+        "expr": "500-700g"
+      },
+      {
+        "name": "土豆",
+        "expr": "2-3个"
+      },
+      {
+        "name": "西红柿",
+        "expr": "2-3个"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "食材预处理",
+      "instruction": "土豆去皮切5cm大块；西红柿烫皮去芯切3cm块；洋葱切0.5-1cm小粒；葱切葱花（4g）和长段；牛肉泡凉水半小时或焯水撇浮沫。",
+      "duration_sec": 1800,
+      "tips": [
+        "西红柿切十字花刀更容易烫掉皮"
+      ],
+      "produces": "预处理好的食材",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-tu-dou-dun-niu-rou/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "高压压制牛肉",
+      "instruction": "牛肉入高压锅，凉水没过，加葱段、姜片、20g料酒，上汽压20分钟。",
+      "duration_sec": 1500,
+      "tips": [
+        "此步骤是为了快速让牛肉软烂"
+      ],
+      "produces": "软烂的牛肉和原汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-tu-dou-dun-niu-rou/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "炒香底料",
+      "instruction": "牛肉切5cm块。炒锅倒油，四五成热下花椒八角香叶，出香后捞出。下牛肉、葱姜炒香。",
+      "duration_sec": 300,
+      "tips": [
+        "如果怕糊可以加少量原汤"
+      ],
+      "produces": "炒香的牛肉底料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-tu-dou-dun-niu-rou/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "调味与炒制配菜",
+      "instruction": "加入生抽、料酒、胡椒粉、番茄膏，下入洋葱炒至透明。随后加入西红柿炒至软烂化开，倒入剩下的原汤。",
+      "duration_sec": 600,
+      "tips": [
+        "加一点盐可以加速洋葱出水"
+      ],
+      "produces": "炖煮基底",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-tu-dou-dun-niu-rou/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "小火炖煮",
+      "instruction": "开锅后转小火。出锅前30-40分钟加入土豆，并根据口味加糖和盐调味。",
+      "duration_sec": 2400,
+      "tips": [
+        "不要扣盖，否则土豆容易过烂失去形状"
+      ],
+      "produces": "西红柿土豆炖牛肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-tu-dou-dun-niu-rou/step_5.jpg"
+    }
+  ],
+  "tips": [
+    "炖煮时保证加入的汤水是温热的",
+    "炖煮时不要扣盖，并时不时翻动避免糊底",
+    "使用砂锅炖煮风味更佳，但注意不要大火以免裂开",
+    "酱油总量不宜过多，汤汁浓缩后会变咸",
+    "严禁使用鸡精味精，以免掩盖牛肉本身的鲜味"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_xi-hong-shi-tu-dou-dun-niu-rou.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_xi-hong-shi-tu-dou-dun-niu-rou_overview.jpg",
+  "id": "other_xi-hong-shi-tu-dou-dun-niu-rou",
+  "status": "published"
+}

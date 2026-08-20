@@ -1,0 +1,215 @@
+{
+  "title": "黑椒牛柳",
+  "summary": "黑椒牛柳是一道广受欢迎的家常小炒，黑椒风味浓郁，牛柳嫩滑，搭配甜脆的洋葱和彩椒，荤素均衡，口味老少咸宜。牛肉富含优质蛋白和铁，彩椒和洋葱能补充多种维生素。",
+  "difficulty": 4,
+  "calories": 216,
+  "duration_min": 51,
+  "category": "其他",
+  "tags": [
+    "家常菜",
+    "快手菜",
+    "黑椒风味",
+    "牛肉",
+    "荤素搭配"
+  ],
+  "ingredients": [
+    {
+      "name": "牛肉",
+      "amount": "100g",
+      "buying_tip": "建议使用牛里脊肉或者牛排肉",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "洋葱",
+      "amount": "1/12个",
+      "buying_tip": "切配时约3人份用1/4个",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "菜椒",
+      "amount": "1/12个",
+      "buying_tip": "建议选用红椒或黄椒以增加色彩",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "淀粉",
+      "amount": "3g",
+      "buying_tip": "用于腌制锁水，使牛肉更嫩滑",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "黑胡椒粉",
+      "amount": "1g",
+      "buying_tip": "可与腌料相互替代，具体视口味而定",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "黑椒腌料",
+      "amount": "适量",
+      "buying_tip": "参照购买的食品包装说明比例使用",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "盐",
+      "amount": "1g",
+      "buying_tip": "基础调味用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "花生油",
+      "amount": "10ml",
+      "buying_tip": "如对牛肉量有增减，请按比例调整油量",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "不粘锅",
+    "菜刀",
+    "砧板",
+    "盛菜盘"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "牛肉量",
+        "expr": "份数 * 100 克"
+      },
+      {
+        "name": "洋葱量",
+        "expr": "份数 * 1/12 个"
+      },
+      {
+        "name": "菜椒量",
+        "expr": "份数 * 1/12 个"
+      },
+      {
+        "name": "盐量",
+        "expr": "份数 * 1 克"
+      },
+      {
+        "name": "淀粉量",
+        "expr": "份数 * 3 克"
+      },
+      {
+        "name": "黑椒腌料",
+        "expr": "参照商品说明"
+      },
+      {
+        "name": "黑胡椒粉",
+        "expr": "份数 * 1 克"
+      },
+      {
+        "name": "花生油",
+        "expr": "份数 * 10ml"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "牛肉切配",
+      "instruction": "将牛肉切条，长度控制在 8 厘米以下，厚度约 5-10 毫米，宽度约 1 厘米。",
+      "duration_sec": 300,
+      "tips": [
+        "规格要求不严格，尽量均匀即可"
+      ],
+      "produces": "牛肉条",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hei-jiao-niu-liu/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "初步腌制",
+      "instruction": "利用腌料腌制牛肉，混合均匀后静置。",
+      "duration_sec": 600,
+      "tips": [
+        "用量与时间参照商品说明，可以延长不能缩短"
+      ],
+      "produces": "初步腌制的牛肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hei-jiao-niu-liu/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "二次腌制锁水",
+      "instruction": "若用液态腌料，可在结束前3分钟撒黑胡椒粉，加淀粉混合均匀后静置20分钟。",
+      "duration_sec": 1200,
+      "tips": [
+        "淀粉能帮助牛肉锁住水分，保持嫩滑"
+      ],
+      "produces": "待炒牛肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hei-jiao-niu-liu/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "热锅凉油",
+      "instruction": "开火，热锅，加入花生油。",
+      "duration_sec": 60,
+      "tips": [
+        "建议使用不粘锅"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hei-jiao-niu-liu/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "翻炒牛肉",
+      "instruction": "当油冒出一丝烟时放入牛肉，开中火偏大翻炒2分钟至外表变色。",
+      "duration_sec": 120,
+      "tips": [
+        "不出现明显血色即可，小心油滴溅射"
+      ],
+      "produces": "变色牛肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hei-jiao-niu-liu/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "加入蔬菜",
+      "instruction": "放入洋葱和菜椒，持续翻炒2分钟。",
+      "duration_sec": 120,
+      "tips": [
+        "保持中大火使蔬菜断生"
+      ],
+      "produces": "荤素混合料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hei-jiao-niu-liu/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "调味提香",
+      "instruction": "加入盐，再次撒一份黑胡椒粉，翻炒30秒搅拌均匀。",
+      "duration_sec": 30,
+      "tips": [
+        "黑胡椒粉量可根据个人喜好随意撒"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hei-jiao-niu-liu/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "出锅盛盘",
+      "instruction": "观察洋葱已经变软即可关火，出锅盛盘。",
+      "duration_sec": 30,
+      "tips": [
+        "洋葱变软是熟透的标志"
+      ],
+      "produces": "黑椒牛柳成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hei-jiao-niu-liu/step_8.jpg"
+    }
+  ],
+  "tips": [
+    "粉与腌料可相互替代，具体用量参照包装说明",
+    "油量应依据菜量变动，牛肉增加时油量也需对应增加",
+    "制作过程中发现问题可参考项目Issue或Pull request进行改进"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_hei-jiao-niu-liu.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_hei-jiao-niu-liu_overview.jpg",
+  "id": "other_hei-jiao-niu-liu",
+  "status": "published"
+}

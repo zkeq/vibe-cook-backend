@@ -1,0 +1,216 @@
+{
+  "title": "糖醋里脊",
+  "summary": "糖醋里脊酸甜浓郁、外酥里嫩，是广受欢迎的家常风味，在多地域菜系中都很常见。猪里脊提供优质蛋白，但裹粉油炸和糖醋汁使整体热量偏高。制作时需要掌握腌制、复炸和调汁火候，对新手稍有挑战，建议提前备好料并一气呵成。",
+  "difficulty": 4,
+  "calories": 1573,
+  "duration_min": 60,
+  "category": "荤菜",
+  "tags": [
+    "酸甜",
+    "油炸",
+    "家常菜",
+    "里脊"
+  ],
+  "ingredients": [
+    {
+      "name": "里脊肉",
+      "amount": "500g",
+      "buying_tip": "选择色泽红润、有弹性的新鲜猪里脊肉",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "醋",
+      "amount": "10g",
+      "buying_tip": "建议使用米醋或陈醋，口感更醇厚",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白糖",
+      "amount": "30g",
+      "buying_tip": "普通白砂糖即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "淀粉",
+      "amount": "50g",
+      "buying_tip": "推荐使用玉米淀粉或红薯淀粉，炸制更酥脆",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": "50g",
+      "buying_tip": "约一个中等大小的鸡蛋",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "10ml",
+      "buying_tip": "普通生抽，用于提鲜调色",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "20g",
+      "buying_tip": "烹饪料酒，用于去腥",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蚝油",
+      "amount": "10g",
+      "buying_tip": "提鲜增味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "番茄酱",
+      "amount": "30ml",
+      "buying_tip": "选用色泽红亮的番茄酱",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白胡椒粉",
+      "amount": "5g",
+      "buying_tip": "细粉末状为佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食盐",
+      "amount": "10g",
+      "buying_tip": "普通食用盐",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "大碗",
+    "筷子"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "里脊肉",
+        "expr": "500 * servings"
+      },
+      {
+        "name": "醋",
+        "expr": "10 * servings"
+      },
+      {
+        "name": "白糖",
+        "expr": "30 * servings"
+      },
+      {
+        "name": "淀粉",
+        "expr": "50 * servings"
+      },
+      {
+        "name": "鸡蛋",
+        "expr": "50 * servings"
+      },
+      {
+        "name": "番茄酱",
+        "expr": "30 * servings"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "腌肉",
+      "instruction": "将猪里脊肉先切厚片，用刀背拍松，切成手指粗的条，加入料酒、生抽、蚝油、食盐、白胡椒粉和一个鸡蛋，用手抓匀，腌制20分钟以上。",
+      "duration_sec": 1200,
+      "tips": [
+        "用刀背拍松肉质可以使口感更嫩"
+      ],
+      "produces": "腌制好的里脊肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_tang-cu-li-ji/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "调酱",
+      "instruction": "将番茄酱、10g醋、30g白糖和150ml清水混合，搅拌至糖完全融化备用。",
+      "duration_sec": 120,
+      "tips": [
+        "预先调好酱汁可以防止烹饪时手忙脚乱"
+      ],
+      "produces": "糖醋酱汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_tang-cu-li-ji/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "裹粉",
+      "instruction": "准备一个大碗放入淀粉，将每一根腌制好的肉条都均匀裹满淀粉。",
+      "duration_sec": 300,
+      "tips": [
+        "全部裹好后再开始炸，效率更高"
+      ],
+      "produces": "裹粉肉条",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_tang-cu-li-ji/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "炸制",
+      "instruction": "油温升至160摄氏度时下入里脊条，中火炸至表面微黄捞出。",
+      "duration_sec": 420,
+      "tips": [
+        "干筷子入油周围冒小泡即可下锅"
+      ],
+      "produces": "初炸里脊",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_tang-cu-li-ji/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "复炸",
+      "instruction": "将油温升高至200摄氏度，倒入里脊复炸约40秒，表皮酥脆后迅速捞出。",
+      "duration_sec": 60,
+      "tips": [
+        "复炸是外酥里嫩的关键，时间不宜过长"
+      ],
+      "produces": "酥脆里脊",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_tang-cu-li-ji/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "裹酱",
+      "instruction": "另取一锅放底油，倒入调好的酱汁煮至冒大泡，放入炸好的里脊翻炒，使每根肉条均匀裹上酱汁。",
+      "duration_sec": 120,
+      "tips": [
+        "酱汁煮至粘稠冒泡再下肉"
+      ],
+      "produces": "挂浆里脊",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_tang-cu-li-ji/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "出锅",
+      "instruction": "翻炒均匀后立即关火盛出。",
+      "duration_sec": 30,
+      "tips": [
+        "动作要快，保持肉条酥脆"
+      ],
+      "produces": "糖醋里脊成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_tang-cu-li-ji/step_7.jpg"
+    }
+  ],
+  "tips": [
+    "里脊要多炸几遍，注意火候，否则达不到外焦里嫩的效果！",
+    "建议提前备好料并一气呵成以保证口感。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_tang-cu-li-ji.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_tang-cu-li-ji_overview.jpg",
+  "id": "meat_dish_tang-cu-li-ji",
+  "status": "published"
+}

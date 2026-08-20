@@ -1,0 +1,116 @@
+{
+  "title": "小米粥",
+  "summary": "小米粥是一道北方常见的家常粥品，口感绵滑，米香浓郁，熬出的米油尤其养胃。它富含蛋白质、脂肪、碳水化合物和胡萝卜素，维生素 B1 含量在粮食中名列前茅，容易消化吸收。",
+  "difficulty": 2,
+  "calories": 362,
+  "duration_min": 35,
+  "category": "汤",
+  "tags": [
+    "粥品",
+    "家常菜",
+    "养胃",
+    "中式早餐"
+  ],
+  "ingredients": [
+    {
+      "name": "小米",
+      "amount": "100g",
+      "buying_tip": "选择颗粒饱满、色泽金黄的新米",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "水",
+      "amount": "2000g",
+      "buying_tip": "山泉水最佳",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "普通锅",
+    "碗",
+    "汤勺"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "小米",
+        "expr": "100 * servings"
+      },
+      {
+        "name": "水",
+        "expr": "2000 * servings"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "淘洗小米",
+      "instruction": "小米 100 克，放入碗中，用水轻淘一遍（用手搅拌一下，将水倒掉，只是去掉外面的浮灰，不可搓洗！！！）",
+      "duration_sec": 60,
+      "tips": [
+        "不可搓洗，否则会损失小米油"
+      ],
+      "produces": "干净的小米",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_xiao-mi-zhou/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "烧开水",
+      "instruction": "锅中加入 2000 克水烧开，务必烧开！！！",
+      "duration_sec": 600,
+      "tips": [
+        "水一定要完全沸腾"
+      ],
+      "produces": "沸水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_xiao-mi-zhou/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "下小米",
+      "instruction": "水烧开沸腾时，将小米倒入锅内。",
+      "duration_sec": 30,
+      "tips": [
+        "这是很重要的环节，必须水开下锅"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_xiao-mi-zhou/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "大火熬煮",
+      "instruction": "搅拌使得小米不会粘连锅底，继续用大火熬 6-10 分钟，注意用中间穿插搅拌几次。",
+      "duration_sec": 480,
+      "tips": [
+        "穿插搅拌防止粘底"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_xiao-mi-zhou/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "文火慢熬",
+      "instruction": "改中火、文火熬 15-20 分钟，锅盖要错开一条缝，千万不能让小米油溜掉哟，中间继续搅拌几次，不要糊锅底",
+      "duration_sec": 1050,
+      "tips": [
+        "锅盖留缝防止溢锅",
+        "保持米油不流失"
+      ],
+      "produces": "小米粥",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_xiao-mi-zhou/step_5.jpg"
+    }
+  ],
+  "tips": [
+    "这是普通锅熬制（只需 30-35 分钟即可出锅）,味道最佳。高压锅和电饭锅省事，不过效果下降，水量要适当减少，一般 100 克小米+1800 克水",
+    "小米只需用水去除浮灰，千万不可过分淘，会损失掉小米油的",
+    "千万记住小米需要在水开的时候下锅",
+    "不建议放碱，原汁原味的小米香更佳"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/soup_xiao-mi-zhou.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/soup_xiao-mi-zhou_overview.jpg",
+  "id": "soup_xiao-mi-zhou",
+  "status": "published"
+}

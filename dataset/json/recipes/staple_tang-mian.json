@@ -1,0 +1,176 @@
+{
+  "title": "汤面",
+  "summary": "汤面是一道自由搭配的家常主食，汤汁清爽，面条软滑，兼容各种荤素食材，味道可鲜可淡。它富含碳水化合物和优质蛋白质，搭配蔬菜还能补充维生素与膳食纤维，营养均衡又饱腹。做法非常简单，无需厨艺基础，新手也能轻松驾驭。",
+  "difficulty": 2,
+  "calories": 565,
+  "duration_min": 30,
+  "category": "主食",
+  "tags": [
+    "汤面",
+    "快手菜",
+    "家常菜",
+    "面食"
+  ],
+  "ingredients": [
+    {
+      "name": "面食材料",
+      "amount": "70-230g",
+      "buying_tip": "可选手工面、龙须面、面鱼、泡面饼或各类粉丝",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "冷水",
+      "amount": "200-400ml",
+      "buying_tip": "建议使用过滤水，口感更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "肉类/蛋类/豆制品",
+      "amount": "适量（体积约与面相当）",
+      "buying_tip": "牛羊鱼虾、蛋类或豆腐皮等荤素搭配",
+      "optional": true,
+      "per_serving": false
+    },
+    {
+      "name": "蔬菜类",
+      "amount": "适量（体积约与面相当）",
+      "buying_tip": "生菜、菠菜、油麦菜、青椒、番茄、胡萝卜等",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "盐",
+      "amount": "适量",
+      "buying_tip": "基础调味品",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "胡椒粉",
+      "amount": "适量",
+      "buying_tip": "增加风味",
+      "optional": true,
+      "per_serving": false
+    },
+    {
+      "name": "香油",
+      "amount": "少许",
+      "buying_tip": "出锅前增香",
+      "optional": true,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "锅",
+    "菜刀",
+    "砧板",
+    "锅盖",
+    "汤勺"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "面类材料",
+        "expr": "1 * (70 to 230)g"
+      },
+      {
+        "name": "冷水",
+        "expr": "1 * (200 to 400)ml"
+      },
+      {
+        "name": "菜类体积",
+        "expr": "1 * 面类体积"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "食材预处理",
+      "instruction": "先将菜类材料切成边长不超过 4cm 的块状，便于煮熟。",
+      "duration_sec": 300,
+      "tips": [
+        "切块大小均匀可以保证同时煮熟"
+      ],
+      "produces": "切好的食材",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_tang-mian/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "处理生肉（可选）",
+      "instruction": "如有生肉，则先放入冷水中，盖上锅盖，煮沸腾，先捞出上层血沫，再关火，捞出半熟的肉备用。",
+      "duration_sec": 600,
+      "tips": [
+        "冷水下锅更容易煮出血沫"
+      ],
+      "produces": "半熟肉类",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_tang-mian/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "烧水",
+      "instruction": "先大火将水加热至沸腾，后调至中火。",
+      "duration_sec": 300,
+      "tips": [
+        "水量需足够浸没后续加入的面条"
+      ],
+      "produces": "沸水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_tang-mian/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "煮制耐煮食材",
+      "instruction": "将较难煮熟的食材放入锅中（比如半熟肉类、香菇类等）。沸腾后计时 10 分钟，特别难熟的大块食材可追加 5 分钟。",
+      "duration_sec": 600,
+      "tips": [
+        "确保肉类和硬质蔬菜完全熟透"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_tang-mian/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "煮面",
+      "instruction": "将面食放入锅中，适当搅拌确保面和汤充分接触，使液面保持轻微沸腾，煮 5 分钟。",
+      "duration_sec": 300,
+      "tips": [
+        "加入面后若产生白色泡沫，可抬起锅盖通气或撤下锅盖"
+      ],
+      "produces": "软滑的面条",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_tang-mian/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "加入易熟蔬菜",
+      "instruction": "将易于煮熟的食材如青菜类放入锅中，适当搅拌以充分浸没，煮 2-5 分钟。",
+      "duration_sec": 180,
+      "tips": [
+        "青菜不宜久煮，以免变色流失营养"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_tang-mian/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "调味出锅",
+      "instruction": "关火，随后加入盐、胡椒粉、香油等自己喜欢的调味料，适当搅拌即可出锅食用。",
+      "duration_sec": 60,
+      "tips": [
+        "关火后再调味可以更好控制咸淡"
+      ],
+      "produces": "汤面成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_tang-mian/step_7.jpg"
+    }
+  ],
+  "tips": [
+    "操作流程可根据自己喜好更改，多多尝试会有惊喜",
+    "如掌握不好加盐量，可采用少量多次添加的方法，以免过量"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_tang-mian.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_tang-mian_overview.jpg",
+  "id": "staple_tang-mian",
+  "status": "published"
+}

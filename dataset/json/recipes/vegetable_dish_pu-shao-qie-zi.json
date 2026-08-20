@@ -1,0 +1,206 @@
+{
+  "title": "蒲烧茄子",
+  "summary": "蒲烧茄子是一道咸甜交织、口感软糯的家常菜，借鉴日式蒲烧风味却用中式煎烧手法烹制。茄子富含膳食纤维和多种维生素，有助于清热活血。",
+  "difficulty": 3,
+  "calories": 326,
+  "duration_min": 30,
+  "category": "素菜",
+  "tags": [
+    "中式煎烧",
+    "日式风味",
+    "软糯",
+    "下饭菜"
+  ],
+  "ingredients": [
+    {
+      "name": "茄子",
+      "amount": "1个",
+      "buying_tip": "选用长且上小下大的茄子，注意不要使用浙茄和圆茄",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蜂蜜",
+      "amount": "20ml",
+      "buying_tip": "用于提升蒲烧汁的浓稠度与光泽",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白糖",
+      "amount": "15ml",
+      "buying_tip": "基础甜味来源",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "40ml",
+      "buying_tip": "调味咸鲜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "10ml",
+      "buying_tip": "上色关键",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "20ml",
+      "buying_tip": "去腥增香",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "水",
+      "amount": "100ml",
+      "buying_tip": "用于稀释酱汁",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "适量",
+      "buying_tip": "根据锅具类型调整油量",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "水淀粉",
+      "amount": "适量",
+      "buying_tip": "生粉和水的比例在 1:4 到 1:10",
+      "optional": true,
+      "per_serving": false
+    },
+    {
+      "name": "小葱",
+      "amount": "适量",
+      "buying_tip": "切成 2~5 mm 的小段装饰",
+      "optional": true,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "蒸锅",
+    "平底煎锅/炒锅",
+    "菜刀",
+    "砧板",
+    "削皮刀"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "茄子",
+        "expr": "1 * n"
+      },
+      {
+        "name": "蒲烧汁总量",
+        "expr": "205ml * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理茄子",
+      "instruction": "将茄子削皮，横着切成两段。",
+      "duration_sec": 120,
+      "tips": [
+        "去皮后口感更软糯"
+      ],
+      "produces": "去皮茄段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_pu-shao-qie-zi/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "初步蒸制",
+      "instruction": "放入蒸锅蒸 5 分钟。",
+      "duration_sec": 300,
+      "tips": [
+        "蒸制是为了让茄子变软，方便后续划开摊平"
+      ],
+      "produces": "熟软茄段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_pu-shao-qie-zi/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "改刀摊平",
+      "instruction": "将茄段纵向切开但不要切断，在两边切面各划 2~3 刀至可以摊平。",
+      "duration_sec": 180,
+      "tips": [
+        "划刀时注意力度，不要切透底部皮层"
+      ],
+      "produces": "摊平的茄子排",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_pu-shao-qie-zi/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "煎制上色",
+      "instruction": "锅中入油，将茄子煎至两面金黄。",
+      "duration_sec": 300,
+      "tips": [
+        "不粘锅油量汇聚成滴后散布即可，铁锅油量需刚好覆盖锅底"
+      ],
+      "produces": "金黄茄子",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_pu-shao-qie-zi/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "初次浇汁",
+      "instruction": "往茄子上浇入调好的蒲烧汁，至没过 1/2 茄子高度。",
+      "duration_sec": 30,
+      "tips": [
+        "蒲烧汁由蜂蜜、白糖、生抽、老抽、料酒和水预先混合"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_pu-shao-qie-zi/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "收汁翻面",
+      "instruction": "煎至背面上色后翻面，同时进行收汁。",
+      "duration_sec": 180,
+      "tips": [
+        "若无法自然收汁，可加入比例为 1:4 到 1:10 的水淀粉辅助"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_pu-shao-qie-zi/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "二次浇汁",
+      "instruction": "把剩下的蒲烧汁浇在茄子上。",
+      "duration_sec": 30,
+      "tips": [
+        "让茄子充分吸收剩余酱汁的香味"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_pu-shao-qie-zi/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "出锅装盘",
+      "instruction": "出锅，一份蒲烧茄子就做好了。",
+      "duration_sec": 30,
+      "tips": [
+        "可以撒上小葱碎增加美观度和清爽感"
+      ],
+      "produces": "蒲烧茄子成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_pu-shao-qie-zi/step_8.jpg"
+    }
+  ],
+  "tips": [
+    "中式煎烧手法与日式传统烤制蒲烧有所不同。",
+    "灵魂在于蒲烧汁，若图方便也可以购买现成的蒲烧汁。",
+    "装盘后撒点小葱（2~5mm）可以缓解甜腻感并丰富色彩。",
+    "浙茄皮嫩适合做鱼香茄子，但做这道菜建议去皮并使用普通长茄子。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_pu-shao-qie-zi.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_pu-shao-qie-zi_overview.jpg",
+  "id": "vegetable_dish_pu-shao-qie-zi",
+  "status": "published"
+}

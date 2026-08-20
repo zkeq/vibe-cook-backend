@@ -1,0 +1,153 @@
+{
+  "title": "微波炉蛋糕",
+  "summary": "微波炉版的快手蛋糕，口感松软香甜，是一道零基础也能轻松上手的家庭甜点。以鸡蛋、面粉为基础，搭配黄油提供能量和浓郁香气，糖分快速补充体力，加入坚果或水果还能增加膳食纤维和维生素。",
+  "difficulty": 1,
+  "calories": 308,
+  "duration_min": 20,
+  "category": "早餐",
+  "tags": [
+    "微波炉",
+    "快手菜",
+    "甜点",
+    "零基础",
+    "蛋糕"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": "1个",
+      "buying_tip": "选用新鲜的大鸡蛋",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "面粉",
+      "amount": "15g",
+      "buying_tip": "筋度没太大影响，普通面粉或低筋粉均可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "泡打粉",
+      "amount": "2.5g",
+      "buying_tip": "建议购买不含铝的泡打粉，让蛋糕更蓬松",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "黄油",
+      "amount": "约30g(半个鸡蛋大小)",
+      "buying_tip": "动物黄油香气更浓郁",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白（红）糖",
+      "amount": "10g",
+      "buying_tip": "甜党可以适当多加",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "1g",
+      "buying_tip": "普通食用盐即可，用于提味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "咖啡粉/巧克力/麦片/坚果/香蕉等",
+      "amount": "适量",
+      "buying_tip": "根据个人口味添加，增加风味层次",
+      "optional": true,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "微波炉",
+    "能放进微波炉的容器",
+    "搅拌匙"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鸡蛋",
+        "expr": "1 * n 个"
+      },
+      {
+        "name": "面粉",
+        "expr": "15 * n g"
+      },
+      {
+        "name": "泡打粉",
+        "expr": "2.5 * n g"
+      },
+      {
+        "name": "糖",
+        "expr": "10 * n g"
+      },
+      {
+        "name": "盐",
+        "expr": "1 * n g"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "混合食材",
+      "instruction": "在容器中放入黄油微波加热15秒融化；将巧克力或香蕉搅碎；打入鸡蛋搅散；依次加入糖、盐、泡打粉、面粉及喜欢的口味食材，搅拌至无干粉的稠酸奶状，最后在顶端撒上干燥食材。",
+      "duration_sec": 180,
+      "tips": [
+        "注意食材总量不要超过容器的3/4",
+        "如果加入牛奶等液体，需确保搅拌后仍为稠酸奶状"
+      ],
+      "produces": "蛋糕面糊",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wei-bo-lu-dan-gao/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "心理建设",
+      "instruction": "夸赞一下自己，保持烹饪的好心情。",
+      "duration_sec": 5,
+      "tips": [
+        "这是制作美味的关键步骤"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wei-bo-lu-dan-gao/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "微波加热",
+      "instruction": "将容器放入微波炉，使用高火加热1分钟，观察蛋糕蓬松成型。",
+      "duration_sec": 60,
+      "tips": [
+        "不同微波炉功率不同，可根据成型情况微调时间"
+      ],
+      "produces": "蓬松的蛋糕",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wei-bo-lu-dan-gao/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "取出享用",
+      "instruction": "取出杯子并拍照分享，趁热食用。",
+      "duration_sec": 30,
+      "tips": [
+        "容器非常烫手，取出时请务必戴隔热手套或垫抹布"
+      ],
+      "produces": "成品蛋糕",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wei-bo-lu-dan-gao/step_4.jpg"
+    }
+  ],
+  "tips": [
+    "在夸赞自己之前的操作可以重复多遍做出更大的蛋糕",
+    "泡打粉用来让蛋糕更蓬松，大多不含铝，几块钱一包，可以买了在家备着",
+    "若加入液体（如牛奶）请务必确保搅和成稠酸奶状，建议少量多次加入以防止水分过量而导致成品湿瘪",
+    "食材不要超过容器的 3/4，防止加热时溢出"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_wei-bo-lu-dan-gao.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_wei-bo-lu-dan-gao_overview.jpg",
+  "id": "breakfast_wei-bo-lu-dan-gao",
+  "status": "published"
+}

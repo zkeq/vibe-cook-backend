@@ -1,0 +1,161 @@
+{
+  "title": "老干妈拌面",
+  "summary": "一道香辣开胃的家常快手面食，面条筋道裹满老干妈的豆豉辣香，酱油提鲜，简单却滋味十足。作为主食能快速补充碳水化合物和能量，辣椒素还有助促进食欲。制作毫无门槛，新手也能轻松驾驭，从烧水到出锅只需大约十分钟。",
+  "difficulty": 1,
+  "calories": 502,
+  "duration_min": 10,
+  "category": "主食",
+  "tags": [
+    "面食",
+    "快手菜",
+    "辣",
+    "老干妈",
+    "新手友好"
+  ],
+  "ingredients": [
+    {
+      "name": "面",
+      "amount": "120g",
+      "buying_tip": "建议选择筋道的挂面或新鲜手擀面",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老干妈",
+      "amount": "15ml",
+      "buying_tip": "风味豆豉油制辣椒风味最佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酱油",
+      "amount": "5ml",
+      "buying_tip": "建议使用生抽提鲜",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "煮锅",
+    "碗",
+    "筷子"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "面量",
+        "expr": "120 * servings"
+      },
+      {
+        "name": "老干妈",
+        "expr": "15 * servings"
+      },
+      {
+        "name": "酱油",
+        "expr": "5 * servings"
+      },
+      {
+        "name": "水",
+        "expr": "1000"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "烧水",
+      "instruction": "将水倒入锅中并煮沸",
+      "duration_sec": 300,
+      "tips": [
+        "建议盖上锅盖以加快烧水速度"
+      ],
+      "produces": "沸水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_lao-gan-ma-ban-mian/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "下入面条",
+      "instruction": "将面均匀放入锅中",
+      "duration_sec": 10,
+      "tips": [
+        "如果是挂面，可以呈放射状散开"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_lao-gan-ma-ban-mian/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "搅拌防粘",
+      "instruction": "在煮的过程注意搅拌，避免面粘成一坨",
+      "duration_sec": 180,
+      "tips": [
+        "水再次沸腾时可适当调小火力"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_lao-gan-ma-ban-mian/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "确认熟度",
+      "instruction": "当用筷子挑起一根面且该面能自然地从筷子上滑落时再等 30 秒关火",
+      "duration_sec": 30,
+      "tips": [
+        "喜欢硬一点口感的可提前关火"
+      ],
+      "produces": "熟面条",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_lao-gan-ma-ban-mian/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "盛面",
+      "instruction": "将面夹入碗中",
+      "duration_sec": 20,
+      "tips": [
+        "可适当沥干水分，避免面汤稀释酱汁"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_lao-gan-ma-ban-mian/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "调味",
+      "instruction": "按照上面的计量放入老干妈和酱油",
+      "duration_sec": 20,
+      "tips": [
+        "可根据个人口味增减老干妈用量"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_lao-gan-ma-ban-mian/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "搅拌",
+      "instruction": "用筷子将碗里的面、老干妈、酱油拌均匀",
+      "duration_sec": 30,
+      "tips": [
+        "趁热搅拌更容易拌匀入味"
+      ],
+      "produces": "老干妈拌面",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_lao-gan-ma-ban-mian/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "享用",
+      "instruction": "吃",
+      "duration_sec": 600,
+      "tips": [
+        "趁热食用口感最佳"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_lao-gan-ma-ban-mian/step_8.jpg"
+    }
+  ],
+  "tips": [
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_lao-gan-ma-ban-mian.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_lao-gan-ma-ban-mian_overview.jpg",
+  "id": "staple_lao-gan-ma-ban-mian",
+  "status": "published"
+}

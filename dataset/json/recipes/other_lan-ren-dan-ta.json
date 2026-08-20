@@ -1,0 +1,113 @@
+{
+  "title": "懒人蛋挞",
+  "summary": "这道甜品利用现成的蛋挞皮和蛋挞液，外皮酥香、内馅嫩滑，带有焦糖斑点，是经典粤式点心中最易上手的版本。主要成分鸡蛋和牛奶提供了优质蛋白质与钙质，适合作为家庭小点心。整个操作只需组装和烘烤，对完全零基础的新手也很友好，从预热烤箱到出炉约需 40 分钟。",
+  "difficulty": 3,
+  "calories": 137,
+  "duration_min": 40,
+  "category": "其他",
+  "tags": [
+    "甜品",
+    "蛋挞",
+    "粤式点心",
+    "烘焙",
+    "新手友好"
+  ],
+  "ingredients": [
+    {
+      "name": "蛋挞液",
+      "amount": "10ml/个",
+      "buying_tip": "可网购或在附近的大超市（如家乐福、沃尔玛）购买成品盒装",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蛋挞皮",
+      "amount": "1个",
+      "buying_tip": "可网购或在附近的大超市（如家乐福、沃尔玛）购买成品盒装",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "碎芝士",
+      "amount": "10g",
+      "buying_tip": "用于制作芝士蛋挞，根据个人口味添加",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "烤箱",
+    "隔热手套",
+    "烤盘"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "蛋挞皮",
+        "expr": "1 * n"
+      },
+      {
+        "name": "蛋挞液",
+        "expr": "10ml * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "预热烤箱",
+      "instruction": "烤箱设置 200 度，预热 10 分钟",
+      "duration_sec": 600,
+      "tips": [
+        "有上下火功能的烤箱效果最佳"
+      ],
+      "produces": "预热好的烤箱",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lan-ren-dan-ta/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "装填蛋挞",
+      "instruction": "在烤盘上放上蛋挞皮，蛋挞皮中倒入蛋挞液约 10ml，通常倒入 4/5 即可",
+      "duration_sec": 120,
+      "tips": [
+        "具体分量需要看蛋挞皮大小",
+        "如果想做芝士蛋挞，此时可加入10g碎芝士"
+      ],
+      "produces": "蛋挞半成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lan-ren-dan-ta/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "烘烤",
+      "instruction": "将烤盘放入烤箱内，上下火 190 度，烤 10 - 20 分钟",
+      "duration_sec": 900,
+      "tips": [
+        "如果想快速烤出蛋挞液上的焦褐斑点，可将上火调高至 200 - 210 度"
+      ],
+      "produces": "烤制中的蛋挞",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lan-ren-dan-ta/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "出炉",
+      "instruction": "观察蛋挞液烤出焦褐斑点，蛋挞皮完全蓬松冒油即可出炉",
+      "duration_sec": 60,
+      "tips": [
+        "取出时务必佩戴隔热手套防止烫伤",
+        "可以根据焦褐斑大小适当调整最后几分钟的时间"
+      ],
+      "produces": "蛋挞成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_lan-ren-dan-ta/step_4.jpg"
+    }
+  ],
+  "tips": [
+    "操作时，可以根据焦褐斑大小适当调整时间",
+    "可以在蛋挞中加 10g 碎芝士，制作芝士蛋挞",
+    "蛋挞液倒入 4/5 最佳，防止受热溢出"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_lan-ren-dan-ta.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_lan-ren-dan-ta_overview.jpg",
+  "id": "other_lan-ren-dan-ta",
+  "status": "published"
+}

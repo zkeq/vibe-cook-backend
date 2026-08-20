@@ -1,0 +1,252 @@
+{
+  "title": "地三鲜",
+  "summary": "地三鲜是东北经典家常菜，茄子软糯、土豆绵香、尖椒清脆，酱香咸鲜十分下饭。食材搭配可提供丰富的维生素与膳食纤维，土豆还带来满足的碳水能量。",
+  "difficulty": 3,
+  "calories": 264,
+  "duration_min": 40,
+  "category": "其他",
+  "tags": [
+    "东北菜",
+    "家常菜",
+    "素菜",
+    "咸鲜酱香"
+  ],
+  "ingredients": [
+    {
+      "name": "茄子",
+      "amount": "200g",
+      "buying_tip": "建议选择表皮紫亮、捏起来有弹性的长茄子",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "土豆",
+      "amount": "150g",
+      "buying_tip": "选择表皮光滑、无发芽的黄心土豆更绵软",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "尖椒",
+      "amount": "3-4个",
+      "buying_tip": "选择颜色翠绿、手感硬挺的鲜尖椒",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "淀粉",
+      "amount": "8g",
+      "buying_tip": "玉米淀粉或土豆淀粉均可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "5g",
+      "buying_tip": "选用大葱葱白部分更香",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "5g",
+      "buying_tip": "老姜去皮切碎",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜",
+      "amount": "15g",
+      "buying_tip": "准备充足的蒜末是地三鲜灵魂所在",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": "15ml",
+      "buying_tip": "使用咸鲜味的豆瓣酱",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "10ml",
+      "buying_tip": "普通生抽即可，用于提鲜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白糖",
+      "amount": "10g",
+      "buying_tip": "用于提鲜和中和酱苦味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "约180ml",
+      "buying_tip": "需准备足够的量进行煎炸",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "清水",
+      "amount": "80ml",
+      "buying_tip": "用于调制料汁",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "厨房纸",
+    "调料碗",
+    "锅盖",
+    "漏勺"
+  ],
+  "servings": {
+    "base": 2,
+    "formula": [
+      {
+        "name": "茄子",
+        "expr": "servings * 100"
+      },
+      {
+        "name": "土豆",
+        "expr": "servings * 75"
+      },
+      {
+        "name": "尖椒",
+        "expr": "servings * 1.75"
+      },
+      {
+        "name": "淀粉",
+        "expr": "servings * 4"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "清洗与去皮",
+      "instruction": "土豆、茄子、尖椒洗净，土豆去皮。",
+      "duration_sec": 120,
+      "tips": [
+        "土豆去皮后若不立刻切块可泡在水里防止氧化"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_di-san-xian/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "食材切块",
+      "instruction": "茄子、土豆切成15g的不规则小块；尖椒顺纹路撕成比土豆、茄子略大25%的块。",
+      "duration_sec": 240,
+      "tips": [
+        "滚刀块可以增加受热面积，更入味"
+      ],
+      "produces": "切好的主料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_di-san-xian/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "食材脱水",
+      "instruction": "尽可能除去青椒表面水分，使用厨房纸或风干半小时。",
+      "duration_sec": 60,
+      "tips": [
+        "此步骤非常重要，可有效防止下锅炸水溅油"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_di-san-xian/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "准备辅料与料汁",
+      "instruction": "葱切段(5g)，姜切沫(5g)，蒜剁碎(15g)并均分为两份。取碗放入生抽10ml、糖10g、淀粉8g、清水80ml搅拌均匀。",
+      "duration_sec": 180,
+      "tips": [
+        "淀粉易沉淀，使用前需再次搅拌"
+      ],
+      "produces": "调料碗",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_di-san-xian/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "煎炸土豆",
+      "instruction": "热锅加150ml油，加入土豆煎炸3-4分钟至金黄色、筷子能扎透，捞出留油。",
+      "duration_sec": 240,
+      "tips": [
+        "土豆需要炸透，口感才会绵香"
+      ],
+      "produces": "炸好的土豆",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_di-san-xian/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "煎炸茄子",
+      "instruction": "加入茄子煎炸2-3分钟至7分熟，待其变软、边缘微焦并吐油后捞出。",
+      "duration_sec": 180,
+      "tips": [
+        "茄子吸油多，炸至吐油状态口感才不油腻"
+      ],
+      "produces": "炸好的茄子",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_di-san-xian/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "过油尖椒",
+      "instruction": "视情况补油，加入尖椒块煎炸约15秒起虎皮后立刻捞出，倒出锅内余油。",
+      "duration_sec": 30,
+      "tips": [
+        "尖椒过油时间极短，注意观察虎皮纹路"
+      ],
+      "produces": "过油的尖椒",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_di-san-xian/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "爆香底料",
+      "instruction": "重新热锅加15ml新底油，中小火爆香葱、姜及一半蒜蓉(7.5g)，再加入豆瓣酱炒出红油。",
+      "duration_sec": 60,
+      "tips": [
+        "豆瓣酱易糊，建议转小火操作"
+      ],
+      "produces": "红油底料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_di-san-xian/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "勾芡与翻炒",
+      "instruction": "倒入调料碗大火高速搅拌至汤汁黏稠，倒入所有食材大火翻炒20秒均匀挂浆。",
+      "duration_sec": 40,
+      "tips": [
+        "动作要快，避免酱汁糊锅"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_di-san-xian/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "撒蒜出锅",
+      "instruction": "关火，撒入剩余的7.5g蒜蓉，翻拌均匀后盛盘。",
+      "duration_sec": 20,
+      "tips": [
+        "最后加入生蒜末是地三鲜提味的关键"
+      ],
+      "produces": "地三鲜成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_di-san-xian/step_10.jpg"
+    }
+  ],
+  "tips": [
+    "糖比淀粉多是合理的，淀粉主要起物理增稠作用，不负责调味。",
+    "茄子煎炸后体积会缩小约4倍，下锅量大出锅量小属于正常物理变化。",
+    "青椒入油锅瞬间易溅油，务必使用锅盖挡在身前保护安全。",
+    "淀粉在调料碗中容易沉淀，入锅前必须再次彻底搅拌均匀。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_di-san-xian.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_di-san-xian_overview.jpg",
+  "id": "other_di-san-xian",
+  "status": "published"
+}

@@ -1,0 +1,195 @@
+{
+  "title": "清蒸鲈鱼",
+  "summary": "清蒸鲈鱼是一道粤式经典蒸菜，鱼肉细嫩爽滑，味道清淡鲜美，能最大程度保留鲈鱼的原汁原味。鲈鱼富含优质蛋白和 DHA，营养丰富且易于消化。这道菜操作简单，对新手非常友好，从备料到出锅大约只需三十分钟。",
+  "difficulty": 3,
+  "calories": 385,
+  "duration_min": 30,
+  "category": "其他",
+  "tags": [
+    "粤式",
+    "蒸菜",
+    "海鲜",
+    "高蛋白",
+    "健康"
+  ],
+  "ingredients": [
+    {
+      "name": "鲈鱼",
+      "amount": "一条",
+      "buying_tip": "害怕杀鱼的同学可以让店家帮忙杀",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香葱",
+      "amount": "三根",
+      "buying_tip": "选择新鲜的小香葱",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "一块",
+      "buying_tip": "老姜去腥效果更好",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "10-15ml",
+      "buying_tip": "清淡的植物油即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒸鱼豉油",
+      "amount": "10-15ml",
+      "buying_tip": "推荐选用专门的蒸鱼豉油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "10-15ml",
+      "buying_tip": "烹饪料酒即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用盐",
+      "amount": "5-10g",
+      "buying_tip": "普通食盐",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "蒸锅",
+    "菜刀",
+    "砧板",
+    "厨房纸",
+    "筷子",
+    "盘子"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鲈鱼",
+        "expr": "1 * n"
+      },
+      {
+        "name": "香葱",
+        "expr": "3 * n"
+      },
+      {
+        "name": "姜",
+        "expr": "1 * n"
+      },
+      {
+        "name": "食用油",
+        "expr": "15 * n"
+      },
+      {
+        "name": "蒸鱼豉油",
+        "expr": "15 * n"
+      },
+      {
+        "name": "料酒",
+        "expr": "15 * n"
+      },
+      {
+        "name": "食用盐",
+        "expr": "10 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理辅料",
+      "instruction": "姜切片切丝、香葱的葱白切段，葱绿切丝，切丝后放入冷水浸泡备用。",
+      "duration_sec": 300,
+      "tips": [
+        "葱丝浸泡冷水会变卷，更美观"
+      ],
+      "produces": "姜葱丝及段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-zheng-lu-yu/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "腌制鲈鱼",
+      "instruction": "鲈鱼处理好后洗净，用厨房纸擦干，两面分别划几刀，用盐洗掉鱼身的粘液，并用 10g 盐抹遍鱼身的内外，腌制 10 分钟以上。",
+      "duration_sec": 600,
+      "tips": [
+        "擦干鱼身有助于去腥"
+      ],
+      "produces": "腌制好的鲈鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-zheng-lu-yu/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "改刀摆盘",
+      "instruction": "采用特殊的改刀方法让鲈鱼立起来蒸，这样可以均匀受热，吃时无需翻面。",
+      "duration_sec": 120,
+      "tips": [
+        "参考步骤图中的改刀方式"
+      ],
+      "produces": "立式摆盘的鲈鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-zheng-lu-yu/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "准备入蒸锅",
+      "instruction": "鱼肚内塞上姜和葱白，鱼身也撒上姜和葱白（用量的一半）。蒸鱼的碟子用筷子将鱼跟碟子隔开。",
+      "duration_sec": 120,
+      "tips": [
+        "用筷子隔开能避免鱼肉接触到腥水，且受热更均匀"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-zheng-lu-yu/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "大火蒸制",
+      "instruction": "水烧热感觉到水温后放入鱼，大火清蒸 10 分钟。",
+      "duration_sec": 600,
+      "tips": [
+        "火候是关键，10分钟内为佳，太久鱼肉会老"
+      ],
+      "produces": "熟鲈鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-zheng-lu-yu/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "更换盘子",
+      "instruction": "蒸好的鱼，用干净的盘子装起来并去除身上的姜葱。",
+      "duration_sec": 60,
+      "tips": [
+        "倒掉原盘中的腥水，换新盘口感更清爽"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-zheng-lu-yu/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "调味与淋油",
+      "instruction": "鱼身浇上 15ml 蒸鱼豉油。重新撒上新鲜姜葱丝。锅内烧热 10ml 食用油，淋至鱼身即可。",
+      "duration_sec": 120,
+      "tips": [
+        "热油激发出葱姜的香味是点睛之笔"
+      ],
+      "produces": "完成的清蒸鲈鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-zheng-lu-yu/step_7.jpg"
+    }
+  ],
+  "tips": [
+    "关键点在于火候，大火蒸鱼一般 10 分钟内较佳，太久会影响口感。",
+    "切记蒸鱼需要用筷子隔开装鱼的盘子，防止鱼肉沾染腥水并保证受热均匀。",
+    "改刀让鱼立起来不仅美观，还能提高烹饪效率。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_qing-zheng-lu-yu.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_qing-zheng-lu-yu_overview.jpg",
+  "id": "other_qing-zheng-lu-yu",
+  "status": "published"
+}

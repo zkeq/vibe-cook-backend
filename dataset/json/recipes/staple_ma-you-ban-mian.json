@@ -1,0 +1,184 @@
+{
+  "title": "麻油拌面",
+  "summary": "麻油香气浓郁，搭配老抽与胡椒粉简单调味，咸香适口，是一道省时省钱的家常拌面。面条提供充足碳水化合物，麻油含有不饱和脂肪酸与维生素 E，能为身体补充能量。制作毫无难度，厨房新手也能轻松上手，从煮水到拌好只需大约十分钟。",
+  "difficulty": 1,
+  "calories": 451,
+  "duration_min": 10,
+  "category": "主食",
+  "tags": [
+    "拌面",
+    "麻油",
+    "快手菜",
+    "省钱",
+    "懒人料理"
+  ],
+  "ingredients": [
+    {
+      "name": "风干快熟面",
+      "amount": "1块",
+      "buying_tip": "选择任何牌子的快熟面即可，不需要自带调味料包",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "麻油",
+      "amount": "15ml",
+      "buying_tip": "选用纯正芝麻油，香气更浓郁",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "10g",
+      "buying_tip": "用于上色，使面条色泽红亮诱人",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "胡椒粉",
+      "amount": "10g",
+      "buying_tip": "白胡椒粉或黑胡椒粉均可，根据个人口味调整",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "30g",
+      "buying_tip": "普通食用盐即可",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "5g",
+      "buying_tip": "增加咸鲜度，可选",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "水",
+      "amount": "1升",
+      "buying_tip": "自来水或纯净水",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "煮锅",
+    "滤网",
+    "面碗",
+    "筷子"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "快熟面",
+        "expr": "1 * n"
+      },
+      {
+        "name": "麻油",
+        "expr": "15 * n"
+      },
+      {
+        "name": "老抽",
+        "expr": "10 * n"
+      },
+      {
+        "name": "胡椒粉",
+        "expr": "10 * n"
+      },
+      {
+        "name": "生抽",
+        "expr": "5 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "煮水",
+      "instruction": "将水倒入锅中并煮沸。",
+      "duration_sec": 300,
+      "tips": [
+        "喜欢吃 Q 弹面的同学，可在水里加入 30 克盐，用盐水煮出来的面会比较 Q 弹"
+      ],
+      "produces": "沸水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ma-you-ban-mian/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "下入面条",
+      "instruction": "将快熟面放入锅中煮 3 分钟。",
+      "duration_sec": 180,
+      "tips": [
+        "也可参考当下品牌快熟面包装上的建议烹饪时间"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ma-you-ban-mian/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "搅拌受热",
+      "instruction": "当面开始散了可以开始搅拌，让面受热均匀。",
+      "duration_sec": 60,
+      "tips": [
+        "轻轻拨动，防止面条粘连"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ma-you-ban-mian/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "沥水装碗",
+      "instruction": "将水滤干，把面倒入碗中。",
+      "duration_sec": 30,
+      "tips": [
+        "尽量沥干水分，否则会稀释酱汁浓度"
+      ],
+      "produces": "熟面条",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ma-you-ban-mian/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "加入调料",
+      "instruction": "按照计量放入麻油、老抽、胡椒粉、生抽（可选）。",
+      "duration_sec": 40,
+      "tips": [
+        "根据个人口味可微调胡椒粉分量"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ma-you-ban-mian/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "搅拌均匀",
+      "instruction": "使用筷子将调料与面条搅拌均匀。",
+      "duration_sec": 30,
+      "tips": [
+        "确保每一根面条都裹上麻油和老抽"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ma-you-ban-mian/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "完成",
+      "instruction": "一道简单即省钱的懒人麻油拌面就完成啦。",
+      "duration_sec": 10,
+      "tips": [
+        "趁热食用口感最佳"
+      ],
+      "produces": "麻油拌面",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ma-you-ban-mian/step_7.jpg"
+    }
+  ],
+  "tips": [
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request",
+    "30g 盐仅用于煮面水，不会被全部食用，主要作用是增加面条韧性"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_ma-you-ban-mian.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_ma-you-ban-mian_overview.jpg",
+  "id": "staple_ma-you-ban-mian",
+  "status": "published"
+}

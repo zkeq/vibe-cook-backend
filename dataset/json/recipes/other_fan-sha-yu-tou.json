@@ -1,0 +1,160 @@
+{
+  "title": "反沙芋头",
+  "summary": "反沙芋头是一道外酥里糯、甜香可口的潮汕传统小吃，常作下午茶点。荔浦芋头富含膳食纤维、钾和多种维生素，能提供持久饱腹感。",
+  "difficulty": 3,
+  "calories": 397,
+  "duration_min": 20,
+  "category": "其他",
+  "tags": [
+    "潮汕小吃",
+    "甜点",
+    "下午茶",
+    "中式点心"
+  ],
+  "ingredients": [
+    {
+      "name": "荔浦芋头",
+      "amount": "200g",
+      "buying_tip": "电商平台购买即可，实惠新鲜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白砂糖",
+      "amount": "30g",
+      "buying_tip": "也可以使用等量冰糖",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "水",
+      "amount": "15g",
+      "buying_tip": "建议使用纯净水",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "少许",
+      "buying_tip": "新鲜小葱即可",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "食用油",
+      "amount": "适量（需没过芋头）",
+      "buying_tip": "普通植物油即可",
+      "optional": false,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "菜刀",
+    "砧板",
+    "炒锅",
+    "筷子",
+    "漏勺"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "荔浦芋头",
+        "expr": "200 * $servings"
+      },
+      {
+        "name": "白砂糖",
+        "expr": "30 * $servings"
+      },
+      {
+        "name": "水",
+        "expr": "15 * $servings"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "切条备用",
+      "instruction": "芋头切成长条。",
+      "duration_sec": 180,
+      "tips": [
+        "稍微大条一点，翻炒过程不容易烂"
+      ],
+      "produces": "芋头条",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_fan-sha-yu-tou/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "热油",
+      "instruction": "锅中加入可以没过芋头的油，加热至油温升高。",
+      "duration_sec": 120,
+      "tips": [
+        "插入筷子冒小泡即可判断油温"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_fan-sha-yu-tou/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "油炸芋头",
+      "instruction": "将芋头条放入油中炸至浮起。",
+      "duration_sec": 300,
+      "tips": [
+        "一般炸至微微泛黄且可以用筷子很轻松戳洞即可"
+      ],
+      "produces": "炸熟的芋头",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_fan-sha-yu-tou/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "回收炸油",
+      "instruction": "将炸芋头的油盛起存放。",
+      "duration_sec": 60,
+      "tips": [
+        "炸油别浪费，后面炒菜等都能用"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_fan-sha-yu-tou/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "熬制糖浆",
+      "instruction": "将30g白砂糖和15g水按照2:1比例倒入锅中加热。",
+      "duration_sec": 180,
+      "tips": [
+        "加热至不变色且冒小泡"
+      ],
+      "produces": "糖浆",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_fan-sha-yu-tou/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "关火反沙",
+      "instruction": "倒入葱花和炸好的芋头，立即关火翻炒。",
+      "duration_sec": 120,
+      "tips": [
+        "此时等温度下来，糖就会有反沙的效果"
+      ],
+      "produces": "反沙芋头",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_fan-sha-yu-tou/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "装盘",
+      "instruction": "将成品装入盘中即可上桌。",
+      "duration_sec": 60,
+      "tips": [],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_fan-sha-yu-tou/step_7.jpg"
+    }
+  ],
+  "tips": [
+    "刚做好的反沙芋头很烫，小心烫嘴哦",
+    "再配上茶，啊~真惬意啊"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_fan-sha-yu-tou.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_fan-sha-yu-tou_overview.jpg",
+  "id": "other_fan-sha-yu-tou",
+  "status": "published"
+}

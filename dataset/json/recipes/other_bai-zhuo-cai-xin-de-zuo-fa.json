@@ -1,0 +1,197 @@
+{
+  "title": "白灼菜心的做法",
+  "summary": "这道经典粤菜采用白灼技法，沸水快焯保留菜心的清甜与脆嫩，根茎尤为爽口，味道清淡鲜美。富含维生素 C 和膳食纤维，低脂低热量，适合追求健康饮食的人群。做法非常简单，预估难度仅两星，一般初学者只需 15 分钟即可完成，是快速补充绿叶蔬菜的理想选择。",
+  "difficulty": 2,
+  "calories": 86,
+  "duration_min": 15,
+  "category": "其他",
+  "tags": [
+    "粤菜",
+    "白灼",
+    "素食",
+    "健康饮食",
+    "快手菜"
+  ],
+  "ingredients": [
+    {
+      "name": "新鲜菜心",
+      "amount": "250g",
+      "buying_tip": "选择梗肥厚且没有开花的比较嫩",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "10g",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "5g",
+      "buying_tip": "优质酿造生抽",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蚝油",
+      "amount": "5g",
+      "buying_tip": "提鲜必备",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食盐",
+      "amount": "5g",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白糖",
+      "amount": "3g",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大蒜",
+      "amount": "4-5瓣",
+      "buying_tip": "颗粒饱满的",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "小米辣",
+      "amount": "1-2根",
+      "buying_tip": "新鲜的",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "清水",
+      "amount": "600ml",
+      "buying_tip": "100g用于调汁，500ml用于白灼",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "洋葱",
+      "amount": "少许",
+      "buying_tip": "",
+      "optional": true,
+      "per_serving": false
+    },
+    {
+      "name": "姜丝",
+      "amount": "少许",
+      "buying_tip": "",
+      "optional": true,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "煮锅",
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "调料碗"
+  ],
+  "servings": {
+    "base": 2,
+    "formula": [
+      {
+        "name": "新鲜菜心",
+        "expr": "250 * n / 2"
+      },
+      {
+        "name": "食用油",
+        "expr": "10 * n / 2"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "预处理菜心",
+      "instruction": "菜心洗净，去除根部比较硬或老的地方。用刀刮掉根茎外面那层比较硬的皮，使内部更可口。",
+      "duration_sec": 180,
+      "tips": [
+        "刮掉外皮可以显著提升根茎的口感"
+      ],
+      "produces": "处理好的菜心",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bai-zhuo-cai-xin-de-zuo-fa/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "准备配料",
+      "instruction": "大蒜切成蒜末，如有洋葱可顺便切点洋葱碎。",
+      "duration_sec": 60,
+      "tips": [],
+      "produces": "蒜末及洋葱碎",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bai-zhuo-cai-xin-de-zuo-fa/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "调制灵魂料汁",
+      "instruction": "取小碗，加入生抽 5g、蚝油 5g、糖 3g 和 100g 清水搅拌均匀。",
+      "duration_sec": 60,
+      "tips": [
+        "如果希望汤汁更容易挂在菜心上，可以适当添加一点淀粉"
+      ],
+      "produces": "料汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bai-zhuo-cai-xin-de-zuo-fa/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "准备灼烫用水",
+      "instruction": "锅中倒入 500ml 清水，加入 5g 盐和 10g 食用油，大火烧开。",
+      "duration_sec": 300,
+      "tips": [
+        "加盐和油是保持蔬菜翠绿的关键"
+      ],
+      "produces": "白灼水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bai-zhuo-cai-xin-de-zuo-fa/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "白灼菜心",
+      "instruction": "先将菜心根茎放入沸水中烫 1 分钟至深绿，再将整个菜心放入烫 1 分钟，捞出码入盘中。",
+      "duration_sec": 120,
+      "tips": [
+        "注意根茎白灼时长，时间太长根茎就不脆了"
+      ],
+      "produces": "熟菜心",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bai-zhuo-cai-xin-de-zuo-fa/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "炒制料汁",
+      "instruction": "另起小锅倒油，五成热后爆香蒜末、洋葱碎，倒入兑好的料汁，加入姜丝和小米辣煮开。",
+      "duration_sec": 120,
+      "tips": [
+        "蒜末是灵魂，建议量足一些"
+      ],
+      "produces": "热料汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bai-zhuo-cai-xin-de-zuo-fa/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "浇汁完成",
+      "instruction": "料汁稍微收汁煮沸后，直接均匀浇在码好的菜心上。",
+      "duration_sec": 30,
+      "tips": [],
+      "produces": "白灼菜心成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bai-zhuo-cai-xin-de-zuo-fa/step_7.jpg"
+    }
+  ],
+  "tips": [
+    "选择菜心一定要非常新鲜",
+    "锅内烧清水白灼时一定要加入油和盐"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_bai-zhuo-cai-xin-de-zuo-fa.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_bai-zhuo-cai-xin-de-zuo-fa_overview.jpg",
+  "id": "other_bai-zhuo-cai-xin-de-zuo-fa",
+  "status": "published"
+}

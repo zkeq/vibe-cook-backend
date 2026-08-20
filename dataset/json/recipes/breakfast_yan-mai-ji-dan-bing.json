@@ -1,0 +1,180 @@
+{
+  "title": "燕麦鸡蛋饼",
+  "summary": "燕麦鸡蛋饼是一道快手营养早餐，口感软嫩，带有燕麦的谷物香气与蛋奶的醇厚，属于家常简约风格。富含蛋白质、碳水化合物和膳食纤维，能为身体提供充足能量，尤其适合健身人士和工作日早晨。做法简单，对新手友好，从备料到出锅通常只需十几分钟。",
+  "difficulty": 2,
+  "calories": 535,
+  "duration_min": 15,
+  "category": "早餐",
+  "tags": [
+    "快手",
+    "营养",
+    "健身",
+    "高蛋白",
+    "低脂"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": "2个",
+      "buying_tip": "建议选用新鲜鸡蛋，追求低脂可选择两个蛋清一个蛋黄",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "纯干燕麦片",
+      "amount": "50g",
+      "buying_tip": "选用颗粒完整的纯干燕麦片，口感和营养更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "牛奶",
+      "amount": "250ml",
+      "buying_tip": "一盒普通纯牛奶即可，50-100g用于搅拌，余下搭配饮用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蔬菜碎叶",
+      "amount": "50g",
+      "buying_tip": "可选用菠菜等绿叶菜，切碎备用",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "黄油",
+      "amount": "适量",
+      "buying_tip": "用于防粘并增加奶香，可用橄榄油替代",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "盐/胡椒",
+      "amount": "适量",
+      "buying_tip": "根据个人咸淡口味准备",
+      "optional": true,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "平底锅",
+    "搅拌碗",
+    "铲子"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鸡蛋",
+        "expr": "2 * servings"
+      },
+      {
+        "name": "纯干燕麦片",
+        "expr": "50 * servings"
+      },
+      {
+        "name": "牛奶",
+        "expr": "250 * servings"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "混合燕麦牛奶",
+      "instruction": "将部分牛奶与干燕麦混合搅拌均匀至黏稠状。",
+      "duration_sec": 60,
+      "tips": [
+        "牛奶量能够将燕麦搅拌粘稠即可"
+      ],
+      "produces": "燕麦牛奶糊",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yan-mai-ji-dan-bing/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "打散鸡蛋",
+      "instruction": "将鸡蛋搅拌均匀至颜色单一程度。",
+      "duration_sec": 60,
+      "tips": [
+        "充分搅拌确保蛋液细腻"
+      ],
+      "produces": "蛋液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yan-mai-ji-dan-bing/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "混合浆料",
+      "instruction": "将鸡蛋液倒入燕麦牛奶中继续搅拌至黏稠、均匀。",
+      "duration_sec": 60,
+      "tips": [
+        "此时可根据口味加入盐或胡椒调味"
+      ],
+      "produces": "饼浆",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yan-mai-ji-dan-bing/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "热锅抹油",
+      "instruction": "平底锅中加入一层黄油并覆盖均匀。",
+      "duration_sec": 30,
+      "tips": [
+        "黄油能提升香气，注意火候不要过大"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yan-mai-ji-dan-bing/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "下锅摊饼",
+      "instruction": "下入搅拌好的食材，并摊开至饼状。",
+      "duration_sec": 60,
+      "tips": [
+        "尽量摊得厚薄均匀"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yan-mai-ji-dan-bing/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "小火煎制",
+      "instruction": "小火加热两到三分钟。如想要加入蔬菜，可以在加热过程中加入碎菜叶。",
+      "duration_sec": 180,
+      "tips": [
+        "一定要用小火，避免燕麦煎糊"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yan-mai-ji-dan-bing/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "翻面加热",
+      "instruction": "翻面继续加热两分钟。",
+      "duration_sec": 120,
+      "tips": [
+        "待底面成型后再小心翻面"
+      ],
+      "produces": "熟面饼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yan-mai-ji-dan-bing/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "出锅装盘",
+      "instruction": "出锅，搭配剩下的牛奶作为早餐。",
+      "duration_sec": 30,
+      "tips": [
+        "趁热食用口感最软嫩"
+      ],
+      "produces": "燕麦鸡蛋饼早餐",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yan-mai-ji-dan-bing/step_8.jpg"
+    }
+  ],
+  "tips": [
+    "如果口味偏咸口，可以在搅拌鸡蛋液时加入盐，胡椒等调料。",
+    "煎饼时使用小火，避免燕麦部分煎糊。",
+    "牛奶总量250ml中，约50-100g用于和面，其余可直接饮用。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_yan-mai-ji-dan-bing.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_yan-mai-ji-dan-bing_overview.jpg",
+  "id": "breakfast_yan-mai-ji-dan-bing",
+  "status": "published"
+}

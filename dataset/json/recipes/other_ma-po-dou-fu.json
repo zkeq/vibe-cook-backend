@@ -1,0 +1,294 @@
+{
+  "title": "麻婆豆腐",
+  "summary": "这道香辣滑嫩的豆腐菜以咸鸭蛋替代传统豆瓣酱，咸鲜中带着微麻微辣，格外开胃下饭。富含优质蛋白和钙、铁等多种微量元素。制作难度适中，对新手友好，全程约需 40 分钟。",
+  "difficulty": 3,
+  "calories": 476,
+  "duration_min": 40,
+  "category": "其他",
+  "tags": [
+    "川菜",
+    "豆腐",
+    "咸鸭蛋",
+    "创新菜",
+    "下饭"
+  ],
+  "ingredients": [
+    {
+      "name": "内脂豆腐",
+      "amount": "1盒",
+      "buying_tip": "推荐清美品牌",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "咸鸭蛋",
+      "amount": "1枚",
+      "buying_tip": "推荐留夫鸭的，这个是灵魂",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "五花肉",
+      "amount": "20-30g",
+      "buying_tip": "超市的肉糜也行",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大蒜",
+      "amount": "两瓣",
+      "buying_tip": "普通大蒜即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生姜",
+      "amount": "2片",
+      "buying_tip": "普通生姜即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "小米椒",
+      "amount": "5根",
+      "buying_tip": "不吃辣的可选",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "香辣酱",
+      "amount": "5g",
+      "buying_tip": "推荐广乐的",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "花椒",
+      "amount": "20颗",
+      "buying_tip": "普通花椒",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食盐",
+      "amount": "3g",
+      "buying_tip": "普通食盐",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酱油",
+      "amount": "10g",
+      "buying_tip": "推荐味极鲜酱油",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "水果刀",
+    "菜刀",
+    "砧板",
+    "炒锅",
+    "锅铲"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "内脂豆腐",
+        "expr": "1 * n"
+      },
+      {
+        "name": "咸鸭蛋",
+        "expr": "1 * n"
+      },
+      {
+        "name": "五花肉",
+        "expr": "25 * n"
+      },
+      {
+        "name": "大蒜",
+        "expr": "2 * n"
+      },
+      {
+        "name": "生姜",
+        "expr": "2 * n"
+      },
+      {
+        "name": "小米椒",
+        "expr": "5 * n"
+      },
+      {
+        "name": "香辣酱",
+        "expr": "5 * n"
+      },
+      {
+        "name": "花椒",
+        "expr": "20 * n"
+      },
+      {
+        "name": "食盐",
+        "expr": "3 * n"
+      },
+      {
+        "name": "酱油",
+        "expr": "10 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理辅料",
+      "instruction": "大蒜和生姜切碎，备用",
+      "duration_sec": 60,
+      "tips": [
+        "切得越碎越入味"
+      ],
+      "produces": "姜蒜末",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ma-po-dou-fu/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "处理辣椒",
+      "instruction": "小米辣切成辣椒圈，备用",
+      "duration_sec": 30,
+      "tips": [
+        "怕辣可以去籽"
+      ],
+      "produces": "辣椒圈",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ma-po-dou-fu/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "处理肉糜",
+      "instruction": "五花肉切成肉糜（本来就是买的肉糜的跳过）",
+      "duration_sec": 180,
+      "tips": [
+        "带点肥肉口感更好"
+      ],
+      "produces": "肉糜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ma-po-dou-fu/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "腌制肉糜",
+      "instruction": "肉糜中加入一半的食盐和味极鲜酱油，搅拌均匀，备用",
+      "duration_sec": 60,
+      "tips": [
+        "提前腌制可以去腥增鲜"
+      ],
+      "produces": "腌制好的肉糜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ma-po-dou-fu/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "处理咸鸭蛋",
+      "instruction": "鸭蛋用菜刀竖着对半切开，去除蛋黄，剩下的蛋白捣碎成大约 2 mm * 2 mm 大小",
+      "duration_sec": 120,
+      "tips": [
+        "一定要去除蛋黄，不然会腥",
+        "蛋白不用太碎，保留口感"
+      ],
+      "produces": "蛋白碎",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ma-po-dou-fu/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "切豆腐",
+      "instruction": "打开豆腐包装，用水果刀将在盒子中的豆腐划成大约 2.5 cm * 3 cm 大小，备用",
+      "duration_sec": 60,
+      "tips": [
+        "在盒子里切可以保持豆腐完整"
+      ],
+      "produces": "豆腐块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ma-po-dou-fu/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "热锅起油",
+      "instruction": "热锅，锅内放入 10ml - 15ml 食用油。等待 10 秒让油温升高",
+      "duration_sec": 20,
+      "tips": [
+        "油温不宜过高，防止后续香料糊掉"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ma-po-dou-fu/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "炒香底料",
+      "instruction": "调成小火，放入大蒜、生姜、辣椒圈、花椒、咸鸭蛋、蒜蓉辣酱翻炒 20 秒，炒出香味",
+      "duration_sec": 20,
+      "tips": [
+        "一定要小火，防止辣椒和花椒发苦"
+      ],
+      "produces": "香料底油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ma-po-dou-fu/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "炒肉糜",
+      "instruction": "调成中火，放入肉糜，翻炒大约 1 分钟，肉炒变色",
+      "duration_sec": 60,
+      "tips": [
+        "肉糜炒散，不要成团"
+      ],
+      "produces": "肉糜底料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ma-po-dou-fu/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "下豆腐",
+      "instruction": "调成小火，放入豆腐，将剩下的食盐、味极鲜酱油酱油均匀的洒在豆腐上",
+      "duration_sec": 30,
+      "tips": [
+        "豆腐很嫩，动作要轻"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ma-po-dou-fu/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "加水焖煮",
+      "instruction": "从锅边倒入开水，没过豆腐即可",
+      "duration_sec": 30,
+      "tips": [
+        "必须加开水，且从锅边倒，不然豆腐容易破"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ma-po-dou-fu/step_11.jpg"
+    },
+    {
+      "index": 12,
+      "title": "大火收汁",
+      "instruction": "开大火，水沸腾后立马转入中火，等待大约 10 分钟",
+      "duration_sec": 600,
+      "tips": [
+        "中火慢炖让豆腐入味"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ma-po-dou-fu/step_12.jpg"
+    },
+    {
+      "index": 13,
+      "title": "出锅",
+      "instruction": "等到水只剩 1/5 并且豆腐表面已经入色，关火，盛盘",
+      "duration_sec": 30,
+      "tips": [
+        "汤汁不要收太干，留一点拌饭更好吃"
+      ],
+      "produces": "成品麻婆豆腐",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ma-po-dou-fu/step_13.jpg"
+    }
+  ],
+  "tips": [
+    "期间一定要注意观察，防止糊锅",
+    "咸鸭蛋的蛋白已有咸味，盐量请根据口味酌情添加",
+    "内脂豆腐易碎，操作全程尽量减少翻动"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ma-po-dou-fu.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ma-po-dou-fu_overview.jpg",
+  "id": "other_ma-po-dou-fu",
+  "status": "published"
+}

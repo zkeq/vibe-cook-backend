@@ -1,0 +1,123 @@
+{
+  "title": "炒滑蛋",
+  "summary": "炒滑蛋是一道口感嫩滑、蛋香浓郁的经典家常菜，带有淡淡的奶香。鸡蛋富含优质蛋白质和多种维生素，营养丰富，易于吸收。做法非常友好，新手也能轻松掌握，从备料到出锅只需约 5 分钟，是忙碌时快速补充能量的理想选择。",
+  "difficulty": 1,
+  "calories": 391,
+  "duration_min": 5,
+  "category": "其他",
+  "tags": [
+    "家常菜",
+    "快手菜",
+    "蛋料理",
+    "高蛋白"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": "4颗",
+      "buying_tip": "最好选择无菌蛋，口感更安心且卫生",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "牛奶",
+      "amount": "30ml",
+      "buying_tip": "全脂牛奶能提供更好的奶香味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "10ml",
+      "buying_tip": "使用烟点较高的植物油即可",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "平底锅",
+    "锅铲",
+    "搅拌碗"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鸡蛋",
+        "expr": "4 * n"
+      },
+      {
+        "name": "牛奶",
+        "expr": "30 * n"
+      },
+      {
+        "name": "食用油",
+        "expr": "10 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "准备蛋液",
+      "instruction": "鸡蛋加入牛奶以及 5ml 食用油搅拌均匀，备用",
+      "duration_sec": 60,
+      "tips": [
+        "加入少量食用油可以使炒出的蛋更加润滑"
+      ],
+      "produces": "混合蛋液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-hua-dan/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "热锅",
+      "instruction": "大火烧热平底锅约 30s, 加入 5ml 食用油",
+      "duration_sec": 30,
+      "tips": [
+        "平底锅受热更均匀，适合做滑蛋"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-hua-dan/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "入锅",
+      "instruction": "烧 30s 转小火, 并且放入搅拌好的鸡蛋",
+      "duration_sec": 30,
+      "tips": [
+        "一定要转小火，防止鸡蛋底部过快变硬"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-hua-dan/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "推滑",
+      "instruction": "在锅中静置 5 秒后，用锅铲将蛋液从边缘缓慢推向中间",
+      "duration_sec": 20,
+      "tips": [
+        "动作要慢，这是形成漂亮褶皱和滑嫩口感的关键"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-hua-dan/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "凝固出锅",
+      "instruction": "翻炒至鸡蛋大致凝固后关火，装盘",
+      "duration_sec": 10,
+      "tips": [
+        "利用余温让蛋液完全凝固，不要在火上停留太久"
+      ],
+      "produces": "炒滑蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-hua-dan/step_5.jpg"
+    }
+  ],
+  "tips": [
+    "最后可根据个人口味撒些黑胡椒或者盐来调味。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_chao-hua-dan.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_chao-hua-dan_overview.jpg",
+  "id": "other_chao-hua-dan",
+  "status": "published"
+}

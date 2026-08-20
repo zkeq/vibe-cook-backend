@@ -1,0 +1,246 @@
+{
+  "title": "香干芹菜炒肉",
+  "summary": "香干芹菜炒肉是一道家常小炒，豆干柔韧、芹菜爽脆、猪肉嫩滑，咸鲜微辣。芹菜富含膳食纤维，豆干和猪肉提供优质植物蛋白与动物蛋白。做法简单，对新手友好，从备料到出锅大约只需 30 分钟。",
+  "difficulty": 3,
+  "calories": 741,
+  "duration_min": 30,
+  "category": "其他",
+  "tags": [
+    "家常菜",
+    "中式小炒",
+    "高蛋白",
+    "快手菜"
+  ],
+  "ingredients": [
+    {
+      "name": "豆干",
+      "amount": "150g",
+      "buying_tip": "选择柔韧且有弹性的烟熏香干或普通豆干",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香芹",
+      "amount": "4 根",
+      "buying_tip": "香芹较细，口感更爽脆，若买不到可用普通芹菜代替",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "猪肉",
+      "amount": "200g",
+      "buying_tip": "建议选用里脊肉或瘦肉，切薄片口感更嫩",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜头",
+      "amount": "2 瓣",
+      "buying_tip": "挑选饱满无发霉的蒜瓣",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "辣椒",
+      "amount": "4 个",
+      "buying_tip": "青椒或红椒均可，根据个人嗜辣程度选择",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "花椒",
+      "amount": "6 粒",
+      "buying_tip": "可选，用于增香，也可用花椒水代替",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "5g",
+      "buying_tip": "普通食盐即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡精",
+      "amount": "3g",
+      "buying_tip": "可选，用于提鲜",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "8ml",
+      "buying_tip": "用于给猪肉上色",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蚝油",
+      "amount": "5ml",
+      "buying_tip": "增加咸鲜味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "10-15ml",
+      "buying_tip": "普通植物油即可",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板"
+  ],
+  "servings": {
+    "base": 2,
+    "formula": [
+      {
+        "name": "豆干",
+        "expr": "150 * n"
+      },
+      {
+        "name": "香芹",
+        "expr": "4 * n"
+      },
+      {
+        "name": "猪肉",
+        "expr": "200 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "准备芹菜",
+      "instruction": "芹菜去叶切段、切成不超过 4cm 的条状，备用",
+      "duration_sec": 180,
+      "tips": [
+        "芹菜叶可以留下做凉拌菜或煎蛋"
+      ],
+      "produces": "芹菜段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-gan-qin-cai-chao-rou/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "准备香干",
+      "instruction": "香干切条，宽约小拇指，备用",
+      "duration_sec": 120,
+      "tips": [
+        "厚度要均匀，方便受热一致"
+      ],
+      "produces": "香干条",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-gan-qin-cai-chao-rou/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "处理辅料：蒜",
+      "instruction": "蒜头切片或者剁成蒜泥都行，备用",
+      "duration_sec": 60,
+      "tips": [
+        "蒜泥的味道会比蒜片更浓郁"
+      ],
+      "produces": "蒜片/蒜泥",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-gan-qin-cai-chao-rou/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "处理辅料：辣椒",
+      "instruction": "辣椒切圈或者斜切成条都行，备用",
+      "duration_sec": 60,
+      "tips": [
+        "怕辣的可以去掉辣椒籽"
+      ],
+      "produces": "辣椒段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-gan-qin-cai-chao-rou/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "热锅凉油",
+      "instruction": "热锅，锅内放入 10ml - 15ml 食用油。等待 10 秒让油温升高",
+      "duration_sec": 30,
+      "tips": [
+        "热锅凉油可以防止肉片粘锅"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-gan-qin-cai-chao-rou/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "爆香底料",
+      "instruction": "放入花椒、大蒜爆香（可以吃姜的也可以额外放入一些姜片/姜丝）",
+      "duration_sec": 30,
+      "tips": [
+        "注意火候，不要把花椒炸糊，否则会有苦味"
+      ],
+      "produces": "香油底料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-gan-qin-cai-chao-rou/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "炒肉上色",
+      "instruction": "加入猪肉炒至变色，再加入 8ml 老抽上色翻炒均匀（有豆瓣酱的，可以放入 3ml 豆瓣酱一起翻炒）",
+      "duration_sec": 180,
+      "tips": [
+        "豆瓣酱有咸味，后续加盐需适量减少"
+      ],
+      "produces": "上色肉片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-gan-qin-cai-chao-rou/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "加入香干",
+      "instruction": "加入香干翻炒均匀（大约 2 分钟）",
+      "duration_sec": 120,
+      "tips": [
+        "让香干吸收肉汁和老抽的味道"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-gan-qin-cai-chao-rou/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "加入辣椒",
+      "instruction": "加入辣椒翻炒均匀（大约 1-2 分钟）",
+      "duration_sec": 90,
+      "tips": [
+        "辣椒炒至断生即可"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-gan-qin-cai-chao-rou/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "加入芹菜调味",
+      "instruction": "加入芹菜，放入 5g 盐翻炒 1 分钟",
+      "duration_sec": 60,
+      "tips": [
+        "芹菜不宜久炒，否则会失去脆感"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-gan-qin-cai-chao-rou/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "出锅前调味",
+      "instruction": "加入 3g 鸡精、 5ml 蚝油翻炒均匀，即可出锅",
+      "duration_sec": 30,
+      "tips": [
+        "蚝油最后放可以保持其鲜味"
+      ],
+      "produces": "香干芹菜炒肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-gan-qin-cai-chao-rou/step_11.jpg"
+    }
+  ],
+  "tips": [
+    "如果没有买到香芹，或者用的芹菜比较粗，可以考虑焯水，放入滚水中 1 分钟捞出，冷水冲洗（保持爽脆）",
+    "如果买到的豆干比较硬、紧实，也可以切条后再焯水"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_xiang-gan-qin-cai-chao-rou.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_xiang-gan-qin-cai-chao-rou_overview.jpg",
+  "id": "other_xiang-gan-qin-cai-chao-rou",
+  "status": "published"
+}

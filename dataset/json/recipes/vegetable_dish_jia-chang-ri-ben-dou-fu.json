@@ -1,0 +1,277 @@
+{
+  "title": "家常日本豆腐",
+  "summary": "家常日本豆腐是一道外酥里嫩的家常快手菜，金黄脆壳包裹着柔滑的玉子豆腐，搭配青椒、胡萝卜等时蔬，可调成咸鲜或酸甜风味，脆嫩咸香。日本豆腐以鸡蛋为主要原料，富含优质蛋白，加上木耳和蔬菜，营养均衡。需要一点煎豆腐的技巧，难度适中，新手也能尝试，全程大约 30 分钟即可上桌。",
+  "difficulty": 3,
+  "calories": 946,
+  "duration_min": 30,
+  "category": "素菜",
+  "tags": [
+    "家常菜",
+    "日本豆腐",
+    "快手菜",
+    "下饭菜",
+    "高蛋白"
+  ],
+  "ingredients": [
+    {
+      "name": "日本豆腐",
+      "amount": "300g (约3个)",
+      "buying_tip": "选择质地紧实、包装完整的玉子豆腐",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "青椒",
+      "amount": "120g (中等大小1个)",
+      "buying_tip": "选择颜色鲜绿、表皮光滑的青椒",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "胡萝卜",
+      "amount": "50g",
+      "buying_tip": "选择颜色红润、无裂纹的胡萝卜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "火腿肠",
+      "amount": "50g (约1根)",
+      "buying_tip": "可根据个人喜好选择口味",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "黑木耳",
+      "amount": "30g (干重约10g泡发)",
+      "buying_tip": "选择肉质肥厚的黑木耳",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "生粉",
+      "amount": "80g",
+      "buying_tip": "用于包裹豆腐，增加酥脆口感",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "洋葱",
+      "amount": "30g",
+      "buying_tip": "增加香气，可根据喜好添加",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "蒜",
+      "amount": "10g (约2瓣)",
+      "buying_tip": "切末备用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "油",
+      "amount": "160-165ml",
+      "buying_tip": "包含煎豆腐和炒菜所需的总量",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "8ml",
+      "buying_tip": "基础咸味来源",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蚝油",
+      "amount": "15ml",
+      "buying_tip": "提鲜必备",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "2g",
+      "buying_tip": "若放鸡精则减量至0.5g",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡精",
+      "amount": "3g",
+      "buying_tip": "咸鲜口可选添加",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "番茄酱",
+      "amount": "15ml",
+      "buying_tip": "酸甜口核心调料",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白砂糖",
+      "amount": "10g",
+      "buying_tip": "中和酸味，提升口感层次",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "平底锅",
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "平盘"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "日本豆腐",
+        "expr": "300 * n"
+      },
+      {
+        "name": "青椒",
+        "expr": "120 * n"
+      },
+      {
+        "name": "胡萝卜",
+        "expr": "50 * n"
+      },
+      {
+        "name": "火腿肠",
+        "expr": "50 * n"
+      },
+      {
+        "name": "黑木耳",
+        "expr": "30 * n"
+      },
+      {
+        "name": "生粉",
+        "expr": "80 * n"
+      },
+      {
+        "name": "洋葱",
+        "expr": "30 * n"
+      },
+      {
+        "name": "蒜",
+        "expr": "10 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "食材预处理",
+      "instruction": "胡萝卜切片，尖椒切薄块，葱蒜切碎备用。",
+      "duration_sec": 300,
+      "tips": [
+        "胡萝卜尽量切薄，方便成熟"
+      ],
+      "produces": "切好的配菜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jia-chang-ri-ben-dou-fu/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "切豆腐",
+      "instruction": "将日本豆腐从包装中取出，切成厚度约为 1 cm 的圆柱体。",
+      "duration_sec": 120,
+      "tips": [
+        "切的时候动作要轻，防止豆腐碎裂"
+      ],
+      "produces": "豆腐块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jia-chang-ri-ben-dou-fu/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "准备裹粉",
+      "instruction": "将生粉均匀铺在平盘中。",
+      "duration_sec": 30,
+      "tips": [
+        "建议使用大一点的平盘，方便操作"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jia-chang-ri-ben-dou-fu/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "豆腐裹面",
+      "instruction": "轻轻将豆腐块放入粉盘，使上下两面及侧面都均匀裹上薄薄一层生粉。",
+      "duration_sec": 180,
+      "tips": [
+        "不要裹得太厚，否则口感会变硬"
+      ],
+      "produces": "裹粉的豆腐",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jia-chang-ri-ben-dou-fu/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "煎炸豆腐",
+      "instruction": "平底锅倒入约 150 ml 油，油温热后放入豆腐，煎至边缘金黄后翻面，两面均煎至金黄。",
+      "duration_sec": 600,
+      "tips": [
+        "油量要没过豆腐的一半以上",
+        "翻面要轻，避免弄碎脆皮"
+      ],
+      "produces": "金黄豆腐",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jia-chang-ri-ben-dou-fu/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "沥油备用",
+      "instruction": "将煎好的豆腐捞出，放入干净的盘子中备用。",
+      "duration_sec": 60,
+      "tips": [
+        "尽量沥干多余油脂"
+      ],
+      "produces": "煎好的豆腐",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jia-chang-ri-ben-dou-fu/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "炒制配菜",
+      "instruction": "炒锅倒入 10-15 ml 油，放入葱蒜爆香，随后加入青椒、胡萝卜、火腿肠和黑木耳翻炒。",
+      "duration_sec": 180,
+      "tips": [
+        "大火快炒，保持蔬菜清脆"
+      ],
+      "produces": "半成品菜肴",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jia-chang-ri-ben-dou-fu/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "调味",
+      "instruction": "在锅中加入蚝油、生抽、盐、鸡精、白砂糖和番茄酱。",
+      "duration_sec": 60,
+      "tips": [
+        "酸甜或咸鲜口味可根据个人喜好微调比例"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jia-chang-ri-ben-dou-fu/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "混合出锅",
+      "instruction": "放入煎好的豆腐，轻轻翻炒至颜色均匀即可出锅。",
+      "duration_sec": 60,
+      "tips": [
+        "翻炒力度要小，以免豆腐外皮脱落"
+      ],
+      "produces": "家常日本豆腐",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jia-chang-ri-ben-dou-fu/step_9.jpg"
+    }
+  ],
+  "tips": [
+    "煎好的豆腐不要放太久，否则外皮会变软，影响口感",
+    "建议提前准备好所有配料和调料，因为烹饪过程很快",
+    "如果添加了鸡精，盐的用量需大幅减少（约0.5g）或不放"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_jia-chang-ri-ben-dou-fu.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_jia-chang-ri-ben-dou-fu_overview.jpg",
+  "id": "vegetable_dish_jia-chang-ri-ben-dou-fu",
+  "status": "published"
+}

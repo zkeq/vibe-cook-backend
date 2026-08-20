@@ -1,0 +1,255 @@
+{
+  "title": "白菜猪肉炖粉条",
+  "summary": "猪肉白菜炖粉条是东北地区经典的家常炖菜，汤汁浓郁咸鲜，五花肉软烂、粉条吸饱肉香后滑韧入味，白菜清甜解腻。整道菜荤素搭配均衡，能提供蛋白质、维生素和碳水化合物，营养饱腹。",
+  "difficulty": 3,
+  "calories": 1880,
+  "duration_min": 45,
+  "category": "荤菜",
+  "tags": [
+    "东北菜",
+    "炖菜",
+    "家常菜",
+    "五花肉",
+    "下饭菜"
+  ],
+  "ingredients": [
+    {
+      "name": "五花肉",
+      "amount": "300g",
+      "buying_tip": "选择肥瘦相间的下五花肉，口感更佳。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大白菜",
+      "amount": "500g",
+      "buying_tip": "选购叶片紧实、无黑点的黄心大白菜。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "土豆干粉条",
+      "amount": "50g",
+      "buying_tip": "选用优质土豆粉条，口感更滑韧。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "十三香",
+      "amount": "10g",
+      "buying_tip": "市售普通十三香即可。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡精",
+      "amount": "5g",
+      "buying_tip": "用于提鲜，可根据口味调整。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用盐",
+      "amount": "15g",
+      "buying_tip": "普通加碘食盐。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "5ml",
+      "buying_tip": "用于上色，不宜过多。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "5ml",
+      "buying_tip": "用于提鲜增咸。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "15ml",
+      "buying_tip": "普通植物油即可。",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "汤碗",
+    "锅盖"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "五花肉",
+        "expr": "300 * n + 'g'"
+      },
+      {
+        "name": "大白菜",
+        "expr": "500 * n + 'g'"
+      },
+      {
+        "name": "土豆干粉条",
+        "expr": "50 * n + 'g'"
+      },
+      {
+        "name": "十三香",
+        "expr": "10 * n + 'g'"
+      },
+      {
+        "name": "鸡精",
+        "expr": "5 * n + 'g'"
+      },
+      {
+        "name": "食用盐",
+        "expr": "15 * n + 'g'"
+      },
+      {
+        "name": "老抽",
+        "expr": "5 * n + 'ml'"
+      },
+      {
+        "name": "生抽",
+        "expr": "5 * n + 'ml'"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "预处理粉条",
+      "instruction": "锅内烧水，水开后放入干粉条，煮 5 分钟后同水一起倒出容器中，盖上盖子继续浸泡备用。",
+      "duration_sec": 300,
+      "tips": [
+        "第一步先做这个，期间可以进行其他步骤"
+      ],
+      "produces": "泡发中的粉条",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_bai-cai-zhu-rou-dun-fen-tiao/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "切配五花肉",
+      "instruction": "五花肉切成 3mm 厚的肉片，备用。",
+      "duration_sec": 120,
+      "tips": [
+        "肉片厚度均匀有助于受热同步"
+      ],
+      "produces": "五花肉片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_bai-cai-zhu-rou-dun-fen-tiao/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "切配大白菜",
+      "instruction": "大白菜洗净，将嫩叶与白菜帮子分开切成 2 份菜片，备用。",
+      "duration_sec": 180,
+      "tips": [
+        "分开存放是因为两者成熟所需时间不同"
+      ],
+      "produces": "白菜帮和白菜叶",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_bai-cai-zhu-rou-dun-fen-tiao/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "热锅起油",
+      "instruction": "热锅，锅内放入 10ml - 15ml 食用油。等待 10 秒让油温升高。",
+      "duration_sec": 15,
+      "tips": [
+        "热锅凉油可以防止肉片粘锅"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_bai-cai-zhu-rou-dun-fen-tiao/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "煸炒肉片",
+      "instruction": "放入五花肉，保持翻炒至肉变色。",
+      "duration_sec": 120,
+      "tips": [
+        "煸炒出部分猪油会更香"
+      ],
+      "produces": "变色的肉片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_bai-cai-zhu-rou-dun-fen-tiao/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "肉片上色",
+      "instruction": "加入老抽，炒 1 分钟，给肉上色。",
+      "duration_sec": 60,
+      "tips": [
+        "翻炒均匀使每块肉都裹上颜色"
+      ],
+      "produces": "上色的肉片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_bai-cai-zhu-rou-dun-fen-tiao/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "炒制白菜帮",
+      "instruction": "加入白菜帮子，加入食用盐、生抽，炒一分钟。",
+      "duration_sec": 60,
+      "tips": [
+        "如果粘锅，可以烹入 10ml 水"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_bai-cai-zhu-rou-dun-fen-tiao/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "加水炖煮",
+      "instruction": "加水没过所有食材，加入鸡精、十三香，沸腾后将火调小，然后等待 20 分钟。",
+      "duration_sec": 1200,
+      "tips": [
+        "中小火慢炖能让肉质更软烂"
+      ],
+      "produces": "炖煮中的菜肴",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_bai-cai-zhu-rou-dun-fen-tiao/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "处理粉条",
+      "instruction": "将浸泡好的粉条滤水，切成小段放入碗中备用。",
+      "duration_sec": 60,
+      "tips": [
+        "切段方便食用"
+      ],
+      "produces": "处理好的粉条段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_bai-cai-zhu-rou-dun-fen-tiao/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "加入嫩叶与粉条",
+      "instruction": "加入白菜嫩叶，炒匀后将粉条放在菜上方，加盖再煮 5 分钟。",
+      "duration_sec": 300,
+      "tips": [
+        "粉条放上方可以防止糊底"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_bai-cai-zhu-rou-dun-fen-tiao/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "尝味收汁",
+      "instruction": "尝味、关火，适当收汁即可上桌。",
+      "duration_sec": 60,
+      "tips": [
+        "最后根据个人口味决定汤汁多寡"
+      ],
+      "produces": "白菜猪肉炖粉条",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_bai-cai-zhu-rou-dun-fen-tiao/step_11.jpg"
+    }
+  ],
+  "tips": [
+    "土豆干粉条煮制时间长，建议放在第一步，利用浸泡时间进行其他准备工作。",
+    "最后一步尝味非常重要，如果发现味道淡或食材未熟，应继续加盖炖煮一段时间。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_bai-cai-zhu-rou-dun-fen-tiao.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_bai-cai-zhu-rou-dun-fen-tiao_overview.jpg",
+  "id": "meat_dish_bai-cai-zhu-rou-dun-fen-tiao",
+  "status": "published"
+}

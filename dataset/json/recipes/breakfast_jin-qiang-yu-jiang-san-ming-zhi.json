@@ -1,0 +1,150 @@
+{
+  "title": "金枪鱼酱三明治",
+  "summary": "这道西式早餐三明治以水浸金枪鱼拌入蛋黄酱和俄式酸黄瓜汁，咸鲜微酸，口感绵密，配上烤脆的吐司格外饱腹。富含优质蛋白和 Omega-3 等营养，能快速补充能量。制作非常简单，只需混合酱料、用轻食机加热，新手也能在 5 分钟里轻松搞定。",
+  "difficulty": 1,
+  "calories": 569,
+  "duration_min": 5,
+  "category": "早餐",
+  "tags": [
+    "西式",
+    "三明治",
+    "高蛋白",
+    "快手菜"
+  ],
+  "ingredients": [
+    {
+      "name": "水浸金枪鱼罐头",
+      "amount": "65g",
+      "buying_tip": "不建议用油浸，会很腻",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "方形吐司片",
+      "amount": "2片",
+      "buying_tip": "建议选择质地较软的白吐司或全麦吐司",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蛋黄酱",
+      "amount": "50mL",
+      "buying_tip": "普通原味蛋黄酱即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "俄式酸黄瓜汁",
+      "amount": "10-15mL",
+      "buying_tip": "购买罐装俄式酸黄瓜，取其汤汁",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "芝士片",
+      "amount": "1片",
+      "buying_tip": "选择易融化的切达芝士片",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "火腿片",
+      "amount": "1片",
+      "buying_tip": "即食火腿片",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "轻食机",
+    "碗",
+    "勺子"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "水浸金枪鱼",
+        "expr": "65g"
+      },
+      {
+        "name": "方形吐司片",
+        "expr": "2片"
+      },
+      {
+        "name": "蛋黄酱",
+        "expr": "50mL"
+      },
+      {
+        "name": "俄式酸黄瓜汁",
+        "expr": "10-15mL"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "调配金枪鱼酱",
+      "instruction": "将金枪鱼、蛋黄酱、俄式酸黄瓜汁倒入碗中，用勺子搅拌，保证将金枪鱼块搅碎，酱整体呈糊状，并备用",
+      "duration_sec": 60,
+      "tips": [
+        "金枪鱼块搅得越碎，口感越绵密"
+      ],
+      "produces": "金枪鱼酱",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_jin-qiang-yu-jiang-san-ming-zhi/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "放置底层吐司",
+      "instruction": "将 1 片吐司放在轻食机上",
+      "duration_sec": 10,
+      "tips": [
+        "确保吐司放置平整"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_jin-qiang-yu-jiang-san-ming-zhi/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "涂抹酱料",
+      "instruction": "将做好的金枪鱼酱涂抹到吐司上，建议 10-15ml",
+      "duration_sec": 30,
+      "tips": [
+        "不要涂得太靠边缘，防止加热时溢出"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_jin-qiang-yu-jiang-san-ming-zhi/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "合拢并开机",
+      "instruction": "将另一片方形吐司片覆盖在上面，并按压轻食机，开机",
+      "duration_sec": 20,
+      "tips": [
+        "注意在按压操作之前不要将轻食机电源接通，以免引发安全问题"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_jin-qiang-yu-jiang-san-ming-zhi/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "加热完成",
+      "instruction": "待轻食机自动停止加热，即可装盘使用",
+      "duration_sec": 180,
+      "tips": [
+        "取出时注意防烫"
+      ],
+      "produces": "金枪鱼酱三明治",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_jin-qiang-yu-jiang-san-ming-zhi/step_5.jpg"
+    }
+  ],
+  "tips": [
+    "金枪鱼酱可以在前一天晚上在冰箱冷藏",
+    "金枪鱼酱建议冷藏时间不超过一周，且需要使用保鲜膜盖住",
+    "注意在按压操作之前不要将轻食机电源接通，以免引发安全问题"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_jin-qiang-yu-jiang-san-ming-zhi.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_jin-qiang-yu-jiang-san-ming-zhi_overview.jpg",
+  "id": "breakfast_jin-qiang-yu-jiang-san-ming-zhi",
+  "status": "published"
+}

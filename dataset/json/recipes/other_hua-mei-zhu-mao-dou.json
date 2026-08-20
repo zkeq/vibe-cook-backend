@@ -1,0 +1,103 @@
+{
+  "title": "话梅煮毛豆",
+  "summary": "话梅煮毛豆是一道酸甜开胃的家常小菜，口感清爽软糯，带有梅子的自然果香。毛豆富含植物蛋白和膳食纤维，有助于补充能量、促进消化。",
+  "difficulty": 2,
+  "calories": 454,
+  "duration_min": 45,
+  "category": "其他",
+  "tags": [
+    "家常菜",
+    "酸甜",
+    "开胃",
+    "毛豆"
+  ],
+  "ingredients": [
+    {
+      "name": "毛豆",
+      "amount": "300g",
+      "buying_tip": "选择豆荚饱满、颜色翠绿且表面茸毛完整的毛豆",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "话梅",
+      "amount": "6颗",
+      "buying_tip": "建议使用原味话梅或咸甜味较重的话梅",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用盐",
+      "amount": "2g",
+      "buying_tip": "普通食用盐即可",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "煮锅",
+    "浸泡容器"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "毛豆",
+        "expr": "300 * n"
+      },
+      {
+        "name": "话梅",
+        "expr": "6 * n"
+      },
+      {
+        "name": "食用盐",
+        "expr": "2 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "盐水浸泡",
+      "instruction": "清水加入食用盐，毛豆浸泡 15 分钟",
+      "duration_sec": 900,
+      "tips": [
+        "浸泡可以帮助去除毛豆表面的泥土和杂质",
+        "盐水浸泡有助于保持毛豆色泽鲜绿"
+      ],
+      "produces": "初步清洁的毛豆",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hua-mei-zhu-mao-dou/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "加入原料水煮",
+      "instruction": "加入开水，倒入毛豆、话梅，水煮 20-30 分钟",
+      "duration_sec": 1800,
+      "tips": [
+        "话梅的酸甜味会随着水煮慢慢渗入毛豆中",
+        "喜欢口感更软糯的可以适当延长煮的时间"
+      ],
+      "produces": "煮熟的话梅毛豆",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hua-mei-zhu-mao-dou/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "起锅装盘",
+      "instruction": "起锅开吃",
+      "duration_sec": 60,
+      "tips": [
+        "煮好后带汤汁浸泡一段时间会更加入味",
+        "冷藏后食用口感更佳"
+      ],
+      "produces": "话梅煮毛豆",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hua-mei-zhu-mao-dou/step_3.jpg"
+    }
+  ],
+  "tips": [
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_hua-mei-zhu-mao-dou.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_hua-mei-zhu-mao-dou_overview.jpg",
+  "id": "other_hua-mei-zhu-mao-dou",
+  "status": "published"
+}

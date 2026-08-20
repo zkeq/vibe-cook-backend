@@ -1,0 +1,125 @@
+{
+  "title": "桂圆红枣粥",
+  "summary": "一道甜香软糯的中式传统粥品。以糯米、红枣和桂圆同煮，自带甘甜，暖身暖胃。有补血安神、健脑益智、补养心脾的食养效果。做法非常友好，新手也能轻松掌握，从准备到粥香满屋大约需要 70 分钟。",
+  "difficulty": 2,
+  "calories": 617,
+  "duration_min": 70,
+  "category": "早餐",
+  "tags": [
+    "中式",
+    "粥",
+    "补血安神",
+    "甜品",
+    "健康饮食"
+  ],
+  "ingredients": [
+    {
+      "name": "糯米",
+      "amount": "100g",
+      "buying_tip": "选用颗粒饱满、色泽洁白的糯米，口感更软糯",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "红枣",
+      "amount": "15 颗",
+      "buying_tip": "建议选择皮薄肉厚、无虫蛀的干红枣",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "桂圆",
+      "amount": "15 颗",
+      "buying_tip": "选择肉质厚实、颜色呈黄褐色的桂圆干",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "电饭锅",
+    "碗"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "糯米",
+        "expr": "100 * n"
+      },
+      {
+        "name": "红枣",
+        "expr": "15 * n"
+      },
+      {
+        "name": "桂圆",
+        "expr": "15 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "浸泡桂圆",
+      "instruction": "将桂圆肉扒出，用清水洗两次，放入碗中浸泡 10 分钟",
+      "duration_sec": 600,
+      "tips": [
+        "洗净表面杂质",
+        "浸泡可以使桂圆在煮制时更易出味"
+      ],
+      "produces": "浸泡后的桂圆肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_gui-yuan-hong-zao-zhou/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "浸泡红枣",
+      "instruction": "红枣用清水洗两次，放入碗中浸泡 10 分钟",
+      "duration_sec": 600,
+      "tips": [
+        "红枣褶皱处需仔细清洗"
+      ],
+      "produces": "浸泡后的红枣",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_gui-yuan-hong-zao-zhou/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "淘米加水",
+      "instruction": "糯米放入电饭锅中，清水淘米两次后，加入 2000ml 水",
+      "duration_sec": 120,
+      "tips": [
+        "淘米次数不宜过多，以免营养流失"
+      ],
+      "produces": "米水混合物",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_gui-yuan-hong-zao-zhou/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "加入配料",
+      "instruction": "将桂圆和红枣加入电饭锅",
+      "duration_sec": 30,
+      "tips": [
+        "连同浸泡的水一并倒入可增加风味"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_gui-yuan-hong-zao-zhou/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "开启烹煮",
+      "instruction": "打开电饭锅煮饭模式，1 小时后粥成",
+      "duration_sec": 3600,
+      "tips": [
+        "煮好后可焖 5-10 分钟，口感会更粘稠"
+      ],
+      "produces": "桂圆红枣粥",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_gui-yuan-hong-zao-zhou/step_5.jpg"
+    }
+  ],
+  "tips": [
+    "对粥的稀稠程度有不同喜好的朋友可以酌情增加或减少水的用量",
+    "煮出来的粥是甜的，可以通过控制加入桂圆的数量控制甜度"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_gui-yuan-hong-zao-zhou.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_gui-yuan-hong-zao-zhou_overview.jpg",
+  "id": "breakfast_gui-yuan-hong-zao-zhou",
+  "status": "published"
+}

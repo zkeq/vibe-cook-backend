@@ -21,6 +21,9 @@ data/*.db-wal
 uploads/
 *.bak
 
+# 原图走 dataset 分支 + Git LFS，main 不跟踪
+/dataset/images/
+
 # OS / IDE
 .DS_Store
 .idea/

@@ -1,0 +1,243 @@
+{
+  "title": "上汤娃娃菜",
+  "summary": "这道上汤娃娃菜清甜鲜美，口感软嫩，属于家常素菜，尤其适合减肥期间食用。娃娃菜富含维生素和膳食纤维，低脂低热量，搭配皮蛋和午餐肉增添风味又不会过多增加负担。制作难度适中，新手也能尝试，从备菜到出锅大约只需 20 分钟。",
+  "difficulty": 3,
+  "calories": 158,
+  "duration_min": 20,
+  "category": "其他",
+  "tags": [
+    "素菜",
+    "低脂",
+    "家常菜",
+    "快手菜"
+  ],
+  "ingredients": [
+    {
+      "name": "娃娃菜",
+      "amount": "700g",
+      "buying_tip": "挑选叶片紧实、色泽嫩黄、根部切口新鲜的",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "金针菇",
+      "amount": "10g",
+      "buying_tip": "选菌盖圆整、颜色白净且无异味的",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "皮蛋",
+      "amount": "1个",
+      "buying_tip": "选壳无裂纹、摇动时无响声的",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "午餐肉",
+      "amount": "适量",
+      "buying_tip": "可根据喜好选择含肉量高的品牌，也可用火腿肠替代",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "葱",
+      "amount": "3g",
+      "buying_tip": "新鲜小葱，香味更浓",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜",
+      "amount": "10g",
+      "buying_tip": "选蒜瓣饱满、无发芽的",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "10g",
+      "buying_tip": "选表皮光滑、不干瘪的鲜姜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "适量",
+      "buying_tip": "普通加碘盐或海盐均可",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "糖",
+      "amount": "适量",
+      "buying_tip": "白砂糖，用于提鲜",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "蚝油",
+      "amount": "适量",
+      "buying_tip": "选择品牌信誉好的蚝油，增加汤头鲜味",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "味精",
+      "amount": "适量",
+      "buying_tip": "依口味添加，也可不放",
+      "optional": false,
+      "per_serving": false
+    },
+    {
+      "name": "淀粉",
+      "amount": "适量",
+      "buying_tip": "玉米淀粉或土豆淀粉均可，用于勾芡",
+      "optional": false,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "漏勺"
+  ],
+  "servings": {
+    "base": 2,
+    "formula": [
+      {
+        "name": "娃娃菜",
+        "expr": "700 / 2 * n"
+      },
+      {
+        "name": "金针菇",
+        "expr": "10 / 2 * n"
+      },
+      {
+        "name": "皮蛋",
+        "expr": "1 / 2 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理娃娃菜",
+      "instruction": "娃娃菜洗净, 竖着切开切成段。",
+      "duration_sec": 120,
+      "tips": [
+        "竖着切可以保持形状，且更容易入味"
+      ],
+      "produces": "娃娃菜段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shang-tang-wa-wa-cai/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "切配料",
+      "instruction": "葱 3g 切小段。蒜 10g 切片。姜 10g 切小片。",
+      "duration_sec": 120,
+      "tips": [
+        "蒜切片比切末在煮汤时更清爽"
+      ],
+      "produces": "葱段、姜蒜片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shang-tang-wa-wa-cai/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "准备辅料丁",
+      "instruction": "皮蛋切成丁, 火腿肠或者午餐肉切成丁（1cm 大小的丁）",
+      "duration_sec": 180,
+      "tips": [
+        "切皮蛋时刀上沾点凉开水可以防止粘连"
+      ],
+      "produces": "皮蛋丁、肉丁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shang-tang-wa-wa-cai/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "处理金针菇",
+      "instruction": "金针菇洗净撕开",
+      "duration_sec": 60,
+      "tips": [
+        "撕成小簇更方便食用"
+      ],
+      "produces": "金针菇簇",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shang-tang-wa-wa-cai/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "焯水",
+      "instruction": "烧热水娃娃菜放进去十秒钟出一下水捞出。",
+      "duration_sec": 60,
+      "tips": [
+        "焯水只需 10 秒，保持娃娃菜的脆嫩"
+      ],
+      "produces": "半熟娃娃菜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shang-tang-wa-wa-cai/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "润锅",
+      "instruction": "热锅凉油, 加热锅倒入油过一遍就倒出来, 重新倒入一点油。",
+      "duration_sec": 60,
+      "tips": [
+        "润锅可以防止后续炒制时粘锅"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shang-tang-wa-wa-cai/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "爆香底料",
+      "instruction": "调至小火加入葱姜蒜，煎炒出香味即可。",
+      "duration_sec": 30,
+      "tips": [
+        "火一定要小，避免姜蒜炒糊变苦"
+      ],
+      "produces": "香味底油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shang-tang-wa-wa-cai/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "加入主料及水",
+      "instruction": "加入 300g 清水（水量没过娃娃菜即可）, 放入娃娃菜, 金针菇, 午餐肉",
+      "duration_sec": 60,
+      "tips": [
+        "如果有高汤，用高汤代替清水味道更佳"
+      ],
+      "produces": "汤料混合物",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shang-tang-wa-wa-cai/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "调味",
+      "instruction": "加入调味料蚝油、糖、盐、味精烧开。",
+      "duration_sec": 30,
+      "tips": [
+        "蚝油自带咸味，盐的用量需酌情减少"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shang-tang-wa-wa-cai/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "焖煮装盘",
+      "instruction": "煮 3 分钟, 煮开后开始装盘, 盛出娃娃菜后皮蛋放在上面把汤汁浇上去就可以了",
+      "duration_sec": 180,
+      "tips": [
+        "皮蛋最后放可以防止汤汁变浑浊"
+      ],
+      "produces": "成品上汤娃娃菜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shang-tang-wa-wa-cai/step_10.jpg"
+    }
+  ],
+  "tips": [
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+    "拍照时注意光线，虽然味道好，但精美的摆盘能增加食欲。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_shang-tang-wa-wa-cai.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_shang-tang-wa-wa-cai_overview.jpg",
+  "id": "other_shang-tang-wa-wa-cai",
+  "status": "published"
+}

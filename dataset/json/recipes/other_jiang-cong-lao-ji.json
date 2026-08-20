@@ -1,0 +1,238 @@
+{
+  "title": "姜葱捞鸡",
+  "summary": "姜葱捞鸡是一道粤式经典家常菜，鸡肉嫩滑多汁，葱姜香气浓郁，咸鲜适口，十分下饭。鸡腿肉提供优质蛋白质，搭配姜葱能温中散寒、促进食欲。整体操作以蒸制和手撕为主，步骤清晰，对新手来说比较容易上手。从备料到完成大约需要 40 分钟。",
+  "difficulty": 3,
+  "calories": 549,
+  "duration_min": 40,
+  "category": "其他",
+  "tags": [
+    "粤菜",
+    "家常菜",
+    "鸡肉",
+    "快手菜"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡腿",
+      "amount": "4个(约400g)",
+      "buying_tip": "建议购买新鲜冷鲜鸡腿，肉质更嫩",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐焗鸡粉",
+      "amount": "5g",
+      "buying_tip": "选用大品牌盐焗鸡粉，味道更正宗",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "50g",
+      "buying_tip": "老姜的味道比嫩姜更浓郁",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "1根",
+      "buying_tip": "选用带根须的新鲜小葱",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "5g",
+      "buying_tip": "普通食盐即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "糖",
+      "amount": "5g",
+      "buying_tip": "白砂糖用于提鲜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "油",
+      "amount": "35ml",
+      "buying_tip": "建议使用花生油，香气更足",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "碗",
+    "蒸锅",
+    "菜刀",
+    "砧板",
+    "炒锅"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鸡腿",
+        "expr": "4 * n"
+      },
+      {
+        "name": "盐焗鸡粉",
+        "expr": "5 * n"
+      },
+      {
+        "name": "姜",
+        "expr": "50 * n"
+      },
+      {
+        "name": "葱",
+        "expr": "1 * n"
+      },
+      {
+        "name": "盐",
+        "expr": "5 * n"
+      },
+      {
+        "name": "糖",
+        "expr": "5 * n"
+      },
+      {
+        "name": "油",
+        "expr": "35 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "清洗鸡腿",
+      "instruction": "四个鸡腿清洗干净，放入碗中",
+      "duration_sec": 60,
+      "tips": [
+        "清洗后可以稍微沥干水分"
+      ],
+      "produces": "洗净的鸡腿",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-cong-lao-ji/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "加入调料",
+      "instruction": "碗中加入盐焗鸡粉和 5ml 油，搅拌均匀",
+      "duration_sec": 60,
+      "tips": [
+        "抹匀后鸡肉更入味"
+      ],
+      "produces": "腌制中的鸡腿",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-cong-lao-ji/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "腌制与备水",
+      "instruction": "让鸡腿静置腌制 15 分钟，同时准备蒸锅并把水煮开",
+      "duration_sec": 900,
+      "tips": [
+        "水开后再上锅蒸"
+      ],
+      "produces": "待蒸鸡腿",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-cong-lao-ji/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "蒸制鸡腿",
+      "instruction": "鸡腿腌制完成后，放入水开后的蒸锅中，蒸制 20 分钟",
+      "duration_sec": 1200,
+      "tips": [
+        "中大火蒸制即可"
+      ],
+      "produces": "熟鸡腿",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-cong-lao-ji/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "切姜",
+      "instruction": "将姜根据个人口味切成姜蓉、姜丝或姜粒",
+      "duration_sec": 180,
+      "tips": [
+        "姜蓉的口感更细腻"
+      ],
+      "produces": "姜末",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-cong-lao-ji/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "切葱",
+      "instruction": "将葱切成 0.5cm 小段",
+      "duration_sec": 60,
+      "tips": [
+        "葱白部分多一些更香"
+      ],
+      "produces": "葱花",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-cong-lao-ji/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "混合底料",
+      "instruction": "将葱姜放入蘸料碗，并加入盐和糖",
+      "duration_sec": 30,
+      "tips": [
+        "盐糖比例可微调"
+      ],
+      "produces": "葱姜底料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-cong-lao-ji/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "加热油",
+      "instruction": "将剩余的油倒入另一个锅中加热至六至七层热",
+      "duration_sec": 120,
+      "tips": [
+        "看到油微微冒烟即可"
+      ],
+      "produces": "热油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-cong-lao-ji/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "淋油",
+      "instruction": "将热油淋入葱姜碗中",
+      "duration_sec": 30,
+      "tips": [
+        "分两次淋入效果更好"
+      ],
+      "produces": "姜葱油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-cong-lao-ji/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "手撕鸡肉",
+      "instruction": "鸡腿蒸好后将其撕碎成鸡丝，不需要特别细，大概 1cm 粗就可以",
+      "duration_sec": 300,
+      "tips": [
+        "注意防烫，可以稍微放凉一点再撕"
+      ],
+      "produces": "鸡丝",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-cong-lao-ji/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "搅拌成菜",
+      "instruction": "将姜葱油淋在鸡丝上，搅拌均匀即可",
+      "duration_sec": 60,
+      "tips": [
+        "搅拌均匀后静置5分钟更入味"
+      ],
+      "produces": "姜葱捞鸡",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-cong-lao-ji/step_11.jpg"
+    }
+  ],
+  "tips": [
+    "参考视频: https://b23.tv/2trBdqJ",
+    "手撕鸡肉时注意防烫，建议佩戴食品级一次性手套",
+    "淋油时油温要够高，才能激发出葱姜的香气",
+    "如果想让鸡皮更脆，蒸熟后可以迅速浸入冰水"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_jiang-cong-lao-ji.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_jiang-cong-lao-ji_overview.jpg",
+  "id": "other_jiang-cong-lao-ji",
+  "status": "published"
+}

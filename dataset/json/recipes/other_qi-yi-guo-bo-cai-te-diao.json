@@ -1,0 +1,180 @@
+{
+  "title": "奇异果菠菜特调",
+  "summary": "这是一道清爽健康的果蔬特饮，口感酸甜细腻，带有奇异果与苹果的天然果香，菠菜味清淡不抢。富含维生素 C 和膳食纤维，有助于促进消化。",
+  "difficulty": 1,
+  "calories": 184,
+  "duration_min": 10,
+  "category": "其他",
+  "tags": [
+    "果蔬汁",
+    "健康饮品",
+    "快手",
+    "下午茶"
+  ],
+  "ingredients": [
+    {
+      "name": "奇异果",
+      "amount": "2个",
+      "buying_tip": "选择果肉稍软、成熟度高的奇异果，口感更甜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "苹果",
+      "amount": "1/2个",
+      "buying_tip": "建议选用红富士或脆甜品种",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "菠菜叶",
+      "amount": "4叶",
+      "buying_tip": "选择鲜嫩、无黄叶的菠菜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "饮用水",
+      "amount": "700ml",
+      "buying_tip": "使用纯净水或凉白开效果更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白砂糖",
+      "amount": "12克",
+      "buying_tip": "可根据喜好替换为蜂蜜或代糖",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "榨汁机",
+    "菜刀",
+    "砧板"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "奇异果",
+        "expr": "2"
+      },
+      {
+        "name": "苹果",
+        "expr": "0.5"
+      },
+      {
+        "name": "菠菜叶",
+        "expr": "4"
+      },
+      {
+        "name": "饮用水",
+        "expr": "700"
+      },
+      {
+        "name": "白砂糖",
+        "expr": "12"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理奇异果",
+      "instruction": "将奇异果去皮切成两半，每半再分四份小块",
+      "duration_sec": 60,
+      "tips": [
+        "切小块有助于榨汁机搅拌更充分"
+      ],
+      "produces": "奇异果块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-yi-guo-bo-cai-te-diao/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "处理苹果",
+      "instruction": "将苹果去核切丁",
+      "duration_sec": 60,
+      "tips": [
+        "切丁大小要适中"
+      ],
+      "produces": "苹果丁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-yi-guo-bo-cai-te-diao/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "菠菜去梗",
+      "instruction": "将菠菜叶去梗，只留叶子部分",
+      "duration_sec": 30,
+      "tips": [
+        "菠菜梗纤维较粗，去掉后口感更细腻"
+      ],
+      "produces": "菠菜叶",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-yi-guo-bo-cai-te-diao/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "切碎菠菜",
+      "instruction": "将菠菜叶切碎",
+      "duration_sec": 30,
+      "tips": [
+        "切碎能让绿色分布更均匀"
+      ],
+      "produces": "菠菜碎",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-yi-guo-bo-cai-te-diao/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "放入容器",
+      "instruction": "将所有处理好的果蔬一起倒入榨汁机搅拌杯",
+      "duration_sec": 20,
+      "tips": [
+        "注意不要超过搅拌杯的最高刻度线"
+      ],
+      "produces": "待搅拌混合物",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-yi-guo-bo-cai-te-diao/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "注入饮用水",
+      "instruction": "注入 700ml 饮用水",
+      "duration_sec": 10,
+      "tips": [
+        "冷藏的水口感更好"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-yi-guo-bo-cai-te-diao/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "调味",
+      "instruction": "加入白砂糖",
+      "duration_sec": 10,
+      "tips": [
+        "可根据个人口味调整糖量"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-yi-guo-bo-cai-te-diao/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "搅拌成汁",
+      "instruction": "启动搅拌机，搅拌约 4 个 15 秒（每 15 秒停下看状态）",
+      "duration_sec": 120,
+      "tips": [
+        "间歇性搅拌可以防止电机过热，并观察细腻程度"
+      ],
+      "produces": "奇异果菠菜特调",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-yi-guo-bo-cai-te-diao/step_8.jpg"
+    }
+  ],
+  "tips": [
+    "关于白砂糖的量：全糖为 12g，可根据个人情况在 0-12g 中调整",
+    "本品是仿照宜家的奇异果菠菜汁研制的，口感清爽",
+    "建议现做现喝，以免果汁氧化分层"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_qi-yi-guo-bo-cai-te-diao.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_qi-yi-guo-bo-cai-te-diao_overview.jpg",
+  "id": "other_qi-yi-guo-bo-cai-te-diao",
+  "status": "published"
+}

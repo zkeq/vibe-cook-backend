@@ -1,0 +1,114 @@
+{
+  "title": "太阳蛋",
+  "summary": "太阳蛋是一道用微波炉快速制成的家常早餐。口感嫩滑，蛋清凝固、蛋黄微溏，属于典型的快手菜。鸡蛋富含优质蛋白和多种维生素，易于消化吸收。做法非常简单，对新手友好。使用可控火候微波炉只需 3 分钟就能完成，不可控火候的也仅需几分钟反复加热。",
+  "difficulty": 2,
+  "calories": 113,
+  "duration_min": 5,
+  "category": "早餐",
+  "tags": [
+    "微波炉",
+    "快手菜",
+    "高蛋白",
+    "新手友好"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": "1个",
+      "buying_tip": "选择新鲜鸡蛋，口感更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "1g",
+      "buying_tip": "普通食盐即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "油",
+      "amount": "5mL",
+      "buying_tip": "建议使用耐高温的植物油",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "微波炉",
+    "小碗",
+    "筷子或牙签"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鸡蛋",
+        "expr": "1 * 份数"
+      },
+      {
+        "name": "盐",
+        "expr": "1g * 鸡蛋个数"
+      },
+      {
+        "name": "油",
+        "expr": "5mL * 鸡蛋个数"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "准备碗底",
+      "instruction": "准备一个小碗，倒入计算好的油和盐，搅拌均匀。倾斜碗使油均匀沾在碗表面。",
+      "duration_sec": 40,
+      "tips": [
+        "油涂抹均匀可以防止鸡蛋粘碗"
+      ],
+      "produces": "涂好油盐的碗",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tai-yang-dan/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "打入鸡蛋",
+      "instruction": "取出一个鸡蛋，打入准备好的小碗中。",
+      "duration_sec": 20,
+      "tips": [
+        "尽量保持蛋黄完整"
+      ],
+      "produces": "装有鸡蛋的碗",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tai-yang-dan/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "蛋黄戳孔",
+      "instruction": "在蛋黄表面戳孔。使用牙签戳 5 个孔或使用筷子戳 1 个孔。",
+      "duration_sec": 15,
+      "tips": [
+        "此步骤非常关键，是为了防止蛋黄在微波过程中受热爆炸"
+      ],
+      "produces": "待加热的鸡蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tai-yang-dan/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "微波加热",
+      "instruction": "将碗放入微波炉。可控火候微波炉使用中火 3 分钟；不可控火候微波炉先打 1 分钟，若蛋清未大面积凝固，则以 30 秒为单位反复加热直至成型。",
+      "duration_sec": 180,
+      "tips": [
+        "不同微波炉功率不同，需根据实际情况调整时长"
+      ],
+      "produces": "太阳蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tai-yang-dan/step_4.jpg"
+    }
+  ],
+  "tips": [
+    "若熟度不符合个人口味，可以 1 分钟为单位继续微波加热",
+    "不可控火候微波炉定义：面板上无法找到小火、中火、大火等字样，仅能控制时长",
+    "可控火候微波炉定义：面板上能找到不同火候档位设置"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_tai-yang-dan.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_tai-yang-dan_overview.jpg",
+  "id": "breakfast_tai-yang-dan",
+  "status": "published"
+}

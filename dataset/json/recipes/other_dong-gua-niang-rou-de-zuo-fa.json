@@ -1,0 +1,279 @@
+{
+  "title": "冬瓜酿肉的做法",
+  "summary": "冬瓜酿肉是一道荤素搭配的家常蒸菜，口感鲜嫩爽滑，肉馅的咸香与冬瓜的清甜相互融合，清爽不腻。猪肉末提供优质蛋白质和必需氨基酸，冬瓜则有助于清热利尿、补充水分。做法简单，即使是新手也能轻松上手，只需稍加练习卷肉技巧即可。",
+  "difficulty": 4,
+  "calories": 578,
+  "duration_min": 30,
+  "category": "其他",
+  "tags": [
+    "家常菜",
+    "蒸菜",
+    "冬瓜",
+    "猪肉",
+    "清热"
+  ],
+  "ingredients": [
+    {
+      "name": "猪肉末",
+      "amount": "300g",
+      "buying_tip": "选择肥瘦相间的猪肉末口感更好",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "冬瓜",
+      "amount": "200g",
+      "buying_tip": "选择肉质厚实的冬瓜便于切片",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": "1个",
+      "buying_tip": "新鲜鸡蛋即可",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "葱花",
+      "amount": "20g",
+      "buying_tip": "选用新鲜小葱",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "胡椒粉",
+      "amount": "5g",
+      "buying_tip": "白胡椒粉或黑胡椒粉均可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "10ml",
+      "buying_tip": "普通生抽即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "淀粉",
+      "amount": "5g",
+      "buying_tip": "用于肉馅上劲",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "水淀粉",
+      "amount": "25g淀粉+50ml水",
+      "buying_tip": "用于最后勾芡",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "30g",
+      "buying_tip": "切末使用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "20g",
+      "buying_tip": "15g用于腌制冬瓜，5g用于肉馅",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "菜刀",
+    "砧板",
+    "碗",
+    "筷子",
+    "碟子",
+    "普通铁锅",
+    "锅盖"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "猪肉末",
+        "expr": "300 * n"
+      },
+      {
+        "name": "冬瓜",
+        "expr": "200 * n"
+      },
+      {
+        "name": "鸡蛋",
+        "expr": "1 * n"
+      },
+      {
+        "name": "葱花",
+        "expr": "20 * n"
+      },
+      {
+        "name": "胡椒粉",
+        "expr": "5 * n"
+      },
+      {
+        "name": "生抽",
+        "expr": "10 * n"
+      },
+      {
+        "name": "淀粉",
+        "expr": "5 * n"
+      },
+      {
+        "name": "水淀粉",
+        "expr": "75 * n"
+      },
+      {
+        "name": "盐",
+        "expr": "20 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "冬瓜切片",
+      "instruction": "冬瓜去皮，切成 25cm 长 3cm 厚的片",
+      "duration_sec": 180,
+      "tips": [
+        "切片要薄厚均匀，方便后面卷起"
+      ],
+      "produces": "冬瓜长片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dong-gua-niang-rou-de-zuo-fa/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "腌制冬瓜",
+      "instruction": "将切好的冬瓜放入碗中，放入 15g 盐，将冬瓜抹匀，放置 10 分钟",
+      "duration_sec": 600,
+      "tips": [
+        "盐腌制可以使冬瓜变软，方便卷肉"
+      ],
+      "produces": "软化的冬瓜片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dong-gua-niang-rou-de-zuo-fa/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "准备肉馅",
+      "instruction": "换个碗放入肉末，葱姜末， 5g 盐，淀粉 5g，胡椒粉，生抽",
+      "duration_sec": 120,
+      "tips": [
+        "葱姜末尽量切细碎一些"
+      ],
+      "produces": "混合肉馅",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dong-gua-niang-rou-de-zuo-fa/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "搅拌肉馅",
+      "instruction": "使用筷子在肉末中进行顺时针搅拌，搅拌到食材颜色没有明显对比",
+      "duration_sec": 120,
+      "tips": [
+        "顺时针搅拌能让肉馅上劲，口感更Q弹"
+      ],
+      "produces": "上劲肉馅",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dong-gua-niang-rou-de-zuo-fa/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "清洗冬瓜",
+      "instruction": "将腌制好的冬瓜使用清水洗三遍",
+      "duration_sec": 60,
+      "tips": [
+        "洗净多余的盐分，防止成品过咸"
+      ],
+      "produces": "洗净的冬瓜片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dong-gua-niang-rou-de-zuo-fa/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "卷肉操作",
+      "instruction": "拿出 1 片冬瓜片卷起来，并把肉塞进去",
+      "duration_sec": 300,
+      "tips": [
+        "卷的时候力度适中，不要把冬瓜片弄断"
+      ],
+      "produces": "冬瓜肉卷",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dong-gua-niang-rou-de-zuo-fa/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "摆盘",
+      "instruction": "放入碟子中摆到碟子的边缘",
+      "duration_sec": 60,
+      "tips": [
+        "围成一圈，中间留出放鸡蛋的位置"
+      ],
+      "produces": "环状拼盘",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dong-gua-niang-rou-de-zuo-fa/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "加入鸡蛋",
+      "instruction": "打入 1 个鸡蛋到中间圆圈处",
+      "duration_sec": 30,
+      "tips": [
+        "如果怕腥可以少加一点胡椒粉在蛋液上"
+      ],
+      "produces": "待蒸拼盘",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dong-gua-niang-rou-de-zuo-fa/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "蒸制",
+      "instruction": "放入普通铁锅中水烧开后，蒸 15 分钟，盖上锅盖",
+      "duration_sec": 900,
+      "tips": [
+        "全程大火，确保蒸汽充足"
+      ],
+      "produces": "熟化的冬瓜酿肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dong-gua-niang-rou-de-zuo-fa/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "出锅",
+      "instruction": "开盖，取出蒸好的冬瓜酿肉",
+      "duration_sec": 30,
+      "tips": [
+        "注意防烫"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dong-gua-niang-rou-de-zuo-fa/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "熬制芡汁",
+      "instruction": "将碟子里的原汁倒入锅中，放入水淀粉，加入 50ml 清水烧开",
+      "duration_sec": 120,
+      "tips": [
+        "原汁含有冬瓜和肉的鲜味，不要倒掉"
+      ],
+      "produces": "浓缩芡汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dong-gua-niang-rou-de-zuo-fa/step_11.jpg"
+    },
+    {
+      "index": 12,
+      "title": "淋汁完成",
+      "instruction": "将熬好的芡汁均匀淋到冬瓜酿肉上",
+      "duration_sec": 30,
+      "tips": [
+        "淋汁后色泽会更加鲜亮诱人"
+      ],
+      "produces": "成品冬瓜酿肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dong-gua-niang-rou-de-zuo-fa/step_12.jpg"
+    }
+  ],
+  "tips": [
+    "操作时，拿出冬瓜酿肉时注意碟子很烫，小心操作。",
+    "卷肉技巧需要多加练习，冬瓜片腌制到位后会非常柔软易卷。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_dong-gua-niang-rou-de-zuo-fa.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_dong-gua-niang-rou-de-zuo-fa_overview.jpg",
+  "id": "other_dong-gua-niang-rou-de-zuo-fa",
+  "status": "published"
+}

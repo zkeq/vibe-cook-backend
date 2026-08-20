@@ -1,0 +1,171 @@
+{
+  "title": "烤箱版巴斯克芝士蛋糕",
+  "summary": "巴斯克芝士蛋糕是一道口感浓郁绵密、表面焦香内部湿润的甜品，属于西班牙巴斯克地区的经典风味。主要原料为奶油奶酪和鸡蛋，富含优质蛋白质和钙质。制作过程非常简单，新手也能轻松驾驭。",
+  "difficulty": 2,
+  "calories": 266,
+  "duration_min": 480,
+  "category": "其他",
+  "tags": [
+    "西点",
+    "烘焙",
+    "芝士蛋糕",
+    "巴斯克",
+    "下午茶"
+  ],
+  "ingredients": [
+    {
+      "name": "奶油奶酪",
+      "amount": "212g",
+      "buying_tip": "这是一块的质量，比较方便（原教程是 250g）",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白砂糖",
+      "amount": "60g",
+      "buying_tip": "普通白砂糖即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": "2个",
+      "buying_tip": "建议使用常温蛋",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋黄",
+      "amount": "1个",
+      "buying_tip": "增加口感浓郁度",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "淡奶油",
+      "amount": "120g",
+      "buying_tip": "烘焙用淡奶油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "低筋面粉",
+      "amount": "10g",
+      "buying_tip": "超市常见的低筋面粉",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "巧克力",
+      "amount": "38g",
+      "buying_tip": "普通巧克力融化后在淡奶油步骤加入",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "烤箱",
+    "7寸圆形模具",
+    "打蛋器",
+    "微波炉",
+    "刮刀"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "模具适配",
+        "expr": "用量适用于1个7寸圆形模具 (原教程为6寸)"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "软化奶油奶酪",
+      "instruction": "奶油奶酪软化，使用微波炉加热 10s + 10s。",
+      "duration_sec": 60,
+      "tips": [
+        "注意分次加热防止过热"
+      ],
+      "produces": "软化的奶油奶酪",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-xiang-ban-ba-si-ke-zhi-shi-dan-gao/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "混合砂糖",
+      "instruction": "奶油奶酪加入白砂糖，使用打蛋器打至顺滑无颗粒状态。",
+      "duration_sec": 120,
+      "tips": [
+        "一定要打到完全顺滑"
+      ],
+      "produces": "奶酪糊基底",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-xiang-ban-ba-si-ke-zhi-shi-dan-gao/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "加入蛋液",
+      "instruction": "加入 2 个全蛋和 1 个蛋黄，搅拌均匀。",
+      "duration_sec": 60,
+      "tips": [
+        "分次加入搅拌会更均匀"
+      ],
+      "produces": "蛋奶酪液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-xiang-ban-ba-si-ke-zhi-shi-dan-gao/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "混合淡奶油",
+      "instruction": "加入淡奶油，搅拌均匀。如做巧克力味，在此步加入融化的巧克力。",
+      "duration_sec": 60,
+      "tips": [
+        "巧克力需提前融化"
+      ],
+      "produces": "稀释的面糊",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-xiang-ban-ba-si-ke-zhi-shi-dan-gao/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "加入面粉",
+      "instruction": "加入低筋面粉，搅拌均匀至无干粉。",
+      "duration_sec": 60,
+      "tips": [
+        "可以过筛加入防止结块"
+      ],
+      "produces": "最终蛋糕面糊",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-xiang-ban-ba-si-ke-zhi-shi-dan-gao/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "高温烘烤",
+      "instruction": "烤箱预热至 220°C (425°F)，放入烤箱烤制 20 - 25 分钟。",
+      "duration_sec": 1320,
+      "tips": [
+        "作者通常设定 20 或 22 分钟",
+        "出炉时中心有抖动是正常的"
+      ],
+      "produces": "巴斯克蛋糕成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-xiang-ban-ba-si-ke-zhi-shi-dan-gao/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "冷藏熟成",
+      "instruction": "取出放凉之后放入冰箱冷藏，最好冷藏过夜。",
+      "duration_sec": 28800,
+      "tips": [
+        "冷藏后的口感才是最好的"
+      ],
+      "produces": "冷藏熟成的蛋糕",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-xiang-ban-ba-si-ke-zhi-shi-dan-gao/step_7.jpg"
+    }
+  ],
+  "tips": [
+    "烤箱出来成品抖动是正常的，放凉后口感还不是最好的，一定要冷藏才好吃！",
+    "参考资料：下厨房 - 巴斯克芝士蛋糕『最简单的蛋糕』零失败🔥芝士控",
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_kao-xiang-ban-ba-si-ke-zhi-shi-dan-gao.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_kao-xiang-ban-ba-si-ke-zhi-shi-dan-gao_overview.jpg",
+  "id": "other_kao-xiang-ban-ba-si-ke-zhi-shi-dan-gao",
+  "status": "published"
+}

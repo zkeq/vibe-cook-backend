@@ -1,0 +1,188 @@
+{
+  "title": "炒年糕",
+  "summary": "这是一道闽南风味的主食，年糕软糯弹牙，带着葱油的焦香，家常又饱腹。以米粉制成的年糕提供充足碳水化合物，搭配鸡蛋和青菜能补充蛋白质与维生素，营养均衡。做法简单，对新手友好，从准备到出锅大约需要 30 分钟。",
+  "difficulty": 3,
+  "calories": 960,
+  "duration_min": 30,
+  "category": "主食",
+  "tags": [
+    "闽南风味",
+    "家常",
+    "快手菜",
+    "软糯"
+  ],
+  "ingredients": [
+    {
+      "name": "年糕/白粿",
+      "amount": "250g",
+      "buying_tip": "选择水磨年糕口感更软糯",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "小葱",
+      "amount": "2根",
+      "buying_tip": "选鲜嫩的小葱，香味更足",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "50ml",
+      "buying_tip": "建议使用味道较淡的植物油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酱油",
+      "amount": "15ml",
+      "buying_tip": "生抽即可，用于提鲜上色",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "1-2g",
+      "buying_tip": "根据个人口味调整",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": "1-2个",
+      "buying_tip": "新鲜鸡蛋即可",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "青菜",
+      "amount": "适量",
+      "buying_tip": "可选油菜、小白菜等",
+      "optional": true,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "汤锅",
+    "菜刀",
+    "砧板",
+    "碗"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "年糕",
+        "expr": "250 * n"
+      },
+      {
+        "name": "小葱",
+        "expr": "2 * n"
+      },
+      {
+        "name": "盐",
+        "expr": "1.5 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "煮年糕",
+      "instruction": "锅中加水烧开，煮熟年糕，捞出后放入加了水的碗中确保年糕不会粘连备用。",
+      "duration_sec": 300,
+      "tips": [
+        "注意搅拌，以免粘锅"
+      ],
+      "produces": "熟年糕",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-nian-gao/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "食材处理",
+      "instruction": "小葱切葱花（将葱白和葱叶分开），青菜切小段备用。",
+      "duration_sec": 180,
+      "tips": [
+        "葱白和葱叶分开放置，后续分步入锅"
+      ],
+      "produces": "切好的蔬菜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-nian-gao/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "炒鸡蛋（可选）",
+      "instruction": "如果准备了鸡蛋，先将鸡蛋打散炒熟盛出备用。",
+      "duration_sec": 120,
+      "tips": [
+        "鸡蛋不要炒太老"
+      ],
+      "produces": "炒蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-nian-gao/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "准备葱油",
+      "instruction": "热锅，加入 30ml 食用油，放入葱白炸至焦黄发出香味，倒出葱油备用。",
+      "duration_sec": 180,
+      "tips": [
+        "小火慢炸，防止炸糊"
+      ],
+      "produces": "葱油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-nian-gao/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "翻炒辅料",
+      "instruction": "重新热锅，加入 20ml 食用油，加入鸡蛋、青菜等辅料翻炒均匀。",
+      "duration_sec": 120,
+      "tips": [
+        "青菜炒至断生即可"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-nian-gao/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "加入年糕",
+      "instruction": "将年糕的水倒掉，向锅中加入年糕。",
+      "duration_sec": 60,
+      "tips": [
+        "确保年糕沥干水分，防止溅油"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-nian-gao/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "调味翻炒",
+      "instruction": "加入酱油和盐，大火翻炒均匀，使年糕均匀上色。",
+      "duration_sec": 120,
+      "tips": [
+        "翻炒动作要快，防止粘锅"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-nian-gao/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "淋入葱油",
+      "instruction": "关火，加入之前准备好的葱油，翻炒均匀后出锅乘盘。",
+      "duration_sec": 60,
+      "tips": [
+        "最后加葱油能极大提升香味"
+      ],
+      "produces": "炒年糕",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-nian-gao/step_8.jpg"
+    }
+  ],
+  "tips": [
+    "辅料的选择可以根据个人选择酌情添加，如加入瘦肉等",
+    "在煮年糕的时候注意搅拌，以免粘锅",
+    "葱油是这道菜的灵魂，建议不要省略"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_chao-nian-gao.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_chao-nian-gao_overview.jpg",
+  "id": "staple_chao-nian-gao",
+  "status": "published"
+}

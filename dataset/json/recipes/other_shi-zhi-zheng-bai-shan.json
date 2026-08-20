@@ -1,0 +1,201 @@
+{
+  "title": "豉汁蒸白鱔",
+  "summary": "豉汁蒸白鱔是一道粤式经典蒸菜，豆豉蒜蓉的酱香渗透进鱼肉，口感嫩滑鲜美。白鱔富含优质蛋白和多种不饱和脂肪酸，对身体有滋补作用。",
+  "difficulty": 3,
+  "calories": 472,
+  "duration_min": 30,
+  "category": "其他",
+  "tags": [
+    "粤菜",
+    "蒸菜",
+    "海鲜",
+    "滋补"
+  ],
+  "ingredients": [
+    {
+      "name": "白鱔",
+      "amount": "250g",
+      "buying_tip": "购买时选择活鱼，并请鱼贩去内脏、刮黏液并切成约5厘米段",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "豆豉",
+      "amount": "1 汤匙",
+      "buying_tip": "选用阳江豆豉等优质品种风味更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜头",
+      "amount": "2 瓣",
+      "buying_tip": "剁碎使用以释放蒜香",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "3 片",
+      "buying_tip": "切丝备用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "1 根",
+      "buying_tip": "切段或丝",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "1.5 汤匙",
+      "buying_tip": "基础调味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "0.5 茶匙",
+      "buying_tip": "用于上色",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "糖",
+      "amount": "0.5 茶匙",
+      "buying_tip": "用于提鲜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "麻油",
+      "amount": "0.5 茶匙",
+      "buying_tip": "增加香气",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生粉",
+      "amount": "1 茶匙",
+      "buying_tip": "用于腌制增加嫩滑感",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "水",
+      "amount": "1 汤匙",
+      "buying_tip": "调酱汁用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "红椒",
+      "amount": "10g",
+      "buying_tip": "切丝装饰用",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "蒸锅或电蒸炉",
+    "耐热盘",
+    "刀",
+    "砧板",
+    "小碗"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "白鱔",
+        "expr": "250 * n"
+      },
+      {
+        "name": "豆豉",
+        "expr": "1 * n"
+      },
+      {
+        "name": "蒜头",
+        "expr": "2 * n"
+      },
+      {
+        "name": "生抽",
+        "expr": "1.5 * n"
+      },
+      {
+        "name": "红椒",
+        "expr": "10 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "检查与清洗白鱔",
+      "instruction": "检查鱼贩处理过的白鱔，冲洗干净。可用3g盐和1茶匙生粉轻搓白鱔段，腌制5分钟后冲洗干净。",
+      "duration_sec": 420,
+      "tips": [
+        "盐和生粉搓洗可以有效去腥并增加嫩滑口感"
+      ],
+      "produces": "洁净的白鱔段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shi-zhi-zheng-bai-shan/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "准备酱汁",
+      "instruction": "在小碗中混合豆豉、蒜末、生抽、老抽、糖、麻油和水，搅拌均匀。",
+      "duration_sec": 120,
+      "tips": [
+        "若喜欢更浓郁的豉汁，可多加0.5汤匙豆豉"
+      ],
+      "produces": "调味豉汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shi-zhi-zheng-bai-shan/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "摆盘",
+      "instruction": "将白鱔段平铺在耐热盘中，尽量不重叠。撒上姜丝，均匀淋上豉汁。",
+      "duration_sec": 180,
+      "tips": [
+        "不重叠是为了受热均匀"
+      ],
+      "produces": "待蒸鱼盘",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shi-zhi-zheng-bai-shan/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "蒸制",
+      "instruction": "烧开500ml水，放入盘子盖盖，中大火蒸约8-10分钟至熟透。",
+      "duration_sec": 600,
+      "tips": [
+        "熟透的标志是肉质变白且无血水",
+        "视白鱔段大小调整时间，避免过老"
+      ],
+      "produces": "蒸熟的白鱔",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shi-zhi-zheng-bai-shan/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "装饰与完成",
+      "instruction": "取出白鱔，撒上葱丝和红椒丝，可淋上热麻油。",
+      "duration_sec": 120,
+      "tips": [
+        "热麻油可以进一步提升酱汁香气"
+      ],
+      "produces": "豉汁蒸白鱔成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shi-zhi-zheng-bai-shan/step_5.jpg"
+    }
+  ],
+  "tips": [
+    "确保白鱔新鲜，购买时选择活鱼，肉质更鲜嫩。",
+    "鱼贩切段时指定约5厘米长度为宜，方便蒸制。",
+    "蒸制时间不宜过长，以免肉质变韧。",
+    "可加入辣椒或XO酱增加辣味层次。",
+    "腌制时加入米酒可使口感更软嫩。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_shi-zhi-zheng-bai-shan.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_shi-zhi-zheng-bai-shan_overview.jpg",
+  "id": "other_shi-zhi-zheng-bai-shan",
+  "status": "published"
+}

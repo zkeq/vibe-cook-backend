@@ -1,0 +1,256 @@
+{
+  "title": "小炒肉",
+  "summary": "小炒肉是一道香辣下饭的经典湘式家常菜，五花肉片焦香不腻，搭配鲜辣椒与豆豉、豆瓣酱炒出浓郁酱香。富含优质蛋白质和脂肪，辣椒能提供丰富的维生素 C，有助开胃暖身。制作难度中等，适合有一定基础的新手尝试，需注意肉片腌制和火候把控。",
+  "difficulty": 3,
+  "calories": 2873,
+  "duration_min": 60,
+  "category": "荤菜",
+  "tags": [
+    "湘菜",
+    "家常菜",
+    "下饭菜",
+    "五花肉"
+  ],
+  "ingredients": [
+    {
+      "name": "五花肉",
+      "amount": "500g",
+      "buying_tip": "选择肥瘦相间、层次分明的猪五花肉",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "朝天椒",
+      "amount": "4 条",
+      "buying_tip": "选择色泽鲜红、表皮无褶皱的鲜辣椒",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "小米椒",
+      "amount": "4 颗",
+      "buying_tip": "新鲜硬挺的辣度更高",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "豆豉",
+      "amount": "10g (±5g)",
+      "buying_tip": "推荐选用干豆豉，香气更浓郁",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": "10g (±5g)",
+      "buying_tip": "推荐选用红油豆瓣酱或郫县豆瓣",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "10ml",
+      "buying_tip": "优质老抽上色更红亮",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "淀粉",
+      "amount": "10g",
+      "buying_tip": "玉米淀粉或土豆淀粉均可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "1-2g",
+      "buying_tip": "普通加碘食盐即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "0.5-1 根",
+      "buying_tip": "选用新鲜小葱味道更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜",
+      "amount": "2 瓣",
+      "buying_tip": "选用颗粒饱满的紫皮或白皮蒜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "15ml",
+      "buying_tip": "耐高温的植物油如菜籽油更适合煸炒",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "腌制碗"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "五花肉",
+        "expr": "500 * n"
+      },
+      {
+        "name": "朝天椒",
+        "expr": "4 * n"
+      },
+      {
+        "name": "小米椒",
+        "expr": "4 * n"
+      },
+      {
+        "name": "豆豉",
+        "expr": "10 * n"
+      },
+      {
+        "name": "豆瓣酱",
+        "expr": "10 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "食材处理",
+      "instruction": "将五花肉洗净，改刀切成薄片。",
+      "duration_sec": 300,
+      "tips": [
+        "肉片切薄一点更容易炒出焦香味"
+      ],
+      "produces": "五花肉片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-chao-rou/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "腌制肉片",
+      "instruction": "把肉放入器皿内，加入淀粉、老抽、盐搅拌均匀，静置腌制半小时。",
+      "duration_sec": 1800,
+      "tips": [
+        "抓匀至淀粉完全包裹肉片，腌制可使肉质更嫩滑上色"
+      ],
+      "produces": "腌制好的肉片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-chao-rou/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "备葱段",
+      "instruction": "将葱洗净，切成段状备用。",
+      "duration_sec": 30,
+      "tips": [
+        "葱白和葱绿可以分开存放，葱白可先下锅"
+      ],
+      "produces": "葱段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-chao-rou/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "切辣椒",
+      "instruction": "将小米椒、朝天椒洗净，采用斜刀切法切好。",
+      "duration_sec": 60,
+      "tips": [
+        "斜刀切可以增加辣椒的受热面积，更入味"
+      ],
+      "produces": "辣椒圈",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-chao-rou/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "热锅凉油",
+      "instruction": "大火加热炒锅，倒入食用油。",
+      "duration_sec": 30,
+      "tips": [
+        "热锅凉油可以防止肉片粘锅"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-chao-rou/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "煸炒五花肉",
+      "instruction": "油热后加入五花肉煸炒。炒至肉片变色、边缘微焦后盛出来备用。",
+      "duration_sec": 300,
+      "tips": [
+        "将五花肉中的油脂煸炒出来，吃起来才不会腻"
+      ],
+      "produces": "熟肉片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-chao-rou/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "炒香底料",
+      "instruction": "利用锅中余油，加入蒜瓣煸出香味，随后加入豆豉，翻炒均匀。",
+      "duration_sec": 40,
+      "tips": [
+        "中小火翻炒，避免豆豉炒糊发苦"
+      ],
+      "produces": "底料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-chao-rou/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "炒酱",
+      "instruction": "向锅中加入豆瓣酱，翻炒至出红油并散发香味。",
+      "duration_sec": 30,
+      "tips": [
+        "炒出红油是这道菜色泽诱人的关键"
+      ],
+      "produces": "酱底",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-chao-rou/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "肉片回锅",
+      "instruction": "加入之前炒好的五花肉，继续快速翻炒均匀，使肉片裹上酱汁。",
+      "duration_sec": 30,
+      "tips": [
+        "保持大火快炒"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-chao-rou/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "加入配料",
+      "instruction": "加入切好的小米椒、朝天椒和葱段，大火翻炒 40 秒。",
+      "duration_sec": 40,
+      "tips": [
+        "辣椒炒至断生即可，保持清脆的口感"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-chao-rou/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "出锅",
+      "instruction": "关火，将菜品盛入盘中即可享用。",
+      "duration_sec": 10,
+      "tips": [
+        "趁热食用，口感最佳"
+      ],
+      "produces": "小炒肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-chao-rou/step_11.jpg"
+    }
+  ],
+  "tips": [
+    "需注意肉片腌制的时间要充足，确保入味和嫩滑",
+    "火候把控非常重要，煸炒五花肉要焦香，炒底料要防止糊锅",
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_xiao-chao-rou.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_xiao-chao-rou_overview.jpg",
+  "id": "meat_dish_xiao-chao-rou",
+  "status": "published"
+}

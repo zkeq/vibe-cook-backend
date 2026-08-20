@@ -1,0 +1,206 @@
+{
+  "title": "蒜蓉西兰花",
+  "summary": "这道家常蔬菜以蒜香浓郁、调味简单见长，西兰花焯水后软嫩或微脆，清淡鲜美。富含维生素 C、膳食纤维和多种抗氧化物质，是营养均衡的快手素菜。制作过程不难，新手也能轻松掌握，从备料到出锅一般约 15 分钟即可完成。",
+  "difficulty": 2,
+  "calories": 187,
+  "duration_min": 15,
+  "category": "素菜",
+  "tags": [
+    "家常菜",
+    "快手菜",
+    "健康素食",
+    "高维C"
+  ],
+  "ingredients": [
+    {
+      "name": "西兰花",
+      "amount": "200g (约1/2个)",
+      "buying_tip": "选择花球紧实、颜色翠绿且无发黄迹象的西兰花。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大蒜",
+      "amount": "3-4 瓣",
+      "buying_tip": "挑选蒜瓣饱满、外皮干燥的大蒜。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "10ml",
+      "buying_tip": "建议使用高品质生抽以保证鲜味。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蚝油",
+      "amount": "5ml",
+      "buying_tip": "蚝油可增加酱汁的浓稠度和鲜甜感。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白糖",
+      "amount": "2g",
+      "buying_tip": "普通的白砂糖即可。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "10ml",
+      "buying_tip": "使用烟点较高的植物油。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "饮用水",
+      "amount": "1030ml",
+      "buying_tip": "用于焯水和调制蒜蓉汁。",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "漏勺",
+    "盘子"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "西兰花",
+        "expr": "200 * n"
+      },
+      {
+        "name": "大蒜",
+        "expr": "3.5 * n"
+      },
+      {
+        "name": "生抽",
+        "expr": "10 * n"
+      },
+      {
+        "name": "蚝油",
+        "expr": "5 * n"
+      },
+      {
+        "name": "白糖",
+        "expr": "2 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理西兰花",
+      "instruction": "将 西兰花 切成小朵，清洗干净。",
+      "duration_sec": 120,
+      "tips": [
+        "切成大小均匀的小朵有助于同步熟透"
+      ],
+      "produces": "西兰花小朵",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-rong-xi-lan-hua/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "准备蒜末",
+      "instruction": "将 大蒜 去皮，切成蒜末，备用。",
+      "duration_sec": 60,
+      "tips": [
+        "蒜末尽量切细，香味更浓郁"
+      ],
+      "produces": "蒜末",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-rong-xi-lan-hua/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "烧水",
+      "instruction": "锅中加入 1000 ml 饮用水，大火烧开。",
+      "duration_sec": 300,
+      "tips": [
+        "水量要足，确保能完全没过西兰花"
+      ],
+      "produces": "沸水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-rong-xi-lan-hua/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "焯水",
+      "instruction": "放入 西兰花，保持大火 煮 2-3 分钟，至 西兰花 颜色变翠绿，口感变软。",
+      "duration_sec": 150,
+      "tips": [
+        "水中加少许盐和油可以保持西兰花色泽翠绿"
+      ],
+      "produces": "熟西兰花",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-rong-xi-lan-hua/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "摆盘",
+      "instruction": "将 煮好的 西兰花 捞出，沥干水分，摆入盘中，备用。",
+      "duration_sec": 60,
+      "tips": [
+        "尽量沥干，避免盘底水分过多稀释酱汁"
+      ],
+      "produces": "摆盘好的西兰花",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-rong-xi-lan-hua/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "爆香蒜末",
+      "instruction": "热锅，加入 10 ml 食用油。油温升高后，放入 大蒜末，小火煸炒出香味。",
+      "duration_sec": 60,
+      "tips": [
+        "务必使用小火，防止蒜末炒焦变苦"
+      ],
+      "produces": "蒜香底油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-rong-xi-lan-hua/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "调味",
+      "instruction": "加入 10 ml 生抽，5 ml 蚝油，2 g 白糖，加入 30 ml 饮用水。",
+      "duration_sec": 30,
+      "tips": [
+        "先混合均匀再加热"
+      ],
+      "produces": "混合酱汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-rong-xi-lan-hua/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "煮开汤汁",
+      "instruction": "将锅中汤汁烧开。",
+      "duration_sec": 60,
+      "tips": [
+        "煮至微沸即可"
+      ],
+      "produces": "热蒜蓉汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-rong-xi-lan-hua/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "淋汁",
+      "instruction": "将烧好的蒜蓉汁 均匀淋在盘中的 西兰花 上。",
+      "duration_sec": 30,
+      "tips": [
+        "确保每一朵西兰花都能沾上酱汁"
+      ],
+      "produces": "成品蒜蓉西兰花",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_suan-rong-xi-lan-hua/step_9.jpg"
+    }
+  ],
+  "tips": [
+    "焯水时间不宜超过推荐时长，以免影响西兰花的口感和营养。",
+    "如果想保留西兰花更脆的口感，可以缩短焯水时间。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_suan-rong-xi-lan-hua.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_suan-rong-xi-lan-hua_overview.jpg",
+  "id": "vegetable_dish_suan-rong-xi-lan-hua",
+  "status": "published"
+}

@@ -1,0 +1,243 @@
+{
+  "title": "鳊鱼炖豆腐",
+  "summary": "鳊鱼炖豆腐是一道家常红烧菜，鱼肉鲜嫩入味，豆腐饱吸汤汁，咸鲜微辣。鳊鱼富含优质蛋白和不饱和脂肪酸，豆腐则提供植物蛋白和钙质，搭配起来营养均衡。",
+  "difficulty": 3,
+  "calories": 524,
+  "duration_min": 40,
+  "category": "其他",
+  "tags": [
+    "家常菜",
+    "红烧",
+    "鳊鱼",
+    "豆腐",
+    "高蛋白"
+  ],
+  "ingredients": [
+    {
+      "name": "鳊鱼",
+      "amount": "550克",
+      "buying_tip": "可以让摊主帮忙处理好",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老豆腐",
+      "amount": "400克",
+      "buying_tip": "选择质地紧实的老豆腐不易碎",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "5片",
+      "buying_tip": "老姜味道更浓郁",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "50克",
+      "buying_tip": "半根葱即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜",
+      "amount": "4个",
+      "buying_tip": "选用颗粒饱满的大蒜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "2ml",
+      "buying_tip": "主要用于上色",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "桂皮",
+      "amount": "1块",
+      "buying_tip": "增加香气",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "冰糖",
+      "amount": "5块",
+      "buying_tip": "提鲜并使色泽红亮",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "干辣椒",
+      "amount": "4-6个",
+      "buying_tip": "根据个人口味调节辣度",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "5ml",
+      "buying_tip": "用于去腥",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "4ml",
+      "buying_tip": "增加咸鲜味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "5-8克",
+      "buying_tip": "根据个人口味选择",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "八角",
+      "amount": "1个",
+      "buying_tip": "大料增香",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "香叶",
+      "amount": "1-3片",
+      "buying_tip": "增加复合香味",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "10ml",
+      "buying_tip": "普通植物油即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "热水",
+      "amount": "400克",
+      "buying_tip": "炖鱼必须用热水，汤汁更鲜美",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "厨房纸"
+  ],
+  "servings": {
+    "base": 2,
+    "formula": [
+      {
+        "name": "鳊鱼",
+        "expr": "550g"
+      },
+      {
+        "name": "老豆腐",
+        "expr": "400g"
+      },
+      {
+        "name": "热水",
+        "expr": "400g"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "腌制鳊鱼",
+      "instruction": "鳊鱼改刀,放上姜片和料酒腌制 5-10 分钟",
+      "duration_sec": 600,
+      "tips": [
+        "改刀可以使鱼肉更入味"
+      ],
+      "produces": "腌制好的鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bian-yu-dun-dou-fu/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "准备豆腐",
+      "instruction": "老豆腐切块后放入水中备用",
+      "duration_sec": 120,
+      "tips": [
+        "泡水可以防止豆腐粘连"
+      ],
+      "produces": "切好的豆腐块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bian-yu-dun-dou-fu/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "煎制鳊鱼",
+      "instruction": "锅中加油，可以放点盐在锅里防止粘锅。把腌制的鱼用厨房纸擦干水分，放入锅中两面煎香",
+      "duration_sec": 480,
+      "tips": [
+        "鱼的两面各煎 2-4 分钟",
+        "煎鱼时全程中小火",
+        "擦干水分是防止溅油的关键"
+      ],
+      "produces": "两面金黄的鳊鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bian-yu-dun-dou-fu/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "炒制佐料",
+      "instruction": "等两面都煎好时，把鱼推向锅边，放入葱姜蒜、干辣椒、香叶、八角炒出香味",
+      "duration_sec": 60,
+      "tips": [
+        "注意不要把佐料炒糊"
+      ],
+      "produces": "底油香味物质",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bian-yu-dun-dou-fu/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "加入汤汁",
+      "instruction": "加入料酒、生抽、老抽、冰糖、桂皮，倒入热水，水量和鱼平齐或者稍少",
+      "duration_sec": 60,
+      "tips": [
+        "必须加热水，否则鱼肉会收缩变柴"
+      ],
+      "produces": "红烧汤底",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bian-yu-dun-dou-fu/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "加入豆腐",
+      "instruction": "大火烧开后，放入老豆腐，豆腐贴在锅边，加入食盐，转小火",
+      "duration_sec": 120,
+      "tips": [
+        "豆腐贴边放更容易吸味"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bian-yu-dun-dou-fu/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "慢炖收汁",
+      "instruction": "小火烧 10-15 分钟，然后大火收点汁，即可出锅",
+      "duration_sec": 900,
+      "tips": [
+        "最后出锅时加入切碎的大蒜味道更好"
+      ],
+      "produces": "鳊鱼炖豆腐",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bian-yu-dun-dou-fu/step_7.jpg"
+    }
+  ],
+  "tips": [
+    "鱼的两面，各煎 2-4 分钟即可",
+    "煎鱼的时候全程中小火",
+    "最后出锅时，加入一些切碎的大蒜，味道会更好",
+    "煎鱼前在锅里撒点盐是防粘的小窍门"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_bian-yu-dun-dou-fu.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_bian-yu-dun-dou-fu_overview.jpg",
+  "id": "other_bian-yu-dun-dou-fu",
+  "status": "published"
+}

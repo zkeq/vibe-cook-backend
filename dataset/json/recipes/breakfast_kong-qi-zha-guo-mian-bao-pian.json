@@ -1,0 +1,90 @@
+{
+  "title": "空气炸锅面包片",
+  "summary": "空气炸锅面包片是一道极简快手的主食，外脆内软，麦香纯粹，特别适合减脂期食用。它富含膳食纤维和植物蛋白，能提供较长时间的饱腹感。做法毫无门槛，只需将面包片放入空气炸锅即可，对新手极其友好，从准备到完成仅需大约五分钟。",
+  "difficulty": 1,
+  "calories": 254,
+  "duration_min": 5,
+  "category": "早餐",
+  "tags": [
+    "空气炸锅",
+    "面包片",
+    "减脂",
+    "快手菜",
+    "西式"
+  ],
+  "ingredients": [
+    {
+      "name": "面包片",
+      "amount": "2片",
+      "buying_tip": "建议购买全麦或粗粮面包片以获得更高的膳食纤维",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "空气炸锅"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "面包片",
+        "expr": "2 * servings"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "准备面包片",
+      "instruction": "取出两片面包片（建议使用粗粮面包片）",
+      "duration_sec": 20,
+      "tips": [
+        "尽量选择厚度适中的面包片"
+      ],
+      "produces": "待烤面包片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_kong-qi-zha-guo-mian-bao-pian/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "放入炸锅",
+      "instruction": "将面包片垂直放入空气炸锅",
+      "duration_sec": 10,
+      "tips": [
+        "垂直放置可以让受热更均匀，口感更酥脆"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_kong-qi-zha-guo-mian-bao-pian/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "高温烘烤",
+      "instruction": "200°C 烘烤 5 分钟",
+      "duration_sec": 300,
+      "tips": [
+        "不同品牌炸锅功率不同，建议首次制作时观察上色情况"
+      ],
+      "produces": "烤好的面包片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_kong-qi-zha-guo-mian-bao-pian/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "取出装盘",
+      "instruction": "取出即可使用",
+      "duration_sec": 30,
+      "tips": [
+        "刚烤好时口感最脆"
+      ],
+      "produces": "成品面包片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_kong-qi-zha-guo-mian-bao-pian/step_4.jpg"
+    }
+  ],
+  "tips": [
+    "全麦面包片营养参考：热量 254 千卡，蛋白质 12.3 克，脂肪 3.5 克，碳水化合物 43.1 克，膳食纤维 6.0 克",
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_kong-qi-zha-guo-mian-bao-pian.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_kong-qi-zha-guo-mian-bao-pian_overview.jpg",
+  "id": "breakfast_kong-qi-zha-guo-mian-bao-pian",
+  "status": "published"
+}

@@ -1,0 +1,203 @@
+{
+  "title": "油醋爆蛋",
+  "summary": "这是一道湘味十足的家常快手下饭菜，酸辣鲜香，鸡蛋焦香蓬松裹满浓郁汤汁，十分开胃。鸡蛋提供优质蛋白质和卵磷脂，搭配香醋更有助于促进食欲。做法极其简单，新手友好，从准备到出锅仅需大约十分钟。",
+  "difficulty": 2,
+  "calories": 471,
+  "duration_min": 10,
+  "category": "素菜",
+  "tags": [
+    "湘味",
+    "快手菜",
+    "下饭菜",
+    "鸡蛋"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": "4个",
+      "buying_tip": "选用新鲜的土鸡蛋口感更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "小米辣",
+      "amount": "10g(约3个)",
+      "buying_tip": "喜欢辣的可以多放",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "35-50mL",
+      "buying_tip": "普通植物油即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "小葱",
+      "amount": "10g",
+      "buying_tip": "选用新鲜小葱",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜",
+      "amount": "5g",
+      "buying_tip": "大蒜去皮备用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香醋",
+      "amount": "15mL",
+      "buying_tip": "亲测老恒和酿造香醋零添加口味最好",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "10-15mL",
+      "buying_tip": "普通生抽即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蚝油",
+      "amount": "10g",
+      "buying_tip": "用于提鲜",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "白糖",
+      "amount": "0-5g",
+      "buying_tip": "用于中和酸辣味",
+      "optional": true,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "碗",
+    "打蒜器",
+    "炒锅",
+    "菜刀",
+    "砧板"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鸡蛋",
+        "expr": "4 * n 个"
+      },
+      {
+        "name": "小米辣",
+        "expr": "10 * n g"
+      },
+      {
+        "name": "食用油",
+        "expr": "35-50 * n mL"
+      },
+      {
+        "name": "小葱",
+        "expr": "10 * n g"
+      },
+      {
+        "name": "蒜",
+        "expr": "5 * n g"
+      },
+      {
+        "name": "香醋",
+        "expr": "15 * n mL"
+      },
+      {
+        "name": "生抽",
+        "expr": "10-15 * n mL"
+      },
+      {
+        "name": "蚝油",
+        "expr": "10 * n g"
+      },
+      {
+        "name": "白糖",
+        "expr": "0-5 * n g"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "准备鸡蛋",
+      "instruction": "鸡蛋不需打散，直接打入碗中备用。",
+      "duration_sec": 60,
+      "tips": [
+        "不需要搅拌鸡蛋，保持原样"
+      ],
+      "produces": "整蛋液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_you-cu-bao-dan/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "处理配菜",
+      "instruction": "香葱切成3cm长的小段。",
+      "duration_sec": 60,
+      "tips": [
+        "葱白和葱绿可以分开，稍后分次放入"
+      ],
+      "produces": "葱段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_you-cu-bao-dan/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "制作蒜辣沫",
+      "instruction": "将蒜瓣和小米辣放入打蒜器中，打成沫状。",
+      "duration_sec": 90,
+      "tips": [
+        "如果没有打蒜器也可以手工切碎"
+      ],
+      "produces": "蒜辣沫",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_you-cu-bao-dan/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "调制料汁",
+      "instruction": "将香醋、生抽、蚝油、白糖以及少许水加入小碗，搅拌均匀。",
+      "duration_sec": 60,
+      "tips": [
+        "水的量不要太多，以免收汁过慢"
+      ],
+      "produces": "糖醋料汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_you-cu-bao-dan/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "爆炒鸡蛋",
+      "instruction": "锅中油热后倒入鸡蛋，待凝固后铲成大块，随后倒入蒜沫、小米辣沫和糖醋料汁。",
+      "duration_sec": 180,
+      "tips": [
+        "油温要高，鸡蛋才会蓬松焦香"
+      ],
+      "produces": "爆炒中的鸡蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_you-cu-bao-dan/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "收汁出锅",
+      "instruction": "切换至大火收汁，快出锅时加入葱段即可。",
+      "duration_sec": 60,
+      "tips": [
+        "葱段最后放可以保持色泽和香气"
+      ],
+      "produces": "油醋爆蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_you-cu-bao-dan/step_6.jpg"
+    }
+  ],
+  "tips": [
+    "亲测老恒和酿造香醋零添加口味最好，醋香是本菜灵魂所在。",
+    "一份分量正好够2个人食用。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_you-cu-bao-dan.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_you-cu-bao-dan_overview.jpg",
+  "id": "vegetable_dish_you-cu-bao-dan",
+  "status": "published"
+}

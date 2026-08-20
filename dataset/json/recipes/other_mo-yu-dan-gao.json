@@ -1,0 +1,169 @@
+{
+  "title": "魔芋蛋糕",
+  "summary": "魔芋蛋糕是一款低热量、无麸质的甜点，用赤藓糖醇代替白砂糖，口感轻盈湿润，带有可可香气，尤其适合减脂人群。它富含膳食纤维和蛋白质，饱腹感强。",
+  "difficulty": 4,
+  "calories": 234,
+  "duration_min": 30,
+  "category": "其他",
+  "tags": [
+    "低热量",
+    "无麸质",
+    "减脂",
+    "高纤维",
+    "烘焙"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": "3个",
+      "buying_tip": "选用新鲜的冷藏鸡蛋更利于蛋白分离和打发",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "赤藓糖醇",
+      "amount": "50g",
+      "buying_tip": "代糖选择，适合生酮和减脂",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "可可粉",
+      "amount": "10g",
+      "buying_tip": "建议选择无糖纯可可粉",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "魔芋粉",
+      "amount": "10g",
+      "buying_tip": "魔芋粉提供膳食纤维和粘性",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "塔塔粉",
+      "amount": "1g",
+      "buying_tip": "用于稳定蛋白性状，可用几滴柠檬汁代替",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "烤箱",
+    "电动打蛋器",
+    "金属蛋糕模具",
+    "烘焙纸",
+    "餐刀",
+    "隔热手套",
+    "分蛋器"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鸡蛋",
+        "expr": "3 * servings"
+      },
+      {
+        "name": "赤藓糖醇",
+        "expr": "50 * servings"
+      },
+      {
+        "name": "可可粉",
+        "expr": "10 * servings"
+      },
+      {
+        "name": "魔芋粉",
+        "expr": "10 * servings"
+      },
+      {
+        "name": "塔塔粉",
+        "expr": "1 * servings"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "预热烤箱",
+      "instruction": "在准备蛋糕糊之前，将烤箱预热至 350 ℉ (150 ℃)。",
+      "duration_sec": 300,
+      "tips": [
+        "提前预热可以保证蛋糕糊入炉时的温度稳定性"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mo-yu-dan-gao/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "前期分离操作",
+      "instruction": "将新鲜鸡蛋的蛋清与蛋黄分离到两个干燥的容器中。",
+      "duration_sec": 120,
+      "tips": [
+        "蛋清容器必须无油，可有少量水珠",
+        "蛋黄不能破碎，蛋清中严禁混入蛋黄",
+        "盛放蛋清的容器体积应足够大，蛋清液面不要超过容器1/8"
+      ],
+      "produces": "分离好的蛋清和蛋黄",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mo-yu-dan-gao/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "打发蛋白",
+      "instruction": "蛋清加塔塔粉，先高速打至粗泡，加赤藓糖醇后中低速打至干性发泡。",
+      "duration_sec": 300,
+      "tips": [
+        "干性发泡标志：提起打蛋头有直立尖角，容器倒扣蛋白不掉落",
+        "打蛋器应贴近底部，防止底层未打发"
+      ],
+      "produces": "打发的蛋白霜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mo-yu-dan-gao/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "混合其他原料",
+      "instruction": "将蛋黄加入蛋白霜拌匀，再加入可可粉和魔芋粉，先餐刀翻拌再用打蛋器低速搅匀。",
+      "duration_sec": 180,
+      "tips": [
+        "先翻拌是为了防止粉末飞溅",
+        "翻拌手法：从中心插入底部向8点方向刮起并转动盆子，类似炒菜翻炒"
+      ],
+      "produces": "均匀的蛋糕糊",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mo-yu-dan-gao/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "烘烤",
+      "instruction": "模具铺纸，倒入蛋糕糊抹平并震出大气泡，入炉烘烤 25 分钟。",
+      "duration_sec": 1500,
+      "tips": [
+        "震荡几下可以使蛋糕组织更细腻",
+        "取出时务必戴好隔热手套"
+      ],
+      "produces": "烤熟的蛋糕",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mo-yu-dan-gao/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "冷却与脱模",
+      "instruction": "模具从高处落下震出热气，倒扣冷却 10 分钟后脱模切块。",
+      "duration_sec": 600,
+      "tips": [
+        "未冷却立刻脱模会损伤蛋糕形状",
+        "倒扣操作注意防烫"
+      ],
+      "produces": "成品魔芋蛋糕",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mo-yu-dan-gao/step_6.jpg"
+    }
+  ],
+  "tips": [
+    "本食谱主要参考生酮蛋糕制作视频",
+    "打发蛋白及翻拌流程可大幅借鉴戚风蛋糕的制作经验",
+    "魔芋粉吸水性强，翻拌速度需适中，避免消泡"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_mo-yu-dan-gao.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_mo-yu-dan-gao_overview.jpg",
+  "id": "other_mo-yu-dan-gao",
+  "status": "published"
+}

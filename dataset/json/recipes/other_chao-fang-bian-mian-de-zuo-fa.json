@@ -1,0 +1,178 @@
+{
+  "title": "炒方便面的做法",
+  "summary": "这道炒方便面口感 Q 弹筋道，咸香入味，是一道改良自传统煮面的家常快手主食。搭配鸡蛋和火腿肠，丰富了蛋白质和能量来源。做法简单，只需注意冷水冲面保持口感，新手也能轻松完成，全程大约 15 分钟即可出锅。",
+  "difficulty": 2,
+  "calories": 789,
+  "duration_min": 15,
+  "category": "其他",
+  "tags": [
+    "快手菜",
+    "主食",
+    "夜宵",
+    "炒面"
+  ],
+  "ingredients": [
+    {
+      "name": "方便面",
+      "amount": "1包",
+      "buying_tip": "建议选择面体较粗、耐煮的品牌",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": "1个",
+      "buying_tip": "普通鲜鸡蛋即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "火腿肠",
+      "amount": "1个",
+      "buying_tip": "可根据喜好选择淀粉含量低的产品",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "18ml",
+      "buying_tip": "普通植物油即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "方便面调料包",
+      "amount": "1套",
+      "buying_tip": "包含菜包、酱包和粉包",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "水",
+      "amount": "1200ml",
+      "buying_tip": "用于煮面",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "煮锅",
+    "炒锅",
+    "小碗",
+    "菜刀",
+    "砧板",
+    "漏勺"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "方便面",
+        "expr": "1 包/人"
+      },
+      {
+        "name": "鸡蛋",
+        "expr": "1 个/人"
+      },
+      {
+        "name": "火腿肠",
+        "expr": "1 个/人"
+      },
+      {
+        "name": "食用油",
+        "expr": "10 - 18 ml / 人"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "火腿肠预处理",
+      "instruction": "将火腿肠撕开包装，切成宽度 1cm 的小块。",
+      "duration_sec": 30,
+      "tips": [
+        "切块均匀有利于受热一致"
+      ],
+      "produces": "火腿肠丁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-fang-bian-mian-de-zuo-fa/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "煮面打散",
+      "instruction": "向煮锅中加入 1200 ml 水，完全煮沸后加入面饼，煮 45 秒并用筷子挑动打散。",
+      "duration_sec": 300,
+      "tips": [
+        "不要在未沸腾时加面",
+        "不要煮熟"
+      ],
+      "produces": "半熟面条",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-fang-bian-mian-de-zuo-fa/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "面条冷冲处理",
+      "instruction": "舀出 80ml 热面汤备用。将面条捞出立即用凉水冲洗并沥干水分。",
+      "duration_sec": 60,
+      "tips": [
+        "必须使用冷水冲面条，防止面条变坨",
+        "不要长时间浸泡"
+      ],
+      "produces": "Q弹面条",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-fang-bian-mian-de-zuo-fa/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "调制调料汁",
+      "instruction": "在碗中混合所有菜包、酱包及 50%-80% 的粉包，倒入 80ml 热面汤搅匀。",
+      "duration_sec": 40,
+      "tips": [
+        "粉包全放会太咸"
+      ],
+      "produces": "混合调料汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-fang-bian-mian-de-zuo-fa/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "预炒鸡蛋",
+      "instruction": "鸡蛋打散。热锅 20s 加入份数*8ml 油，翻炒蛋液约 20s 至成固态后盛出。",
+      "duration_sec": 60,
+      "tips": [
+        "蛋液中不要加盐",
+        "盛出后不需洗锅"
+      ],
+      "produces": "熟鸡蛋块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-fang-bian-mian-de-zuo-fa/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "炒制主料",
+      "instruction": "重新热锅 20s，加份数*10ml 油。先下火腿肠翻炒 10s，再加入面条翻炒 30s。",
+      "duration_sec": 60,
+      "tips": [
+        "保持大火翻炒"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-fang-bian-mian-de-zuo-fa/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "混合出锅",
+      "instruction": "倒入调料汁翻炒 30s，最后加入煎鸡蛋翻炒 30s 即可关火。",
+      "duration_sec": 70,
+      "tips": [
+        "确保调料均匀裹在面条上"
+      ],
+      "produces": "炒方便面成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-fang-bian-mian-de-zuo-fa/step_7.jpg"
+    }
+  ],
+  "tips": [
+    "在北京，可以考虑在盛盘后加入芝麻酱。如果芝麻酱太浓稠，可以 1:1 兑水稀释。",
+    "冷水冲面是保证面条下锅炒不坨、不粘锅、保持 Q 弹的核心原理。",
+    "进阶方案：将面饼凉水浸泡 2 分钟后捞出沥干，上锅大火蒸 8 分钟，口感更劲道。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_chao-fang-bian-mian-de-zuo-fa.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_chao-fang-bian-mian-de-zuo-fa_overview.jpg",
+  "id": "other_chao-fang-bian-mian-de-zuo-fa",
+  "status": "published"
+}

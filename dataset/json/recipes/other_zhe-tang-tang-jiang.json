@@ -1,0 +1,80 @@
+{
+  "title": "蔗糖糖浆",
+  "summary": "自制饮料糖浆，按 1：1 比例将白砂糖与水混合溶解，方便控制冷饮甜度，是调饮的基础配方。富含碳水化合物，能快速补充能量。做法极其简单，对新手非常友好，仅需几分钟即可完成，冷藏可保存一周。",
+  "difficulty": 1,
+  "calories": 400,
+  "duration_min": 5,
+  "category": "其他",
+  "tags": [
+    "基础配方",
+    "调味",
+    "自制饮料",
+    "糖浆"
+  ],
+  "ingredients": [
+    {
+      "name": "白砂糖",
+      "amount": "100g",
+      "buying_tip": "普通白砂糖即可，细砂糖溶解更快",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "水",
+      "amount": "100g",
+      "buying_tip": "建议使用纯净水或过滤后的饮用水",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "可密封容器",
+    "高硼硅试剂瓶"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "白砂糖",
+        "expr": "100 * base"
+      },
+      {
+        "name": "水",
+        "expr": "100 * base"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "混合溶解",
+      "instruction": "将称好的白砂糖的饮用水于容器混匀",
+      "duration_sec": 180,
+      "tips": [
+        "水无论冷热都可，如果比较急用，可用热水溶解后再冷却糖浆"
+      ],
+      "produces": "混合液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhe-tang-tang-jiang/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "封存冷藏",
+      "instruction": "容器封盖放冰箱冷藏",
+      "duration_sec": 60,
+      "tips": [
+        "确保容器密封良好，防止串味"
+      ],
+      "produces": "蔗糖糖浆",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhe-tang-tang-jiang/step_2.jpg"
+    }
+  ],
+  "tips": [
+    "水无论冷热都可，如果比较急用，可用热水溶解后再冷却糖浆。",
+    "配制好的糖浆不会轻易变质，在冷藏状态下保存一周通常是没问题的。",
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_zhe-tang-tang-jiang.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_zhe-tang-tang-jiang_overview.jpg",
+  "id": "other_zhe-tang-tang-jiang",
+  "status": "published"
+}

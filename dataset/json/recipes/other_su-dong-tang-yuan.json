@@ -1,0 +1,98 @@
+{
+  "title": "速冻汤圆",
+  "summary": "速冻汤圆是一道快速方便的微波炉甜点，外皮软糯、内馅香甜，属于中式传统小吃。主要提供碳水化合物，能迅速补充能量。做法极易上手，新手也能轻松完成，从准备到出锅仅需大约 6 分钟。",
+  "difficulty": 1,
+  "calories": 568,
+  "duration_min": 6,
+  "category": "其他",
+  "tags": [
+    "甜点",
+    "中式小吃",
+    "微波炉料理",
+    "快手菜"
+  ],
+  "ingredients": [
+    {
+      "name": "速冻汤圆",
+      "amount": "11个",
+      "buying_tip": "选择自己喜欢的口味，如芝麻、花生或红豆馅",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "开水",
+      "amount": "适量（以浸没汤圆为准）",
+      "buying_tip": "建议使用刚烧开的纯净水",
+      "optional": false,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "微波炉",
+    "碗",
+    "毛巾"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "速冻汤圆",
+        "expr": "11 * servings"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "准备汤圆",
+      "instruction": "取出速冻汤圆，放入碗中。",
+      "duration_sec": 30,
+      "tips": [
+        "注意先加汤圆再加热水，不要颠倒"
+      ],
+      "produces": "装有汤圆的碗",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_su-dong-tang-yuan/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "加入热水",
+      "instruction": "倒入开水，直至浸没汤圆。",
+      "duration_sec": 30,
+      "tips": [
+        "保证放入的汤圆最高不超过碗高度 - 5mm，防止水溢出"
+      ],
+      "produces": "浸泡在热水中的汤圆",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_su-dong-tang-yuan/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "微波加热",
+      "instruction": "放入微波炉，调至高火加热 4 分钟。",
+      "duration_sec": 240,
+      "tips": [
+        "加热过程中注意观察"
+      ],
+      "produces": "初步煮熟的汤圆",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_su-dong-tang-yuan/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "检查与调整",
+      "instruction": "假如汤圆均已吸水膨胀，则已熟。如果没熟，再加热 1 分钟。",
+      "duration_sec": 60,
+      "tips": [
+        "假如微波炉里碗太烫无法取出，可以用毛巾"
+      ],
+      "produces": "熟透的汤圆",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_su-dong-tang-yuan/step_4.jpg"
+    }
+  ],
+  "tips": [
+    "注意先加汤圆再加热水，不要颠倒，不然汤圆倒入热水可能会溅出烫伤。以及无法控制水面高度可能溢出。",
+    "假如微波炉里碗太烫无法取出，可以用毛巾，或者某些微波炉可以连托盘一起取出。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_su-dong-tang-yuan.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_su-dong-tang-yuan_overview.jpg",
+  "id": "other_su-dong-tang-yuan",
+  "status": "published"
+}

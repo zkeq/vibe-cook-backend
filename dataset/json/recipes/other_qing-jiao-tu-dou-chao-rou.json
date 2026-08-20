@@ -1,0 +1,198 @@
+{
+  "title": "青椒土豆炒肉",
+  "summary": "青椒土豆炒肉是一道荤素搭配的家常小炒，口感鲜香脆嫩，酱香浓郁，特别下饭。土豆富含碳水化合物和维生素 C，青椒提供丰富的维生素 C 和膳食纤维，搭配猪肉的优质蛋白质，营养均衡。",
+  "difficulty": 3,
+  "calories": 1288,
+  "duration_min": 60,
+  "category": "其他",
+  "tags": [
+    "家常菜",
+    "小炒",
+    "荤素搭配",
+    "下饭菜"
+  ],
+  "ingredients": [
+    {
+      "name": "青椒",
+      "amount": "2个(约200g)",
+      "buying_tip": "选择颜色翠绿、表皮光滑、质地硬挺的青椒",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "土豆",
+      "amount": "2个(约300g)",
+      "buying_tip": "选择表面平滑、无芽眼、无发青的土豆",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "猪肉（五花肉）",
+      "amount": "200g",
+      "buying_tip": "建议选择肥瘦相间的五花肉，口感更香",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "葱",
+      "amount": "1根(约10g)",
+      "buying_tip": "新鲜小葱",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "1块(约5g)",
+      "buying_tip": "老姜香味更浓郁",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜",
+      "amount": "3瓣(约12g)",
+      "buying_tip": "选择饱满不发芽的蒜瓣",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "7g",
+      "buying_tip": "普通食用盐即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酱油",
+      "amount": "6-10ml",
+      "buying_tip": "建议使用生抽提鲜，老抽上色",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "10-15ml",
+      "buying_tip": "耐高温的植物油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "土豆淀粉",
+      "amount": "5g",
+      "buying_tip": "细腻无杂质的淀粉",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "水",
+      "amount": "15g",
+      "buying_tip": "普通饮用水",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "削皮刀",
+    "小碗",
+    "锅铲"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "青椒",
+        "expr": "2 * n"
+      },
+      {
+        "name": "土豆",
+        "expr": "2 * n"
+      },
+      {
+        "name": "猪肉",
+        "expr": "200 * n"
+      },
+      {
+        "name": "葱",
+        "expr": "1 * n"
+      },
+      {
+        "name": "姜",
+        "expr": "1 * n"
+      },
+      {
+        "name": "蒜",
+        "expr": "3 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "食材预处理",
+      "instruction": "青椒去除根蒂切小块，土豆去皮切 2mm 薄片，猪肉切 4mm 薄片，葱横纵切 3mm 小段，姜蒜去皮拍散剁碎末；土豆淀粉加入约 15g 水搅拌均匀至水淀粉。",
+      "duration_sec": 1200,
+      "tips": [
+        "土豆片切薄一点更容易熟",
+        "水淀粉在使用前需再次搅拌防止沉淀"
+      ],
+      "produces": "切好的食材及水淀粉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-jiao-tu-dou-chao-rou/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "煸炒猪肉",
+      "instruction": "起锅烧油，加热至 7 成热放入猪肉片，缓缓翻滚炒至去肉红色，加入约 3ml 酱油，翻炒肉片均匀上色，放入约 2g 盐。",
+      "duration_sec": 300,
+      "tips": [
+        "7成热油温大约是油面波动明显并有少量青烟",
+        "肉片炒至变色即可上色"
+      ],
+      "produces": "上色的熟肉片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-jiao-tu-dou-chao-rou/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "炒制土豆",
+      "instruction": "转 5 成油温，加入葱姜蒜炒 5 秒，然后加入土豆片，转 7 成油温均匀翻炒，加入加入约 5ml 酱油和 2g 盐，炒至土豆断生，表面轻微焦黄。",
+      "duration_sec": 600,
+      "tips": [
+        "土豆片炒至透明状即为断生",
+        "保持翻炒防止土豆粘锅"
+      ],
+      "produces": "熟土豆肉片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-jiao-tu-dou-chao-rou/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "加入青椒与勾芡",
+      "instruction": "转 8 成油温加入青椒，大火煸炒出锅气（有白烟冒出），反复均匀翻炒 1 分钟上色，最后在锅周围倒入水淀粉转 4 成火勾芡。",
+      "duration_sec": 120,
+      "tips": [
+        "大火快炒可以保持青椒的脆嫩",
+        "勾芡时沿锅边倒入效果更好"
+      ],
+      "produces": "待出锅的菜肴",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-jiao-tu-dou-chao-rou/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "收汁盛盘",
+      "instruction": "在外观呈粘稠状态后关火，盛盘。",
+      "duration_sec": 60,
+      "tips": [
+        "粘稠度适中即可关火，避免过干"
+      ],
+      "produces": "青椒土豆炒肉成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-jiao-tu-dou-chao-rou/step_5.jpg"
+    }
+  ],
+  "tips": [
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_qing-jiao-tu-dou-chao-rou.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_qing-jiao-tu-dou-chao-rou_overview.jpg",
+  "id": "other_qing-jiao-tu-dou-chao-rou",
+  "status": "published"
+}

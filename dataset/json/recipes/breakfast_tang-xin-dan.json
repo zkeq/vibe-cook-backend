@@ -1,0 +1,113 @@
+{
+  "title": "溏心蛋",
+  "summary": "这是一道用普通电锅就能轻松做出的家常蛋料理，蛋黄呈现流动的溏心状态，口感嫩滑香醇。每颗鸡蛋提供约 6 克优质蛋白质，尤其适合健身人群补充营养。制作过程简单明了，只要掌握好加热和静置的时间，新手也能快速上手，全程仅需 大约 15 分钟。",
+  "difficulty": 3,
+  "calories": 72,
+  "duration_min": 15,
+  "category": "早餐",
+  "tags": [
+    "溏心蛋",
+    "电锅料理",
+    "健身餐",
+    "高蛋白"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": "1颗或更多",
+      "buying_tip": "建议选择新鲜的鸡蛋，最好是可生食级别以降低沙门氏菌风险",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "冷水",
+      "amount": "淹过鸡蛋约2公分",
+      "buying_tip": "普通自来水或纯净水即可",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "电锅",
+    "秒表"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鸡蛋",
+        "expr": "n 颗"
+      },
+      {
+        "name": "水",
+        "expr": "淹过鸡蛋约 2 公分"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "放置鸡蛋",
+      "instruction": "将鸡蛋放入电锅中。鸡蛋不可互相堆叠，应皆在底部，并留有空间可以晃动",
+      "duration_sec": 30,
+      "tips": [
+        "确保鸡蛋铺平在底部，不要重叠以保证受热均匀"
+      ],
+      "produces": "待煮鸡蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tang-xin-dan/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "加水准备",
+      "instruction": "倒入淹过鸡蛋约 2 公分的冷水",
+      "duration_sec": 30,
+      "tips": [
+        "水量需没过鸡蛋表面"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tang-xin-dan/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "加热至微沸",
+      "instruction": "开盖，使用最大功率加热至水滚起（大约 85 - 95 度，稍微滚动，不需完全沸腾）",
+      "duration_sec": 420,
+      "tips": [
+        "注意观察水温，不需要完全沸腾"
+      ],
+      "produces": "受热鸡蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tang-xin-dan/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "盖盖静置",
+      "instruction": "关火，盖上盖子，让鸡蛋静置。",
+      "duration_sec": 360,
+      "tips": [
+        "想要流动蛋黄静置 6 分钟，想要全熟蛋黄静置 10 分钟"
+      ],
+      "produces": "已熟鸡蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tang-xin-dan/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "冷冲去壳",
+      "instruction": "沥干水分，用冷水冲洗鸡蛋约 1 分钟，即可去壳食用。",
+      "duration_sec": 60,
+      "tips": [
+        "冷水冲洗能让蛋壳更容易剥落"
+      ],
+      "produces": "成品溏心蛋",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tang-xin-dan/step_5.jpg"
+    }
+  ],
+  "tips": [
+    "如果觉得鸡蛋不够熟的小伙伴可以依照自己的喜好添加更多的水。",
+    "警告：溏心蛋有沙门氏菌感染的风险。不建议静置 5 分钟以内。",
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_tang-xin-dan.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_tang-xin-dan_overview.jpg",
+  "id": "breakfast_tang-xin-dan",
+  "status": "published"
+}

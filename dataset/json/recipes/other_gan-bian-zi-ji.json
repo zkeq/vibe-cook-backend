@@ -1,0 +1,304 @@
+{
+  "title": "干煸仔鸡",
+  "summary": "这是一道源自北大食堂、甜辣风味的创新川菜，鸡肉先腌后炸，外酥里嫩，土豆香糯，青椒脆爽，裹满红亮的甜辣酱汁，咸甜微辣十分开胃。富含蛋白质、碳水化合物及维生素。制作涉及油炸和酱汁熬制，对新手稍有挑战，但按步骤操作即可成功，全程约需 1 小时。",
+  "difficulty": 4,
+  "calories": 1300,
+  "duration_min": 60,
+  "category": "其他",
+  "tags": [
+    "川菜",
+    "北大食堂",
+    "甜辣",
+    "油炸",
+    "下饭菜"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡腿肉",
+      "amount": "400g",
+      "buying_tip": "如使用鸡腿排可忽略去骨步骤",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "土豆",
+      "amount": "200g",
+      "buying_tip": "建议选择口感香糯的黄心土豆",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "青椒",
+      "amount": "60g",
+      "buying_tip": "选择新鲜脆爽的品种",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜瓣",
+      "amount": "10g",
+      "buying_tip": "新鲜大蒜即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "3g",
+      "buying_tip": "普通食盐",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡精",
+      "amount": "3g",
+      "buying_tip": "提升鲜味",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "胡椒粉",
+      "amount": "2g",
+      "buying_tip": "白胡椒粉或黑胡椒粉均可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "5g",
+      "buying_tip": "普通生抽酱油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "2g",
+      "buying_tip": "用于上色",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "5g",
+      "buying_tip": "去腥增香",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "淀粉",
+      "amount": "20g",
+      "buying_tip": "玉米淀粉或土豆淀粉",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "郫县红油豆瓣酱",
+      "amount": "40g",
+      "buying_tip": "注意区分，不是那种棕黄色的豆瓣酱",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白糖",
+      "amount": "30g",
+      "buying_tip": "细砂糖即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "花椒碎",
+      "amount": "2g",
+      "buying_tip": "现磨花椒碎风味更佳",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "菜刀",
+    "砧板",
+    "炒锅",
+    "煮锅",
+    "笊篱/漏勺"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鸡腿肉",
+        "expr": "400 * n"
+      },
+      {
+        "name": "土豆",
+        "expr": "200 * n"
+      },
+      {
+        "name": "青椒",
+        "expr": "60 * n"
+      },
+      {
+        "name": "蒜瓣",
+        "expr": "10 * n"
+      },
+      {
+        "name": "盐",
+        "expr": "3 * n"
+      },
+      {
+        "name": "鸡精",
+        "expr": "3 * n"
+      },
+      {
+        "name": "胡椒粉",
+        "expr": "2 * n"
+      },
+      {
+        "name": "生抽",
+        "expr": "5 * n"
+      },
+      {
+        "name": "老抽",
+        "expr": "2 * n"
+      },
+      {
+        "name": "料酒",
+        "expr": "5 * n"
+      },
+      {
+        "name": "淀粉",
+        "expr": "20 * n"
+      },
+      {
+        "name": "郫县红油豆瓣酱",
+        "expr": "40 * n"
+      },
+      {
+        "name": "白糖",
+        "expr": "30 * n"
+      },
+      {
+        "name": "花椒碎",
+        "expr": "2 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "食材改刀",
+      "instruction": "鸡腿去骨（如使用鸡腿排可忽略此步骤），鸡腿肉用刀背砸一砸，切成 2cm 的块。",
+      "duration_sec": 300,
+      "tips": [
+        "用刀背拍打可以让鸡肉口感更松软"
+      ],
+      "produces": "鸡肉块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-bian-zi-ji/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "腌制鸡肉",
+      "instruction": "鸡腿肉中加入盐、鸡精（可选）、胡椒粉、生抽、老抽、料酒，抓拌至粘手时加入淀粉拌匀，加入食用油防止粘连，腌制 30 分钟。",
+      "duration_sec": 1800,
+      "tips": [
+        "加入食用油是防止下锅炸时鸡块互相粘在一起的关键"
+      ],
+      "produces": "腌制好的鸡肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-bian-zi-ji/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "土豆预处理",
+      "instruction": "土豆去皮，切成 2cm 的块，沸水煮 5 分钟后捞出，控干水分，防止油炸时爆锅。",
+      "duration_sec": 600,
+      "tips": [
+        "水分一定要控干，否则下油锅会剧烈溅油"
+      ],
+      "produces": "半熟土豆块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-bian-zi-ji/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "配菜准备",
+      "instruction": "青椒去籽，切成 2cm 小片，放在笊篱中备用。",
+      "duration_sec": 120,
+      "tips": [
+        "青椒片大小应与鸡块、土豆块保持一致"
+      ],
+      "produces": "青椒片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-bian-zi-ji/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "初炸土豆",
+      "instruction": "锅中加入宽油，油温烧至 180℃ 时，下入土豆块炸 3 分钟后捞出。",
+      "duration_sec": 180,
+      "tips": [
+        "油量需没过食材"
+      ],
+      "produces": "初炸土豆",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-bian-zi-ji/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "初炸鸡块",
+      "instruction": "待油温再次升高到 180℃时，下入鸡块炸 2 分钟后捞出。",
+      "duration_sec": 120,
+      "tips": [
+        "炸鸡块时不要立刻搅动，待其定型后再拨散"
+      ],
+      "produces": "初炸鸡块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-bian-zi-ji/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "复炸鸡块",
+      "instruction": "待油温再次升高到 180℃时，下入鸡块复炸 1 分钟后捞出。",
+      "duration_sec": 60,
+      "tips": [
+        "复炸可以使鸡块外皮更酥脆，并逼出多余油脂"
+      ],
+      "produces": "酥脆鸡块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-bian-zi-ji/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "复炸土豆及青椒断生",
+      "instruction": "待油温再次升高到 180℃时，下入土豆块复炸 1 分钟后，将锅中的油和土豆块经过笊篱过滤倒出，让笊篱上的青椒片断生。",
+      "duration_sec": 60,
+      "tips": [
+        "利用热油过滤的瞬间让青椒断生，可以保持青椒的脆爽和色泽"
+      ],
+      "produces": "复炸土豆及断生青椒",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-bian-zi-ji/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "熬制酱汁",
+      "instruction": "锅中加入 5ml 食用油，小火煸炒蒜瓣至发黄，下入红油豆瓣酱煸炒出香，下入白糖炒融化，下入花椒碎，加 40ml 清水，不停搅拌至酱汁粘稠。",
+      "duration_sec": 300,
+      "tips": [
+        "全程小火，避免豆瓣酱和白糖炒糊"
+      ],
+      "produces": "甜辣酱汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-bian-zi-ji/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "混合成菜",
+      "instruction": "下入炸好的鸡块、土豆块、青椒片，搅拌均匀后出锅。",
+      "duration_sec": 60,
+      "tips": [
+        "快速翻拌，让酱汁均匀裹在食材上即可出锅"
+      ],
+      "produces": "干煸仔鸡",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-bian-zi-ji/step_10.jpg"
+    }
+  ],
+  "tips": [
+    "不舍得使用宽油油炸的话，可改用更少的油煎鸡块和土豆块。会增长用时，部分影响口感，但不会影响总体味道。",
+    "豆瓣酱的咸度较高，请根据个人口味酌情调整盐的用量。",
+    "复炸步骤是外酥里嫩的关键，建议不要省略。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_gan-bian-zi-ji.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_gan-bian-zi-ji_overview.jpg",
+  "id": "other_gan-bian-zi-ji",
+  "status": "published"
+}

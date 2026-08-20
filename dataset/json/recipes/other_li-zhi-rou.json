@@ -1,0 +1,281 @@
+{
+  "title": "荔枝肉",
+  "summary": "荔枝肉是一道酸甜酥香的福州传统闽菜，外焦里嫩的肉块裹着红亮的酱汁，搭配水果添入清爽果香。猪瘦肉富含优质蛋白质，凤梨含有膳食纤维和维生素，能帮助开胃解腻。制作过程需要切肉、挂糊和两次油炸，略有挑战但步骤明确，适合有一定下厨基础的美食爱好者尝试，大约 45 分钟就能端上餐桌。",
+  "difficulty": 4,
+  "calories": 681,
+  "duration_min": 45,
+  "category": "其他",
+  "tags": [
+    "闽菜",
+    "福州菜",
+    "酸甜口",
+    "油炸"
+  ],
+  "ingredients": [
+    {
+      "name": "瘦肉",
+      "amount": "150g",
+      "buying_tip": "选用猪里脊肉或后腿瘦肉，口感更嫩",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "凤梨",
+      "amount": "100g",
+      "buying_tip": "选用熟透的凤梨，果香更浓郁",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鲜香菇",
+      "amount": "2朵",
+      "buying_tip": "肉厚者为佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蟹味菇",
+      "amount": "30g",
+      "buying_tip": "保持新鲜干燥",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": "1个",
+      "buying_tip": "普通鸡蛋即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "500ml",
+      "buying_tip": "选用烟点较高的植物油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "淀粉/生粉",
+      "amount": "100g",
+      "buying_tip": "建议使用土豆淀粉，炸出来更酥脆",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "番茄酱",
+      "amount": "20g",
+      "buying_tip": "选用浓郁型番茄酱",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白砂糖",
+      "amount": "5g",
+      "buying_tip": "细砂糖更易溶解",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "5ml",
+      "buying_tip": "起鲜调味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡精",
+      "amount": "5g",
+      "buying_tip": "提鲜使用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜末",
+      "amount": "5g",
+      "buying_tip": "老姜切末更香",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香醋",
+      "amount": "2ml",
+      "buying_tip": "福州传统建议用老陈醋或红糟醋",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "芝麻",
+      "amount": "2g",
+      "buying_tip": "熟白芝麻",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "油炸篮",
+    "菜刀",
+    "砧板",
+    "搅拌碗",
+    "勺子"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鲜香菇",
+        "expr": "2 * n"
+      },
+      {
+        "name": "蟹味菇",
+        "expr": "30 * n"
+      },
+      {
+        "name": "瘦肉",
+        "expr": "150 * n"
+      },
+      {
+        "name": "凤梨",
+        "expr": "100 * n"
+      },
+      {
+        "name": "鸡蛋",
+        "expr": "1 * n"
+      },
+      {
+        "name": "食用油",
+        "expr": "500 * n"
+      },
+      {
+        "name": "淀粉",
+        "expr": "100 * n"
+      },
+      {
+        "name": "番茄酱",
+        "expr": "20 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理瘦肉并腌制",
+      "instruction": "瘦肉切块（每块 2-3 cm ），放入大碗中，加入鸡蛋 1 个 、生粉 50 g 、生抽 3 ml 、鸡精 2 g",
+      "duration_sec": 300,
+      "tips": [
+        "肉块大小要均匀，方便受热均匀"
+      ],
+      "produces": "腌制肉块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-zhi-rou/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "挂糊处理",
+      "instruction": "充分搅拌,直至生粉包裹住瘦肉块（太稀则继续加生粉，太干则加水），然后加入 5 ml 油，在充分搅拌后备用",
+      "duration_sec": 180,
+      "tips": [
+        "最后加点油可以防止下锅时肉块粘连"
+      ],
+      "produces": "挂糊肉块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-zhi-rou/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "调配糖醋汁",
+      "instruction": "在准备一个碗，加入番茄酱、鸡精 3 g 、生抽 2 ml 、姜末、白砂糖、生粉 10 g 、香醋、凉水 200 ml ,充分搅拌后备用",
+      "duration_sec": 120,
+      "tips": [
+        "充分搅拌确保淀粉不沉底"
+      ],
+      "produces": "糖醋酱汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-zhi-rou/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "准备凤梨",
+      "instruction": "切一个凤梨, 准备 6 个 （每个 1.5-2 cm）凤梨块",
+      "duration_sec": 120,
+      "tips": [
+        "凤梨块大小应略小于肉块"
+      ],
+      "produces": "凤梨块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-zhi-rou/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "热油",
+      "instruction": "起锅烧油，倒入 500 ml 油，一直烧油直到听到油炸声",
+      "duration_sec": 300,
+      "tips": [
+        "可以用木筷子试油温，周围起细密小泡即可"
+      ],
+      "produces": "热油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-zhi-rou/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "下锅初炸",
+      "instruction": "将瘦肉一个一个放入锅中（切记不可以整碗倒入），保证每个肉不要粘在一起",
+      "duration_sec": 120,
+      "tips": [
+        "保持中小火，防止外焦内生"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-zhi-rou/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "翻炸定型",
+      "instruction": "全部放入瘦肉后，每 30 S 用勺子来回两面翻转瘦肉块，直至瘦肉块表面金黄",
+      "duration_sec": 240,
+      "tips": [
+        "注意观察颜色变化"
+      ],
+      "produces": "初炸肉块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-zhi-rou/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "复炸",
+      "instruction": "取出瘦肉，一分钟后倒入油锅中继续炸，直至瘦肉块表面出现焦黄后，取出放入大碗备用",
+      "duration_sec": 180,
+      "tips": [
+        "复炸是酥脆的关键，时间不宜过长",
+        "可以通过勺子敲打瘦肉块，听到声响来判断是否炸透"
+      ],
+      "produces": "酥脆肉块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-zhi-rou/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "裹汁翻炒",
+      "instruction": "起锅，倒入汤汁，30 S 后倒入瘦肉块、凤梨块，充分翻炒后出锅",
+      "duration_sec": 60,
+      "tips": [
+        "动作要快，保证挂汁均匀且肉块保持酥脆"
+      ],
+      "produces": "成品荔枝肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-zhi-rou/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "点缀",
+      "instruction": "摆上芝麻",
+      "duration_sec": 30,
+      "tips": [
+        "趁热撒上芝麻更香"
+      ],
+      "produces": "最终成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-zhi-rou/step_10.jpg"
+    }
+  ],
+  "tips": [
+    "更多情况下，福州当地会选用马蹄（解腻）和马铃薯（洗油），若买不到可用凤梨替代。",
+    "闽菜以甜为主，如果吃不惯的可以减少或放弃白糖。",
+    "可以通过勺子敲打瘦肉块，听到声响来判断是否炸透瘦肉。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_li-zhi-rou.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_li-zhi-rou_overview.jpg",
+  "id": "other_li-zhi-rou",
+  "status": "published"
+}

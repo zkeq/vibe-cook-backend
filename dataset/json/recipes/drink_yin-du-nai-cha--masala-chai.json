@@ -1,0 +1,283 @@
+{
+  "title": "印度奶茶 (Masala Chai)",
+  "summary": "印度奶茶是一道充满异域风情的家常饮品，以红茶、牛奶和多种香料现煮而成，口感浓郁顺滑，带有生姜、豆蔻、肉桂交织的辛香暖意。牛奶提供优质蛋白和钙质，香料则有助于暖身驱寒、促进消化。",
+  "difficulty": 2,
+  "calories": 135,
+  "duration_min": 10,
+  "category": "饮料",
+  "tags": [
+    "印度菜",
+    "热饮",
+    "奶茶",
+    "香料"
+  ],
+  "ingredients": [
+    {
+      "name": "红茶",
+      "amount": "8g (约 2 茶匙)",
+      "buying_tip": "CTC 红茶最佳，或阿萨姆红茶",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "全脂牛奶",
+      "amount": "120ml",
+      "buying_tip": "建议使用高品质全脂牛奶以保证口感浓郁",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "水",
+      "amount": "120ml",
+      "buying_tip": "纯净水或过滤水为佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生姜",
+      "amount": "5g (约 1cm 一块)",
+      "buying_tip": "新鲜生姜，是奶茶的灵魂",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "绿色小豆蔻",
+      "amount": "2 颗",
+      "buying_tip": "选用颗粒饱满的绿色豆蔻",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "肉桂棒",
+      "amount": "1 小段 (约 2cm)",
+      "buying_tip": "整根肉桂棒优于肉桂粉",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "丁香",
+      "amount": "2 颗",
+      "buying_tip": "气味浓郁，不宜过多",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "黑胡椒粒",
+      "amount": "2 颗",
+      "buying_tip": "提供微辛的后调",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "糖",
+      "amount": "10-15g",
+      "buying_tip": "根据个人口味调整甜度",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "小奶锅",
+    "滤网",
+    "茶盏",
+    "刀背/研钵"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "水",
+        "expr": "120 * n"
+      },
+      {
+        "name": "全脂牛奶",
+        "expr": "120 * n"
+      },
+      {
+        "name": "红茶",
+        "expr": "8 * n"
+      },
+      {
+        "name": "生姜",
+        "expr": "5 * n"
+      },
+      {
+        "name": "绿色小豆蔻",
+        "expr": "2 * n"
+      },
+      {
+        "name": "肉桂棒",
+        "expr": "1 * n"
+      },
+      {
+        "name": "丁香",
+        "expr": "2 * n"
+      },
+      {
+        "name": "黑胡椒粒",
+        "expr": "2 * n"
+      },
+      {
+        "name": "糖",
+        "expr": "12.5 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理生姜",
+      "instruction": "将生姜拍碎（不用切太碎，拍开即可释放姜汁）。",
+      "duration_sec": 30,
+      "tips": [
+        "拍碎比切丝更能释放辛辣味"
+      ],
+      "produces": "拍碎的生姜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "处理豆蔻",
+      "instruction": "将小豆蔻用刀背拍开，露出里面的籽。",
+      "duration_sec": 20,
+      "tips": [
+        "拍开外壳是风味释放的关键"
+      ],
+      "produces": "拍开的小豆蔻",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "处理黑胡椒",
+      "instruction": "将黑胡椒粒拍碎。",
+      "duration_sec": 20,
+      "tips": [
+        "拍碎即可，无需研磨成粉"
+      ],
+      "produces": "碎黑胡椒粒",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "烧水",
+      "instruction": "在小奶锅中倒入 120ml 水。",
+      "duration_sec": 10,
+      "tips": null,
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "加入香料",
+      "instruction": "放入拍碎的生姜、小豆蔻、肉桂棒、丁香、黑胡椒粒。",
+      "duration_sec": 20,
+      "tips": null,
+      "produces": "香料底水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "熬煮香料",
+      "instruction": "大火煮沸后转小火，煮 2 分钟，让香料的味道充分释出。",
+      "duration_sec": 120,
+      "tips": [
+        "火候不要太大，防止水分蒸发过多"
+      ],
+      "produces": "浓缩香料水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "煮茶",
+      "instruction": "加入红茶 8g，继续小火煮 2 分钟，直至茶汤颜色变深。",
+      "duration_sec": 120,
+      "tips": [
+        "CTC红茶上色非常快"
+      ],
+      "produces": "香料茶汤",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "加入牛奶",
+      "instruction": "倒入全脂牛奶 120ml。",
+      "duration_sec": 10,
+      "tips": null,
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "加热观察",
+      "instruction": "中火加热，注意观察，当奶茶开始冒泡上升时立即转小火。",
+      "duration_sec": 60,
+      "tips": [
+        "一定要守在锅边，牛奶极易溢出"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "拉茶融合",
+      "instruction": "小火煮 2-3 分钟，期间可以将锅提起倒回（反复提拉 3-4 次），使茶汤与牛奶充分融合。",
+      "duration_sec": 150,
+      "tips": [
+        "提拉动作能增加奶茶的顺滑感和空气感"
+      ],
+      "produces": "奶茶液体",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "调味",
+      "instruction": "加入糖，搅拌溶解。",
+      "duration_sec": 20,
+      "tips": [
+        "甜度可根据个人喜好增减"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_11.jpg"
+    },
+    {
+      "index": 12,
+      "title": "关火",
+      "instruction": "完成烹煮，关闭火源。",
+      "duration_sec": 5,
+      "tips": null,
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_12.jpg"
+    },
+    {
+      "index": 13,
+      "title": "过滤",
+      "instruction": "用滤网过滤到茶盏中，去除茶叶和香料残渣。",
+      "duration_sec": 30,
+      "tips": [
+        "过滤要彻底，保证口感顺滑"
+      ],
+      "produces": "成品印度奶茶",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_13.jpg"
+    },
+    {
+      "index": 14,
+      "title": "享用",
+      "instruction": "趁热饮用。",
+      "duration_sec": 5,
+      "tips": null,
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_14.jpg"
+    }
+  ],
+  "tips": [
+    "CTC 红茶因其颗粒细碎，是制作印度奶茶的最佳选择，祁门红茶或滇红可作为替代。",
+    "牛奶和水的比例可灵活调整：喜欢浓郁则多奶，喜欢清爽则多水。",
+    "生姜是印度奶茶的灵魂，不建议省略。",
+    "如果不习惯过甜，可以适当减少糖量。",
+    "印度街头通常使用陶土杯(Kulhad)盛茶，会赋予茶汤独特的泥土芬芳。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/drink_yin-du-nai-cha--masala-chai.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/drink_yin-du-nai-cha--masala-chai_overview.jpg",
+  "id": "drink_yin-du-nai-cha--masala-chai",
+  "status": "published"
+}

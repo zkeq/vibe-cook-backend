@@ -1,0 +1,251 @@
+{
+  "title": "红烧鲤鱼",
+  "summary": "红烧鲤鱼是一道家常鲁菜，鱼肉先炸后炖，外皮微韧，肉质鲜嫩，咸甜酱香中透着五花肉的醇厚，汤汁浓稠下饭。富含优质蛋白和钙、磷等矿物质，有助滋补。",
+  "difficulty": 4,
+  "calories": 1051,
+  "duration_min": 60,
+  "category": "水产",
+  "tags": [
+    "鲁菜",
+    "家常菜",
+    "红烧",
+    "高蛋白"
+  ],
+  "ingredients": [
+    {
+      "name": "鲤鱼",
+      "amount": "1条(约1000g)",
+      "buying_tip": "挑选眼球饱满、鱼鳃鲜红的活鱼，可请卖家代为去鳞去内脏",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "五花肉",
+      "amount": "100g",
+      "buying_tip": "选择肥瘦相间的五花肉，增加汤汁醇厚感",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大葱",
+      "amount": "200g",
+      "buying_tip": "选用葱白较长的京葱",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "80g",
+      "buying_tip": "老姜去腥效果更好",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜瓣",
+      "amount": "4-5个",
+      "buying_tip": "颗粒饱满的独蒜或大蒜瓣",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "干辣椒",
+      "amount": "2个",
+      "buying_tip": "根据个人口味可增减",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白糖",
+      "amount": "50g",
+      "buying_tip": "细砂糖或绵白糖均可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "50ml",
+      "buying_tip": "用于去腥",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "陈醋",
+      "amount": "50ml",
+      "buying_tip": "陈醋可软化鱼骨并去腥增香",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "味极鲜(生抽)",
+      "amount": "50ml",
+      "buying_tip": "提供咸鲜味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "20ml",
+      "buying_tip": "主要用于上色",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蚝油",
+      "amount": "5ml",
+      "buying_tip": "提鲜必备",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "5g",
+      "buying_tip": "根据个人口味调整",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "适量",
+      "buying_tip": "炸鱼需较多油，后续留底油即可",
+      "optional": false,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "漏勺"
+  ],
+  "servings": {
+    "base": 2,
+    "formula": [
+      {
+        "name": "鲤鱼",
+        "expr": "1000 * (n / 2)"
+      },
+      {
+        "name": "五花肉",
+        "expr": "100 * (n / 2)"
+      },
+      {
+        "name": "大葱",
+        "expr": "200 * (n / 2)"
+      },
+      {
+        "name": "白糖",
+        "expr": "50 * (n / 2)"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "食材预处理",
+      "instruction": "将大葱、姜、大蒜、干辣椒分别清洗干净。",
+      "duration_sec": 120,
+      "tips": [
+        "确保蔬菜表面无泥沙"
+      ],
+      "produces": "洗净的辅料",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-li-yu/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "葱姜处理",
+      "instruction": "葱白切成4cm段并劈为四瓣；姜切成3mm厚片。",
+      "duration_sec": 180,
+      "tips": [
+        "葱段劈开更容易出味"
+      ],
+      "produces": "葱段、姜片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-li-yu/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "蒜椒处理",
+      "instruction": "一个大蒜拍碎切末，其余蒜切二瓣；干辣椒切四段。",
+      "duration_sec": 60,
+      "tips": [
+        "蒜末留到最后收汁用"
+      ],
+      "produces": "蒜瓣、蒜末、辣椒段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-li-yu/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "肉鱼处理",
+      "instruction": "五花肉切成4cm*4cm片；清洗鱼并在背部肉厚处拉几道斜口。",
+      "duration_sec": 300,
+      "tips": [
+        "斜口可帮助鱼肉入味"
+      ],
+      "produces": "肉片、处理好的鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-li-yu/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "高温炸鱼",
+      "instruction": "锅中油烧至7成热（冒烟），下鱼炸1分钟至皮硬捞出。倒出多余油，留底油。",
+      "duration_sec": 180,
+      "tips": [
+        "下锅后不要立即拨弄，防止破皮"
+      ],
+      "produces": "初炸鲤鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-li-yu/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "煸炒配料",
+      "instruction": "底油烧热，下五花肉煸出香味，放入干辣椒、葱、姜、蒜瓣翻炒1分钟。",
+      "duration_sec": 120,
+      "tips": [
+        "五花肉煸至微焦出油最香"
+      ],
+      "produces": "香料肉底",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-li-yu/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "调味炖煮",
+      "instruction": "放入鱼，沿锅边倒入料酒、陈醋、味极鲜、老抽、蚝油、盐、白糖，加清水没过鱼面。",
+      "duration_sec": 180,
+      "tips": [
+        "沿锅边淋入醋和酒可激发香味"
+      ],
+      "produces": "待炖煮的鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-li-yu/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "小火慢焖",
+      "instruction": "中火烧开后调至小火，盖盖慢焖15分钟。",
+      "duration_sec": 900,
+      "tips": [
+        "保持微沸状态入味更好"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-li-yu/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "大火收汁",
+      "instruction": "打开锅盖挑出葱姜蒜干辣椒，调大火收汁至剩余1/4，撒蒜末关火。",
+      "duration_sec": 300,
+      "tips": [
+        "收汁时注意观察，不要糊锅"
+      ],
+      "produces": "成品红烧鲤鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-li-yu/step_9.jpg"
+    }
+  ],
+  "tips": [
+    "五花肉煸炒出的猪油能显著提升鱼汤的香味和醇厚度",
+    "鱼类脂肪少，加入动物油脂（猪油）是汤汁奶白香醇的关键",
+    "煸炒至金黄的五花肉在炖煮后可作为美味的配菜食用"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/aquatic_hong-shao-li-yu.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/aquatic_hong-shao-li-yu_overview.jpg",
+  "id": "aquatic_hong-shao-li-yu",
+  "status": "published"
+}

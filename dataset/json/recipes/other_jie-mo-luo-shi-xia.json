@@ -1,0 +1,213 @@
+{
+  "title": "芥末罗氏虾",
+  "summary": "这道菜鲜香微辣，芥末风味浓郁，虾肉紧实弹嫩，是一道快手家常海鲜菜。虾本身富含优质蛋白和钙，脂肪含量低，搭配芥末开胃解腻。中等难度，只要按步骤调制碗汁、控制火候，新手也能较快上手，全程约需 30 分钟。",
+  "difficulty": 3,
+  "calories": 579,
+  "duration_min": 30,
+  "category": "其他",
+  "tags": [
+    "海鲜",
+    "快手菜",
+    "罗氏虾",
+    "芥末",
+    "家常菜"
+  ],
+  "ingredients": [
+    {
+      "name": "罗氏虾",
+      "amount": "250g",
+      "buying_tip": "挑选鲜活、个头均匀的罗氏虾，肉质更弹牙",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜",
+      "amount": "1-2 个",
+      "buying_tip": "选择饱满的紫皮蒜或白皮蒜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "青芥末",
+      "amount": "20g",
+      "buying_tip": "建议使用管装青芥末，便于控制用量",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生粉",
+      "amount": "10g",
+      "buying_tip": "玉米淀粉或土豆淀粉均可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "30g",
+      "buying_tip": "选用味道醇厚的酿造生抽",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "胡椒粉",
+      "amount": "5g",
+      "buying_tip": "白胡椒粉风味更适合海鲜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白糖",
+      "amount": "3g",
+      "buying_tip": "普通白砂糖即可，用于提鲜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蚝油",
+      "amount": "15g",
+      "buying_tip": "选用鲜味浓郁的蚝油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "3g",
+      "buying_tip": "普通食用盐",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "小米辣",
+      "amount": "1-2 个",
+      "buying_tip": "新鲜小米椒，不吃辣可换成红菜椒",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "黄油",
+      "amount": "20g",
+      "buying_tip": "选用动物黄油风味更佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "80ml",
+      "buying_tip": "选用烟点较高的植物油",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "调料碗",
+    "锅盖"
+  ],
+  "servings": {
+    "base": 2,
+    "formula": [
+      {
+        "name": "罗氏虾",
+        "expr": "250g"
+      },
+      {
+        "name": "蒜",
+        "expr": "2颗"
+      },
+      {
+        "name": "青芥末",
+        "expr": "20g"
+      },
+      {
+        "name": "生粉",
+        "expr": "10g"
+      },
+      {
+        "name": "生抽",
+        "expr": "30g"
+      },
+      {
+        "name": "胡椒粉",
+        "expr": "5g"
+      },
+      {
+        "name": "白糖",
+        "expr": "3g"
+      },
+      {
+        "name": "蚝油",
+        "expr": "15g"
+      },
+      {
+        "name": "盐",
+        "expr": "3g"
+      },
+      {
+        "name": "黄油",
+        "expr": "20g"
+      },
+      {
+        "name": "食用油",
+        "expr": "80ml"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "处理虾",
+      "instruction": "将虾从背部或腹部切开，去除虾线和沙袋，用清水洗净控干水分。可根据喜好决定是否拍上生粉。",
+      "duration_sec": 600,
+      "tips": [
+        "从腹部切开炸出来会胀开，成菜更美观",
+        "控干水分可以防止煎虾时溅油"
+      ],
+      "produces": "处理好的罗氏虾",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jie-mo-luo-shi-xia/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "准备蒜蓉及碗汁",
+      "instruction": "将大蒜切成蒜末。在碗中放入生抽、蚝油、白糖、胡椒粉、盐，挤入芥末，加清水稀释后加入生粉搅拌均匀。",
+      "duration_sec": 300,
+      "tips": [
+        "芥末分量可根据个人耐受程度调整",
+        "确保生粉完全化开，避免结块"
+      ],
+      "produces": "蒜末与混合碗汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jie-mo-luo-shi-xia/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "煎制罗氏虾",
+      "instruction": "锅中倒入食用油覆盖锅底，放入控干的虾慢慢煎制，直到煎出虾油（锅中出现大量气泡）。",
+      "duration_sec": 480,
+      "tips": [
+        "煎虾时火候不宜过猛，防止焦糊"
+      ],
+      "produces": "煎至变色的虾",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jie-mo-luo-shi-xia/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "加入配料与焖煮",
+      "instruction": "加入蒜蓉和小米辣炒香，随后放入黄油。黄油融化翻拌均匀后，倒入碗汁，盖上锅盖焖煮 2 分钟至汤汁浓稠即可。",
+      "duration_sec": 420,
+      "tips": [
+        "黄油入锅融化后应立即倒入碗汁，避免炸制时间过长影响风味"
+      ],
+      "produces": "芥末罗氏虾成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jie-mo-luo-shi-xia/step_4.jpg"
+    }
+  ],
+  "tips": [
+    "黄油入锅后不宜炸制太久，融化翻拌均匀即可烹入碗汁",
+    "如不吃辣，小米辣可不放或替换为红菜椒"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_jie-mo-luo-shi-xia.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_jie-mo-luo-shi-xia_overview.jpg",
+  "id": "other_jie-mo-luo-shi-xia",
+  "status": "published"
+}

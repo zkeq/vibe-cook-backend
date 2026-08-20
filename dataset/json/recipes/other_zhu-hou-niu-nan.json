@@ -1,0 +1,461 @@
+{
+  "title": "柱候牛腩",
+  "summary": "这是一道经典广式风味菜肴，肉香浓郁，色泽红亮，带筋牛腩软烂入味，口感丰富。富含优质蛋白质和胶原蛋白，滋补暖身。虽需一定耐心，但使用高压锅能大幅缩短时间，对新手也较友好。",
+  "difficulty": 4,
+  "calories": 980,
+  "duration_min": 180,
+  "category": "其他",
+  "tags": [
+    "广式",
+    "炖菜",
+    "牛腩",
+    "经典风味"
+  ],
+  "ingredients": [
+    {
+      "name": "牛腩",
+      "amount": "500-600g",
+      "buying_tip": "首选坑腩，带筋的部位",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "柱候酱",
+      "amount": "50g",
+      "buying_tip": "核心酱料",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "郫县豆瓣酱",
+      "amount": "15g",
+      "buying_tip": "增加酱香和微辣",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "南腐乳",
+      "amount": "2块",
+      "buying_tip": "提供独特的咸鲜味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "叉烧酱",
+      "amount": "20g",
+      "buying_tip": "增加甜味和光泽",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "蚝油",
+      "amount": "20g",
+      "buying_tip": "提鲜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "老抽",
+      "amount": "5g",
+      "buying_tip": "上色用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "60g",
+      "buying_tip": "提味调咸",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "花雕酒",
+      "amount": "10g",
+      "buying_tip": "去腥增香",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白酒",
+      "amount": "20g",
+      "buying_tip": "高度白酒去腥效果更好",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "30g",
+      "buying_tip": "切块备用",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜",
+      "amount": "半头",
+      "buying_tip": "剥皮整瓣或切块",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "小米辣",
+      "amount": "1条",
+      "buying_tip": "根据口味调整",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "香叶",
+      "amount": "2片",
+      "buying_tip": "干货香料",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "花椒",
+      "amount": "0.5g",
+      "buying_tip": "去腥增香",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "八角",
+      "amount": "2个",
+      "buying_tip": "常用香料",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "干辣椒",
+      "amount": "3个",
+      "buying_tip": "根据口味调整",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "丁香",
+      "amount": "3个",
+      "buying_tip": "味道较浓，不宜过多",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "甘草",
+      "amount": "2片",
+      "buying_tip": "提供回甘",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "冰糖",
+      "amount": "10g",
+      "buying_tip": "上色并中和咸味",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炖煮锅",
+    "高压锅",
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "碗",
+    "锅铲",
+    "滤网"
+  ],
+  "servings": {
+    "base": 2,
+    "formula": [
+      {
+        "name": "牛腩",
+        "expr": "500-600g"
+      },
+      {
+        "name": "姜",
+        "expr": "30g"
+      },
+      {
+        "name": "蒜",
+        "expr": "半头"
+      },
+      {
+        "name": "小米辣",
+        "expr": "1条"
+      },
+      {
+        "name": "香叶",
+        "expr": "2片"
+      },
+      {
+        "name": "花椒",
+        "expr": "0.5g"
+      },
+      {
+        "name": "八角",
+        "expr": "2个"
+      },
+      {
+        "name": "干辣椒",
+        "expr": "3个"
+      },
+      {
+        "name": "丁香",
+        "expr": "3个"
+      },
+      {
+        "name": "甘草",
+        "expr": "2片"
+      },
+      {
+        "name": "南腐乳",
+        "expr": "2块"
+      },
+      {
+        "name": "郫县豆瓣酱",
+        "expr": "15g"
+      },
+      {
+        "name": "冰糖",
+        "expr": "10g"
+      },
+      {
+        "name": "花雕酒",
+        "expr": "10g"
+      },
+      {
+        "name": "白酒",
+        "expr": "20g"
+      },
+      {
+        "name": "柱候酱",
+        "expr": "50g"
+      },
+      {
+        "name": "蚝油",
+        "expr": "20g"
+      },
+      {
+        "name": "老抽",
+        "expr": "5g"
+      },
+      {
+        "name": "生抽",
+        "expr": "60g"
+      },
+      {
+        "name": "叉烧酱",
+        "expr": "20g"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "准备辅料",
+      "instruction": "分碗准备好姜蒜、香料、南乳、豆瓣酱、冰糖、酒类及混合酱料。",
+      "duration_sec": 600,
+      "tips": [
+        "将酱料提前混合可以避免炒制时手忙脚乱"
+      ],
+      "produces": "备好的辅料碗1-7",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "牛腩焯水",
+      "instruction": "牛腩不用切，冷水下锅，大火煮沸后捞出。",
+      "duration_sec": 600,
+      "tips": [
+        "冷水下锅更有利于逼出血水"
+      ],
+      "produces": "焯水后的整块牛腩",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "切块备用",
+      "instruction": "冲洗净表面杂质，将牛腩切成 4cm*4cm*4cm 的大块，控干水分。",
+      "duration_sec": 300,
+      "tips": [
+        "炖煮后肉会缩水，所以切块要稍微大一点"
+      ],
+      "produces": "牛腩块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "炒香姜蒜辣椒",
+      "instruction": "大火热锅下油，倒入碗1（姜、蒜、小米辣）炒香。",
+      "duration_sec": 60,
+      "tips": [
+        "炒出香味即可，不要炒糊"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "炒制香料",
+      "instruction": "转中小火，倒入碗2（香叶、花椒、八角等）翻炒约30秒。",
+      "duration_sec": 30,
+      "tips": [
+        "中小火可以防止香料炒焦产生苦味"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "加入南乳",
+      "instruction": "中小火放入碗3（南乳），用锅铲压碎。",
+      "duration_sec": 30,
+      "tips": [
+        "压碎南乳能使其味道更好地融入汤汁"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "加入豆瓣酱",
+      "instruction": "中小火放入碗4（豆瓣酱），翻炒均匀约30秒。",
+      "duration_sec": 30,
+      "tips": [
+        "炒出红油效果更好"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "融化冰糖",
+      "instruction": "中小火放入碗5（冰糖），炒至完全融化。",
+      "duration_sec": 60,
+      "tips": [
+        "糖色能增加肉的红亮度"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "牛腩上色",
+      "instruction": "下入牛腩块，中小火翻炒至牛肉均匀上色。",
+      "duration_sec": 180,
+      "tips": [
+        "让每一块牛肉都裹上酱汁"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "淋酒提香",
+      "instruction": "大火沿锅边淋入碗6（酒），快速翻炒至表面略微焦褐。",
+      "duration_sec": 60,
+      "tips": [
+        "沿锅边淋入利用高温激发出酒香"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "炒制酱汁",
+      "instruction": "倒入碗7（复合酱料），翻炒至汤汁浓稠并冒小气泡。",
+      "duration_sec": 60,
+      "tips": [
+        "注意观察底层，防止糊底"
+      ],
+      "produces": "初级炖煮基底",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_11.jpg"
+    },
+    {
+      "index": 12,
+      "title": "转移炖煮",
+      "instruction": "将食材转移至炖锅或高压锅，加水淹过食材。",
+      "duration_sec": 120,
+      "tips": [
+        "水要一次性加够"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_12.jpg"
+    },
+    {
+      "index": 13,
+      "title": "焖炖阶段",
+      "instruction": "根据锅具选择：普通锅小火炖3小时；高压锅压40分钟。",
+      "duration_sec": 10800,
+      "tips": [
+        "高压锅能显著节省时间，但普通锅慢炖味道更厚重"
+      ],
+      "produces": "熟软牛腩",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_13.jpg"
+    },
+    {
+      "index": 14,
+      "title": "最终调味",
+      "instruction": "开盖尝味，根据咸甜度补加盐、生抽或糖。",
+      "duration_sec": 120,
+      "tips": [
+        "少量多次添加，不断尝试"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_14.jpg"
+    },
+    {
+      "index": 15,
+      "title": "捞出牛腩",
+      "instruction": "将炖好的牛腩先捞出备用。",
+      "duration_sec": 60,
+      "tips": [
+        "防止后续煮配菜时牛腩过烂"
+      ],
+      "produces": "熟牛腩",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_15.jpg"
+    },
+    {
+      "index": 16,
+      "title": "煮制配菜（可选）",
+      "instruction": "放入萝卜或土豆片，煮10-15分钟（高压锅加压5分钟）。",
+      "duration_sec": 900,
+      "tips": [
+        "配菜切厚片口感更好"
+      ],
+      "produces": "熟配菜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_16.jpg"
+    },
+    {
+      "index": 17,
+      "title": "合并食材",
+      "instruction": "将煮好的配菜与牛腩放在一起。",
+      "duration_sec": 30,
+      "tips": [
+        null
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_17.jpg"
+    },
+    {
+      "index": 18,
+      "title": "过滤淋汁",
+      "instruction": "将锅中汤汁过滤掉残渣，淋入碗中即可。",
+      "duration_sec": 120,
+      "tips": [
+        "过滤后的汤汁色泽更亮，口感更顺滑"
+      ],
+      "produces": "成品柱候牛腩",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhu-hou-niu-nan/step_18.jpg"
+    }
+  ],
+  "tips": [
+    "操作高压锅要注意安全，确保排气后再开盖",
+    "普通炖煮约需 3 小时，用高压锅则约 1 小时即可完成",
+    "如果觉得不够咸加盐或生抽，不够甜则加糖",
+    "参考视频教程：https://www.bilibili.com/video/BV12C4y1W7ox"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_zhu-hou-niu-nan.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_zhu-hou-niu-nan_overview.jpg",
+  "id": "other_zhu-hou-niu-nan",
+  "status": "published"
+}

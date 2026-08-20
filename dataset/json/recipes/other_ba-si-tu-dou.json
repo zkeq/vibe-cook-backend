@@ -1,0 +1,176 @@
+{
+  "title": "拔丝土豆",
+  "summary": "拔丝土豆是一道经典的鲁菜，成菜色泽金黄、糖丝细长，外脆里糯、香甜可口。土豆富含碳水化合物和维生素 C，能快速补充能量。这道菜有一定难度，新手需注意熬糖火候，避免翻沙或焦苦。从备料到出锅，预计制作时长约 30 分钟。",
+  "difficulty": 3,
+  "calories": 1158,
+  "duration_min": 30,
+  "category": "其他",
+  "tags": [
+    "鲁菜",
+    "甜品",
+    "家常菜",
+    "土豆"
+  ],
+  "ingredients": [
+    {
+      "name": "土豆",
+      "amount": "2个",
+      "buying_tip": "建议选择黄心土豆，口感更软糯",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "300ml",
+      "buying_tip": "选择烟点较高的植物油，如大豆油或玉米油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "淀粉",
+      "amount": "30g",
+      "buying_tip": "玉米淀粉或土豆淀粉均可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白砂糖",
+      "amount": "120g",
+      "buying_tip": "普通的细砂糖即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "水",
+      "amount": "100ml",
+      "buying_tip": "纯净水或自来水均可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "芝麻",
+      "amount": "5g",
+      "buying_tip": "建议使用熟白芝麻，味道更香",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "刮皮刀",
+    "菜刀",
+    "砧板",
+    "炒锅",
+    "漏勺",
+    "大碗",
+    "盘子"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "土豆",
+        "expr": "2"
+      },
+      {
+        "name": "食用油",
+        "expr": "300"
+      },
+      {
+        "name": "淀粉",
+        "expr": "30"
+      },
+      {
+        "name": "白砂糖",
+        "expr": "120"
+      },
+      {
+        "name": "水",
+        "expr": "100"
+      },
+      {
+        "name": "芝麻",
+        "expr": "5"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "食材预处理",
+      "instruction": "土豆去皮，切均匀的小块。放入淀粉（不加水）搅拌，使得淀粉覆盖土豆表面",
+      "duration_sec": 300,
+      "tips": [
+        "土豆块大小要一致以保证受热均匀",
+        "不加水裹粉是为了炸出来的口感更酥脆"
+      ],
+      "produces": "裹粉土豆块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-si-tu-dou/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "油炸土豆",
+      "instruction": "起锅烧油，放入土豆块，缓缓翻滚煎炸 5-7 分钟 ，直至筷子可以插进土豆",
+      "duration_sec": 420,
+      "tips": [
+        "油温不宜过高，防止外焦内生",
+        "轻轻翻动避免淀粉层脱落"
+      ],
+      "produces": "炸熟的土豆块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-si-tu-dou/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "沥油备用",
+      "instruction": "取出土豆，放入大碗备用",
+      "duration_sec": 30,
+      "tips": [
+        "尽量沥干余油"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-si-tu-dou/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "熬制糖浆",
+      "instruction": "锅中加入水、白砂糖，沿着一个方向慢慢搅动白砂糖，直到白砂糖颜色变成褐色",
+      "duration_sec": 480,
+      "tips": [
+        "这是最关键的一步，需小火慢熬",
+        "颜色变为琥珀色或浅褐色即可，避免过头变苦"
+      ],
+      "produces": "浓稠糖浆",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-si-tu-dou/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "裹浆翻炒",
+      "instruction": "重新倒入土豆，翻炒 30 S 后 出锅",
+      "duration_sec": 30,
+      "tips": [
+        "动作要迅速，让每块土豆均匀裹上糖浆"
+      ],
+      "produces": "挂浆土豆",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-si-tu-dou/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "装盘点缀",
+      "instruction": "土豆盛盘，散上芝麻",
+      "duration_sec": 60,
+      "tips": [
+        "装盘的盘子可以预先抹一层薄油，防止粘连"
+      ],
+      "produces": "拔丝土豆成品",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-si-tu-dou/step_6.jpg"
+    }
+  ],
+  "tips": [
+    "土豆煎炸不可太熟透，否则在拔丝端盘时不容易定型，影响美观",
+    "对于使用剩余的食用油，可以考虑重新收集到油壶",
+    "趁热食用，配上一小碗凉水蘸着吃，糖丝更脆"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ba-si-tu-dou.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ba-si-tu-dou_overview.jpg",
+  "id": "other_ba-si-tu-dou",
+  "status": "published"
+}

@@ -1,0 +1,273 @@
+{
+  "title": "凉粉",
+  "summary": "凉粉是一道源自四川的传统小吃，口感冰凉爽滑，酸辣开胃，很适合夏天消暑。主要原料是豌豆淀粉，富含碳水化合物，能为身体快速补充能量。制作过程不算复杂，但需要耐心搅煮和长时间冷藏定型，对新手来说难度适中。从煮制到完成大约需要 3-4 小时，其中大部分是等待冷藏的时间，动手操作只需大约半小时。",
+  "difficulty": 3,
+  "calories": 539,
+  "duration_min": 240,
+  "category": "其他",
+  "tags": [
+    "四川小吃",
+    "凉菜",
+    "消暑",
+    "素食"
+  ],
+  "ingredients": [
+    {
+      "name": "豌豆淀粉",
+      "amount": "100g",
+      "buying_tip": "建议购买纯正豌豆淀粉以保证口感爽滑。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大蒜",
+      "amount": "3 瓣",
+      "buying_tip": "选择饱满、无发芽的独蒜或多瓣蒜。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "小米辣",
+      "amount": "3 颗",
+      "buying_tip": "新鲜的小米辣色泽鲜红，辣味更足。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "辣椒粉",
+      "amount": "10g",
+      "buying_tip": "可根据对辣度的接受程度选择粗细辣椒粉。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酱油",
+      "amount": "10ml",
+      "buying_tip": "使用生抽酱油口感更佳。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "醋",
+      "amount": "10ml",
+      "buying_tip": "陈醋或香醋均可，视个人口味决定。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白糖",
+      "amount": "3ml",
+      "buying_tip": "普通白砂糖即可，用于提鲜去燥。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡精",
+      "amount": "3g",
+      "buying_tip": "普通鸡精或蔬鲜精。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "3g",
+      "buying_tip": "普通食用盐。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "花生碎",
+      "amount": "5g",
+      "buying_tip": "熟花生碎能增加酥脆口感和香气。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "香菜",
+      "amount": "5g",
+      "buying_tip": "新鲜香菜，用于最后点缀和增香。",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "锅",
+    "耐热容器",
+    "菜刀",
+    "砧板",
+    "搅拌器",
+    "硅胶刷"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "豌豆淀粉",
+        "expr": "n * 100g"
+      },
+      {
+        "name": "大蒜",
+        "expr": "n * 3瓣"
+      },
+      {
+        "name": "小米辣",
+        "expr": "n * 3颗"
+      },
+      {
+        "name": "辣椒粉",
+        "expr": "n * 10g"
+      },
+      {
+        "name": "酱油",
+        "expr": "n * 10ml"
+      },
+      {
+        "name": "醋",
+        "expr": "n * 10ml"
+      },
+      {
+        "name": "白糖",
+        "expr": "n * 3ml"
+      },
+      {
+        "name": "鸡精",
+        "expr": "n * 3g"
+      },
+      {
+        "name": "盐",
+        "expr": "n * 3g"
+      },
+      {
+        "name": "花生碎",
+        "expr": "n * 5g"
+      },
+      {
+        "name": "香菜",
+        "expr": "n * 5g"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "准备食材",
+      "instruction": "准备好豌豆淀粉、调料等所有食材。",
+      "duration_sec": 60,
+      "tips": [
+        "检查淀粉是否受潮结块"
+      ],
+      "produces": "待处理食材",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-fen/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "混合淀粉水",
+      "instruction": "把豌豆淀粉和水各 100 克混合搅拌均匀。",
+      "duration_sec": 60,
+      "tips": [
+        "确保淀粉完全溶解，没有沉淀"
+      ],
+      "produces": "淀粉乳液",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-fen/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "烧开水",
+      "instruction": "往锅中倒入 600g 水，大火煮开后转为小火。",
+      "duration_sec": 300,
+      "tips": [
+        "水量要准确，影响成品硬度"
+      ],
+      "produces": "开水",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-fen/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "煮制淀粉糊",
+      "instruction": "倒入淀粉水，边倒边不断的搅拌，搅拌到浓稠且色泽均匀。",
+      "duration_sec": 480,
+      "tips": [
+        "必须不停搅拌防止糊底",
+        "观察颜色变为半透明状"
+      ],
+      "produces": "熟淀粉糊",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-fen/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "准备容器",
+      "instruction": "找一个容器，在容器中刷一层薄薄的食用油。",
+      "duration_sec": 30,
+      "tips": [
+        "刷油是为了方便后期脱模"
+      ],
+      "produces": "防粘容器",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-fen/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "冷藏定型",
+      "instruction": "将煮好的淀粉倒入容器中，待冷却后放入冰箱冷藏 2-4 小时。",
+      "duration_sec": 10800,
+      "tips": [
+        "一定要彻底冷却后再放入冰箱",
+        "时间不足会导致无法切条"
+      ],
+      "produces": "定型凉粉块",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-fen/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "切条处理",
+      "instruction": "冷藏后取出，脱模，切成均匀的条状。",
+      "duration_sec": 120,
+      "tips": [
+        "刀口沾点水切会更顺滑"
+      ],
+      "produces": "凉粉条",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-fen/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "炸制辣油",
+      "instruction": "大蒜和小米辣剁成沫，放上 10g 辣椒粉，5g 花生碎，泼上热油搅拌均匀。",
+      "duration_sec": 180,
+      "tips": [
+        "油温要高，激发出香味"
+      ],
+      "produces": "蒜泥辣椒油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-fen/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "调制酱汁",
+      "instruction": "再加入 10ml 酱油，10ml 醋，5g 白糖，3g 鸡精，3g 盐搅拌均匀。",
+      "duration_sec": 60,
+      "tips": [
+        "搅拌至糖和盐完全融化"
+      ],
+      "produces": "复合调味汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-fen/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "装盘完成",
+      "instruction": "将调味料倒在凉粉上，然后撒上香菜即可。",
+      "duration_sec": 30,
+      "tips": [
+        "吃之前拌匀口感更好"
+      ],
+      "produces": "成品凉粉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_liang-fen/step_10.jpg"
+    }
+  ],
+  "tips": [
+    "制作过程需要耐心搅煮，防止底部烧焦",
+    "冷藏定型时间必须充足，否则凉粉容易断裂",
+    "水量配比是成功的关键，建议严格称重"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_liang-fen.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_liang-fen_overview.jpg",
+  "id": "other_liang-fen",
+  "status": "published"
+}

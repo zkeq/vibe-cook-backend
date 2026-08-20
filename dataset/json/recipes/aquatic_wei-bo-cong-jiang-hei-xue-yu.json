@@ -1,0 +1,228 @@
+{
+  "title": "微波葱姜黑鳕鱼",
+  "summary": "微波做鱼，葱姜提鲜，热油一淋，香气四溢，是一道肉质细嫩、滋味咸鲜的家常蒸鱼菜，属于改良粤式做法。黑鳕鱼富含优质蛋白和欧米伽-3 脂肪酸，对心脑健康有益。操作不算复杂，但需掌握火候和油温，更适合有一定下厨经验的朋友。从备料到上桌大约只需二十分钟。",
+  "difficulty": 3,
+  "calories": 749,
+  "duration_min": 20,
+  "category": "水产",
+  "tags": [
+    "微波炉",
+    "黑鳕鱼",
+    "粤式",
+    "高蛋白",
+    "家常菜"
+  ],
+  "ingredients": [
+    {
+      "name": "黑鳕鱼（带皮）",
+      "amount": "2片(450g)",
+      "buying_tip": "建议购买带皮的黑鳕鱼，肉质更紧实且富含油脂",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "青葱（葱白）",
+      "amount": "25g",
+      "buying_tip": "选择新鲜、洁白的葱白部分",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "青葱（葱绿）",
+      "amount": "10g",
+      "buying_tip": "葱绿颜色鲜绿为佳",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "姜",
+      "amount": "13g",
+      "buying_tip": "老姜的味道更浓郁，适合去腥",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "料酒",
+      "amount": "5mL",
+      "buying_tip": "普通的烹饪料酒即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酱油",
+      "amount": "25mL",
+      "buying_tip": "建议使用生抽或蒸鱼豉油",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "芝麻油",
+      "amount": "2mL",
+      "buying_tip": "纯正小磨芝麻油香气更足",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "花生油",
+      "amount": "50mL",
+      "buying_tip": "花生油烟点高且有特殊香气",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "微波炉",
+    "密封袋",
+    "小锅",
+    "菜刀",
+    "砧板",
+    "盘子"
+  ],
+  "servings": {
+    "base": 2,
+    "formula": [
+      {
+        "name": "黑鳕鱼",
+        "expr": "225 * n"
+      },
+      {
+        "name": "青葱(葱白)",
+        "expr": "12.5 * n"
+      },
+      {
+        "name": "青葱(葱绿)",
+        "expr": "5 * n"
+      },
+      {
+        "name": "姜",
+        "expr": "6.5 * n"
+      },
+      {
+        "name": "料酒",
+        "expr": "2.5 * n"
+      },
+      {
+        "name": "酱油",
+        "expr": "12.5 * n"
+      },
+      {
+        "name": "芝麻油",
+        "expr": "1 * n"
+      },
+      {
+        "name": "花生油",
+        "expr": "25 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "装袋准备",
+      "instruction": "将鱼片分别放入两个密封袋中，鱼皮向下平放在盘子上。",
+      "duration_sec": 60,
+      "tips": [
+        "确保鱼皮向下可以防止鱼肉在加热中过分散开"
+      ],
+      "produces": "袋装鱼片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "准备葱姜丝",
+      "instruction": "取葱白切丝25g，姜去皮切丝10g，混合后分成两份，分别放在袋内的鱼片上。",
+      "duration_sec": 180,
+      "tips": [
+        "切丝尽量细，有利于香气渗透"
+      ],
+      "produces": "铺好葱姜的鱼片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "加入料酒",
+      "instruction": "向每个密封袋中倒入2.5mL料酒。",
+      "duration_sec": 30,
+      "tips": [
+        "料酒可有效去除鱼腥味"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "微波加热",
+      "instruction": "封好袋口，放入微波炉中，使用中火（800瓦）微波3.5至5分钟，直到鱼肉变为不透明且容易散开的状态。",
+      "duration_sec": 300,
+      "tips": [
+        "时间需根据鱼肉厚度微调，初次尝试建议先设3.5分钟"
+      ],
+      "produces": "熟鱼片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "取出装盘",
+      "instruction": "从袋中取出鱼片，去除袋内已变软的葱白和姜丝。",
+      "duration_sec": 60,
+      "tips": [
+        "小心蒸汽烫手"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "淋调味料",
+      "instruction": "将25mL酱油与2mL芝麻油混合均匀，平均淋在两片鱼片上。",
+      "duration_sec": 60,
+      "tips": [
+        "确保调料覆盖鱼肉表面"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "布置新鲜装饰",
+      "instruction": "取葱绿切细丝10g，姜去皮切丝3g，混合后分成两份撒在鱼片上。",
+      "duration_sec": 120,
+      "tips": [
+        "这是最后淋油提香的关键"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "加热花生油",
+      "instruction": "取50mL花生油，在小锅中加热至190℃。",
+      "duration_sec": 180,
+      "tips": [
+        "油温一定要够，看到微微冒烟即可"
+      ],
+      "produces": "热油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "热油激香",
+      "instruction": "将滚烫的花生油迅速淋到葱绿和姜丝上，激发出香味，立刻上桌。",
+      "duration_sec": 30,
+      "tips": [
+        "淋油时动作要快，听到“滋啦”声说明成功"
+      ],
+      "produces": "微波葱姜黑鳕鱼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_wei-bo-cong-jiang-hei-xue-yu/step_9.jpg"
+    }
+  ],
+  "tips": [
+    "如果想让香气更为浓郁，在微波前可将葱姜与料酒均匀涂抹在鱼片的两侧",
+    "不同鱼类微波时间不同，海鲈鱼(450g)约6.5分钟，罗非鱼(800g)约6分钟，大比目鱼(170g)约2.25分钟，龙脷鱼(170g)约1.5分钟",
+    "必须严格掌握油温，190℃的热油是这道菜灵魂香气的来源"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/aquatic_wei-bo-cong-jiang-hei-xue-yu.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/aquatic_wei-bo-cong-jiang-hei-xue-yu_overview.jpg",
+  "id": "aquatic_wei-bo-cong-jiang-hei-xue-yu",
+  "status": "published"
+}

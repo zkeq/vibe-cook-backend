@@ -1,0 +1,201 @@
+{
+  "title": "黄瓜炒肉",
+  "summary": "这是一道清爽脆嫩的家常快手菜，咸鲜适口，带有蒜香与微辣。富含蛋白质和多种维生素，有助于清热补水。对新手比较友好，只要注意火候就能成功，预计制作时长约 25 分钟。",
+  "difficulty": 3,
+  "calories": 550,
+  "duration_min": 25,
+  "category": "荤菜",
+  "tags": [
+    "快手菜",
+    "清爽脆嫩",
+    "家常菜",
+    "补水"
+  ],
+  "ingredients": [
+    {
+      "name": "黄瓜",
+      "amount": "100g",
+      "buying_tip": "挑选表皮翠绿且带刺的黄瓜，口感更脆嫩。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "猪瘦肉",
+      "amount": "50g",
+      "buying_tip": "建议选择新鲜的里脊肉，肉质更嫩。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "50g",
+      "buying_tip": "普通的植物油或大豆油即可。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "生抽",
+      "amount": "5g",
+      "buying_tip": "选用酿造生抽，提鲜效果更好。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "10g",
+      "buying_tip": "普通加碘食盐即可。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜",
+      "amount": "2瓣",
+      "buying_tip": "选择饱满、无发芽的蒜瓣。",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "小米辣",
+      "amount": "1根",
+      "buying_tip": "颜色鲜红的辣味更足，不吃辣可不放。",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "碗"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "黄瓜",
+        "expr": "100 克 * 份数"
+      },
+      {
+        "name": "猪肉",
+        "expr": "50 克 * 份数"
+      },
+      {
+        "name": "油量",
+        "expr": "50 克 * 份数"
+      },
+      {
+        "name": "盐量",
+        "expr": "10 克 * 份数"
+      },
+      {
+        "name": "酱油",
+        "expr": "5 克 * 份数"
+      },
+      {
+        "name": "蒜瓣",
+        "expr": "2 瓣 * 份数"
+      },
+      {
+        "name": "小米辣",
+        "expr": "1 根 * 份数"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "腌制猪肉",
+      "instruction": "将猪瘦肉切片，放入碗中，倒入食用油 10 克，生抽，搅拌均匀，腌制 10 分钟。",
+      "duration_sec": 600,
+      "tips": [
+        "加入少许油腌制可以锁住肉的水分，炒出来更嫩。"
+      ],
+      "produces": "腌制好的猪肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-gua-chao-rou/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "处理黄瓜",
+      "instruction": "将黄瓜切去 5 厘米的头尾，剩余部分斜着切成 0.5 厘米的薄片。",
+      "duration_sec": 120,
+      "tips": [
+        "厚度均匀有助于受热同步。"
+      ],
+      "produces": "黄瓜片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-gua-chao-rou/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "腌制黄瓜",
+      "instruction": "将黄瓜倒入碗中，撒上盐 8 克，搅拌均匀，腌制 5 分钟。",
+      "duration_sec": 300,
+      "tips": [
+        "杀出多余水分可以让黄瓜炒出来更爽脆。"
+      ],
+      "produces": "脱水黄瓜片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-gua-chao-rou/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "准备蒜末",
+      "instruction": "将蒜瓣去皮，压扁，切成蒜末备用。",
+      "duration_sec": 60,
+      "tips": [
+        "压扁后更容易去皮。"
+      ],
+      "produces": "蒜末",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-gua-chao-rou/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "切小米辣",
+      "instruction": "将小米辣去丁切分成均匀 0.5 厘米的段状。",
+      "duration_sec": 60,
+      "tips": [
+        "处理辣椒后注意不要揉眼睛。"
+      ],
+      "produces": "辣椒段",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-gua-chao-rou/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "爆香底料",
+      "instruction": "热锅，倒油 40 克，等油温到冒烟，放入蒜蓉小米辣翻炒 5 次。",
+      "duration_sec": 30,
+      "tips": [
+        "油温一定要够，爆香速度要快。"
+      ],
+      "produces": "爆香的底油",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-gua-chao-rou/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "炒制猪肉",
+      "instruction": "放入腌制好的猪瘦肉，翻炒至肉熟变色。",
+      "duration_sec": 120,
+      "tips": [
+        "变色即可，不要久炒以免变老。"
+      ],
+      "produces": "炒熟的猪肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-gua-chao-rou/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "合炒出锅",
+      "instruction": "放入黄瓜，加入盐 2 克，大火翻炒均匀半分钟，出锅。",
+      "duration_sec": 30,
+      "tips": [
+        "如果无法保证大火，可能会有点生，可以考虑增加到 50 秒。"
+      ],
+      "produces": "黄瓜炒肉",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-gua-chao-rou/step_8.jpg"
+    }
+  ],
+  "tips": [
+    "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_huang-gua-chao-rou.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_huang-gua-chao-rou_overview.jpg",
+  "id": "meat_dish_huang-gua-chao-rou",
+  "status": "published"
+}

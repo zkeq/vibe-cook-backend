@@ -1,0 +1,203 @@
+{
+  "title": "清炒花菜",
+  "summary": "一道常见的家常素菜，口感脆嫩爽口。富含维生素 C 和膳食纤维。做法简单快捷，一般初学者仅需 15 分钟即可完成。",
+  "difficulty": 2,
+  "calories": 211,
+  "duration_min": 15,
+  "category": "素菜",
+  "tags": [
+    "家常菜",
+    "素菜",
+    "快手菜",
+    "健康饮食"
+  ],
+  "ingredients": [
+    {
+      "name": "花菜",
+      "amount": "300g (约1/2中等大小)",
+      "buying_tip": "选择花球紧实、色泽洁白且无黑斑的花菜",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "大蒜",
+      "amount": "2-3 瓣",
+      "buying_tip": "选择蒜瓣饱满、无发芽的",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "盐",
+      "amount": "3g",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "食用油",
+      "amount": "15ml",
+      "buying_tip": "",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "饮用水",
+      "amount": "50ml",
+      "buying_tip": "用于炒制过程中的焖煮",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "漏勺"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "花菜",
+        "expr": "300 * n"
+      },
+      {
+        "name": "大蒜",
+        "expr": "2.5 * n"
+      },
+      {
+        "name": "盐",
+        "expr": "3 * n"
+      },
+      {
+        "name": "食用油",
+        "expr": "15 * n"
+      },
+      {
+        "name": "饮用水",
+        "expr": "50 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "食材预处理",
+      "instruction": "将花菜洗净，用刀或手掰成小朵，粗茎部分可以切片，备用。",
+      "duration_sec": 120,
+      "tips": [
+        "花菜掰成小朵更容易入味和熟透"
+      ],
+      "produces": "处理好的花菜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-chao-hua-cai/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "准备辅料",
+      "instruction": "将大蒜去皮，切成蒜片，备用。",
+      "duration_sec": 60,
+      "tips": [],
+      "produces": "蒜片",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-chao-hua-cai/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "烧水",
+      "instruction": "锅中加入 1000 ml 饮用水，大火烧开。",
+      "duration_sec": 300,
+      "tips": [],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-chao-hua-cai/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "焯水",
+      "instruction": "放入花菜朵，煮 2-3 分钟，至花菜颜色变浅，口感稍微软化。",
+      "duration_sec": 180,
+      "tips": [
+        "焯水可以缩短后续炒制时间"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-chao-hua-cai/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "沥水",
+      "instruction": "将煮好的花菜捞出，沥干水分，备用。",
+      "duration_sec": 30,
+      "tips": [
+        "沥干水分防止炒制时溅油"
+      ],
+      "produces": "焯水后的花菜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-chao-hua-cai/step_5.jpg"
+    },
+    {
+      "index": 6,
+      "title": "热油",
+      "instruction": "热锅，加入 15 ml 食用油，大火烧热。",
+      "duration_sec": 60,
+      "tips": [],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-chao-hua-cai/step_6.jpg"
+    },
+    {
+      "index": 7,
+      "title": "爆香",
+      "instruction": "放入蒜片，快速煸炒出香味。",
+      "duration_sec": 20,
+      "tips": [
+        "注意不要炒焦蒜片"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-chao-hua-cai/step_7.jpg"
+    },
+    {
+      "index": 8,
+      "title": "翻炒",
+      "instruction": "放入焯好水的花菜朵，转中大火，快速翻炒约 2 分钟，使花菜均匀受热。",
+      "duration_sec": 120,
+      "tips": [
+        "保持大火快炒以维持脆嫩口感"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-chao-hua-cai/step_8.jpg"
+    },
+    {
+      "index": 9,
+      "title": "调味",
+      "instruction": "加入 3 g 盐，继续翻炒均匀。",
+      "duration_sec": 20,
+      "tips": [],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-chao-hua-cai/step_9.jpg"
+    },
+    {
+      "index": 10,
+      "title": "焖煮",
+      "instruction": "沿锅边淋入 50 ml 饮用水，盖上锅盖，焖 1 分钟，帮助花菜完全熟透入味。",
+      "duration_sec": 60,
+      "tips": [
+        "沿锅边淋水可以产生蒸汽，受热更均匀"
+      ],
+      "produces": null,
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-chao-hua-cai/step_10.jpg"
+    },
+    {
+      "index": 11,
+      "title": "出锅",
+      "instruction": "开盖，快速翻炒均匀，即可出锅。",
+      "duration_sec": 30,
+      "tips": [],
+      "produces": "清炒花菜",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-chao-hua-cai/step_11.jpg"
+    }
+  ],
+  "tips": [
+    "提前将花菜焯水可以缩短炒制时间，并使花菜更容易熟透。",
+    "炒制时间可以根据个人喜欢的花菜软硬程度调整。喜欢脆一些可以缩短时间。"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_qing-chao-hua-cai.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_qing-chao-hua-cai_overview.jpg",
+  "id": "vegetable_dish_qing-chao-hua-cai",
+  "status": "published"
+}

@@ -1,0 +1,141 @@
+{
+  "title": "空气炸锅羊排",
+  "summary": "这道菜做法超级懒人，用空气炸锅能逼出多余油脂，成品外焦里嫩、蒜香浓郁，风味主要取决于羊排本身品质。羊肉富含优质蛋白和铁、锌等微量元素，有助于温补气血、增强体质。烹饪难度适中，新手也能轻松上手，实际动手操作仅需 10 分钟，算上腌制总时长约 40 分钟就能端上餐桌。",
+  "difficulty": 3,
+  "calories": 473,
+  "duration_min": 40,
+  "category": "其他",
+  "tags": [
+    "空气炸锅",
+    "羊排",
+    "快手菜",
+    "西餐"
+  ],
+  "ingredients": [
+    {
+      "name": "羊排",
+      "amount": "160g",
+      "buying_tip": "推荐 JD 购买大庄园新西兰进口羔羊法式肩排",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "黑椒混合牛排调味料",
+      "amount": "5g",
+      "buying_tip": "懒人必备调味",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "蒜蓉酱",
+      "amount": "20g",
+      "buying_tip": "推荐川娃子的",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "黄油",
+      "amount": "10g",
+      "buying_tip": "JD 买小盒装的，一片一小盒",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "烧烤料",
+      "amount": "20g",
+      "buying_tip": "增加烧烤风味",
+      "optional": true,
+      "per_serving": true
+    },
+    {
+      "name": "罗勒碎",
+      "amount": "适量",
+      "buying_tip": "用于提升风味层次",
+      "optional": true,
+      "per_serving": false
+    }
+  ],
+  "tools": [
+    "空气炸锅",
+    "厨房纸",
+    "锡纸碗",
+    "空气炸锅烤架",
+    "碗"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "羊排",
+        "expr": "160 * n"
+      },
+      {
+        "name": "黑椒混合牛排调味料",
+        "expr": "5 * n"
+      },
+      {
+        "name": "蒜蓉酱",
+        "expr": "20 * n"
+      },
+      {
+        "name": "黄油/烧烤料",
+        "expr": "10 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "清洗羊排",
+      "instruction": "羊排放入碗中清水洗净血水",
+      "duration_sec": 180,
+      "tips": [
+        "洗净血水可以减少腥味"
+      ],
+      "produces": "清洗后的羊排",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-yang-pai/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "吸水与腌制",
+      "instruction": "羊排用厨房纸吸干水分，双面抹上黑椒混合调味料、蒜蓉酱，静置腌制 20 分钟",
+      "duration_sec": 1200,
+      "tips": [
+        "一定要吸干水分，否则影响调料附着"
+      ],
+      "produces": "腌制好的羊排",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-yang-pai/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "正面烘烤",
+      "instruction": "锡纸碗放上烤架，羊排放在烤架上，撒上罗勒碎，黄油或烧烤料放在羊排上，空气炸锅 180° 烘烤 10 分钟",
+      "duration_sec": 600,
+      "tips": [
+        "用烤架油比较少，底下更容易熟",
+        "不用烤架则更入味，洗起来也方便"
+      ],
+      "produces": "半熟羊排",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-yang-pai/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "翻面烘烤",
+      "instruction": "羊排翻面，撒上罗勒碎，将锡纸碗里的黄油舀上来或放上烧烤料，空气炸锅 180° 再烤 5 分钟",
+      "duration_sec": 300,
+      "tips": [
+        "可以视个人喜好加一点时间，5 分钟是保证不会焦的时间"
+      ],
+      "produces": "成品羊排",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-yang-pai/step_4.jpg"
+    }
+  ],
+  "tips": [
+    "推荐购买温控比较好的空气炸锅，不然可能会糊",
+    "洗架子比较麻烦，可根据个人对油脂和入味程度的偏好选择是否使用烤架"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_kong-qi-zha-guo-yang-pai.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_kong-qi-zha-guo-yang-pai_overview.jpg",
+  "id": "other_kong-qi-zha-guo-yang-pai",
+  "status": "published"
+}

@@ -1,0 +1,160 @@
+{
+  "title": "空气炸锅照烧鸡饭",
+  "summary": "这道日式照烧风味的鸡肉饭，甜咸酱汁浓郁，表层烘烤得略微焦脆，内里软嫩多汁，搭配米饭非常下饭。鸡肉和鸡蛋提供丰富的优质蛋白，不过酱油和糖的用量较多，更适合偶尔改善口味。做法简单，只需混合原料交给空气炸锅，新手也能轻松搞定，从准备到出锅大约需要 1 小时。",
+  "difficulty": 4,
+  "calories": 1854,
+  "duration_min": 60,
+  "category": "其他",
+  "tags": [
+    "日式",
+    "空气炸锅",
+    "照烧",
+    "快手菜",
+    "鸡肉"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡肉",
+      "amount": "900g",
+      "buying_tip": "建议使用去骨鸡腿肉口感更嫩",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "酱油",
+      "amount": "100-125ml",
+      "buying_tip": "普通生抽即可",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "糖（白沙糖）",
+      "amount": "60-65g",
+      "buying_tip": "普通白砂糖",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "白醋",
+      "amount": "30-35ml",
+      "buying_tip": "酿造白醋",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "丽滋饼干(Ritz crackers)",
+      "amount": "16个(48g)",
+      "buying_tip": "可用咸味曲奇替代",
+      "optional": false,
+      "per_serving": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": "2个",
+      "buying_tip": "普通鸡蛋",
+      "optional": false,
+      "per_serving": true
+    }
+  ],
+  "tools": [
+    "空气炸锅",
+    "箔纸碗",
+    "搅拌碗",
+    "菜刀"
+  ],
+  "servings": {
+    "base": 1,
+    "formula": [
+      {
+        "name": "鸡肉",
+        "expr": "900 * n"
+      },
+      {
+        "name": "酱油",
+        "expr": "112.5 * n"
+      },
+      {
+        "name": "糖",
+        "expr": "62.5 * n"
+      },
+      {
+        "name": "白醋",
+        "expr": "32.5 * n"
+      },
+      {
+        "name": "丽滋饼干",
+        "expr": "16 * n"
+      },
+      {
+        "name": "鸡蛋",
+        "expr": "2 * n"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "index": 1,
+      "title": "调制料汁",
+      "instruction": "将酱油、糖和醋混合在一起, 搅匀料汁备用。",
+      "duration_sec": 120,
+      "tips": [
+        "确保糖分充分溶解"
+      ],
+      "produces": "照烧料汁",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-zhao-shao-ji-fan/step_1.jpg"
+    },
+    {
+      "index": 2,
+      "title": "混合肉馅",
+      "instruction": "在另一个碗中加入鸡肉、鸡蛋、1/2 料汁和压碎的丽滋饼干，搅拌均匀。",
+      "duration_sec": 300,
+      "tips": [
+        "饼干要压碎以便更好地吸收水分"
+      ],
+      "produces": "鸡肉混合物",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-zhao-shao-ji-fan/step_2.jpg"
+    },
+    {
+      "index": 3,
+      "title": "入锅准备",
+      "instruction": "空气炸锅用箔纸碗铺底，加入肉饼混合物，将剩余的料汁均匀的倒在上面。",
+      "duration_sec": 180,
+      "tips": [
+        "使用箔纸碗可以锁住肉汁"
+      ],
+      "produces": "待烤肉饼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-zhao-shao-ji-fan/step_3.jpg"
+    },
+    {
+      "index": 4,
+      "title": "空气烘炸",
+      "instruction": "在 350°F(177°C) 温度下炸 40 分钟。最好在米饭上食用。",
+      "duration_sec": 2400,
+      "tips": [
+        "注意观察表面上色情况"
+      ],
+      "produces": "熟鸡肉饼",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-zhao-shao-ji-fan/step_4.jpg"
+    },
+    {
+      "index": 5,
+      "title": "切块盛盘",
+      "instruction": "在外观呈金黄酥脆后出锅，切块盛盘。",
+      "duration_sec": 300,
+      "tips": [
+        "切块时注意防烫"
+      ],
+      "produces": "照烧鸡饭",
+      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kong-qi-zha-guo-zhao-shao-ji-fan/step_5.jpg"
+    }
+  ],
+  "tips": [
+    "米饭的做法参考电饭煲蒸米饭或煮锅蒸米饭",
+    "操作时，需要注意温度以免烫伤",
+    "参考资料源自库克美食教程: Air fryer Teriyaki Chicken Meatloaf"
+  ],
+  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_kong-qi-zha-guo-zhao-shao-ji-fan.jpg",
+  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_kong-qi-zha-guo-zhao-shao-ji-fan_overview.jpg",
+  "id": "other_kong-qi-zha-guo-zhao-shao-ji-fan",
+  "status": "published"
+}
