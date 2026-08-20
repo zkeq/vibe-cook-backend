@@ -201,5 +201,6 @@
   "cover_image": "ai-generated/other_hui-guo-rou.jpg",
   "overview_image": "overview/other_hui-guo-rou_overview.jpg",
   "id": "other_hui-guo-rou",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/回锅肉/回锅肉.md"
 }

@@ -266,5 +266,6 @@
   "cover_image": "ai-generated/other_lao-shi-guo-bao-rou.jpg",
   "overview_image": "overview/other_lao-shi-guo-bao-rou_overview.jpg",
   "id": "other_lao-shi-guo-bao-rou",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/老式锅包肉/老式锅包肉.md"
 }

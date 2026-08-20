@@ -220,5 +220,6 @@
   "cover_image": "ai-generated/other_hong-shao-zhu-ti.jpg",
   "overview_image": "overview/other_hong-shao-zhu-ti_overview.jpg",
   "id": "other_hong-shao-zhu-ti",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/红烧猪蹄/红烧猪蹄.md"
 }

@@ -344,5 +344,6 @@
   "cover_image": "ai-generated/meat_dish_shui-zhu-rou-pian.jpg",
   "overview_image": "overview/meat_dish_shui-zhu-rou-pian_overview.jpg",
   "id": "meat_dish_shui-zhu-rou-pian",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/水煮肉片.md"
 }

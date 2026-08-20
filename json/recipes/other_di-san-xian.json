@@ -248,5 +248,6 @@
   "cover_image": "ai-generated/other_di-san-xian.jpg",
   "overview_image": "overview/other_di-san-xian_overview.jpg",
   "id": "other_di-san-xian",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/地三鲜/地三鲜.md"
 }

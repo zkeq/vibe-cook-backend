@@ -257,5 +257,6 @@
   "cover_image": "ai-generated/other_mei-cai-kou-rou.jpg",
   "overview_image": "overview/other_mei-cai-kou-rou_overview.jpg",
   "id": "other_mei-cai-kou-rou",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/梅菜扣肉/梅菜扣肉.md"
 }

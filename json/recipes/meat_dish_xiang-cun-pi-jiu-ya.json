@@ -259,5 +259,6 @@
   "cover_image": "ai-generated/meat_dish_xiang-cun-pi-jiu-ya.jpg",
   "overview_image": "overview/meat_dish_xiang-cun-pi-jiu-ya_overview.jpg",
   "id": "meat_dish_xiang-cun-pi-jiu-ya",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/乡村啤酒鸭.md"
 }

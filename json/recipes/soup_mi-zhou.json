@@ -135,5 +135,6 @@
   "cover_image": "ai-generated/soup_mi-zhou.jpg",
   "overview_image": "overview/soup_mi-zhou_overview.jpg",
   "id": "soup_mi-zhou",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/soup/米粥.md"
 }

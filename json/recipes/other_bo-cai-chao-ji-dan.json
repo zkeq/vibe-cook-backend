@@ -164,5 +164,6 @@
   "cover_image": "ai-generated/other_bo-cai-chao-ji-dan.jpg",
   "overview_image": "overview/other_bo-cai-chao-ji-dan_overview.jpg",
   "id": "other_bo-cai-chao-ji-dan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md"
 }

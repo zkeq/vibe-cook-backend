@@ -175,5 +175,6 @@
   "cover_image": "ai-generated/soup_huang-gua-pi-dan-tang.jpg",
   "overview_image": "overview/soup_huang-gua-pi-dan-tang_overview.jpg",
   "id": "soup_huang-gua-pi-dan-tang",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/soup/黄瓜皮蛋汤.md"
 }

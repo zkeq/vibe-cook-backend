@@ -184,5 +184,6 @@
   "cover_image": "ai-generated/soup_chen-pi-pai-gu-tang.jpg",
   "overview_image": "overview/soup_chen-pi-pai-gu-tang_overview.jpg",
   "id": "soup_chen-pi-pai-gu-tang",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/soup/陈皮排骨汤/陈皮排骨汤.md"
 }

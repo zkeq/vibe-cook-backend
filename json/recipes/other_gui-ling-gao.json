@@ -144,5 +144,6 @@
   "cover_image": "ai-generated/other_gui-ling-gao.jpg",
   "overview_image": "overview/other_gui-ling-gao_overview.jpg",
   "id": "other_gui-ling-gao",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/dessert/龟苓膏/龟苓膏.md"
 }

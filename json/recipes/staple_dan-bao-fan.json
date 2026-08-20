@@ -250,5 +250,6 @@
   "cover_image": "ai-generated/staple_dan-bao-fan.jpg",
   "overview_image": "overview/staple_dan-bao-fan_overview.jpg",
   "id": "staple_dan-bao-fan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/蛋包饭.md"
 }

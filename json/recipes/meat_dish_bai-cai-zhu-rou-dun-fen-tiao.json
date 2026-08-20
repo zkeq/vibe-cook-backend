@@ -251,5 +251,6 @@
   "cover_image": "ai-generated/meat_dish_bai-cai-zhu-rou-dun-fen-tiao.jpg",
   "overview_image": "overview/meat_dish_bai-cai-zhu-rou-dun-fen-tiao_overview.jpg",
   "id": "meat_dish_bai-cai-zhu-rou-dun-fen-tiao",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/白菜猪肉炖粉条.md"
 }

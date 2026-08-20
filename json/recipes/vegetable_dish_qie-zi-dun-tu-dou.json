@@ -234,5 +234,6 @@
   "cover_image": "ai-generated/vegetable_dish_qie-zi-dun-tu-dou.jpg",
   "overview_image": "overview/vegetable_dish_qie-zi-dun-tu-dou_overview.jpg",
   "id": "vegetable_dish_qie-zi-dun-tu-dou",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/茄子炖土豆.md"
 }

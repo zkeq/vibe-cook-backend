@@ -141,5 +141,6 @@
   "cover_image": "ai-generated/breakfast_wei-bo-lu-he-bao-dan.jpg",
   "overview_image": "overview/breakfast_wei-bo-lu-he-bao-dan_overview.jpg",
   "id": "breakfast_wei-bo-lu-he-bao-dan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/breakfast/微波炉荷包蛋.md"
 }

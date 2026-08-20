@@ -172,5 +172,6 @@
   "cover_image": "ai-generated/vegetable_dish_liang-ban-you-mai-cai.jpg",
   "overview_image": "overview/vegetable_dish_liang-ban-you-mai-cai_overview.jpg",
   "id": "vegetable_dish_liang-ban-you-mai-cai",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/凉拌油麦菜.md"
 }

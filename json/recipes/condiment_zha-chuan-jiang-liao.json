@@ -222,5 +222,6 @@
   "cover_image": "ai-generated/condiment_zha-chuan-jiang-liao.jpg",
   "overview_image": "overview/condiment_zha-chuan-jiang-liao_overview.jpg",
   "id": "condiment_zha-chuan-jiang-liao",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/condiment/炸串酱料.md"
 }

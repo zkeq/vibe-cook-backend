@@ -295,5 +295,6 @@
   "cover_image": "ai-generated/staple_dan-chao-fan.jpg",
   "overview_image": "overview/staple_dan-chao-fan_overview.jpg",
   "id": "staple_dan-chao-fan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/蛋炒饭.md"
 }

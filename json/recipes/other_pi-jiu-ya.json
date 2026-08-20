@@ -218,5 +218,6 @@
   "cover_image": "ai-generated/other_pi-jiu-ya.jpg",
   "overview_image": "overview/other_pi-jiu-ya_overview.jpg",
   "id": "other_pi-jiu-ya",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/啤酒鸭/啤酒鸭.md"
 }

@@ -157,5 +157,6 @@
   "cover_image": "ai-generated/staple_lao-gan-ma-ban-mian.jpg",
   "overview_image": "overview/staple_lao-gan-ma-ban-mian_overview.jpg",
   "id": "staple_lao-gan-ma-ban-mian",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/老干妈拌面.md"
 }

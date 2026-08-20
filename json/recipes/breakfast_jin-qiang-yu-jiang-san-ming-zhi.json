@@ -146,5 +146,6 @@
   "cover_image": "ai-generated/breakfast_jin-qiang-yu-jiang-san-ming-zhi.jpg",
   "overview_image": "overview/breakfast_jin-qiang-yu-jiang-san-ming-zhi_overview.jpg",
   "id": "breakfast_jin-qiang-yu-jiang-san-ming-zhi",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/breakfast/金枪鱼酱三明治.md"
 }

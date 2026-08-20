@@ -231,5 +231,6 @@
   "cover_image": "ai-generated/staple_ying-zui-dou-zha-bing--chole-bhature.jpg",
   "overview_image": "overview/staple_ying-zui-dou-zha-bing--chole-bhature_overview.jpg",
   "id": "staple_ying-zui-dou-zha-bing--chole-bhature",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/鹰嘴豆炸饼.md"
 }

@@ -203,5 +203,6 @@
   "cover_image": "ai-generated/vegetable_dish_hao-you-sheng-cai.jpg",
   "overview_image": "overview/vegetable_dish_hao-you-sheng-cai_overview.jpg",
   "id": "vegetable_dish_hao-you-sheng-cai",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/蚝油生菜.md"
 }

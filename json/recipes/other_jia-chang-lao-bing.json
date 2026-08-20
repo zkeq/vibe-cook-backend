@@ -174,5 +174,6 @@
   "cover_image": "ai-generated/other_jia-chang-lao-bing.jpg",
   "overview_image": "overview/other_jia-chang-lao-bing_overview.jpg",
   "id": "other_jia-chang-lao-bing",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/烙饼/烙饼.md"
 }

@@ -249,5 +249,6 @@
   "cover_image": "ai-generated/meat_dish_shi-zhi-pai-gu.jpg",
   "overview_image": "overview/meat_dish_shi-zhi-pai-gu_overview.jpg",
   "id": "meat_dish_shi-zhi-pai-gu",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/豉汁排骨.md"
 }

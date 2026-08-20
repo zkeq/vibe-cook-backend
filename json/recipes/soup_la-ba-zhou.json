@@ -278,5 +278,6 @@
   "cover_image": "ai-generated/soup_la-ba-zhou.jpg",
   "overview_image": "overview/soup_la-ba-zhou_overview.jpg",
   "id": "soup_la-ba-zhou",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/soup/腊八粥.md"
 }

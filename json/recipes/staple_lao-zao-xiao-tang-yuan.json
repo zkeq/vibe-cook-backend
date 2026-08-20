@@ -140,5 +140,6 @@
   "cover_image": "ai-generated/staple_lao-zao-xiao-tang-yuan.jpg",
   "overview_image": "overview/staple_lao-zao-xiao-tang-yuan_overview.jpg",
   "id": "staple_lao-zao-xiao-tang-yuan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/醪糟小汤圆.md"
 }

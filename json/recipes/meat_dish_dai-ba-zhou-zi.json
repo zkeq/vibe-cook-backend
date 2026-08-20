@@ -239,5 +239,6 @@
   "cover_image": "ai-generated/meat_dish_dai-ba-zhou-zi.jpg",
   "overview_image": "overview/meat_dish_dai-ba-zhou-zi_overview.jpg",
   "id": "meat_dish_dai-ba-zhou-zi",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/带把肘子.md"
 }

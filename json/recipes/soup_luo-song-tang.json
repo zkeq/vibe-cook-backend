@@ -245,5 +245,6 @@
   "cover_image": "ai-generated/soup_luo-song-tang.jpg",
   "overview_image": "overview/soup_luo-song-tang_overview.jpg",
   "id": "soup_luo-song-tang",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/soup/罗宋汤.md"
 }

@@ -164,5 +164,6 @@
   "cover_image": "ai-generated/staple_zhu-you-ban-fan.jpg",
   "overview_image": "overview/staple_zhu-you-ban-fan_overview.jpg",
   "id": "staple_zhu-you-ban-fan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/猪油拌饭.md"
 }

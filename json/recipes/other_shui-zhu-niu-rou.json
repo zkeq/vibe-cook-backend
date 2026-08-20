@@ -261,5 +261,6 @@
   "cover_image": "ai-generated/other_shui-zhu-niu-rou.jpg",
   "overview_image": "overview/other_shui-zhu-niu-rou_overview.jpg",
   "id": "other_shui-zhu-niu-rou",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/水煮牛肉/水煮牛肉.md"
 }

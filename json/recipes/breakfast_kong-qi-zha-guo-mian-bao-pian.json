@@ -86,5 +86,6 @@
   "cover_image": "ai-generated/breakfast_kong-qi-zha-guo-mian-bao-pian.jpg",
   "overview_image": "overview/breakfast_kong-qi-zha-guo-mian-bao-pian_overview.jpg",
   "id": "breakfast_kong-qi-zha-guo-mian-bao-pian",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/breakfast/空气炸锅面包片.md"
 }

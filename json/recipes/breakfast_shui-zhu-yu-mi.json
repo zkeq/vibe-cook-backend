@@ -113,5 +113,6 @@
   "cover_image": "ai-generated/breakfast_shui-zhu-yu-mi.jpg",
   "overview_image": "overview/breakfast_shui-zhu-yu-mi_overview.jpg",
   "id": "breakfast_shui-zhu-yu-mi",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/aquatic/水煮鱼.md"
 }

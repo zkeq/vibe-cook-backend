@@ -279,5 +279,6 @@
   "cover_image": "ai-generated/other_you-po-la-zi.jpg",
   "overview_image": "overview/other_you-po-la-zi_overview.jpg",
   "id": "other_you-po-la-zi",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/condiment/油泼辣子/油泼辣子.md"
 }

@@ -233,5 +233,6 @@
   "cover_image": "ai-generated/other_hong-shao-dong-gua.jpg",
   "overview_image": "overview/other_hong-shao-dong-gua_overview.jpg",
   "id": "other_hong-shao-dong-gua",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md"
 }

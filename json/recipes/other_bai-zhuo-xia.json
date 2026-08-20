@@ -176,5 +176,6 @@
   "cover_image": "ai-generated/other_bai-zhuo-xia.jpg",
   "overview_image": "overview/other_bai-zhuo-xia_overview.jpg",
   "id": "other_bai-zhuo-xia",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/aquatic/白灼虾/白灼虾.md"
 }

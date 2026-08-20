@@ -231,5 +231,6 @@
   "cover_image": "ai-generated/staple_xian-rou-cai-fan.jpg",
   "overview_image": "overview/staple_xian-rou-cai-fan_overview.jpg",
   "id": "staple_xian-rou-cai-fan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/咸肉菜饭.md"
 }

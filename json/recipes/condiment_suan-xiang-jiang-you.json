@@ -122,5 +122,6 @@
   "cover_image": "ai-generated/condiment_suan-xiang-jiang-you.jpg",
   "overview_image": "overview/condiment_suan-xiang-jiang-you_overview.jpg",
   "id": "condiment_suan-xiang-jiang-you",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/condiment/蒜香酱油.md"
 }

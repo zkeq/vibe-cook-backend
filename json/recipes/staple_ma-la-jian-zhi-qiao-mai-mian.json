@@ -210,5 +210,6 @@
   "cover_image": "ai-generated/staple_ma-la-jian-zhi-qiao-mai-mian.jpg",
   "overview_image": "overview/staple_ma-la-jian-zhi-qiao-mai-mian_overview.jpg",
   "id": "staple_ma-la-jian-zhi-qiao-mai-mian",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/麻辣减脂荞麦面.md"
 }

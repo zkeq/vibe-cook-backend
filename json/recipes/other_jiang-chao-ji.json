@@ -232,5 +232,6 @@
   "cover_image": "ai-generated/other_jiang-chao-ji.jpg",
   "overview_image": "overview/other_jiang-chao-ji_overview.jpg",
   "id": "other_jiang-chao-ji",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/姜炒鸡/姜炒鸡.md"
 }

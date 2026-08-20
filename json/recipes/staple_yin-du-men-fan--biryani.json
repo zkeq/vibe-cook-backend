@@ -267,5 +267,6 @@
   "cover_image": "ai-generated/staple_yin-du-men-fan--biryani.jpg",
   "overview_image": "overview/staple_yin-du-men-fan--biryani_overview.jpg",
   "id": "staple_yin-du-men-fan--biryani",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/印度焖饭.md"
 }

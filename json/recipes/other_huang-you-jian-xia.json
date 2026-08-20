@@ -189,5 +189,6 @@
   "cover_image": "ai-generated/other_huang-you-jian-xia.jpg",
   "overview_image": "overview/other_huang-you-jian-xia_overview.jpg",
   "id": "other_huang-you-jian-xia",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/黄油鸡.md"
 }

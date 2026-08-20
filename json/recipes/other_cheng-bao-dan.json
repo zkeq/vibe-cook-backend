@@ -169,5 +169,6 @@
   "cover_image": "ai-generated/other_cheng-bao-dan.jpg",
   "overview_image": "overview/other_cheng-bao-dan_overview.jpg",
   "id": "other_cheng-bao-dan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/aquatic/蛏抱蛋/蛏抱蛋.md"
 }

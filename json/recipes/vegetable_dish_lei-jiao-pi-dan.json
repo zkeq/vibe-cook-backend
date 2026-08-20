@@ -232,5 +232,6 @@
   "cover_image": "ai-generated/vegetable_dish_lei-jiao-pi-dan.jpg",
   "overview_image": "overview/vegetable_dish_lei-jiao-pi-dan_overview.jpg",
   "id": "vegetable_dish_lei-jiao-pi-dan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/雷椒皮蛋.md"
 }

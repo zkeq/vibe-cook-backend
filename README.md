@@ -9,7 +9,7 @@ Vibe Cook **应用程序代码**仍是 [Business Source License 1.1](https://git
 | 路径 | 说明 |
 | --- | --- |
 | `json/recipes.json` | 全部结构化菜谱（一份 JSON） |
-| `json/index.json` | 菜谱摘要索引 |
+| `json/index.json` | 菜谱摘要索引（含 `markdown_path` 对 HowToCook 原仓库、`json_path` 对本数据集） |
 | `json/recipes/<id>.json` | 单份菜谱结构化数据 |
 | `vibe_cook.db` | 同上数据的 SQLite |
 | `images/ai-generated/` | 封面原图 |

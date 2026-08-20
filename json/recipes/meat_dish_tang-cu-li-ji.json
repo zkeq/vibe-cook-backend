@@ -212,5 +212,6 @@
   "cover_image": "ai-generated/meat_dish_tang-cu-li-ji.jpg",
   "overview_image": "overview/meat_dish_tang-cu-li-ji_overview.jpg",
   "id": "meat_dish_tang-cu-li-ji",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/糖醋里脊.md"
 }

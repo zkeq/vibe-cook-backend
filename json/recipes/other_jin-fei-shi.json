@@ -141,5 +141,6 @@
   "cover_image": "ai-generated/other_jin-fei-shi.jpg",
   "overview_image": "overview/other_jin-fei-shi_overview.jpg",
   "id": "other_jin-fei-shi",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/drink/金菲士/金菲士.md"
 }

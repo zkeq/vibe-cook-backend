@@ -337,5 +337,6 @@
   "cover_image": "ai-generated/meat_dish_leng-chi-tu.jpg",
   "overview_image": "overview/meat_dish_leng-chi-tu_overview.jpg",
   "id": "meat_dish_leng-chi-tu",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/冷吃兔.md"
 }

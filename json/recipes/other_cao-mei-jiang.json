@@ -134,5 +134,6 @@
   "cover_image": "ai-generated/other_cao-mei-jiang.jpg",
   "overview_image": "overview/other_cao-mei-jiang_overview.jpg",
   "id": "other_cao-mei-jiang",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/condiment/草莓酱/草莓酱.md"
 }

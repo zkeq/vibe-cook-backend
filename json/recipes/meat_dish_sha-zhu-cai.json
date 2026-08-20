@@ -288,5 +288,6 @@
   "cover_image": "ai-generated/meat_dish_sha-zhu-cai.jpg",
   "overview_image": "overview/meat_dish_sha-zhu-cai_overview.jpg",
   "id": "meat_dish_sha-zhu-cai",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/杀猪菜.md"
 }

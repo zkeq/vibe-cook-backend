@@ -229,5 +229,6 @@
   "cover_image": "ai-generated/meat_dish_ma-la-xiang-guo.jpg",
   "overview_image": "overview/meat_dish_ma-la-xiang-guo_overview.jpg",
   "id": "meat_dish_ma-la-xiang-guo",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/麻辣香锅.md"
 }

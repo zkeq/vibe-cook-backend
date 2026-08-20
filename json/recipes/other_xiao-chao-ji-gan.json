@@ -198,5 +198,6 @@
   "cover_image": "ai-generated/other_xiao-chao-ji-gan.jpg",
   "overview_image": "overview/other_xiao-chao-ji-gan_overview.jpg",
   "id": "other_xiao-chao-ji-gan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/小炒鸡肝/小炒鸡肝.md"
 }

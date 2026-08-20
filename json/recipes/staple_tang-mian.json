@@ -172,5 +172,6 @@
   "cover_image": "ai-generated/staple_tang-mian.jpg",
   "overview_image": "overview/staple_tang-mian_overview.jpg",
   "id": "staple_tang-mian",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/汤面.md"
 }

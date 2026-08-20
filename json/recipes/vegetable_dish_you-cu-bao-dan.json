@@ -199,5 +199,6 @@
   "cover_image": "ai-generated/vegetable_dish_you-cu-bao-dan.jpg",
   "overview_image": "overview/vegetable_dish_you-cu-bao-dan_overview.jpg",
   "id": "vegetable_dish_you-cu-bao-dan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/油醋爆蛋.md"
 }

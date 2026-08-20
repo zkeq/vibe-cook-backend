@@ -240,5 +240,6 @@
   "cover_image": "ai-generated/aquatic_hong-shao-yu-tou.jpg",
   "overview_image": "overview/aquatic_hong-shao-yu-tou_overview.jpg",
   "id": "aquatic_hong-shao-yu-tou",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/aquatic/红烧鱼头.md"
 }

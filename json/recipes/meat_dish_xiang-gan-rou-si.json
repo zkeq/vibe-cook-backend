@@ -221,5 +221,6 @@
   "cover_image": "ai-generated/meat_dish_xiang-gan-rou-si.jpg",
   "overview_image": "overview/meat_dish_xiang-gan-rou-si_overview.jpg",
   "id": "meat_dish_xiang-gan-rou-si",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/香干肉丝.md"
 }

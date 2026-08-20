@@ -310,5 +310,6 @@
   "cover_image": "ai-generated/aquatic_rou-xie-bao.jpg",
   "overview_image": "overview/aquatic_rou-xie-bao_overview.jpg",
   "id": "aquatic_rou-xie-bao",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/aquatic/肉蟹煲.md"
 }

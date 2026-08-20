@@ -276,5 +276,6 @@
   "cover_image": "ai-generated/vegetable_dish_yin-du-hu-lu-wan-zi.jpg",
   "overview_image": "overview/vegetable_dish_yin-du-hu-lu-wan-zi_overview.jpg",
   "id": "vegetable_dish_yin-du-hu-lu-wan-zi",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/印度葫芦丸子.md"
 }

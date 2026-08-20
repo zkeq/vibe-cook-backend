@@ -190,5 +190,6 @@
   "cover_image": "ai-generated/vegetable_dish_liang-ban-huang-gua.jpg",
   "overview_image": "overview/vegetable_dish_liang-ban-huang-gua_overview.jpg",
   "id": "vegetable_dish_liang-ban-huang-gua",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/凉拌黄瓜.md"
 }

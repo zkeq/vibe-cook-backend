@@ -199,5 +199,6 @@
   "cover_image": "ai-generated/vegetable_dish_cong-jian-dou-fu.jpg",
   "overview_image": "overview/vegetable_dish_cong-jian-dou-fu_overview.jpg",
   "id": "vegetable_dish_cong-jian-dou-fu",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/葱煎豆腐.md"
 }

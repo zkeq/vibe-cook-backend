@@ -246,5 +246,6 @@
   "cover_image": "ai-generated/aquatic_shui-zhu-yu.jpg",
   "overview_image": "overview/aquatic_shui-zhu-yu_overview.jpg",
   "id": "aquatic_shui-zhu-yu",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/aquatic/水煮鱼.md"
 }

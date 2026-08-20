@@ -158,5 +158,6 @@
   "cover_image": "ai-generated/breakfast_dan-jian-ci-ba.jpg",
   "overview_image": "overview/breakfast_dan-jian-ci-ba_overview.jpg",
   "id": "breakfast_dan-jian-ci-ba",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/breakfast/蛋煎糍粑.md"
 }

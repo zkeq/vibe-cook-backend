@@ -285,5 +285,6 @@
   "cover_image": "ai-generated/other_xiao-long-xia.jpg",
   "overview_image": "overview/other_xiao-long-xia_overview.jpg",
   "id": "other_xiao-long-xia",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/aquatic/小龙虾/小龙虾.md"
 }

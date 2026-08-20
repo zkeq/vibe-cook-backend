@@ -197,5 +197,6 @@
   "cover_image": "ai-generated/meat_dish_huang-gua-chao-rou.jpg",
   "overview_image": "overview/meat_dish_huang-gua-chao-rou_overview.jpg",
   "id": "meat_dish_huang-gua-chao-rou",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/黄瓜炒肉.md"
 }

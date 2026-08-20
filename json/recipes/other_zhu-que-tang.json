@@ -110,5 +110,6 @@
   "cover_image": "ai-generated/other_zhu-que-tang.jpg",
   "overview_image": "overview/other_zhu-que-tang_overview.jpg",
   "id": "other_zhu-que-tang",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/soup/朱雀汤/朱雀汤.md"
 }

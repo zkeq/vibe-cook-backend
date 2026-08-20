@@ -199,5 +199,6 @@
   "cover_image": "ai-generated/vegetable_dish_qing-chao-hua-cai.jpg",
   "overview_image": "overview/vegetable_dish_qing-chao-hua-cai_overview.jpg",
   "id": "vegetable_dish_qing-chao-hua-cai",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/清炒花菜.md"
 }

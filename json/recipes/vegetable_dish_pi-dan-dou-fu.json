@@ -188,5 +188,6 @@
   "cover_image": "ai-generated/vegetable_dish_pi-dan-dou-fu.jpg",
   "overview_image": "overview/vegetable_dish_pi-dan-dou-fu_overview.jpg",
   "id": "vegetable_dish_pi-dan-dou-fu",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/皮蛋豆腐.md"
 }

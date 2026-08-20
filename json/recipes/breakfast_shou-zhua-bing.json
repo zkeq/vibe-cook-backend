@@ -202,5 +202,6 @@
   "cover_image": "ai-generated/breakfast_shou-zhua-bing.jpg",
   "overview_image": "overview/breakfast_shou-zhua-bing_overview.jpg",
   "id": "breakfast_shou-zhua-bing",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/breakfast/手抓饼.md"
 }

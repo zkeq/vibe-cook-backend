@@ -198,5 +198,6 @@
   "cover_image": "ai-generated/meat_dish_suan-tai-chao-rou-mo.jpg",
   "overview_image": "overview/meat_dish_suan-tai-chao-rou-mo_overview.jpg",
   "id": "meat_dish_suan-tai-chao-rou-mo",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/蒜苔炒肉末.md"
 }

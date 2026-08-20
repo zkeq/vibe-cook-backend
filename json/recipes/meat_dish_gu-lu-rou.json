@@ -272,5 +272,6 @@
   "cover_image": "ai-generated/meat_dish_gu-lu-rou.jpg",
   "overview_image": "overview/meat_dish_gu-lu-rou_overview.jpg",
   "id": "meat_dish_gu-lu-rou",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/咕噜肉.md"
 }

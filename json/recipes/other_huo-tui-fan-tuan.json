@@ -191,5 +191,6 @@
   "cover_image": "ai-generated/other_huo-tui-fan-tuan.jpg",
   "overview_image": "overview/other_huo-tui-fan-tuan_overview.jpg",
   "id": "other_huo-tui-fan-tuan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/火腿饭团/火腿饭团.md"
 }

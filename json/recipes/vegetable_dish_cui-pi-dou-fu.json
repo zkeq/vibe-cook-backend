@@ -198,5 +198,6 @@
   "cover_image": "ai-generated/vegetable_dish_cui-pi-dou-fu.jpg",
   "overview_image": "overview/vegetable_dish_cui-pi-dou-fu_overview.jpg",
   "id": "vegetable_dish_cui-pi-dou-fu",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/脆皮豆腐.md"
 }

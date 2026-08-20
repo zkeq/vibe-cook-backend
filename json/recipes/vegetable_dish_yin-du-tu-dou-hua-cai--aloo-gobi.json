@@ -317,5 +317,6 @@
   "cover_image": "ai-generated/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi.jpg",
   "overview_image": "overview/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi_overview.jpg",
   "id": "vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/印度土豆花菜.md"
 }

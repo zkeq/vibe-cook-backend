@@ -309,5 +309,6 @@
   "cover_image": "ai-generated/aquatic_xiang-you-shan-si.jpg",
   "overview_image": "overview/aquatic_xiang-you-shan-si_overview.jpg",
   "id": "aquatic_xiang-you-shan-si",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/aquatic/响油鳝丝.md"
 }

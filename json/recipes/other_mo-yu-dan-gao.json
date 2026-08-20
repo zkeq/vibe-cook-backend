@@ -165,5 +165,6 @@
   "cover_image": "ai-generated/other_mo-yu-dan-gao.jpg",
   "overview_image": "overview/other_mo-yu-dan-gao_overview.jpg",
   "id": "other_mo-yu-dan-gao",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/dessert/魔芋蛋糕/魔芋蛋糕.md"
 }

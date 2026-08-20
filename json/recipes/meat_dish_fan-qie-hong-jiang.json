@@ -219,5 +219,6 @@
   "cover_image": "ai-generated/meat_dish_fan-qie-hong-jiang.jpg",
   "overview_image": "overview/meat_dish_fan-qie-hong-jiang_overview.jpg",
   "id": "meat_dish_fan-qie-hong-jiang",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/番茄红酱.md"
 }

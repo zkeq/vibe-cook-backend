@@ -218,5 +218,6 @@
   "cover_image": "ai-generated/other_ga-li-fei-niu.jpg",
   "overview_image": "overview/other_ga-li-fei-niu_overview.jpg",
   "id": "other_ga-li-fei-niu",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/咖喱肥牛/咖喱肥牛.md"
 }

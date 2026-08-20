@@ -209,5 +209,6 @@
   "cover_image": "ai-generated/other_xiao-chao-ou-ding.jpg",
   "overview_image": "overview/other_xiao-chao-ou-ding_overview.jpg",
   "id": "other_xiao-chao-ou-ding",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/小炒藕丁/小炒藕丁.md"
 }

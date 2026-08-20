@@ -143,5 +143,6 @@
   "cover_image": "ai-generated/staple_luo-si-fen.jpg",
   "overview_image": "overview/staple_luo-si-fen_overview.jpg",
   "id": "staple_luo-si-fen",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/螺蛳粉.md"
 }

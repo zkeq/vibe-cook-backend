@@ -212,5 +212,6 @@
   "cover_image": "ai-generated/vegetable_dish_ji-dan-huo-tui-chao-huang-gua.jpg",
   "overview_image": "overview/vegetable_dish_ji-dan-huo-tui-chao-huang-gua_overview.jpg",
   "id": "vegetable_dish_ji-dan-huo-tui-chao-huang-gua",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md"
 }

@@ -398,5 +398,6 @@
   "cover_image": "ai-generated/meat_dish_hong-shao-ji-chi.jpg",
   "overview_image": "overview/meat_dish_hong-shao-ji-chi_overview.jpg",
   "id": "meat_dish_hong-shao-ji-chi",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/红烧鸡翅.md"
 }

@@ -278,5 +278,6 @@
   "cover_image": "ai-generated/meat_dish_zhu-rou-hui-suan-cai.jpg",
   "overview_image": "overview/meat_dish_zhu-rou-hui-suan-cai_overview.jpg",
   "id": "meat_dish_zhu-rou-hui-suan-cai",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/猪肉烩酸菜.md"
 }

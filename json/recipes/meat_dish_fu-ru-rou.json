@@ -235,5 +235,6 @@
   "cover_image": "ai-generated/meat_dish_fu-ru-rou.jpg",
   "overview_image": "overview/meat_dish_fu-ru-rou_overview.jpg",
   "id": "meat_dish_fu-ru-rou",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/腐乳肉.md"
 }

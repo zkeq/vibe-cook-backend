@@ -254,5 +254,6 @@
   "cover_image": "ai-generated/other_shou-si-bao-cai.jpg",
   "overview_image": "overview/other_shou-si-bao-cai_overview.jpg",
   "id": "other_shou-si-bao-cai",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/手撕包菜/手撕包菜.md"
 }

@@ -202,5 +202,6 @@
   "cover_image": "ai-generated/vegetable_dish_suan-rong-xi-lan-hua.jpg",
   "overview_image": "overview/vegetable_dish_suan-rong-xi-lan-hua_overview.jpg",
   "id": "vegetable_dish_suan-rong-xi-lan-hua",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/蒜蓉西兰花.md"
 }

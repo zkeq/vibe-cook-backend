@@ -184,5 +184,6 @@
   "cover_image": "ai-generated/soup_xi-hong-shi-ji-dan-tang.jpg",
   "overview_image": "overview/soup_xi-hong-shi-ji-dan-tang_overview.jpg",
   "id": "soup_xi-hong-shi-ji-dan-tang",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/soup/西红柿鸡蛋汤.md"
 }

@@ -290,5 +290,6 @@
   "cover_image": "ai-generated/other_ma-po-dou-fu.jpg",
   "overview_image": "overview/other_ma-po-dou-fu_overview.jpg",
   "id": "other_ma-po-dou-fu",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/麻婆豆腐/麻婆豆腐.md"
 }

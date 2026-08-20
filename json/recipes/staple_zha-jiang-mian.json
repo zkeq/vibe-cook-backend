@@ -202,5 +202,6 @@
   "cover_image": "ai-generated/staple_zha-jiang-mian.jpg",
   "overview_image": "overview/staple_zha-jiang-mian_overview.jpg",
   "id": "staple_zha-jiang-mian",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/炸酱面.md"
 }

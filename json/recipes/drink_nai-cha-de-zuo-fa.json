@@ -108,5 +108,6 @@
   "cover_image": "ai-generated/drink_nai-cha-de-zuo-fa.jpg",
   "overview_image": "overview/drink_nai-cha-de-zuo-fa_overview.jpg",
   "id": "drink_nai-cha-de-zuo-fa",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/drink/奶茶.md"
 }

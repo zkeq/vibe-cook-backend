@@ -325,5 +325,6 @@
   "cover_image": "ai-generated/other_kou-shui-ji.jpg",
   "overview_image": "overview/other_kou-shui-ji_overview.jpg",
   "id": "other_kou-shui-ji",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/口水鸡/口水鸡.md"
 }

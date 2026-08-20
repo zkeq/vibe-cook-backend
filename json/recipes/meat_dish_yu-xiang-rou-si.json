@@ -277,5 +277,6 @@
   "cover_image": "ai-generated/meat_dish_yu-xiang-rou-si.jpg",
   "overview_image": "overview/meat_dish_yu-xiang-rou-si_overview.jpg",
   "id": "meat_dish_yu-xiang-rou-si",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/鱼香肉丝.md"
 }

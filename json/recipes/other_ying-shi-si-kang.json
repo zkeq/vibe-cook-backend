@@ -196,5 +196,6 @@
   "cover_image": "ai-generated/other_ying-shi-si-kang.jpg",
   "overview_image": "overview/other_ying-shi-si-kang_overview.jpg",
   "id": "other_ying-shi-si-kang",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/dessert/英式司康/英式司康.md"
 }

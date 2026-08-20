@@ -247,5 +247,6 @@
   "cover_image": "ai-generated/other_zhu-pi-dong.jpg",
   "overview_image": "overview/other_zhu-pi-dong_overview.jpg",
   "id": "other_zhu-pi-dong",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/猪皮冻/猪皮冻.md"
 }

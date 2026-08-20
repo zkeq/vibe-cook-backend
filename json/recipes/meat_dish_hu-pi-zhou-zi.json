@@ -272,5 +272,6 @@
   "cover_image": "ai-generated/meat_dish_hu-pi-zhou-zi.jpg",
   "overview_image": "overview/meat_dish_hu-pi-zhou-zi_overview.jpg",
   "id": "meat_dish_hu-pi-zhou-zi",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/虎皮肘子.md"
 }

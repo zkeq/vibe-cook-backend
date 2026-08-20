@@ -310,5 +310,6 @@
   "cover_image": "ai-generated/other_dou-jiao-men-mian.jpg",
   "overview_image": "overview/other_dou-jiao-men-mian_overview.jpg",
   "id": "other_dou-jiao-men-mian",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/豆角焖面/豆角焖面.md"
 }

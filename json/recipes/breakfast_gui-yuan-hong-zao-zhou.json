@@ -121,5 +121,6 @@
   "cover_image": "ai-generated/breakfast_gui-yuan-hong-zao-zhou.jpg",
   "overview_image": "overview/breakfast_gui-yuan-hong-zao-zhou_overview.jpg",
   "id": "breakfast_gui-yuan-hong-zao-zhou",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/breakfast/桂圆红枣粥.md"
 }

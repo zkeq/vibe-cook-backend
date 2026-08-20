@@ -304,5 +304,6 @@
   "cover_image": "ai-generated/other_niu-pai-de-zuo-fa.jpg",
   "overview_image": "overview/other_niu-pai-de-zuo-fa_overview.jpg",
   "id": "other_niu-pai-de-zuo-fa",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/牛排/牛排.md"
 }

@@ -202,5 +202,6 @@
   "cover_image": "ai-generated/vegetable_dish_pu-shao-qie-zi.jpg",
   "overview_image": "overview/vegetable_dish_pu-shao-qie-zi_overview.jpg",
   "id": "vegetable_dish_pu-shao-qie-zi",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/vegetable_dish/蒲烧茄子.md"
 }

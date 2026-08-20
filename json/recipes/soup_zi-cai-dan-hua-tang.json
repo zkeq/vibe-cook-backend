@@ -167,5 +167,6 @@
   "cover_image": "ai-generated/soup_zi-cai-dan-hua-tang.jpg",
   "overview_image": "overview/soup_zi-cai-dan-hua-tang_overview.jpg",
   "id": "soup_zi-cai-dan-hua-tang",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/soup/紫菜蛋花汤.md"
 }

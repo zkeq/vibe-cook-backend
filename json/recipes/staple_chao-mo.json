@@ -225,5 +225,6 @@
   "cover_image": "ai-generated/staple_chao-mo.jpg",
   "overview_image": "overview/staple_chao-mo_overview.jpg",
   "id": "staple_chao-mo",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/炒馍.md"
 }

@@ -273,5 +273,6 @@
   "cover_image": "ai-generated/other_qing-jiao-niang.jpg",
   "overview_image": "overview/other_qing-jiao-niang_overview.jpg",
   "id": "other_qing-jiao-niang",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/meat_dish/青椒酿/青椒酿.md"
 }

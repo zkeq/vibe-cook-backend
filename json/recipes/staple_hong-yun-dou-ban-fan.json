@@ -252,5 +252,6 @@
   "cover_image": "ai-generated/staple_hong-yun-dou-ban-fan.jpg",
   "overview_image": "overview/staple_hong-yun-dou-ban-fan_overview.jpg",
   "id": "staple_hong-yun-dou-ban-fan",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/staple/红芸豆拌饭.md"
 }

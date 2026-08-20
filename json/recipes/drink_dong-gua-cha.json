@@ -124,5 +124,6 @@
   "cover_image": "ai-generated/drink_dong-gua-cha.jpg",
   "overview_image": "overview/drink_dong-gua-cha_overview.jpg",
   "id": "drink_dong-gua-cha",
-  "status": "published"
+  "status": "published",
+  "markdown_path": "dishes/drink/冬瓜茶.md"
 }
