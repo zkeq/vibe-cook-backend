@@ -21,8 +21,8 @@ data/*.db-wal
 uploads/
 *.bak
 
-# 原图只在 dataset 分支，main 不跟踪，避免克隆后端要下 6GB
-/dataset/images/
+# 开放数据在 dataset 分支，main 不跟踪
+/dataset/
 
 # OS / IDE
 .DS_Store
