@@ -54,7 +54,7 @@
         "水无论冷热都可，如果比较急用，可用热水溶解后再冷却糖浆"
       ],
       "produces": "混合液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhe-tang-tang-jiang/step_1.jpg"
+      "image": "steps/other_zhe-tang-tang-jiang/step_1.jpg"
     },
     {
       "index": 2,
@@ -65,7 +65,7 @@
         "确保容器密封良好，防止串味"
       ],
       "produces": "蔗糖糖浆",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zhe-tang-tang-jiang/step_2.jpg"
+      "image": "steps/other_zhe-tang-tang-jiang/step_2.jpg"
     }
   ],
   "tips": [
@@ -73,8 +73,8 @@
     "配制好的糖浆不会轻易变质，在冷藏状态下保存一周通常是没问题的。",
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_zhe-tang-tang-jiang.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_zhe-tang-tang-jiang_overview.jpg",
+  "cover_image": "ai-generated/other_zhe-tang-tang-jiang.jpg",
+  "overview_image": "overview/other_zhe-tang-tang-jiang_overview.jpg",
   "id": "other_zhe-tang-tang-jiang",
   "status": "published"
 }

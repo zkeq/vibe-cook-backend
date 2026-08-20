@@ -192,7 +192,7 @@
         "姜片切得厚薄均匀有利于味道渗入"
       ],
       "produces": "煮鸡底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kou-shui-ji/step_1.jpg"
+      "image": "steps/other_kou-shui-ji/step_1.jpg"
     },
     {
       "index": 2,
@@ -203,7 +203,7 @@
         "水要一次性加足"
       ],
       "produces": "半熟鸡肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kou-shui-ji/step_2.jpg"
+      "image": "steps/other_kou-shui-ji/step_2.jpg"
     },
     {
       "index": 3,
@@ -214,7 +214,7 @@
         "保持水微沸状态即可，火太大容易把鸡皮煮破"
       ],
       "produces": "熟鸡肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kou-shui-ji/step_3.jpg"
+      "image": "steps/other_kou-shui-ji/step_3.jpg"
     },
     {
       "index": 4,
@@ -225,7 +225,7 @@
         "这是鸡皮 Q 弹的关键步骤"
       ],
       "produces": "冰镇鸡肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kou-shui-ji/step_4.jpg"
+      "image": "steps/other_kou-shui-ji/step_4.jpg"
     },
     {
       "index": 5,
@@ -236,7 +236,7 @@
         "切块大小要均匀，卖相更好"
       ],
       "produces": "鸡肉盘",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kou-shui-ji/step_5.jpg"
+      "image": "steps/other_kou-shui-ji/step_5.jpg"
     },
     {
       "index": 6,
@@ -247,7 +247,7 @@
         "注意随时翻动，不要糊了"
       ],
       "produces": "熟花生",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kou-shui-ji/step_6.jpg"
+      "image": "steps/other_kou-shui-ji/step_6.jpg"
     },
     {
       "index": 7,
@@ -258,7 +258,7 @@
         "花生去皮后口感更纯粹"
       ],
       "produces": "辅料碎",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kou-shui-ji/step_7.jpg"
+      "image": "steps/other_kou-shui-ji/step_7.jpg"
     },
     {
       "index": 8,
@@ -269,7 +269,7 @@
         "火不宜过大，防止调料焦黑"
       ],
       "produces": "香料油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kou-shui-ji/step_8.jpg"
+      "image": "steps/other_kou-shui-ji/step_8.jpg"
     },
     {
       "index": 9,
@@ -280,7 +280,7 @@
         "注意高温防烫"
       ],
       "produces": "纯净热油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kou-shui-ji/step_9.jpg"
+      "image": "steps/other_kou-shui-ji/step_9.jpg"
     },
     {
       "index": 10,
@@ -291,7 +291,7 @@
         "边倒边搅拌，让辣椒粉均匀受热"
       ],
       "produces": "自制红油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kou-shui-ji/step_10.jpg"
+      "image": "steps/other_kou-shui-ji/step_10.jpg"
     },
     {
       "index": 11,
@@ -302,7 +302,7 @@
         "糖和醋的比例可按个人喜好微调"
       ],
       "produces": "口水鸡酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kou-shui-ji/step_11.jpg"
+      "image": "steps/other_kou-shui-ji/step_11.jpg"
     },
     {
       "index": 12,
@@ -313,7 +313,7 @@
         "淋汁后静置片刻更入味"
       ],
       "produces": "完成的口水鸡",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kou-shui-ji/step_12.jpg"
+      "image": "steps/other_kou-shui-ji/step_12.jpg"
     }
   ],
   "tips": [
@@ -322,8 +322,8 @@
     "红油调味是关键，热油泼入辣椒粉时需注意油温，避免焦糊",
     "冰水浸泡是鸡皮脆爽的关键"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_kou-shui-ji.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_kou-shui-ji_overview.jpg",
+  "cover_image": "ai-generated/other_kou-shui-ji.jpg",
+  "overview_image": "overview/other_kou-shui-ji_overview.jpg",
   "id": "other_kou-shui-ji",
   "status": "published"
 }

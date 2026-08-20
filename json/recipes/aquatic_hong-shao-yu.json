@@ -150,7 +150,7 @@
         "姜可以片丝，蒜可以拍碎"
       ],
       "produces": "切好的姜蒜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-yu/step_1.jpg"
+      "image": "steps/aquatic_hong-shao-yu/step_1.jpg"
     },
     {
       "index": 2,
@@ -161,7 +161,7 @@
         "干辣椒碎的多少决定基础辣度"
       ],
       "produces": "姜蒜辣椒料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-yu/step_2.jpg"
+      "image": "steps/aquatic_hong-shao-yu/step_2.jpg"
     },
     {
       "index": 3,
@@ -173,7 +173,7 @@
         "必须全程小火，防止煎糊"
       ],
       "produces": "单面金黄的鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-yu/step_3.jpg"
+      "image": "steps/aquatic_hong-shao-yu/step_3.jpg"
     },
     {
       "index": 4,
@@ -184,7 +184,7 @@
         "翻鱼时动作要轻，保持鱼身完整"
       ],
       "produces": "双面煎好的鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-yu/step_4.jpg"
+      "image": "steps/aquatic_hong-shao-yu/step_4.jpg"
     },
     {
       "index": 5,
@@ -195,7 +195,7 @@
         "利用锅内余油炒香即可"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-yu/step_5.jpg"
+      "image": "steps/aquatic_hong-shao-yu/step_5.jpg"
     },
     {
       "index": 6,
@@ -206,7 +206,7 @@
         "倒入料酒时会起大量油烟，注意安全"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-yu/step_6.jpg"
+      "image": "steps/aquatic_hong-shao-yu/step_6.jpg"
     },
     {
       "index": 7,
@@ -217,7 +217,7 @@
         "中火焖煮能让鱼肉更加入味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-yu/step_7.jpg"
+      "image": "steps/aquatic_hong-shao-yu/step_7.jpg"
     },
     {
       "index": 8,
@@ -228,7 +228,7 @@
         "翻身能确保鱼肉两面入味均匀"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-yu/step_8.jpg"
+      "image": "steps/aquatic_hong-shao-yu/step_8.jpg"
     },
     {
       "index": 9,
@@ -239,7 +239,7 @@
         "收汁不要收得太干，留一点拌饭更好吃"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-yu/step_9.jpg"
+      "image": "steps/aquatic_hong-shao-yu/step_9.jpg"
     },
     {
       "index": 10,
@@ -250,7 +250,7 @@
         "盛盘时注意不要弄断鱼身"
       ],
       "produces": "红烧鱼成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_hong-shao-yu/step_10.jpg"
+      "image": "steps/aquatic_hong-shao-yu/step_10.jpg"
     }
   ],
   "tips": [
@@ -258,8 +258,8 @@
     "鱼背上划花刀是为了防止鱼背肉厚处夹生，同时也更入味。",
     "小米椒辣度极高，建议最多放2个，否则辣度可能过高。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/aquatic_hong-shao-yu.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/aquatic_hong-shao-yu_overview.jpg",
+  "cover_image": "ai-generated/aquatic_hong-shao-yu.jpg",
+  "overview_image": "overview/aquatic_hong-shao-yu_overview.jpg",
   "id": "aquatic_hong-shao-yu",
   "status": "published"
 }

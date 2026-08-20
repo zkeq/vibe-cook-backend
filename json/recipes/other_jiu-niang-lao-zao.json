@@ -82,7 +82,7 @@
         "如果想米粒更分明，可以参考进阶版提前泡米"
       ],
       "produces": "熟糯米饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiu-niang-lao-zao/step_1.jpg"
+      "image": "steps/other_jiu-niang-lao-zao/step_1.jpg"
     },
     {
       "index": 2,
@@ -94,7 +94,7 @@
         "温度过高会烫死酒曲"
       ],
       "produces": "适温糯米饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiu-niang-lao-zao/step_2.jpg"
+      "image": "steps/other_jiu-niang-lao-zao/step_2.jpg"
     },
     {
       "index": 3,
@@ -105,7 +105,7 @@
         "确保每一粒米都能沾到酒曲"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiu-niang-lao-zao/step_3.jpg"
+      "image": "steps/other_jiu-niang-lao-zao/step_3.jpg"
     },
     {
       "index": 4,
@@ -116,7 +116,7 @@
         "这次加水可以让酒酿首次发酵便汤汁丰富"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiu-niang-lao-zao/step_4.jpg"
+      "image": "steps/other_jiu-niang-lao-zao/step_4.jpg"
     },
     {
       "index": 5,
@@ -127,7 +127,7 @@
         "工具必须无油无盐"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiu-niang-lao-zao/step_5.jpg"
+      "image": "steps/other_jiu-niang-lao-zao/step_5.jpg"
     },
     {
       "index": 6,
@@ -138,7 +138,7 @@
         "容器必须彻底清洁并干燥"
       ],
       "produces": "待发酵酒酿",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiu-niang-lao-zao/step_6.jpg"
+      "image": "steps/other_jiu-niang-lao-zao/step_6.jpg"
     },
     {
       "index": 7,
@@ -149,7 +149,7 @@
         "发酵期间不可剧烈摇晃或移动"
       ],
       "produces": "发酵好的酒酿",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiu-niang-lao-zao/step_7.jpg"
+      "image": "steps/other_jiu-niang-lao-zao/step_7.jpg"
     },
     {
       "index": 8,
@@ -160,7 +160,7 @@
         "无异味、不酸败即为成功"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiu-niang-lao-zao/step_8.jpg"
+      "image": "steps/other_jiu-niang-lao-zao/step_8.jpg"
     },
     {
       "index": 9,
@@ -171,7 +171,7 @@
         "每次食用用干净工具取出，可冷藏保存 7 ～ 10 天"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiu-niang-lao-zao/step_9.jpg"
+      "image": "steps/other_jiu-niang-lao-zao/step_9.jpg"
     }
   ],
   "tips": [
@@ -181,8 +181,8 @@
     "酒酿汁可用于制作酒酿米糕、酒酿饼等，还可以用作调料",
     "如果想停止发酵，可以上锅蒸 10 分钟杀菌，或放入冰箱冷藏"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_jiu-niang-lao-zao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_jiu-niang-lao-zao_overview.jpg",
+  "cover_image": "ai-generated/other_jiu-niang-lao-zao.jpg",
+  "overview_image": "overview/other_jiu-niang-lao-zao_overview.jpg",
   "id": "other_jiu-niang-lao-zao",
   "status": "published"
 }

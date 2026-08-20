@@ -181,7 +181,7 @@
         "手捏时可以稍微用力，让汁水溢出"
       ],
       "produces": "葱姜水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-su-rou/step_1.jpg"
+      "image": "steps/meat_dish_xiao-su-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -192,7 +192,7 @@
         "厚度要均匀，否则炸制时成熟度不一"
       ],
       "produces": "肉条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-su-rou/step_2.jpg"
+      "image": "steps/meat_dish_xiao-su-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -203,7 +203,7 @@
         "揉制到位是肉质鲜嫩的关键"
       ],
       "produces": "腌制肉条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-su-rou/step_3.jpg"
+      "image": "steps/meat_dish_xiao-su-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -214,7 +214,7 @@
         "静置可以让肉更加入味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-su-rou/step_4.jpg"
+      "image": "steps/meat_dish_xiao-su-rou/step_4.jpg"
     },
     {
       "index": 5,
@@ -225,7 +225,7 @@
         "裹粉一定要把红薯粉揉散，不要有干的颗粒裹在里面，否则炸制时会爆裂炸锅"
       ],
       "produces": "挂糊肉条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-su-rou/step_5.jpg"
+      "image": "steps/meat_dish_xiao-su-rou/step_5.jpg"
     },
     {
       "index": 6,
@@ -237,7 +237,7 @@
         "没有经验可以一条一条下锅，防止粘连"
       ],
       "produces": "初炸小酥肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-su-rou/step_6.jpg"
+      "image": "steps/meat_dish_xiao-su-rou/step_6.jpg"
     },
     {
       "index": 7,
@@ -248,7 +248,7 @@
         "复炸时间不宜过长，上色即可捞出"
       ],
       "produces": "成品小酥肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiao-su-rou/step_7.jpg"
+      "image": "steps/meat_dish_xiao-su-rou/step_7.jpg"
     }
   ],
   "tips": [
@@ -256,8 +256,8 @@
     "如果肉太多吃不完，可以只炸一遍然后放冰箱。后面再吃的时候拿出来复炸，口感基本没影响。",
     "初炸定型，复炸上色和增脆，两次火候控制是成功的核心。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_xiao-su-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_xiao-su-rou_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_xiao-su-rou.jpg",
+  "overview_image": "overview/meat_dish_xiao-su-rou_overview.jpg",
   "id": "meat_dish_xiao-su-rou",
   "status": "published"
 }

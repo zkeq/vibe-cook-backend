@@ -190,7 +190,7 @@
         "用刀背拍打可以让鸡肉口感更松软"
       ],
       "produces": "鸡肉块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-bian-zi-ji/step_1.jpg"
+      "image": "steps/other_gan-bian-zi-ji/step_1.jpg"
     },
     {
       "index": 2,
@@ -201,7 +201,7 @@
         "加入食用油是防止下锅炸时鸡块互相粘在一起的关键"
       ],
       "produces": "腌制好的鸡肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-bian-zi-ji/step_2.jpg"
+      "image": "steps/other_gan-bian-zi-ji/step_2.jpg"
     },
     {
       "index": 3,
@@ -212,7 +212,7 @@
         "水分一定要控干，否则下油锅会剧烈溅油"
       ],
       "produces": "半熟土豆块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-bian-zi-ji/step_3.jpg"
+      "image": "steps/other_gan-bian-zi-ji/step_3.jpg"
     },
     {
       "index": 4,
@@ -223,7 +223,7 @@
         "青椒片大小应与鸡块、土豆块保持一致"
       ],
       "produces": "青椒片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-bian-zi-ji/step_4.jpg"
+      "image": "steps/other_gan-bian-zi-ji/step_4.jpg"
     },
     {
       "index": 5,
@@ -234,7 +234,7 @@
         "油量需没过食材"
       ],
       "produces": "初炸土豆",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-bian-zi-ji/step_5.jpg"
+      "image": "steps/other_gan-bian-zi-ji/step_5.jpg"
     },
     {
       "index": 6,
@@ -245,7 +245,7 @@
         "炸鸡块时不要立刻搅动，待其定型后再拨散"
       ],
       "produces": "初炸鸡块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-bian-zi-ji/step_6.jpg"
+      "image": "steps/other_gan-bian-zi-ji/step_6.jpg"
     },
     {
       "index": 7,
@@ -256,7 +256,7 @@
         "复炸可以使鸡块外皮更酥脆，并逼出多余油脂"
       ],
       "produces": "酥脆鸡块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-bian-zi-ji/step_7.jpg"
+      "image": "steps/other_gan-bian-zi-ji/step_7.jpg"
     },
     {
       "index": 8,
@@ -267,7 +267,7 @@
         "利用热油过滤的瞬间让青椒断生，可以保持青椒的脆爽和色泽"
       ],
       "produces": "复炸土豆及断生青椒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-bian-zi-ji/step_8.jpg"
+      "image": "steps/other_gan-bian-zi-ji/step_8.jpg"
     },
     {
       "index": 9,
@@ -278,7 +278,7 @@
         "全程小火，避免豆瓣酱和白糖炒糊"
       ],
       "produces": "甜辣酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-bian-zi-ji/step_9.jpg"
+      "image": "steps/other_gan-bian-zi-ji/step_9.jpg"
     },
     {
       "index": 10,
@@ -289,7 +289,7 @@
         "快速翻拌，让酱汁均匀裹在食材上即可出锅"
       ],
       "produces": "干煸仔鸡",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gan-bian-zi-ji/step_10.jpg"
+      "image": "steps/other_gan-bian-zi-ji/step_10.jpg"
     }
   ],
   "tips": [
@@ -297,8 +297,8 @@
     "豆瓣酱的咸度较高，请根据个人口味酌情调整盐的用量。",
     "复炸步骤是外酥里嫩的关键，建议不要省略。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_gan-bian-zi-ji.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_gan-bian-zi-ji_overview.jpg",
+  "cover_image": "ai-generated/other_gan-bian-zi-ji.jpg",
+  "overview_image": "overview/other_gan-bian-zi-ji_overview.jpg",
   "id": "other_gan-bian-zi-ji",
   "status": "published"
 }

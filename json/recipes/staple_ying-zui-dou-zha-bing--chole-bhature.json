@@ -153,7 +153,7 @@
         "浸泡是必须步骤，否则很难煮软"
       ],
       "produces": "泡发的鹰嘴豆",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ying-zui-dou-zha-bing--chole-bhature/step_1.jpg"
+      "image": "steps/staple_ying-zui-dou-zha-bing--chole-bhature/step_1.jpg"
     },
     {
       "index": 2,
@@ -164,7 +164,7 @@
         "红茶包能让豆子呈现正宗的深棕色"
       ],
       "produces": "熟鹰嘴豆及茶汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ying-zui-dou-zha-bing--chole-bhature/step_2.jpg"
+      "image": "steps/staple_ying-zui-dou-zha-bing--chole-bhature/step_2.jpg"
     },
     {
       "index": 3,
@@ -175,7 +175,7 @@
         "洋葱炒到位是咖喱香味的关键"
       ],
       "produces": "香料底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ying-zui-dou-zha-bing--chole-bhature/step_3.jpg"
+      "image": "steps/staple_ying-zui-dou-zha-bing--chole-bhature/step_3.jpg"
     },
     {
       "index": 4,
@@ -186,7 +186,7 @@
         "番茄一定要炒到出油（Masala分离）状态"
       ],
       "produces": "浓郁咖喱酱",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ying-zui-dou-zha-bing--chole-bhature/step_4.jpg"
+      "image": "steps/staple_ying-zui-dou-zha-bing--chole-bhature/step_4.jpg"
     },
     {
       "index": 5,
@@ -197,7 +197,7 @@
         "压碎部分豆子可以使汤汁更浓稠，无需勾芡"
       ],
       "produces": "鹰嘴豆咖喱",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ying-zui-dou-zha-bing--chole-bhature/step_5.jpg"
+      "image": "steps/staple_ying-zui-dou-zha-bing--chole-bhature/step_5.jpg"
     },
     {
       "index": 6,
@@ -208,7 +208,7 @@
         "面团应比平时做的馒头面团稍软"
       ],
       "produces": "炸饼面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ying-zui-dou-zha-bing--chole-bhature/step_6.jpg"
+      "image": "steps/staple_ying-zui-dou-zha-bing--chole-bhature/step_6.jpg"
     },
     {
       "index": 7,
@@ -219,7 +219,7 @@
         "油温一定要够高，饼才能迅速膨胀鼓起"
       ],
       "produces": "金黄炸饼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ying-zui-dou-zha-bing--chole-bhature/step_7.jpg"
+      "image": "steps/staple_ying-zui-dou-zha-bing--chole-bhature/step_7.jpg"
     }
   ],
   "tips": [
@@ -228,8 +228,8 @@
     "炸饼面团中的酸奶和小苏打是其松软蓬松的关键。面团不宜太硬。",
     "炸饼趁热食用口感最佳，搭配洋葱片和柠檬角可以解腻增香。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_ying-zui-dou-zha-bing--chole-bhature.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_ying-zui-dou-zha-bing--chole-bhature_overview.jpg",
+  "cover_image": "ai-generated/staple_ying-zui-dou-zha-bing--chole-bhature.jpg",
+  "overview_image": "overview/staple_ying-zui-dou-zha-bing--chole-bhature_overview.jpg",
   "id": "staple_ying-zui-dou-zha-bing--chole-bhature",
   "status": "published"
 }

@@ -130,7 +130,7 @@
         "菱形块增大受热面积，更易入味"
       ],
       "produces": "茄子块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qie-zi/step_1.jpg"
+      "image": "steps/vegetable_dish_chao-qie-zi/step_1.jpg"
     },
     {
       "index": 2,
@@ -141,7 +141,7 @@
         "辅料提前备好，避免炒菜时手忙脚乱"
       ],
       "produces": "葱花、八角",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qie-zi/step_2.jpg"
+      "image": "steps/vegetable_dish_chao-qie-zi/step_2.jpg"
     },
     {
       "index": 3,
@@ -152,7 +152,7 @@
         "纯瘦肉末建议多加5ml油防止粘锅"
       ],
       "produces": "熟肉末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qie-zi/step_3.jpg"
+      "image": "steps/vegetable_dish_chao-qie-zi/step_3.jpg"
     },
     {
       "index": 4,
@@ -163,7 +163,7 @@
         "油可多不可少，否则茄子容易糊锅且口感干硬"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qie-zi/step_4.jpg"
+      "image": "steps/vegetable_dish_chao-qie-zi/step_4.jpg"
     },
     {
       "index": 5,
@@ -174,7 +174,7 @@
         "若家用灶温度上升不明显，7成热即可进行下一步"
       ],
       "produces": "香油底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qie-zi/step_5.jpg"
+      "image": "steps/vegetable_dish_chao-qie-zi/step_5.jpg"
     },
     {
       "index": 6,
@@ -185,7 +185,7 @@
         "全程大火快炒是关键"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qie-zi/step_6.jpg"
+      "image": "steps/vegetable_dish_chao-qie-zi/step_6.jpg"
     },
     {
       "index": 7,
@@ -196,7 +196,7 @@
         "酱油宁少勿多，避免过咸"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qie-zi/step_7.jpg"
+      "image": "steps/vegetable_dish_chao-qie-zi/step_7.jpg"
     },
     {
       "index": 8,
@@ -207,7 +207,7 @@
         "此时茄子开始释放水分并吸收油脂"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qie-zi/step_8.jpg"
+      "image": "steps/vegetable_dish_chao-qie-zi/step_8.jpg"
     },
     {
       "index": 9,
@@ -218,7 +218,7 @@
         "醋在最后加，翻炒20秒即出锅，防止酸味挥发"
       ],
       "produces": "炒茄子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qie-zi/step_9.jpg"
+      "image": "steps/vegetable_dish_chao-qie-zi/step_9.jpg"
     }
   ],
   "tips": [
@@ -228,8 +228,8 @@
     "糖和醋必须在最后阶段加入，快进快出保持风味。",
     "油量是保证茄子软嫩的关键，宁多勿少。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_chao-qie-zi.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_chao-qie-zi_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_chao-qie-zi.jpg",
+  "overview_image": "overview/vegetable_dish_chao-qie-zi_overview.jpg",
   "id": "vegetable_dish_chao-qie-zi",
   "status": "published"
 }

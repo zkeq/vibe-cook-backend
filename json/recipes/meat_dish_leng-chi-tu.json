@@ -229,7 +229,7 @@
         "香料洗净后建议沥干水分，防止下锅溅油"
       ],
       "produces": "香料备料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_leng-chi-tu/step_1.jpg"
+      "image": "steps/meat_dish_leng-chi-tu/step_1.jpg"
     },
     {
       "index": 2,
@@ -240,7 +240,7 @@
         "可以先洗再剪，防止辣椒籽流失过多"
       ],
       "produces": "辣椒段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_leng-chi-tu/step_2.jpg"
+      "image": "steps/meat_dish_leng-chi-tu/step_2.jpg"
     },
     {
       "index": 3,
@@ -249,7 +249,7 @@
       "duration_sec": 120,
       "tips": [],
       "produces": "葱类备料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_leng-chi-tu/step_3.jpg"
+      "image": "steps/meat_dish_leng-chi-tu/step_3.jpg"
     },
     {
       "index": 4,
@@ -260,7 +260,7 @@
         "切块大小尽量均匀，保证成熟度一致"
       ],
       "produces": "腌制兔肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_leng-chi-tu/step_4.jpg"
+      "image": "steps/meat_dish_leng-chi-tu/step_4.jpg"
     },
     {
       "index": 5,
@@ -271,7 +271,7 @@
         "葱类变色即可捞出，不要炸到全黑"
       ],
       "produces": "葱香油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_leng-chi-tu/step_5.jpg"
+      "image": "steps/meat_dish_leng-chi-tu/step_5.jpg"
     },
     {
       "index": 6,
@@ -282,7 +282,7 @@
         "油量应该淹没兔肉，若未淹没需要及时补充"
       ],
       "produces": "预炸兔肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_leng-chi-tu/step_6.jpg"
+      "image": "steps/meat_dish_leng-chi-tu/step_6.jpg"
     },
     {
       "index": 7,
@@ -293,7 +293,7 @@
         "辣椒极容易炸糊，一定要小火，等到没太多水气蒸发时即可下兔肉"
       ],
       "produces": "香辣底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_leng-chi-tu/step_7.jpg"
+      "image": "steps/meat_dish_leng-chi-tu/step_7.jpg"
     },
     {
       "index": 8,
@@ -304,7 +304,7 @@
         "让兔肉充分吸收辣椒和香料的味道"
       ],
       "produces": "半成品冷吃兔",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_leng-chi-tu/step_8.jpg"
+      "image": "steps/meat_dish_leng-chi-tu/step_8.jpg"
     },
     {
       "index": 9,
@@ -315,7 +315,7 @@
         "关火后再放姜蒜能保留姜蒜的辛辣香气"
       ],
       "produces": "冷吃兔",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_leng-chi-tu/step_9.jpg"
+      "image": "steps/meat_dish_leng-chi-tu/step_9.jpg"
     },
     {
       "index": 10,
@@ -326,7 +326,7 @@
         "冷藏保存风味更佳"
       ],
       "produces": "最佳风味冷吃兔",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_leng-chi-tu/step_10.jpg"
+      "image": "steps/meat_dish_leng-chi-tu/step_10.jpg"
     }
   ],
   "tips": [
@@ -334,8 +334,8 @@
     "操作第7步辣椒下锅后过程极快，必须严密观察防止变黑变苦",
     "放置一夜后，兔肉会进一步吸收红油中的香气，回味更浓郁"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_leng-chi-tu.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_leng-chi-tu_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_leng-chi-tu.jpg",
+  "overview_image": "overview/meat_dish_leng-chi-tu_overview.jpg",
   "id": "meat_dish_leng-chi-tu",
   "status": "published"
 }

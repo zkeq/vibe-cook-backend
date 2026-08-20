@@ -123,7 +123,7 @@
         "沥干水分能防止炒制时溅油"
       ],
       "produces": "焯熟的玉米胡萝卜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_song-ren-yu-mi/step_1.jpg"
+      "image": "steps/vegetable_dish_song-ren-yu-mi/step_1.jpg"
     },
     {
       "index": 2,
@@ -134,7 +134,7 @@
         "胡萝卜先炒更有利于胡萝卜素吸收"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_song-ren-yu-mi/step_2.jpg"
+      "image": "steps/vegetable_dish_song-ren-yu-mi/step_2.jpg"
     },
     {
       "index": 3,
@@ -145,7 +145,7 @@
         "糖量可根据个人喜好微调"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_song-ren-yu-mi/step_3.jpg"
+      "image": "steps/vegetable_dish_song-ren-yu-mi/step_3.jpg"
     },
     {
       "index": 4,
@@ -156,7 +156,7 @@
         "水淀粉下锅前需再次搅拌均匀以免沉淀"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_song-ren-yu-mi/step_4.jpg"
+      "image": "steps/vegetable_dish_song-ren-yu-mi/step_4.jpg"
     },
     {
       "index": 5,
@@ -167,7 +167,7 @@
         "松仁最后放能保持其酥脆口感"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_song-ren-yu-mi/step_5.jpg"
+      "image": "steps/vegetable_dish_song-ren-yu-mi/step_5.jpg"
     },
     {
       "index": 6,
@@ -178,7 +178,7 @@
         "趁热食用风味最佳"
       ],
       "produces": "松仁玉米",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_song-ren-yu-mi/step_6.jpg"
+      "image": "steps/vegetable_dish_song-ren-yu-mi/step_6.jpg"
     }
   ],
   "tips": [
@@ -186,8 +186,8 @@
     "使用罐头玉米时应先沥干水分，避免炒制过程中出水过多",
     "炒制时火候不宜过大，以防糊锅或松仁焦糊"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_song-ren-yu-mi.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_song-ren-yu-mi_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_song-ren-yu-mi.jpg",
+  "overview_image": "overview/vegetable_dish_song-ren-yu-mi_overview.jpg",
   "id": "vegetable_dish_song-ren-yu-mi",
   "status": "published"
 }

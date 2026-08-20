@@ -167,7 +167,7 @@
         "丝切得细一点更容易入味且熟得快"
       ],
       "produces": "包菜丝、胡萝卜丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bao-cai-chao-ji-dan-fen-si/step_1.jpg"
+      "image": "steps/other_bao-cai-chao-ji-dan-fen-si/step_1.jpg"
     },
     {
       "index": 2,
@@ -178,7 +178,7 @@
         "冷水泡发能保持粉丝韧性，开水烫软缩短后续炒制时间"
       ],
       "produces": "软化的粉丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bao-cai-chao-ji-dan-fen-si/step_2.jpg"
+      "image": "steps/other_bao-cai-chao-ji-dan-fen-si/step_2.jpg"
     },
     {
       "index": 3,
@@ -189,7 +189,7 @@
         "加入少许盐可以让鸡蛋炒出来更有味道"
       ],
       "produces": "调味蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bao-cai-chao-ji-dan-fen-si/step_3.jpg"
+      "image": "steps/other_bao-cai-chao-ji-dan-fen-si/step_3.jpg"
     },
     {
       "index": 4,
@@ -200,7 +200,7 @@
         "辣椒切段可以释放更多辣味"
       ],
       "produces": "葱蒜辣椒碎",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bao-cai-chao-ji-dan-fen-si/step_4.jpg"
+      "image": "steps/other_bao-cai-chao-ji-dan-fen-si/step_4.jpg"
     },
     {
       "index": 5,
@@ -211,7 +211,7 @@
         "油温稍高时下蛋液，迅速划散保持嫩滑"
       ],
       "produces": "熟鸡蛋块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bao-cai-chao-ji-dan-fen-si/step_5.jpg"
+      "image": "steps/other_bao-cai-chao-ji-dan-fen-si/step_5.jpg"
     },
     {
       "index": 6,
@@ -222,7 +222,7 @@
         "注意火候，防止辣椒炒糊变苦"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bao-cai-chao-ji-dan-fen-si/step_6.jpg"
+      "image": "steps/other_bao-cai-chao-ji-dan-fen-si/step_6.jpg"
     },
     {
       "index": 7,
@@ -233,7 +233,7 @@
         "大火快炒保持包菜的脆感"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bao-cai-chao-ji-dan-fen-si/step_7.jpg"
+      "image": "steps/other_bao-cai-chao-ji-dan-fen-si/step_7.jpg"
     },
     {
       "index": 8,
@@ -244,7 +244,7 @@
         "粉丝入锅后可用筷子划散防止成团"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bao-cai-chao-ji-dan-fen-si/step_8.jpg"
+      "image": "steps/other_bao-cai-chao-ji-dan-fen-si/step_8.jpg"
     },
     {
       "index": 9,
@@ -255,7 +255,7 @@
         "老抽主要用于上色，可根据颜色深浅微调"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bao-cai-chao-ji-dan-fen-si/step_9.jpg"
+      "image": "steps/other_bao-cai-chao-ji-dan-fen-si/step_9.jpg"
     },
     {
       "index": 10,
@@ -266,7 +266,7 @@
         "让鸡蛋充分吸收调料的汤汁"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bao-cai-chao-ji-dan-fen-si/step_10.jpg"
+      "image": "steps/other_bao-cai-chao-ji-dan-fen-si/step_10.jpg"
     },
     {
       "index": 11,
@@ -277,7 +277,7 @@
         "趁热食用口感最佳"
       ],
       "produces": "包菜炒鸡蛋粉丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bao-cai-chao-ji-dan-fen-si/step_11.jpg"
+      "image": "steps/other_bao-cai-chao-ji-dan-fen-si/step_11.jpg"
     }
   ],
   "tips": [
@@ -286,8 +286,8 @@
     "全程建议大火快炒，避免包菜出水过多影响口感",
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_bao-cai-chao-ji-dan-fen-si.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_bao-cai-chao-ji-dan-fen-si_overview.jpg",
+  "cover_image": "ai-generated/other_bao-cai-chao-ji-dan-fen-si.jpg",
+  "overview_image": "overview/other_bao-cai-chao-ji-dan-fen-si_overview.jpg",
   "id": "other_bao-cai-chao-ji-dan-fen-si",
   "status": "published"
 }

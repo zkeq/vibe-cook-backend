@@ -130,7 +130,7 @@
         "蒜沫可以切得碎一些，更容易出味"
       ],
       "produces": "葱花、蒜沫",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_su-chao-dou-jiao/step_1.jpg"
+      "image": "steps/vegetable_dish_su-chao-dou-jiao/step_1.jpg"
     },
     {
       "index": 2,
@@ -141,7 +141,7 @@
         "提前调好酱汁可以避免炒菜时手忙脚乱"
       ],
       "produces": "酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_su-chao-dou-jiao/step_2.jpg"
+      "image": "steps/vegetable_dish_su-chao-dou-jiao/step_2.jpg"
     },
     {
       "index": 3,
@@ -152,7 +152,7 @@
         "怕辣的可以去掉辣椒籽"
       ],
       "produces": "小米椒圈",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_su-chao-dou-jiao/step_3.jpg"
+      "image": "steps/vegetable_dish_su-chao-dou-jiao/step_3.jpg"
     },
     {
       "index": 4,
@@ -164,7 +164,7 @@
         "斜切可以增加受热面积，更易入味"
       ],
       "produces": "豆角段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_su-chao-dou-jiao/step_4.jpg"
+      "image": "steps/vegetable_dish_su-chao-dou-jiao/step_4.jpg"
     },
     {
       "index": 5,
@@ -175,7 +175,7 @@
         "油温不宜过高，防止葱花烧焦"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_su-chao-dou-jiao/step_5.jpg"
+      "image": "steps/vegetable_dish_su-chao-dou-jiao/step_5.jpg"
     },
     {
       "index": 6,
@@ -186,7 +186,7 @@
         "让豆角均匀裹上油脂"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_su-chao-dou-jiao/step_6.jpg"
+      "image": "steps/vegetable_dish_su-chao-dou-jiao/step_6.jpg"
     },
     {
       "index": 7,
@@ -197,7 +197,7 @@
         "大火翻炒能激发出酱香味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_su-chao-dou-jiao/step_7.jpg"
+      "image": "steps/vegetable_dish_su-chao-dou-jiao/step_7.jpg"
     },
     {
       "index": 8,
@@ -208,7 +208,7 @@
         "水量大约没过豆角的一半即可"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_su-chao-dou-jiao/step_8.jpg"
+      "image": "steps/vegetable_dish_su-chao-dou-jiao/step_8.jpg"
     },
     {
       "index": 9,
@@ -219,7 +219,7 @@
         "焖制是为了确保豆角熟透，避免中毒"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_su-chao-dou-jiao/step_9.jpg"
+      "image": "steps/vegetable_dish_su-chao-dou-jiao/step_9.jpg"
     },
     {
       "index": 10,
@@ -230,15 +230,15 @@
         "最后加蒜沫是这道菜灵魂酱香的关键"
       ],
       "produces": "素炒豆角",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_su-chao-dou-jiao/step_10.jpg"
+      "image": "steps/vegetable_dish_su-chao-dou-jiao/step_10.jpg"
     }
   ],
   "tips": [
     "切豆角需要一定的刀工，不会的可以使用剪刀",
     "豆角必须彻底煮熟，否则可能引起食物中毒"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_su-chao-dou-jiao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_su-chao-dou-jiao_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_su-chao-dou-jiao.jpg",
+  "overview_image": "overview/vegetable_dish_su-chao-dou-jiao_overview.jpg",
   "id": "vegetable_dish_su-chao-dou-jiao",
   "status": "published"
 }

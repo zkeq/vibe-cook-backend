@@ -112,7 +112,7 @@
         "切段大小要均匀"
       ],
       "produces": "葱段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cong-shao-hai-shen/step_1.jpg"
+      "image": "steps/other_cong-shao-hai-shen/step_1.jpg"
     },
     {
       "index": 2,
@@ -123,7 +123,7 @@
         "海参内部要清理干净"
       ],
       "produces": "海参段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cong-shao-hai-shen/step_2.jpg"
+      "image": "steps/other_cong-shao-hai-shen/step_2.jpg"
     },
     {
       "index": 3,
@@ -134,7 +134,7 @@
         "搅拌至白糖基本溶解"
       ],
       "produces": "调味酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cong-shao-hai-shen/step_3.jpg"
+      "image": "steps/other_cong-shao-hai-shen/step_3.jpg"
     },
     {
       "index": 4,
@@ -145,7 +145,7 @@
         "淀粉和水的比例约为1:3"
       ],
       "produces": "水淀粉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cong-shao-hai-shen/step_4.jpg"
+      "image": "steps/other_cong-shao-hai-shen/step_4.jpg"
     },
     {
       "index": 5,
@@ -154,7 +154,7 @@
       "duration_sec": 20,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cong-shao-hai-shen/step_5.jpg"
+      "image": "steps/other_cong-shao-hai-shen/step_5.jpg"
     },
     {
       "index": 6,
@@ -166,7 +166,7 @@
         "全程小火慢煎"
       ],
       "produces": "葱油及煎好的葱段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cong-shao-hai-shen/step_6.jpg"
+      "image": "steps/other_cong-shao-hai-shen/step_6.jpg"
     },
     {
       "index": 7,
@@ -175,7 +175,7 @@
       "duration_sec": 30,
       "tips": [],
       "produces": "备用葱段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cong-shao-hai-shen/step_7.jpg"
+      "image": "steps/other_cong-shao-hai-shen/step_7.jpg"
     },
     {
       "index": 8,
@@ -186,7 +186,7 @@
         "料汁入锅后受热会变浓稠"
       ],
       "produces": "浓缩酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cong-shao-hai-shen/step_8.jpg"
+      "image": "steps/other_cong-shao-hai-shen/step_8.jpg"
     },
     {
       "index": 9,
@@ -197,7 +197,7 @@
         "让海参均匀裹上酱汁"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cong-shao-hai-shen/step_9.jpg"
+      "image": "steps/other_cong-shao-hai-shen/step_9.jpg"
     },
     {
       "index": 10,
@@ -208,7 +208,7 @@
         "焖煮期间可以观察水量"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cong-shao-hai-shen/step_10.jpg"
+      "image": "steps/other_cong-shao-hai-shen/step_10.jpg"
     },
     {
       "index": 11,
@@ -219,7 +219,7 @@
         "水淀粉使用前再次搅拌一下"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cong-shao-hai-shen/step_11.jpg"
+      "image": "steps/other_cong-shao-hai-shen/step_11.jpg"
     },
     {
       "index": 12,
@@ -230,14 +230,14 @@
         "汤汁浓亮即可出锅"
       ],
       "produces": "葱烧海参成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cong-shao-hai-shen/step_12.jpg"
+      "image": "steps/other_cong-shao-hai-shen/step_12.jpg"
     }
   ],
   "tips": [
     "操作时，需要注意观察锅中的水量，如快见底的时候就直接接入水淀粉即可。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_cong-shao-hai-shen.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_cong-shao-hai-shen_overview.jpg",
+  "cover_image": "ai-generated/other_cong-shao-hai-shen.jpg",
+  "overview_image": "overview/other_cong-shao-hai-shen_overview.jpg",
   "id": "other_cong-shao-hai-shen",
   "status": "published"
 }

@@ -101,7 +101,7 @@
         "红柚果肉要掰散"
       ],
       "produces": "蛋液果肉混合物",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-you-dan-gao/step_1.jpg"
+      "image": "steps/other_hong-you-dan-gao/step_1.jpg"
     },
     {
       "index": 2,
@@ -112,7 +112,7 @@
         "确保盘底和边缘都沾上油以免粘连"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-you-dan-gao/step_2.jpg"
+      "image": "steps/other_hong-you-dan-gao/step_2.jpg"
     },
     {
       "index": 3,
@@ -121,7 +121,7 @@
       "duration_sec": 60,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-you-dan-gao/step_3.jpg"
+      "image": "steps/other_hong-you-dan-gao/step_3.jpg"
     },
     {
       "index": 4,
@@ -132,7 +132,7 @@
         "糊状指没有面粉疙瘩且整体颜色均匀"
       ],
       "produces": "初步面糊",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-you-dan-gao/step_4.jpg"
+      "image": "steps/other_hong-you-dan-gao/step_4.jpg"
     },
     {
       "index": 5,
@@ -141,7 +141,7 @@
       "duration_sec": 60,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-you-dan-gao/step_5.jpg"
+      "image": "steps/other_hong-you-dan-gao/step_5.jpg"
     },
     {
       "index": 6,
@@ -152,7 +152,7 @@
         "分两次加入是为了更容易搅拌均匀"
       ],
       "produces": "最终面糊",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-you-dan-gao/step_6.jpg"
+      "image": "steps/other_hong-you-dan-gao/step_6.jpg"
     },
     {
       "index": 7,
@@ -161,7 +161,7 @@
       "duration_sec": 900,
       "tips": [],
       "produces": "半熟蛋糕",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-you-dan-gao/step_7.jpg"
+      "image": "steps/other_hong-you-dan-gao/step_7.jpg"
     },
     {
       "index": 8,
@@ -172,7 +172,7 @@
         "刚出锅的锡纸盘比较烫，请用夹子夹取"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-you-dan-gao/step_8.jpg"
+      "image": "steps/other_hong-you-dan-gao/step_8.jpg"
     },
     {
       "index": 9,
@@ -181,7 +181,7 @@
       "duration_sec": 480,
       "tips": [],
       "produces": "红柚蛋糕成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-you-dan-gao/step_9.jpg"
+      "image": "steps/other_hong-you-dan-gao/step_9.jpg"
     },
     {
       "index": 10,
@@ -190,7 +190,7 @@
       "duration_sec": 30,
       "tips": [],
       "produces": "热腾腾的红柚蛋糕",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hong-you-dan-gao/step_10.jpg"
+      "image": "steps/other_hong-you-dan-gao/step_10.jpg"
     }
   ],
   "tips": [
@@ -199,8 +199,8 @@
     "糊状指没有面粉疙瘩且整体颜色均匀",
     "刚出锅的锡纸盘比较烫，请用夹子夹取或使用湿抹布之类的隔热材料拿取"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_hong-you-dan-gao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_hong-you-dan-gao_overview.jpg",
+  "cover_image": "ai-generated/other_hong-you-dan-gao.jpg",
+  "overview_image": "overview/other_hong-you-dan-gao_overview.jpg",
   "id": "other_hong-you-dan-gao",
   "status": "published"
 }

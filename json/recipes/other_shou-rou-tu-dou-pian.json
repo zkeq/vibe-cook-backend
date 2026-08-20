@@ -120,7 +120,7 @@
         "切片厚度尽量均匀，方便后续受热一致"
       ],
       "produces": "土豆片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shou-rou-tu-dou-pian/step_1.jpg"
+      "image": "steps/other_shou-rou-tu-dou-pian/step_1.jpg"
     },
     {
       "index": 2,
@@ -131,7 +131,7 @@
         "蒜苗白和叶可以分开放，炒时先下白后下叶"
       ],
       "produces": "蒜苗段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shou-rou-tu-dou-pian/step_2.jpg"
+      "image": "steps/other_shou-rou-tu-dou-pian/step_2.jpg"
     },
     {
       "index": 3,
@@ -142,7 +142,7 @@
         "顺着肉的纤维切片，口感更嫩"
       ],
       "produces": "腌制好的肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shou-rou-tu-dou-pian/step_3.jpg"
+      "image": "steps/other_shou-rou-tu-dou-pian/step_3.jpg"
     },
     {
       "index": 4,
@@ -153,7 +153,7 @@
         "焯水可以缩短炒制时间，并去除多余淀粉"
       ],
       "produces": "半熟土豆片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shou-rou-tu-dou-pian/step_4.jpg"
+      "image": "steps/other_shou-rou-tu-dou-pian/step_4.jpg"
     },
     {
       "index": 5,
@@ -164,7 +164,7 @@
         "油温不宜过高，防止肉片入锅即焦"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shou-rou-tu-dou-pian/step_5.jpg"
+      "image": "steps/other_shou-rou-tu-dou-pian/step_5.jpg"
     },
     {
       "index": 6,
@@ -175,7 +175,7 @@
         "肉片变色即下蒜苗，保持肉质滑嫩"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shou-rou-tu-dou-pian/step_6.jpg"
+      "image": "steps/other_shou-rou-tu-dou-pian/step_6.jpg"
     },
     {
       "index": 7,
@@ -186,7 +186,7 @@
         "翻炒动作要快，确保调味均匀"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shou-rou-tu-dou-pian/step_7.jpg"
+      "image": "steps/other_shou-rou-tu-dou-pian/step_7.jpg"
     },
     {
       "index": 8,
@@ -197,15 +197,15 @@
         "观察土豆片颜色变得透亮即可出锅"
       ],
       "produces": "瘦肉土豆片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shou-rou-tu-dou-pian/step_8.jpg"
+      "image": "steps/other_shou-rou-tu-dou-pian/step_8.jpg"
     }
   ],
   "tips": [
     "土豆片焯水注意不宜太久，防止土豆片变软烂影响口感",
     "腌制瘦肉要搅拌均匀，确保每一片肉都裹上淀粉和调料"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_shou-rou-tu-dou-pian.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_shou-rou-tu-dou-pian_overview.jpg",
+  "cover_image": "ai-generated/other_shou-rou-tu-dou-pian.jpg",
+  "overview_image": "overview/other_shou-rou-tu-dou-pian_overview.jpg",
   "id": "other_shou-rou-tu-dou-pian",
   "status": "published"
 }

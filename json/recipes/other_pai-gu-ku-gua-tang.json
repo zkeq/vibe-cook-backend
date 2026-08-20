@@ -93,7 +93,7 @@
         "如没有剁排骨的工具，可以求助摊主"
       ],
       "produces": "排骨块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pai-gu-ku-gua-tang/step_1.jpg"
+      "image": "steps/other_pai-gu-ku-gua-tang/step_1.jpg"
     },
     {
       "index": 2,
@@ -104,7 +104,7 @@
         "冷水下锅能更好逼出血水去腥"
       ],
       "produces": "焯水后的排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pai-gu-ku-gua-tang/step_2.jpg"
+      "image": "steps/other_pai-gu-ku-gua-tang/step_2.jpg"
     },
     {
       "index": 3,
@@ -115,7 +115,7 @@
         "仔细去除白色的苦瓜瓤可以有效减轻苦味"
       ],
       "produces": "苦瓜条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pai-gu-ku-gua-tang/step_3.jpg"
+      "image": "steps/other_pai-gu-ku-gua-tang/step_3.jpg"
     },
     {
       "index": 4,
@@ -127,7 +127,7 @@
         "压力锅可大幅简化过程"
       ],
       "produces": "排骨苦瓜汤底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pai-gu-ku-gua-tang/step_4.jpg"
+      "image": "steps/other_pai-gu-ku-gua-tang/step_4.jpg"
     },
     {
       "index": 5,
@@ -138,7 +138,7 @@
         "最后放盐可以保持肉质鲜嫩"
       ],
       "produces": "成品排骨苦瓜汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pai-gu-ku-gua-tang/step_5.jpg"
+      "image": "steps/other_pai-gu-ku-gua-tang/step_5.jpg"
     }
   ],
   "tips": [
@@ -147,8 +147,8 @@
     "一份分量约够4人食用",
     "传统慢炖建议提前4小时准备"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_pai-gu-ku-gua-tang.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_pai-gu-ku-gua-tang_overview.jpg",
+  "cover_image": "ai-generated/other_pai-gu-ku-gua-tang.jpg",
+  "overview_image": "overview/other_pai-gu-ku-gua-tang_overview.jpg",
   "id": "other_pai-gu-ku-gua-tang",
   "status": "published"
 }

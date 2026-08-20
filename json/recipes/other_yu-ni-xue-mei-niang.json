@@ -140,7 +140,7 @@
         "切小块一点更容易煮熟"
       ],
       "produces": "熟芋头块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-ni-xue-mei-niang/step_1.jpg"
+      "image": "steps/other_yu-ni-xue-mei-niang/step_1.jpg"
     },
     {
       "index": 2,
@@ -151,7 +151,7 @@
         "如果没有料理机，可以用勺子压碎再过筛"
       ],
       "produces": "粗加工芋泥",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-ni-xue-mei-niang/step_2.jpg"
+      "image": "steps/other_yu-ni-xue-mei-niang/step_2.jpg"
     },
     {
       "index": 3,
@@ -162,7 +162,7 @@
         "紫薯粉主要起调色作用，使颜色更好看"
       ],
       "produces": "细腻紫泥芋泥",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-ni-xue-mei-niang/step_3.jpg"
+      "image": "steps/other_yu-ni-xue-mei-niang/step_3.jpg"
     },
     {
       "index": 4,
@@ -174,7 +174,7 @@
         "保鲜膜扎洞防止水汽滴入"
       ],
       "produces": "蒸熟的面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-ni-xue-mei-niang/step_4.jpg"
+      "image": "steps/other_yu-ni-xue-mei-niang/step_4.jpg"
     },
     {
       "index": 5,
@@ -185,7 +185,7 @@
         "必须用小火，防止炒焦"
       ],
       "produces": "熟糯米粉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-ni-xue-mei-niang/step_5.jpg"
+      "image": "steps/other_yu-ni-xue-mei-niang/step_5.jpg"
     },
     {
       "index": 6,
@@ -196,7 +196,7 @@
         "刚蒸好很烫，建议戴手套操作"
       ],
       "produces": "冷藏好的面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-ni-xue-mei-niang/step_6.jpg"
+      "image": "steps/other_yu-ni-xue-mei-niang/step_6.jpg"
     },
     {
       "index": 7,
@@ -207,7 +207,7 @@
         "奶油需冷藏状态下打发"
       ],
       "produces": "打发奶油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-ni-xue-mei-niang/step_7.jpg"
+      "image": "steps/other_yu-ni-xue-mei-niang/step_7.jpg"
     },
     {
       "index": 8,
@@ -218,7 +218,7 @@
         "可以减去顶部多余的皮，形状更美观"
       ],
       "produces": "雪媚娘成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-ni-xue-mei-niang/step_8.jpg"
+      "image": "steps/other_yu-ni-xue-mei-niang/step_8.jpg"
     },
     {
       "index": 9,
@@ -229,7 +229,7 @@
         "手粉不要撒太多，以免影响口感"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-ni-xue-mei-niang/step_9.jpg"
+      "image": "steps/other_yu-ni-xue-mei-niang/step_9.jpg"
     },
     {
       "index": 10,
@@ -240,7 +240,7 @@
         "动作尽量快，防止面皮变干"
       ],
       "produces": "全套雪媚娘",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yu-ni-xue-mei-niang/step_10.jpg"
+      "image": "steps/other_yu-ni-xue-mei-niang/step_10.jpg"
     }
   ],
   "tips": [
@@ -248,8 +248,8 @@
     "制作完即可食用，不用再加热",
     "冷藏后口感更佳"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_yu-ni-xue-mei-niang.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_yu-ni-xue-mei-niang_overview.jpg",
+  "cover_image": "ai-generated/other_yu-ni-xue-mei-niang.jpg",
+  "overview_image": "overview/other_yu-ni-xue-mei-niang_overview.jpg",
   "id": "other_yu-ni-xue-mei-niang",
   "status": "published"
 }

@@ -100,7 +100,7 @@
         "莴笋叶尽量剁得碎一些，口感会更细腻"
       ],
       "produces": "莴笋叶浆汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wo-sun-ye-jian-bing/step_1.jpg"
+      "image": "steps/other_wo-sun-ye-jian-bing/step_1.jpg"
     },
     {
       "index": 2,
@@ -111,7 +111,7 @@
         "油温微热时即可倒入浆汁，火候不宜过大"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wo-sun-ye-jian-bing/step_2.jpg"
+      "image": "steps/other_wo-sun-ye-jian-bing/step_2.jpg"
     },
     {
       "index": 3,
@@ -122,15 +122,15 @@
         "翻面时要小心，待底部定型后再翻动以免破碎"
       ],
       "produces": "莴笋叶煎饼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wo-sun-ye-jian-bing/step_3.jpg"
+      "image": "steps/other_wo-sun-ye-jian-bing/step_3.jpg"
     }
   ],
   "tips": [
     "选择莴笋叶是某省市买到的蔬菜包基本都包含莴笋，可以换成韭菜等",
     "莴笋叶直接焯水后凉拌有苦味，所以选择做成煎饼的配菜"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_wo-sun-ye-jian-bing.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_wo-sun-ye-jian-bing_overview.jpg",
+  "cover_image": "ai-generated/other_wo-sun-ye-jian-bing.jpg",
+  "overview_image": "overview/other_wo-sun-ye-jian-bing_overview.jpg",
   "id": "other_wo-sun-ye-jian-bing",
   "status": "published"
 }

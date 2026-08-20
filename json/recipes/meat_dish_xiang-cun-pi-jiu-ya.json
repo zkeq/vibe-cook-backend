@@ -182,7 +182,7 @@
         "焯水可以有效去除鸭肉的血水和腥味"
       ],
       "produces": "初步去腥的鸭肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiang-cun-pi-jiu-ya/step_1.jpg"
+      "image": "steps/meat_dish_xiang-cun-pi-jiu-ya/step_1.jpg"
     },
     {
       "index": 2,
@@ -193,7 +193,7 @@
         "洗净浮沫能让汤汁更清爽"
       ],
       "produces": "洁净的待炒鸭肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiang-cun-pi-jiu-ya/step_2.jpg"
+      "image": "steps/meat_dish_xiang-cun-pi-jiu-ya/step_2.jpg"
     },
     {
       "index": 3,
@@ -204,7 +204,7 @@
         "注意油温不要过高，避免花椒炸糊"
       ],
       "produces": "花椒油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiang-cun-pi-jiu-ya/step_3.jpg"
+      "image": "steps/meat_dish_xiang-cun-pi-jiu-ya/step_3.jpg"
     },
     {
       "index": 4,
@@ -215,7 +215,7 @@
         "分批次加入香料和料头可以更好地激发层次感"
       ],
       "produces": "炒香的鸭肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiang-cun-pi-jiu-ya/step_4.jpg"
+      "image": "steps/meat_dish_xiang-cun-pi-jiu-ya/step_4.jpg"
     },
     {
       "index": 5,
@@ -226,7 +226,7 @@
         "啤酒能软化肉质并去腥增香"
       ],
       "produces": "炖煮中的鸭肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiang-cun-pi-jiu-ya/step_5.jpg"
+      "image": "steps/meat_dish_xiang-cun-pi-jiu-ya/step_5.jpg"
     },
     {
       "index": 6,
@@ -237,7 +237,7 @@
         "辣椒段不需要煮太久，保持一定脆度更好"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiang-cun-pi-jiu-ya/step_6.jpg"
+      "image": "steps/meat_dish_xiang-cun-pi-jiu-ya/step_6.jpg"
     },
     {
       "index": 7,
@@ -248,7 +248,7 @@
         "最后加入青蒜和大葱能增加新鲜的香气"
       ],
       "produces": "乡村啤酒鸭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_xiang-cun-pi-jiu-ya/step_7.jpg"
+      "image": "steps/meat_dish_xiang-cun-pi-jiu-ya/step_7.jpg"
     }
   ],
   "tips": [
@@ -256,8 +256,8 @@
     "不吃辣的可以不用放小米辣和干辣椒。",
     "草果一定要拍散去籽，否则味道会发苦。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_xiang-cun-pi-jiu-ya.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_xiang-cun-pi-jiu-ya_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_xiang-cun-pi-jiu-ya.jpg",
+  "overview_image": "overview/meat_dish_xiang-cun-pi-jiu-ya_overview.jpg",
   "id": "meat_dish_xiang-cun-pi-jiu-ya",
   "status": "published"
 }

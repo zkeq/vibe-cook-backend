@@ -67,7 +67,7 @@
         "柠檬可以切片处理以便出味"
       ],
       "produces": "柠檬块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ning-meng-shui-de-zuo-fa/step_1.jpg"
+      "image": "steps/other_ning-meng-shui-de-zuo-fa/step_1.jpg"
     },
     {
       "index": 2,
@@ -78,7 +78,7 @@
         "捶打是为了让柠檬皮油和果汁充分释放"
       ],
       "produces": "柠檬原汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ning-meng-shui-de-zuo-fa/step_2.jpg"
+      "image": "steps/other_ning-meng-shui-de-zuo-fa/step_2.jpg"
     },
     {
       "index": 3,
@@ -89,7 +89,7 @@
         "可根据个人口味增减甜度"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ning-meng-shui-de-zuo-fa/step_3.jpg"
+      "image": "steps/other_ning-meng-shui-de-zuo-fa/step_3.jpg"
     },
     {
       "index": 4,
@@ -100,7 +100,7 @@
         "总分量约控制在500毫升左右"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ning-meng-shui-de-zuo-fa/step_4.jpg"
+      "image": "steps/other_ning-meng-shui-de-zuo-fa/step_4.jpg"
     },
     {
       "index": 5,
@@ -111,7 +111,7 @@
         "摇晃可以让果蜜与水充分融合"
       ],
       "produces": "柠檬水初稿",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ning-meng-shui-de-zuo-fa/step_5.jpg"
+      "image": "steps/other_ning-meng-shui-de-zuo-fa/step_5.jpg"
     },
     {
       "index": 6,
@@ -122,15 +122,15 @@
         "冰镇后口感更佳"
       ],
       "produces": "冰爽柠檬水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ning-meng-shui-de-zuo-fa/step_6.jpg"
+      "image": "steps/other_ning-meng-shui-de-zuo-fa/step_6.jpg"
     }
   ],
   "tips": [
     "参考资料：[柠檬水教程](https://v.douyin.com/TVNTcXDi46I)",
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ning-meng-shui-de-zuo-fa.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ning-meng-shui-de-zuo-fa_overview.jpg",
+  "cover_image": "ai-generated/other_ning-meng-shui-de-zuo-fa.jpg",
+  "overview_image": "overview/other_ning-meng-shui-de-zuo-fa_overview.jpg",
   "id": "other_ning-meng-shui-de-zuo-fa",
   "status": "published"
 }

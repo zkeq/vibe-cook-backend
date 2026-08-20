@@ -93,7 +93,7 @@
         "提前预热可以保证蛋糕糊入炉时的温度稳定性"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mo-yu-dan-gao/step_1.jpg"
+      "image": "steps/other_mo-yu-dan-gao/step_1.jpg"
     },
     {
       "index": 2,
@@ -106,7 +106,7 @@
         "盛放蛋清的容器体积应足够大，蛋清液面不要超过容器1/8"
       ],
       "produces": "分离好的蛋清和蛋黄",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mo-yu-dan-gao/step_2.jpg"
+      "image": "steps/other_mo-yu-dan-gao/step_2.jpg"
     },
     {
       "index": 3,
@@ -118,7 +118,7 @@
         "打蛋器应贴近底部，防止底层未打发"
       ],
       "produces": "打发的蛋白霜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mo-yu-dan-gao/step_3.jpg"
+      "image": "steps/other_mo-yu-dan-gao/step_3.jpg"
     },
     {
       "index": 4,
@@ -130,7 +130,7 @@
         "翻拌手法：从中心插入底部向8点方向刮起并转动盆子，类似炒菜翻炒"
       ],
       "produces": "均匀的蛋糕糊",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mo-yu-dan-gao/step_4.jpg"
+      "image": "steps/other_mo-yu-dan-gao/step_4.jpg"
     },
     {
       "index": 5,
@@ -142,7 +142,7 @@
         "取出时务必戴好隔热手套"
       ],
       "produces": "烤熟的蛋糕",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mo-yu-dan-gao/step_5.jpg"
+      "image": "steps/other_mo-yu-dan-gao/step_5.jpg"
     },
     {
       "index": 6,
@@ -154,7 +154,7 @@
         "倒扣操作注意防烫"
       ],
       "produces": "成品魔芋蛋糕",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_mo-yu-dan-gao/step_6.jpg"
+      "image": "steps/other_mo-yu-dan-gao/step_6.jpg"
     }
   ],
   "tips": [
@@ -162,8 +162,8 @@
     "打发蛋白及翻拌流程可大幅借鉴戚风蛋糕的制作经验",
     "魔芋粉吸水性强，翻拌速度需适中，避免消泡"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_mo-yu-dan-gao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_mo-yu-dan-gao_overview.jpg",
+  "cover_image": "ai-generated/other_mo-yu-dan-gao.jpg",
+  "overview_image": "overview/other_mo-yu-dan-gao_overview.jpg",
   "id": "other_mo-yu-dan-gao",
   "status": "published"
 }

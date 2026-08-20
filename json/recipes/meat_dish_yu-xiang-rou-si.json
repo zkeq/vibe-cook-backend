@@ -156,7 +156,7 @@
         "充分搅拌使淀粉完全溶解"
       ],
       "produces": "腌料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yu-xiang-rou-si/step_1.jpg"
+      "image": "steps/meat_dish_yu-xiang-rou-si/step_1.jpg"
     },
     {
       "index": 2,
@@ -167,7 +167,7 @@
         "糖和盐需要搅拌至基本溶解"
       ],
       "produces": "香汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yu-xiang-rou-si/step_2.jpg"
+      "image": "steps/meat_dish_yu-xiang-rou-si/step_2.jpg"
     },
     {
       "index": 3,
@@ -178,7 +178,7 @@
         "抓匀能让肉丝更好地吸收水分和料汁"
       ],
       "produces": "腌好的肉丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yu-xiang-rou-si/step_3.jpg"
+      "image": "steps/meat_dish_yu-xiang-rou-si/step_3.jpg"
     },
     {
       "index": 4,
@@ -189,7 +189,7 @@
         "泡发时间不计入总烹饪时长"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yu-xiang-rou-si/step_4.jpg"
+      "image": "steps/meat_dish_yu-xiang-rou-si/step_4.jpg"
     },
     {
       "index": 5,
@@ -200,7 +200,7 @@
         "胡萝卜焯水可以缩短后期炒制时间"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yu-xiang-rou-si/step_5.jpg"
+      "image": "steps/meat_dish_yu-xiang-rou-si/step_5.jpg"
     },
     {
       "index": 6,
@@ -211,7 +211,7 @@
         "姜蒜沫切细一点香味更容易释放"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yu-xiang-rou-si/step_6.jpg"
+      "image": "steps/meat_dish_yu-xiang-rou-si/step_6.jpg"
     },
     {
       "index": 7,
@@ -222,7 +222,7 @@
         "滑肉动作要快，变白即出锅以防肉质变老"
       ],
       "produces": "炒过的肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yu-xiang-rou-si/step_7.jpg"
+      "image": "steps/meat_dish_yu-xiang-rou-si/step_7.jpg"
     },
     {
       "index": 8,
@@ -233,7 +233,7 @@
         "豆瓣酱建议提前剁碎"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yu-xiang-rou-si/step_8.jpg"
+      "image": "steps/meat_dish_yu-xiang-rou-si/step_8.jpg"
     },
     {
       "index": 9,
@@ -244,7 +244,7 @@
         "保持大火翻炒"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yu-xiang-rou-si/step_9.jpg"
+      "image": "steps/meat_dish_yu-xiang-rou-si/step_9.jpg"
     },
     {
       "index": 10,
@@ -255,7 +255,7 @@
         "此步仅为混合均匀，时间不宜长"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yu-xiang-rou-si/step_10.jpg"
+      "image": "steps/meat_dish_yu-xiang-rou-si/step_10.jpg"
     },
     {
       "index": 11,
@@ -266,7 +266,7 @@
         "倒入香汁前再次搅拌，防止淀粉沉淀"
       ],
       "produces": "鱼香肉丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yu-xiang-rou-si/step_11.jpg"
+      "image": "steps/meat_dish_yu-xiang-rou-si/step_11.jpg"
     }
   ],
   "tips": [
@@ -274,8 +274,8 @@
     "鱼香汁的调配是这道菜的灵魂",
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_yu-xiang-rou-si.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_yu-xiang-rou-si_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_yu-xiang-rou-si.jpg",
+  "overview_image": "overview/meat_dish_yu-xiang-rou-si_overview.jpg",
   "id": "meat_dish_yu-xiang-rou-si",
   "status": "published"
 }

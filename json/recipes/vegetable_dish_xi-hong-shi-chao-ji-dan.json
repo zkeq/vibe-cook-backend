@@ -100,7 +100,7 @@
       "duration_sec": 30,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_1.jpg"
+      "image": "steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_1.jpg"
     },
     {
       "index": 2,
@@ -111,7 +111,7 @@
         "去皮后口感更软糯"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_2.jpg"
+      "image": "steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_2.jpg"
     },
     {
       "index": 3,
@@ -120,7 +120,7 @@
       "duration_sec": 60,
       "tips": [],
       "produces": "西红柿块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_3.jpg"
+      "image": "steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_3.jpg"
     },
     {
       "index": 4,
@@ -131,7 +131,7 @@
         "可以考虑向鸡蛋中加入 1ml 醋，这可以去除腥味，令鸡蛋更蓬松"
       ],
       "produces": "鸡蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_4.jpg"
+      "image": "steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_4.jpg"
     },
     {
       "index": 5,
@@ -140,7 +140,7 @@
       "duration_sec": 30,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_5.jpg"
+      "image": "steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_5.jpg"
     },
     {
       "index": 6,
@@ -149,7 +149,7 @@
       "duration_sec": 90,
       "tips": [],
       "produces": "半熟鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_6.jpg"
+      "image": "steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_6.jpg"
     },
     {
       "index": 7,
@@ -160,7 +160,7 @@
         "注意：不要洗锅，锅底留有的蛋香和余油会让西红柿更香"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_7.jpg"
+      "image": "steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_7.jpg"
     },
     {
       "index": 8,
@@ -169,7 +169,7 @@
       "duration_sec": 120,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_8.jpg"
+      "image": "steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_8.jpg"
     },
     {
       "index": 9,
@@ -181,7 +181,7 @@
         "可以额外加入一些其它熟肉和材料"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_9.jpg"
+      "image": "steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_9.jpg"
     },
     {
       "index": 10,
@@ -190,7 +190,7 @@
       "duration_sec": 30,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_10.jpg"
+      "image": "steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_10.jpg"
     },
     {
       "index": 11,
@@ -199,15 +199,15 @@
       "duration_sec": 20,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_11.jpg"
+      "image": "steps/vegetable_dish_xi-hong-shi-chao-ji-dan/step_11.jpg"
     }
   ],
   "tips": [
     "快速做法：直接在有半熟鸡蛋的锅中加入西红柿块，与鸡蛋一起翻炒直至西红柿软烂，再进行调味",
     "口味偏好：如果不喜欢放盐，可以尝试将盐改为加入两滴生抽提鲜"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_xi-hong-shi-chao-ji-dan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_xi-hong-shi-chao-ji-dan_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_xi-hong-shi-chao-ji-dan.jpg",
+  "overview_image": "overview/vegetable_dish_xi-hong-shi-chao-ji-dan_overview.jpg",
   "id": "vegetable_dish_xi-hong-shi-chao-ji-dan",
   "status": "published"
 }

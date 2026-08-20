@@ -111,7 +111,7 @@
         "力度要均匀，防止拉断"
       ],
       "produces": "拉好的面条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shan-xi-you-po-mian/step_1.jpg"
+      "image": "steps/other_shan-xi-you-po-mian/step_1.jpg"
     },
     {
       "index": 2,
@@ -122,7 +122,7 @@
         "蒜末尽量切细，更易激发香味"
       ],
       "produces": "葱花蒜末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shan-xi-you-po-mian/step_2.jpg"
+      "image": "steps/other_shan-xi-you-po-mian/step_2.jpg"
     },
     {
       "index": 3,
@@ -133,7 +133,7 @@
         "豆芽需沥干水分"
       ],
       "produces": "净菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shan-xi-you-po-mian/step_3.jpg"
+      "image": "steps/other_shan-xi-you-po-mian/step_3.jpg"
     },
     {
       "index": 4,
@@ -144,7 +144,7 @@
         "水中加盐可增加面条韧性"
       ],
       "produces": "滚水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shan-xi-you-po-mian/step_4.jpg"
+      "image": "steps/other_shan-xi-you-po-mian/step_4.jpg"
     },
     {
       "index": 5,
@@ -155,7 +155,7 @@
         "不要煮得过烂，保持筋道感"
       ],
       "produces": "半熟面条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shan-xi-you-po-mian/step_5.jpg"
+      "image": "steps/other_shan-xi-you-po-mian/step_5.jpg"
     },
     {
       "index": 6,
@@ -166,7 +166,7 @@
         "蔬菜断生即可捞出"
       ],
       "produces": "熟蔬菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shan-xi-you-po-mian/step_6.jpg"
+      "image": "steps/other_shan-xi-you-po-mian/step_6.jpg"
     },
     {
       "index": 7,
@@ -178,7 +178,7 @@
         "喜欢芝麻可以此时加入"
       ],
       "produces": "待泼油的面碗",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shan-xi-you-po-mian/step_7.jpg"
+      "image": "steps/other_shan-xi-you-po-mian/step_7.jpg"
     },
     {
       "index": 8,
@@ -189,7 +189,7 @@
         "小火慢炸，防止香料糊掉"
       ],
       "produces": "热料油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shan-xi-you-po-mian/step_8.jpg"
+      "image": "steps/other_shan-xi-you-po-mian/step_8.jpg"
     },
     {
       "index": 9,
@@ -201,7 +201,7 @@
         "注意避开油溅"
       ],
       "produces": "泼好油的面",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shan-xi-you-po-mian/step_9.jpg"
+      "image": "steps/other_shan-xi-you-po-mian/step_9.jpg"
     },
     {
       "index": 10,
@@ -212,7 +212,7 @@
         "趁热搅拌味道最佳"
       ],
       "produces": "成品油泼面",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shan-xi-you-po-mian/step_10.jpg"
+      "image": "steps/other_shan-xi-you-po-mian/step_10.jpg"
     }
   ],
   "tips": [
@@ -221,8 +221,8 @@
     "喜欢吃肉的可以加入肉末做成肉臊子油泼面。",
     "传统陕西油泼面讲究“一青二白三红四绿”，即面条、蒜末、辣椒、葱花的颜色搭配。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_shan-xi-you-po-mian.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_shan-xi-you-po-mian_overview.jpg",
+  "cover_image": "ai-generated/other_shan-xi-you-po-mian.jpg",
+  "overview_image": "overview/other_shan-xi-you-po-mian_overview.jpg",
   "id": "other_shan-xi-you-po-mian",
   "status": "published"
 }

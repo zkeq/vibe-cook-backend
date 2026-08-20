@@ -75,7 +75,7 @@
         "建议使用电磁炉或精准控温设备维持水温稳定"
       ],
       "produces": "温控水浴系统",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wan-mei-shui-zhu-dan/step_1.jpg"
+      "image": "steps/breakfast_wan-mei-shui-zhu-dan/step_1.jpg"
     },
     {
       "index": 2,
@@ -86,7 +86,7 @@
         "动作需轻柔，避免蛋壳撞击锅底破裂"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wan-mei-shui-zhu-dan/step_2.jpg"
+      "image": "steps/breakfast_wan-mei-shui-zhu-dan/step_2.jpg"
     },
     {
       "index": 3,
@@ -97,7 +97,7 @@
         "转移过程应尽可能迅速，减少在空气中的热量损失"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wan-mei-shui-zhu-dan/step_3.jpg"
+      "image": "steps/breakfast_wan-mei-shui-zhu-dan/step_3.jpg"
     },
     {
       "index": 4,
@@ -108,7 +108,7 @@
         "此步骤是实现蛋白分层凝固的关键，需严格遵守时间"
       ],
       "produces": "初步熟成的鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wan-mei-shui-zhu-dan/step_4.jpg"
+      "image": "steps/breakfast_wan-mei-shui-zhu-dan/step_4.jpg"
     },
     {
       "index": 5,
@@ -119,7 +119,7 @@
         "确保最后一步在低温锅中平稳过渡"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wan-mei-shui-zhu-dan/step_5.jpg"
+      "image": "steps/breakfast_wan-mei-shui-zhu-dan/step_5.jpg"
     },
     {
       "index": 6,
@@ -130,7 +130,7 @@
         "冰浴能让蛋白迅速收缩，更有利于剥壳"
       ],
       "produces": "冷却的熟蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wan-mei-shui-zhu-dan/step_6.jpg"
+      "image": "steps/breakfast_wan-mei-shui-zhu-dan/step_6.jpg"
     },
     {
       "index": 7,
@@ -141,7 +141,7 @@
         "从气室处开始剥离可以最大程度保护蛋白表面的光滑"
       ],
       "produces": "完美水煮蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wan-mei-shui-zhu-dan/step_7.jpg"
+      "image": "steps/breakfast_wan-mei-shui-zhu-dan/step_7.jpg"
     }
   ],
   "tips": [
@@ -150,8 +150,8 @@
     "营养优势：该科学煮法下的多酚含量比传统煮法高 23%",
     "制作难度较高，需全程关注定时器并精准执行转移操作"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_wan-mei-shui-zhu-dan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_wan-mei-shui-zhu-dan_overview.jpg",
+  "cover_image": "ai-generated/breakfast_wan-mei-shui-zhu-dan.jpg",
+  "overview_image": "overview/breakfast_wan-mei-shui-zhu-dan_overview.jpg",
   "id": "breakfast_wan-mei-shui-zhu-dan",
   "status": "published"
 }

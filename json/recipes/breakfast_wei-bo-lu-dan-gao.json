@@ -104,7 +104,7 @@
         "如果加入牛奶等液体，需确保搅拌后仍为稠酸奶状"
       ],
       "produces": "蛋糕面糊",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wei-bo-lu-dan-gao/step_1.jpg"
+      "image": "steps/breakfast_wei-bo-lu-dan-gao/step_1.jpg"
     },
     {
       "index": 2,
@@ -115,7 +115,7 @@
         "这是制作美味的关键步骤"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wei-bo-lu-dan-gao/step_2.jpg"
+      "image": "steps/breakfast_wei-bo-lu-dan-gao/step_2.jpg"
     },
     {
       "index": 3,
@@ -126,7 +126,7 @@
         "不同微波炉功率不同，可根据成型情况微调时间"
       ],
       "produces": "蓬松的蛋糕",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wei-bo-lu-dan-gao/step_3.jpg"
+      "image": "steps/breakfast_wei-bo-lu-dan-gao/step_3.jpg"
     },
     {
       "index": 4,
@@ -137,7 +137,7 @@
         "容器非常烫手，取出时请务必戴隔热手套或垫抹布"
       ],
       "produces": "成品蛋糕",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wei-bo-lu-dan-gao/step_4.jpg"
+      "image": "steps/breakfast_wei-bo-lu-dan-gao/step_4.jpg"
     }
   ],
   "tips": [
@@ -146,8 +146,8 @@
     "若加入液体（如牛奶）请务必确保搅和成稠酸奶状，建议少量多次加入以防止水分过量而导致成品湿瘪",
     "食材不要超过容器的 3/4，防止加热时溢出"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_wei-bo-lu-dan-gao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_wei-bo-lu-dan-gao_overview.jpg",
+  "cover_image": "ai-generated/breakfast_wei-bo-lu-dan-gao.jpg",
+  "overview_image": "overview/breakfast_wei-bo-lu-dan-gao_overview.jpg",
   "id": "breakfast_wei-bo-lu-dan-gao",
   "status": "published"
 }

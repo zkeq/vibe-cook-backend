@@ -164,7 +164,7 @@
         "蔬菜尽量切成大小一致的小丁，便于熟化和融合"
       ],
       "produces": "蔬菜碎和蒜片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_fan-qie-hong-jiang/step_1.jpg"
+      "image": "steps/meat_dish_fan-qie-hong-jiang/step_1.jpg"
     },
     {
       "index": 2,
@@ -175,7 +175,7 @@
         "大火翻炒可以炒出蔬菜的甜味"
       ],
       "produces": "半熟蔬菜碎",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_fan-qie-hong-jiang/step_2.jpg"
+      "image": "steps/meat_dish_fan-qie-hong-jiang/step_2.jpg"
     },
     {
       "index": 3,
@@ -186,7 +186,7 @@
         "牛肉要充分炒干水分，炒至微微焦脆才有颗粒感"
       ],
       "produces": "香脆牛肉粒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_fan-qie-hong-jiang/step_3.jpg"
+      "image": "steps/meat_dish_fan-qie-hong-jiang/step_3.jpg"
     },
     {
       "index": 4,
@@ -197,7 +197,7 @@
         "翻炒均匀让番茄酱受热激发酸甜味"
       ],
       "produces": "浓缩肉酱基底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_fan-qie-hong-jiang/step_4.jpg"
+      "image": "steps/meat_dish_fan-qie-hong-jiang/step_4.jpg"
     },
     {
       "index": 5,
@@ -208,7 +208,7 @@
         "分次加牛奶可以使酱汁乳化更好，口感更丝滑"
       ],
       "produces": "番茄红酱",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_fan-qie-hong-jiang/step_5.jpg"
+      "image": "steps/meat_dish_fan-qie-hong-jiang/step_5.jpg"
     }
   ],
   "tips": [
@@ -216,8 +216,8 @@
     "煮酱料期间请搅动，以免粘锅。如果酱料变粘稠就可以出锅啦！",
     "可根据个人口味，将碎牛肉替换成一半碎猪肉一半碎牛肉，牛奶替换成鸡汤或饮用水"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_fan-qie-hong-jiang.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_fan-qie-hong-jiang_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_fan-qie-hong-jiang.jpg",
+  "overview_image": "overview/meat_dish_fan-qie-hong-jiang_overview.jpg",
   "id": "meat_dish_fan-qie-hong-jiang",
   "status": "published"
 }

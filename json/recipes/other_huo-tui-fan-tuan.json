@@ -125,7 +125,7 @@
         "米水比例可根据个人喜好微调"
       ],
       "produces": "熟米饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_huo-tui-fan-tuan/step_1.jpg"
+      "image": "steps/other_huo-tui-fan-tuan/step_1.jpg"
     },
     {
       "index": 2,
@@ -136,7 +136,7 @@
         "捞出后建议沥干水分，避免米饭过湿"
       ],
       "produces": "熟玉米青豆",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_huo-tui-fan-tuan/step_2.jpg"
+      "image": "steps/other_huo-tui-fan-tuan/step_2.jpg"
     },
     {
       "index": 3,
@@ -147,7 +147,7 @@
         "切块大小均匀有助于受热一致"
       ],
       "produces": "火腿丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_huo-tui-fan-tuan/step_3.jpg"
+      "image": "steps/other_huo-tui-fan-tuan/step_3.jpg"
     },
     {
       "index": 4,
@@ -158,7 +158,7 @@
         "中小火煎至表面微焦香味更浓"
       ],
       "produces": "熟火腿丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_huo-tui-fan-tuan/step_4.jpg"
+      "image": "steps/other_huo-tui-fan-tuan/step_4.jpg"
     },
     {
       "index": 5,
@@ -169,7 +169,7 @@
         "戴上一次性手套抓匀更方便"
       ],
       "produces": "饭团混合料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_huo-tui-fan-tuan/step_5.jpg"
+      "image": "steps/other_huo-tui-fan-tuan/step_5.jpg"
     },
     {
       "index": 6,
@@ -180,7 +180,7 @@
         "可以用模具压实或手捏成球状"
       ],
       "produces": "火腿饭团成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_huo-tui-fan-tuan/step_6.jpg"
+      "image": "steps/other_huo-tui-fan-tuan/step_6.jpg"
     }
   ],
   "tips": [
@@ -188,8 +188,8 @@
     "可以尝试混合不同种类的沙拉酱以丰富口味。",
     "参考资料：小红书 - 干饭选手又困了"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_huo-tui-fan-tuan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_huo-tui-fan-tuan_overview.jpg",
+  "cover_image": "ai-generated/other_huo-tui-fan-tuan.jpg",
+  "overview_image": "overview/other_huo-tui-fan-tuan_overview.jpg",
   "id": "other_huo-tui-fan-tuan",
   "status": "published"
 }

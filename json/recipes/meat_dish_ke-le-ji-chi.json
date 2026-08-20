@@ -126,7 +126,7 @@
         "这一步针对冰鲜鸡翅，刚买来的新鲜鸡翅可跳过此步直接改刀腌制。"
       ],
       "produces": "初步去腥的鸡翅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ke-le-ji-chi/step_1.jpg"
+      "image": "steps/meat_dish_ke-le-ji-chi/step_1.jpg"
     },
     {
       "index": 2,
@@ -137,7 +137,7 @@
         "生抽能完全包裹鸡翅表面入味即可。"
       ],
       "produces": "腌制入味的鸡翅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ke-le-ji-chi/step_2.jpg"
+      "image": "steps/meat_dish_ke-le-ji-chi/step_2.jpg"
     },
     {
       "index": 3,
@@ -149,7 +149,7 @@
         "翻炒目的是防止鸡翅和姜片粘黏。"
       ],
       "produces": "金黄的鸡翅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ke-le-ji-chi/step_3.jpg"
+      "image": "steps/meat_dish_ke-le-ji-chi/step_3.jpg"
     },
     {
       "index": 4,
@@ -160,7 +160,7 @@
         "务必撇清浮沫以保证口感清爽。"
       ],
       "produces": "煮沸的鸡翅汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ke-le-ji-chi/step_4.jpg"
+      "image": "steps/meat_dish_ke-le-ji-chi/step_4.jpg"
     },
     {
       "index": 5,
@@ -171,7 +171,7 @@
         "老抽主要起上色作用，不宜过多。"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ke-le-ji-chi/step_5.jpg"
+      "image": "steps/meat_dish_ke-le-ji-chi/step_5.jpg"
     },
     {
       "index": 6,
@@ -182,7 +182,7 @@
         "及时捞出葱姜可以防止汤汁味道过杂。"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ke-le-ji-chi/step_6.jpg"
+      "image": "steps/meat_dish_ke-le-ji-chi/step_6.jpg"
     },
     {
       "index": 7,
@@ -193,7 +193,7 @@
         "最后收汁时勿开过大火，防止味道偏苦。"
       ],
       "produces": "可乐鸡翅成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ke-le-ji-chi/step_7.jpg"
+      "image": "steps/meat_dish_ke-le-ji-chi/step_7.jpg"
     }
   ],
   "tips": [
@@ -201,8 +201,8 @@
     "最后收汁时勿开过大火，防止味道偏苦。",
     "本菜品偏甜。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_ke-le-ji-chi.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_ke-le-ji-chi_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_ke-le-ji-chi.jpg",
+  "overview_image": "overview/meat_dish_ke-le-ji-chi_overview.jpg",
   "id": "meat_dish_ke-le-ji-chi",
   "status": "published"
 }

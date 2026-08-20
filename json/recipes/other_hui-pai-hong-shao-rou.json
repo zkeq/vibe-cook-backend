@@ -166,7 +166,7 @@
         "切块大小均匀有助于受热一致"
       ],
       "produces": "五花肉块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hui-pai-hong-shao-rou/step_1.jpg"
+      "image": "steps/other_hui-pai-hong-shao-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -178,7 +178,7 @@
         "煎炸至表面微焦效果更好"
       ],
       "produces": "半熟五花肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hui-pai-hong-shao-rou/step_2.jpg"
+      "image": "steps/other_hui-pai-hong-shao-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -189,7 +189,7 @@
         "小火慢炒，避免糖液发苦"
       ],
       "produces": "糖色",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hui-pai-hong-shao-rou/step_3.jpg"
+      "image": "steps/other_hui-pai-hong-shao-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -200,7 +200,7 @@
         "让肉块均匀裹上糖色"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hui-pai-hong-shao-rou/step_4.jpg"
+      "image": "steps/other_hui-pai-hong-shao-rou/step_4.jpg"
     },
     {
       "index": 5,
@@ -211,7 +211,7 @@
         "葱是整根放入，不需要切碎"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hui-pai-hong-shao-rou/step_5.jpg"
+      "image": "steps/other_hui-pai-hong-shao-rou/step_5.jpg"
     },
     {
       "index": 6,
@@ -222,7 +222,7 @@
         "中火慢炖让肉质入味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hui-pai-hong-shao-rou/step_6.jpg"
+      "image": "steps/other_hui-pai-hong-shao-rou/step_6.jpg"
     },
     {
       "index": 7,
@@ -233,7 +233,7 @@
         "收汁时不断翻动防止糊锅"
       ],
       "produces": "徽派红烧肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hui-pai-hong-shao-rou/step_7.jpg"
+      "image": "steps/other_hui-pai-hong-shao-rou/step_7.jpg"
     }
   ],
   "tips": [
@@ -241,8 +241,8 @@
     "步骤二加盐的目的是锁住五花肉的油脂",
     "制作过程中不建议对肉块做水煮处理，直接煎炸肉质更 Q 弹"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_hui-pai-hong-shao-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_hui-pai-hong-shao-rou_overview.jpg",
+  "cover_image": "ai-generated/other_hui-pai-hong-shao-rou.jpg",
+  "overview_image": "overview/other_hui-pai-hong-shao-rou_overview.jpg",
   "id": "other_hui-pai-hong-shao-rou",
   "status": "published"
 }

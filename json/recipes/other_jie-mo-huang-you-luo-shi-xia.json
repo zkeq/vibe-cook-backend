@@ -147,7 +147,7 @@
         "注意不要被尖刺扎到手"
       ],
       "produces": "处理好的罗氏虾",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jie-mo-huang-you-luo-shi-xia/step_1.jpg"
+      "image": "steps/other_jie-mo-huang-you-luo-shi-xia/step_1.jpg"
     },
     {
       "index": 2,
@@ -158,7 +158,7 @@
         "芥末要充分搅散，避免成团"
       ],
       "produces": "芥末酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jie-mo-huang-you-luo-shi-xia/step_2.jpg"
+      "image": "steps/other_jie-mo-huang-you-luo-shi-xia/step_2.jpg"
     },
     {
       "index": 3,
@@ -167,7 +167,7 @@
       "duration_sec": 120,
       "tips": [],
       "produces": "香菜段和蒜蓉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jie-mo-huang-you-luo-shi-xia/step_3.jpg"
+      "image": "steps/other_jie-mo-huang-you-luo-shi-xia/step_3.jpg"
     },
     {
       "index": 4,
@@ -178,7 +178,7 @@
         "虾一定要沥干水分，防止溅油"
       ],
       "produces": "金黄的罗氏虾",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jie-mo-huang-you-luo-shi-xia/step_4.jpg"
+      "image": "steps/other_jie-mo-huang-you-luo-shi-xia/step_4.jpg"
     },
     {
       "index": 5,
@@ -189,7 +189,7 @@
         "蒜蓉切记要等虾煎好后捞出再下，防止煎炒过久变黑发苦"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jie-mo-huang-you-luo-shi-xia/step_5.jpg"
+      "image": "steps/other_jie-mo-huang-you-luo-shi-xia/step_5.jpg"
     },
     {
       "index": 6,
@@ -200,7 +200,7 @@
         "如果芥末放多了，煮久一会儿，芥末味会散去"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jie-mo-huang-you-luo-shi-xia/step_6.jpg"
+      "image": "steps/other_jie-mo-huang-you-luo-shi-xia/step_6.jpg"
     },
     {
       "index": 7,
@@ -211,7 +211,7 @@
         "香菜不宜久炒，保持翠绿即可"
       ],
       "produces": "芥末黄油罗氏虾",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jie-mo-huang-you-luo-shi-xia/step_7.jpg"
+      "image": "steps/other_jie-mo-huang-you-luo-shi-xia/step_7.jpg"
     }
   ],
   "tips": [
@@ -219,8 +219,8 @@
     "蒜蓉切记要等虾煎好后捞出再下，防止煎炒过久变黑，发苦。",
     "如果不太能接受芥末就放少点，能接受就放多点，如果放多了，煮久一会儿，芥末味也会散去。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_jie-mo-huang-you-luo-shi-xia.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_jie-mo-huang-you-luo-shi-xia_overview.jpg",
+  "cover_image": "ai-generated/other_jie-mo-huang-you-luo-shi-xia.jpg",
+  "overview_image": "overview/other_jie-mo-huang-you-luo-shi-xia_overview.jpg",
   "id": "other_jie-mo-huang-you-luo-shi-xia",
   "status": "published"
 }

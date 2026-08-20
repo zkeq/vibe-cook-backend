@@ -89,7 +89,7 @@
         "牛奶不需要预热，后面加入的热燕麦会使其变温"
       ],
       "produces": "预装牛奶的杯子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_niu-nai-yan-mai/step_1.jpg"
+      "image": "steps/breakfast_niu-nai-yan-mai/step_1.jpg"
     },
     {
       "index": 2,
@@ -101,7 +101,7 @@
         "也可以使用微波炉法：将快煮燕麦与牛奶混合，中火微波4分钟"
       ],
       "produces": "煮熟的燕麦",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_niu-nai-yan-mai/step_2.jpg"
+      "image": "steps/breakfast_niu-nai-yan-mai/step_2.jpg"
     },
     {
       "index": 3,
@@ -112,7 +112,7 @@
         "尽量不要将煮燕麦的水倒入牛奶，以免冲淡口感"
       ],
       "produces": "牛奶燕麦粥",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_niu-nai-yan-mai/step_3.jpg"
+      "image": "steps/breakfast_niu-nai-yan-mai/step_3.jpg"
     },
     {
       "index": 4,
@@ -123,7 +123,7 @@
         "煎蛋熟度可根据个人喜好调整"
       ],
       "produces": "煎蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_niu-nai-yan-mai/step_4.jpg"
+      "image": "steps/breakfast_niu-nai-yan-mai/step_4.jpg"
     },
     {
       "index": 5,
@@ -134,7 +134,7 @@
         "建议在2分钟内食用，口感最佳"
       ],
       "produces": "完整早餐",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_niu-nai-yan-mai/step_5.jpg"
+      "image": "steps/breakfast_niu-nai-yan-mai/step_5.jpg"
     }
   ],
   "tips": [
@@ -143,8 +143,8 @@
     "不建议使用玻璃杯在微波炉中高功率烹饪，以防炸裂",
     "搭配水果、蔬菜或苏打饼干食用，营养更全面"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_niu-nai-yan-mai.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_niu-nai-yan-mai_overview.jpg",
+  "cover_image": "ai-generated/breakfast_niu-nai-yan-mai.jpg",
+  "overview_image": "overview/breakfast_niu-nai-yan-mai_overview.jpg",
   "id": "breakfast_niu-nai-yan-mai",
   "status": "published"
 }

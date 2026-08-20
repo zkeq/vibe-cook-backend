@@ -193,7 +193,7 @@
         "馅料应呈松散但可捏合的状态"
       ],
       "produces": "利提馅料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_li-ti-qiao-ka--litti-chokha/step_1.jpg"
+      "image": "steps/staple_li-ti-qiao-ka--litti-chokha/step_1.jpg"
     },
     {
       "index": 2,
@@ -204,7 +204,7 @@
         "水要少量多次加入，防止面团过稀"
       ],
       "produces": "全麦面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_li-ti-qiao-ka--litti-chokha/step_2.jpg"
+      "image": "steps/staple_li-ti-qiao-ka--litti-chokha/step_2.jpg"
     },
     {
       "index": 3,
@@ -215,7 +215,7 @@
         "静置有助于面筋松弛，方便后续包馅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_li-ti-qiao-ka--litti-chokha/step_3.jpg"
+      "image": "steps/staple_li-ti-qiao-ka--litti-chokha/step_3.jpg"
     },
     {
       "index": 4,
@@ -226,7 +226,7 @@
         "封口处一定要捏紧，防止烤制时漏馅"
       ],
       "produces": "生利提面球",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_li-ti-qiao-ka--litti-chokha/step_4.jpg"
+      "image": "steps/staple_li-ti-qiao-ka--litti-chokha/step_4.jpg"
     },
     {
       "index": 5,
@@ -238,7 +238,7 @@
         "涂抹酥油能使口感更香酥"
       ],
       "produces": "熟利提",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_li-ti-qiao-ka--litti-chokha/step_5.jpg"
+      "image": "steps/staple_li-ti-qiao-ka--litti-chokha/step_5.jpg"
     },
     {
       "index": 6,
@@ -249,7 +249,7 @@
         "明火烤制能带来独特的烟熏味"
       ],
       "produces": "熟蔬菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_li-ti-qiao-ka--litti-chokha/step_6.jpg"
+      "image": "steps/staple_li-ti-qiao-ka--litti-chokha/step_6.jpg"
     },
     {
       "index": 7,
@@ -260,7 +260,7 @@
         "蔬菜泥不需要太细腻，保留一点块状口感更好"
       ],
       "produces": "巧卡蔬菜泥",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_li-ti-qiao-ka--litti-chokha/step_7.jpg"
+      "image": "steps/staple_li-ti-qiao-ka--litti-chokha/step_7.jpg"
     },
     {
       "index": 8,
@@ -271,7 +271,7 @@
         "这是印度传统的吃法"
       ],
       "produces": "成品利提巧卡",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_li-ti-qiao-ka--litti-chokha/step_8.jpg"
+      "image": "steps/staple_li-ti-qiao-ka--litti-chokha/step_8.jpg"
     }
   ],
   "tips": [
@@ -280,8 +280,8 @@
     "传统做法使用牛粪饼火烤制，家庭制作推荐明火烧烤架以模拟烟熏味。",
     "这是一道具有数千年历史的古老食物，曾是古代士兵的行军粮。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_li-ti-qiao-ka--litti-chokha.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_li-ti-qiao-ka--litti-chokha_overview.jpg",
+  "cover_image": "ai-generated/staple_li-ti-qiao-ka--litti-chokha.jpg",
+  "overview_image": "overview/staple_li-ti-qiao-ka--litti-chokha_overview.jpg",
   "id": "staple_li-ti-qiao-ka--litti-chokha",
   "status": "published"
 }

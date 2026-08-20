@@ -104,7 +104,7 @@
         "不加水裹粉是为了炸出来的口感更酥脆"
       ],
       "produces": "裹粉土豆块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-si-tu-dou/step_1.jpg"
+      "image": "steps/other_ba-si-tu-dou/step_1.jpg"
     },
     {
       "index": 2,
@@ -116,7 +116,7 @@
         "轻轻翻动避免淀粉层脱落"
       ],
       "produces": "炸熟的土豆块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-si-tu-dou/step_2.jpg"
+      "image": "steps/other_ba-si-tu-dou/step_2.jpg"
     },
     {
       "index": 3,
@@ -127,7 +127,7 @@
         "尽量沥干余油"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-si-tu-dou/step_3.jpg"
+      "image": "steps/other_ba-si-tu-dou/step_3.jpg"
     },
     {
       "index": 4,
@@ -139,7 +139,7 @@
         "颜色变为琥珀色或浅褐色即可，避免过头变苦"
       ],
       "produces": "浓稠糖浆",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-si-tu-dou/step_4.jpg"
+      "image": "steps/other_ba-si-tu-dou/step_4.jpg"
     },
     {
       "index": 5,
@@ -150,7 +150,7 @@
         "动作要迅速，让每块土豆均匀裹上糖浆"
       ],
       "produces": "挂浆土豆",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-si-tu-dou/step_5.jpg"
+      "image": "steps/other_ba-si-tu-dou/step_5.jpg"
     },
     {
       "index": 6,
@@ -161,7 +161,7 @@
         "装盘的盘子可以预先抹一层薄油，防止粘连"
       ],
       "produces": "拔丝土豆成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-si-tu-dou/step_6.jpg"
+      "image": "steps/other_ba-si-tu-dou/step_6.jpg"
     }
   ],
   "tips": [
@@ -169,8 +169,8 @@
     "对于使用剩余的食用油，可以考虑重新收集到油壶",
     "趁热食用，配上一小碗凉水蘸着吃，糖丝更脆"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ba-si-tu-dou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ba-si-tu-dou_overview.jpg",
+  "cover_image": "ai-generated/other_ba-si-tu-dou.jpg",
+  "overview_image": "overview/other_ba-si-tu-dou_overview.jpg",
   "id": "other_ba-si-tu-dou",
   "status": "published"
 }

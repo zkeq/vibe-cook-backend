@@ -79,7 +79,7 @@
         "搅拌动作要轻，防止产生过多空气"
       ],
       "produces": "混合蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wei-bo-lu-zheng-dan/step_1.jpg"
+      "image": "steps/breakfast_wei-bo-lu-zheng-dan/step_1.jpg"
     },
     {
       "index": 2,
@@ -91,7 +91,7 @@
         "戳破气泡能保证表面平滑"
       ],
       "produces": "细腻蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wei-bo-lu-zheng-dan/step_2.jpg"
+      "image": "steps/breakfast_wei-bo-lu-zheng-dan/step_2.jpg"
     },
     {
       "index": 3,
@@ -102,7 +102,7 @@
         "扎孔能防止内部压力过大导致表面爆开"
       ],
       "produces": "待加热蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wei-bo-lu-zheng-dan/step_3.jpg"
+      "image": "steps/breakfast_wei-bo-lu-zheng-dan/step_3.jpg"
     },
     {
       "index": 4,
@@ -114,7 +114,7 @@
         "加热至表面刚凝固即可"
       ],
       "produces": "凝固的蒸蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wei-bo-lu-zheng-dan/step_4.jpg"
+      "image": "steps/breakfast_wei-bo-lu-zheng-dan/step_4.jpg"
     },
     {
       "index": 5,
@@ -125,7 +125,7 @@
         "利用余温让中心完全熟化，避免过度加热导致变老"
       ],
       "produces": "完全熟化的蒸蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wei-bo-lu-zheng-dan/step_5.jpg"
+      "image": "steps/breakfast_wei-bo-lu-zheng-dan/step_5.jpg"
     },
     {
       "index": 6,
@@ -136,7 +136,7 @@
         "葱花可根据个人口味增减"
       ],
       "produces": "微波炉蒸蛋成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_wei-bo-lu-zheng-dan/step_6.jpg"
+      "image": "steps/breakfast_wei-bo-lu-zheng-dan/step_6.jpg"
     }
   ],
   "tips": [
@@ -146,8 +146,8 @@
     "过筛可显著提升细腻度。",
     "若表面鼓泡或出水，说明加热过头，下次缩短时间即可。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_wei-bo-lu-zheng-dan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_wei-bo-lu-zheng-dan_overview.jpg",
+  "cover_image": "ai-generated/breakfast_wei-bo-lu-zheng-dan.jpg",
+  "overview_image": "overview/breakfast_wei-bo-lu-zheng-dan_overview.jpg",
   "id": "breakfast_wei-bo-lu-zheng-dan",
   "status": "published"
 }

@@ -276,7 +276,7 @@
         "背部开刀便于入味和定型"
       ],
       "produces": "洁净的草鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chuan-wei-kao-yu/step_1.jpg"
+      "image": "steps/other_chuan-wei-kao-yu/step_1.jpg"
     },
     {
       "index": 2,
@@ -287,7 +287,7 @@
         "腌制时间一定要够，否则鱼肉内部无味"
       ],
       "produces": "腌制好的鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chuan-wei-kao-yu/step_2.jpg"
+      "image": "steps/other_chuan-wei-kao-yu/step_2.jpg"
     },
     {
       "index": 3,
@@ -296,7 +296,7 @@
       "duration_sec": 180,
       "tips": [],
       "produces": "基础香料碗",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chuan-wei-kao-yu/step_3.jpg"
+      "image": "steps/other_chuan-wei-kao-yu/step_3.jpg"
     },
     {
       "index": 4,
@@ -305,7 +305,7 @@
       "duration_sec": 60,
       "tips": [],
       "produces": "辣椒碗",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chuan-wei-kao-yu/step_4.jpg"
+      "image": "steps/other_chuan-wei-kao-yu/step_4.jpg"
     },
     {
       "index": 5,
@@ -314,7 +314,7 @@
       "duration_sec": 120,
       "tips": [],
       "produces": "切好的配菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chuan-wei-kao-yu/step_5.jpg"
+      "image": "steps/other_chuan-wei-kao-yu/step_5.jpg"
     },
     {
       "index": 6,
@@ -325,7 +325,7 @@
         "焯水可以去除千张的豆腥味"
       ],
       "produces": "熟处理的配菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chuan-wei-kao-yu/step_6.jpg"
+      "image": "steps/other_chuan-wei-kao-yu/step_6.jpg"
     },
     {
       "index": 7,
@@ -337,7 +337,7 @@
         "撒盐可以防止煎鱼时破皮"
       ],
       "produces": "金黄烤鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chuan-wei-kao-yu/step_7.jpg"
+      "image": "steps/other_chuan-wei-kao-yu/step_7.jpg"
     },
     {
       "index": 8,
@@ -348,7 +348,7 @@
         "火不要太大，避免香料炒糊"
       ],
       "produces": "香料油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chuan-wei-kao-yu/step_8.jpg"
+      "image": "steps/other_chuan-wei-kao-yu/step_8.jpg"
     },
     {
       "index": 9,
@@ -359,7 +359,7 @@
         "水面高度需与之后加入的食材齐平"
       ],
       "produces": "红油汤底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chuan-wei-kao-yu/step_9.jpg"
+      "image": "steps/other_chuan-wei-kao-yu/step_9.jpg"
     },
     {
       "index": 10,
@@ -370,7 +370,7 @@
         "配菜不需要在锅里煮熟，后续还会加热"
       ],
       "produces": "半成品烤鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chuan-wei-kao-yu/step_10.jpg"
+      "image": "steps/other_chuan-wei-kao-yu/step_10.jpg"
     },
     {
       "index": 11,
@@ -381,7 +381,7 @@
         "油温要足够高才能激发出辣椒的香味"
       ],
       "produces": "成品烤鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chuan-wei-kao-yu/step_11.jpg"
+      "image": "steps/other_chuan-wei-kao-yu/step_11.jpg"
     },
     {
       "index": 12,
@@ -392,7 +392,7 @@
         "边吃边煮风味更佳"
       ],
       "produces": "美味烤鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chuan-wei-kao-yu/step_12.jpg"
+      "image": "steps/other_chuan-wei-kao-yu/step_12.jpg"
     }
   ],
   "tips": [
@@ -400,8 +400,8 @@
     "如果没有烤箱，用平底锅煎鱼时一定要注意控温，保持鱼皮完整。",
     "配菜可以根据喜好更换成土豆片、藕片等，但难熟的菜建议先焯水。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_chuan-wei-kao-yu.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_chuan-wei-kao-yu_overview.jpg",
+  "cover_image": "ai-generated/other_chuan-wei-kao-yu.jpg",
+  "overview_image": "overview/other_chuan-wei-kao-yu_overview.jpg",
   "id": "other_chuan-wei-kao-yu",
   "status": "published"
 }

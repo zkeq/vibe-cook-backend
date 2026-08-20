@@ -101,7 +101,7 @@
         "蛋黄磨得越细，成品口感越细腻"
       ],
       "produces": "液态黄油及蛋黄碎",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ma-ge-li-te-bing-gan/step_1.jpg"
+      "image": "steps/other_ma-ge-li-te-bing-gan/step_1.jpg"
     },
     {
       "index": 2,
@@ -112,7 +112,7 @@
         "确保糖和盐基本溶解"
       ],
       "produces": "黄油蛋黄浆",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ma-ge-li-te-bing-gan/step_2.jpg"
+      "image": "steps/other_ma-ge-li-te-bing-gan/step_2.jpg"
     },
     {
       "index": 3,
@@ -123,7 +123,7 @@
         "揉匀即可，不要过度揉捏以免面粉起筋影响酥松感"
       ],
       "produces": "玛格丽特面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ma-ge-li-te-bing-gan/step_3.jpg"
+      "image": "steps/other_ma-ge-li-te-bing-gan/step_3.jpg"
     },
     {
       "index": 4,
@@ -134,7 +134,7 @@
         "尽量保证每个小球大小一致"
       ],
       "produces": "圆球胚子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ma-ge-li-te-bing-gan/step_4.jpg"
+      "image": "steps/other_ma-ge-li-te-bing-gan/step_4.jpg"
     },
     {
       "index": 5,
@@ -145,7 +145,7 @@
         "这是玛格丽特饼干标志性的外观"
       ],
       "produces": "饼干胚",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ma-ge-li-te-bing-gan/step_5.jpg"
+      "image": "steps/other_ma-ge-li-te-bing-gan/step_5.jpg"
     },
     {
       "index": 6,
@@ -156,7 +156,7 @@
         "注意观察上色，边缘微黄即可"
       ],
       "produces": "熟饼干",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ma-ge-li-te-bing-gan/step_6.jpg"
+      "image": "steps/other_ma-ge-li-te-bing-gan/step_6.jpg"
     },
     {
       "index": 7,
@@ -167,7 +167,7 @@
         "完全冷却后口感会更酥脆"
       ],
       "produces": "玛格丽特饼干成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ma-ge-li-te-bing-gan/step_7.jpg"
+      "image": "steps/other_ma-ge-li-te-bing-gan/step_7.jpg"
     }
   ],
   "tips": [
@@ -176,8 +176,8 @@
     "介于材料获取难度选择了白砂糖，如果条件允许可以换成糖粉 30 克。",
     "如果没有烤箱可使用微波炉（高火 2-3 分钟）或空气炸锅（150℃ 20 分钟）。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ma-ge-li-te-bing-gan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ma-ge-li-te-bing-gan_overview.jpg",
+  "cover_image": "ai-generated/other_ma-ge-li-te-bing-gan.jpg",
+  "overview_image": "overview/other_ma-ge-li-te-bing-gan_overview.jpg",
   "id": "other_ma-ge-li-te-bing-gan",
   "status": "published"
 }

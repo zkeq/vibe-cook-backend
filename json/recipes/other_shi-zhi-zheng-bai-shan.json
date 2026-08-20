@@ -139,7 +139,7 @@
         "盐和生粉搓洗可以有效去腥并增加嫩滑口感"
       ],
       "produces": "洁净的白鱔段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shi-zhi-zheng-bai-shan/step_1.jpg"
+      "image": "steps/other_shi-zhi-zheng-bai-shan/step_1.jpg"
     },
     {
       "index": 2,
@@ -150,7 +150,7 @@
         "若喜欢更浓郁的豉汁，可多加0.5汤匙豆豉"
       ],
       "produces": "调味豉汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shi-zhi-zheng-bai-shan/step_2.jpg"
+      "image": "steps/other_shi-zhi-zheng-bai-shan/step_2.jpg"
     },
     {
       "index": 3,
@@ -161,7 +161,7 @@
         "不重叠是为了受热均匀"
       ],
       "produces": "待蒸鱼盘",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shi-zhi-zheng-bai-shan/step_3.jpg"
+      "image": "steps/other_shi-zhi-zheng-bai-shan/step_3.jpg"
     },
     {
       "index": 4,
@@ -173,7 +173,7 @@
         "视白鱔段大小调整时间，避免过老"
       ],
       "produces": "蒸熟的白鱔",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shi-zhi-zheng-bai-shan/step_4.jpg"
+      "image": "steps/other_shi-zhi-zheng-bai-shan/step_4.jpg"
     },
     {
       "index": 5,
@@ -184,7 +184,7 @@
         "热麻油可以进一步提升酱汁香气"
       ],
       "produces": "豉汁蒸白鱔成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shi-zhi-zheng-bai-shan/step_5.jpg"
+      "image": "steps/other_shi-zhi-zheng-bai-shan/step_5.jpg"
     }
   ],
   "tips": [
@@ -194,8 +194,8 @@
     "可加入辣椒或XO酱增加辣味层次。",
     "腌制时加入米酒可使口感更软嫩。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_shi-zhi-zheng-bai-shan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_shi-zhi-zheng-bai-shan_overview.jpg",
+  "cover_image": "ai-generated/other_shi-zhi-zheng-bai-shan.jpg",
+  "overview_image": "overview/other_shi-zhi-zheng-bai-shan_overview.jpg",
   "id": "other_shi-zhi-zheng-bai-shan",
   "status": "published"
 }

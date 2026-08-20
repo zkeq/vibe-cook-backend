@@ -91,7 +91,7 @@
         "金枪鱼块搅得越碎，口感越绵密"
       ],
       "produces": "金枪鱼酱",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_jin-qiang-yu-jiang-san-ming-zhi/step_1.jpg"
+      "image": "steps/breakfast_jin-qiang-yu-jiang-san-ming-zhi/step_1.jpg"
     },
     {
       "index": 2,
@@ -102,7 +102,7 @@
         "确保吐司放置平整"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_jin-qiang-yu-jiang-san-ming-zhi/step_2.jpg"
+      "image": "steps/breakfast_jin-qiang-yu-jiang-san-ming-zhi/step_2.jpg"
     },
     {
       "index": 3,
@@ -113,7 +113,7 @@
         "不要涂得太靠边缘，防止加热时溢出"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_jin-qiang-yu-jiang-san-ming-zhi/step_3.jpg"
+      "image": "steps/breakfast_jin-qiang-yu-jiang-san-ming-zhi/step_3.jpg"
     },
     {
       "index": 4,
@@ -124,7 +124,7 @@
         "注意在按压操作之前不要将轻食机电源接通，以免引发安全问题"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_jin-qiang-yu-jiang-san-ming-zhi/step_4.jpg"
+      "image": "steps/breakfast_jin-qiang-yu-jiang-san-ming-zhi/step_4.jpg"
     },
     {
       "index": 5,
@@ -135,7 +135,7 @@
         "取出时注意防烫"
       ],
       "produces": "金枪鱼酱三明治",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_jin-qiang-yu-jiang-san-ming-zhi/step_5.jpg"
+      "image": "steps/breakfast_jin-qiang-yu-jiang-san-ming-zhi/step_5.jpg"
     }
   ],
   "tips": [
@@ -143,8 +143,8 @@
     "金枪鱼酱建议冷藏时间不超过一周，且需要使用保鲜膜盖住",
     "注意在按压操作之前不要将轻食机电源接通，以免引发安全问题"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_jin-qiang-yu-jiang-san-ming-zhi.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_jin-qiang-yu-jiang-san-ming-zhi_overview.jpg",
+  "cover_image": "ai-generated/breakfast_jin-qiang-yu-jiang-san-ming-zhi.jpg",
+  "overview_image": "overview/breakfast_jin-qiang-yu-jiang-san-ming-zhi_overview.jpg",
   "id": "breakfast_jin-qiang-yu-jiang-san-ming-zhi",
   "status": "published"
 }

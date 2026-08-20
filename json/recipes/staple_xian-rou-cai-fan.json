@@ -132,7 +132,7 @@
         "冷水下锅是去涩的关键"
       ],
       "produces": "熟冬笋片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_xian-rou-cai-fan/step_1.jpg"
+      "image": "steps/staple_xian-rou-cai-fan/step_1.jpg"
     },
     {
       "index": 2,
@@ -143,7 +143,7 @@
         "大小一致方便受热均匀"
       ],
       "produces": "咸肉丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_xian-rou-cai-fan/step_2.jpg"
+      "image": "steps/staple_xian-rou-cai-fan/step_2.jpg"
     },
     {
       "index": 3,
@@ -154,7 +154,7 @@
         "冷锅下油可以防止粘锅"
       ],
       "produces": "煸炒好的肉丁冬笋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_xian-rou-cai-fan/step_3.jpg"
+      "image": "steps/staple_xian-rou-cai-fan/step_3.jpg"
     },
     {
       "index": 4,
@@ -165,7 +165,7 @@
         "菜梗和菜叶必须分开放，因为成熟度不同"
       ],
       "produces": "切好的青菜碎",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_xian-rou-cai-fan/step_4.jpg"
+      "image": "steps/staple_xian-rou-cai-fan/step_4.jpg"
     },
     {
       "index": 5,
@@ -176,7 +176,7 @@
         "不要炒太久，保持脆感"
       ],
       "produces": "炒菜梗",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_xian-rou-cai-fan/step_5.jpg"
+      "image": "steps/staple_xian-rou-cai-fan/step_5.jpg"
     },
     {
       "index": 6,
@@ -187,7 +187,7 @@
         "注意根据口感喜好微调水量"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_xian-rou-cai-fan/step_6.jpg"
+      "image": "steps/staple_xian-rou-cai-fan/step_6.jpg"
     },
     {
       "index": 7,
@@ -198,7 +198,7 @@
         "煮饭时千万不要搅匀"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_xian-rou-cai-fan/step_7.jpg"
+      "image": "steps/staple_xian-rou-cai-fan/step_7.jpg"
     },
     {
       "index": 8,
@@ -209,7 +209,7 @@
         "分次下菜叶的小技巧能保持菜叶清翠"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_xian-rou-cai-fan/step_8.jpg"
+      "image": "steps/staple_xian-rou-cai-fan/step_8.jpg"
     },
     {
       "index": 9,
@@ -220,7 +220,7 @@
         "最后的猪油是点睛之笔"
       ],
       "produces": "咸肉菜饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_xian-rou-cai-fan/step_9.jpg"
+      "image": "steps/staple_xian-rou-cai-fan/step_9.jpg"
     }
   ],
   "tips": [
@@ -228,8 +228,8 @@
     "尽量不要买“家乡鲜肉”，可以预期会很咸。如果不是淡咸肉可以混入新鲜五花肉丁，或减少咸肉的用量，或将瘦肉部分切下泡入 5% 糖水 20 分钟。",
     "参考资料：咸肉菜饭 - 维基百科"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_xian-rou-cai-fan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_xian-rou-cai-fan_overview.jpg",
+  "cover_image": "ai-generated/staple_xian-rou-cai-fan.jpg",
+  "overview_image": "overview/staple_xian-rou-cai-fan_overview.jpg",
   "id": "staple_xian-rou-cai-fan",
   "status": "published"
 }

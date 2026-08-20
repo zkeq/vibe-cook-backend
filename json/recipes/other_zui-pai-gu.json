@@ -128,7 +128,7 @@
         "地瓜粉可以有效吸附排骨表面的血污和杂质"
       ],
       "produces": "干净的排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zui-pai-gu/step_1.jpg"
+      "image": "steps/other_zui-pai-gu/step_1.jpg"
     },
     {
       "index": 2,
@@ -139,7 +139,7 @@
         "确保每一块排骨都均匀裹上地瓜粉和蛋液"
       ],
       "produces": "挂糊的排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zui-pai-gu/step_2.jpg"
+      "image": "steps/other_zui-pai-gu/step_2.jpg"
     },
     {
       "index": 3,
@@ -150,7 +150,7 @@
         "一个个下锅是为了防止排骨在炸的过程中粘连成团"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zui-pai-gu/step_3.jpg"
+      "image": "steps/other_zui-pai-gu/step_3.jpg"
     },
     {
       "index": 4,
@@ -161,7 +161,7 @@
         "频繁翻动可以让排骨受热更均匀，防止局部炸糊"
       ],
       "produces": "初步炸好的金黄排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zui-pai-gu/step_4.jpg"
+      "image": "steps/other_zui-pai-gu/step_4.jpg"
     },
     {
       "index": 5,
@@ -172,7 +172,7 @@
         "复炸是排骨口感酥脆的关键步骤"
       ],
       "produces": "焦黄酥脆的排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zui-pai-gu/step_5.jpg"
+      "image": "steps/other_zui-pai-gu/step_5.jpg"
     },
     {
       "index": 6,
@@ -183,7 +183,7 @@
         "热油可以瞬间激发蒜末、葱花和鱼露的香味"
       ],
       "produces": "调味汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zui-pai-gu/step_6.jpg"
+      "image": "steps/other_zui-pai-gu/step_6.jpg"
     },
     {
       "index": 7,
@@ -194,15 +194,15 @@
         "趁热搅拌能让排骨表面迅速吸收酸甜酱汁"
       ],
       "produces": "成品醉排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zui-pai-gu/step_7.jpg"
+      "image": "steps/other_zui-pai-gu/step_7.jpg"
     }
   ],
   "tips": [
     "鱼露，又称鱼酱油，是一种广东、福建等地常见的调味品，效果类似于生抽但更鲜香",
     "如果没有鱼露，可以用老抽代替，但排骨颜色会偏黑，正常成色应该是金黄色"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_zui-pai-gu.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_zui-pai-gu_overview.jpg",
+  "cover_image": "ai-generated/other_zui-pai-gu.jpg",
+  "overview_image": "overview/other_zui-pai-gu_overview.jpg",
   "id": "other_zui-pai-gu",
   "status": "published"
 }

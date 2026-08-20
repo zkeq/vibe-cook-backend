@@ -150,7 +150,7 @@
         "等待腌制10分钟确保入味"
       ],
       "produces": "腌制好的牛肉末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ao-men-shi-ban-mian-zhi-niu-rou-fan/step_1.jpg"
+      "image": "steps/other_ao-men-shi-ban-mian-zhi-niu-rou-fan/step_1.jpg"
     },
     {
       "index": 2,
@@ -161,7 +161,7 @@
         "切丁大小尽量均匀"
       ],
       "produces": "洋葱丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ao-men-shi-ban-mian-zhi-niu-rou-fan/step_2.jpg"
+      "image": "steps/other_ao-men-shi-ban-mian-zhi-niu-rou-fan/step_2.jpg"
     },
     {
       "index": 3,
@@ -172,7 +172,7 @@
         "淀粉容易沉底，使用前需再次搅拌"
       ],
       "produces": "混合料汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ao-men-shi-ban-mian-zhi-niu-rou-fan/step_3.jpg"
+      "image": "steps/other_ao-men-shi-ban-mian-zhi-niu-rou-fan/step_3.jpg"
     },
     {
       "index": 4,
@@ -183,7 +183,7 @@
         "保持蛋黄半熟是口感的关键"
       ],
       "produces": "半熟蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ao-men-shi-ban-mian-zhi-niu-rou-fan/step_4.jpg"
+      "image": "steps/other_ao-men-shi-ban-mian-zhi-niu-rou-fan/step_4.jpg"
     },
     {
       "index": 5,
@@ -194,7 +194,7 @@
         "小火避免黄油和洋葱焦化"
       ],
       "produces": "炒香的洋葱",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ao-men-shi-ban-mian-zhi-niu-rou-fan/step_5.jpg"
+      "image": "steps/other_ao-men-shi-ban-mian-zhi-niu-rou-fan/step_5.jpg"
     },
     {
       "index": 6,
@@ -205,7 +205,7 @@
         "快速翻炒散开牛肉末"
       ],
       "produces": "肉末洋葱混合物",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ao-men-shi-ban-mian-zhi-niu-rou-fan/step_6.jpg"
+      "image": "steps/other_ao-men-shi-ban-mian-zhi-niu-rou-fan/step_6.jpg"
     },
     {
       "index": 7,
@@ -216,7 +216,7 @@
         "观察浓稠度，不要收得太干"
       ],
       "produces": "免治牛肉酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ao-men-shi-ban-mian-zhi-niu-rou-fan/step_7.jpg"
+      "image": "steps/other_ao-men-shi-ban-mian-zhi-niu-rou-fan/step_7.jpg"
     },
     {
       "index": 8,
@@ -227,7 +227,7 @@
         "趁热食用口感最佳"
       ],
       "produces": "成品饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ao-men-shi-ban-mian-zhi-niu-rou-fan/step_8.jpg"
+      "image": "steps/other_ao-men-shi-ban-mian-zhi-niu-rou-fan/step_8.jpg"
     },
     {
       "index": 9,
@@ -238,15 +238,15 @@
         "葱花增加色彩和清香味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ao-men-shi-ban-mian-zhi-niu-rou-fan/step_9.jpg"
+      "image": "steps/other_ao-men-shi-ban-mian-zhi-niu-rou-fan/step_9.jpg"
     }
   ],
   "tips": [
     "如果没有黄油，使用普通食用油也可以，但黄油会增加独特的奶香味。",
     "吃的时候将半熟的蛋黄戳破，与牛肉和米饭拌匀食用，口感最佳。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ao-men-shi-ban-mian-zhi-niu-rou-fan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ao-men-shi-ban-mian-zhi-niu-rou-fan_overview.jpg",
+  "cover_image": "ai-generated/other_ao-men-shi-ban-mian-zhi-niu-rou-fan.jpg",
+  "overview_image": "overview/other_ao-men-shi-ban-mian-zhi-niu-rou-fan_overview.jpg",
   "id": "other_ao-men-shi-ban-mian-zhi-niu-rou-fan",
   "status": "published"
 }

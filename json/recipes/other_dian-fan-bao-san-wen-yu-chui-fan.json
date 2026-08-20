@@ -95,7 +95,7 @@
         "注意检查是否有细小的鱼刺残留"
       ],
       "produces": "处理好的三文鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dian-fan-bao-san-wen-yu-chui-fan/step_1.jpg"
+      "image": "steps/other_dian-fan-bao-san-wen-yu-chui-fan/step_1.jpg"
     },
     {
       "index": 2,
@@ -106,7 +106,7 @@
         "切碎后菌菇的香气更容易融入米饭"
       ],
       "produces": "碎菌菇",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dian-fan-bao-san-wen-yu-chui-fan/step_2.jpg"
+      "image": "steps/other_dian-fan-bao-san-wen-yu-chui-fan/step_2.jpg"
     },
     {
       "index": 3,
@@ -117,7 +117,7 @@
         "洗米次数不宜过多，以免营养流失"
       ],
       "produces": "净米",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dian-fan-bao-san-wen-yu-chui-fan/step_3.jpg"
+      "image": "steps/other_dian-fan-bao-san-wen-yu-chui-fan/step_3.jpg"
     },
     {
       "index": 4,
@@ -128,7 +128,7 @@
         "若想口感更浓厚，可以额外多加一汤匙牛油"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dian-fan-bao-san-wen-yu-chui-fan/step_4.jpg"
+      "image": "steps/other_dian-fan-bao-san-wen-yu-chui-fan/step_4.jpg"
     },
     {
       "index": 5,
@@ -139,7 +139,7 @@
         "由于菌菇会出水，水量可以比平时煮饭稍微少一点点"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dian-fan-bao-san-wen-yu-chui-fan/step_5.jpg"
+      "image": "steps/other_dian-fan-bao-san-wen-yu-chui-fan/step_5.jpg"
     },
     {
       "index": 6,
@@ -150,15 +150,15 @@
         "煮好后可以焖5分钟再开盖，让米饭更松软"
       ],
       "produces": "电饭煲三文鱼炊饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dian-fan-bao-san-wen-yu-chui-fan/step_6.jpg"
+      "image": "steps/other_dian-fan-bao-san-wen-yu-chui-fan/step_6.jpg"
     }
   ],
   "tips": [
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
     "建议根据个人口味在出锅前加入少量黑胡椒或葱花提味。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_dian-fan-bao-san-wen-yu-chui-fan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_dian-fan-bao-san-wen-yu-chui-fan_overview.jpg",
+  "cover_image": "ai-generated/other_dian-fan-bao-san-wen-yu-chui-fan.jpg",
+  "overview_image": "overview/other_dian-fan-bao-san-wen-yu-chui-fan_overview.jpg",
   "id": "other_dian-fan-bao-san-wen-yu-chui-fan",
   "status": "published"
 }

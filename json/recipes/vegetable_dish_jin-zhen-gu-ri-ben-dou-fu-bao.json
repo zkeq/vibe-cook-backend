@@ -135,7 +135,7 @@
         "小火慢煎上色更均匀"
       ],
       "produces": "煎好的豆腐",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jin-zhen-gu-ri-ben-dou-fu-bao/step_1.jpg"
+      "image": "steps/vegetable_dish_jin-zhen-gu-ri-ben-dou-fu-bao/step_1.jpg"
     },
     {
       "index": 2,
@@ -146,7 +146,7 @@
         "料汁搅拌均匀确保糖溶解"
       ],
       "produces": "蒜末及调味汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jin-zhen-gu-ri-ben-dou-fu-bao/step_2.jpg"
+      "image": "steps/vegetable_dish_jin-zhen-gu-ri-ben-dou-fu-bao/step_2.jpg"
     },
     {
       "index": 3,
@@ -158,7 +158,7 @@
         "收汁不要收太干，留点汤汁更下饭"
       ],
       "produces": "金针菇日本豆腐煲",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_jin-zhen-gu-ri-ben-dou-fu-bao/step_3.jpg"
+      "image": "steps/vegetable_dish_jin-zhen-gu-ri-ben-dou-fu-bao/step_3.jpg"
     }
   ],
   "tips": [
@@ -166,8 +166,8 @@
     "豆腐尽量不要翻炒，容易碎",
     "如果喜欢更浓稠的汤汁，最后可以加少许水淀粉勾芡"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_jin-zhen-gu-ri-ben-dou-fu-bao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_jin-zhen-gu-ri-ben-dou-fu-bao_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_jin-zhen-gu-ri-ben-dou-fu-bao.jpg",
+  "overview_image": "overview/vegetable_dish_jin-zhen-gu-ri-ben-dou-fu-bao_overview.jpg",
   "id": "vegetable_dish_jin-zhen-gu-ri-ben-dou-fu-bao",
   "status": "published"
 }

@@ -104,7 +104,7 @@
         "喜欢吃 Q 弹面的同学，可在水里加入 30 克盐，用盐水煮出来的面会比较 Q 弹"
       ],
       "produces": "沸水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ma-you-ban-mian/step_1.jpg"
+      "image": "steps/staple_ma-you-ban-mian/step_1.jpg"
     },
     {
       "index": 2,
@@ -115,7 +115,7 @@
         "也可参考当下品牌快熟面包装上的建议烹饪时间"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ma-you-ban-mian/step_2.jpg"
+      "image": "steps/staple_ma-you-ban-mian/step_2.jpg"
     },
     {
       "index": 3,
@@ -126,7 +126,7 @@
         "轻轻拨动，防止面条粘连"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ma-you-ban-mian/step_3.jpg"
+      "image": "steps/staple_ma-you-ban-mian/step_3.jpg"
     },
     {
       "index": 4,
@@ -137,7 +137,7 @@
         "尽量沥干水分，否则会稀释酱汁浓度"
       ],
       "produces": "熟面条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ma-you-ban-mian/step_4.jpg"
+      "image": "steps/staple_ma-you-ban-mian/step_4.jpg"
     },
     {
       "index": 5,
@@ -148,7 +148,7 @@
         "根据个人口味可微调胡椒粉分量"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ma-you-ban-mian/step_5.jpg"
+      "image": "steps/staple_ma-you-ban-mian/step_5.jpg"
     },
     {
       "index": 6,
@@ -159,7 +159,7 @@
         "确保每一根面条都裹上麻油和老抽"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ma-you-ban-mian/step_6.jpg"
+      "image": "steps/staple_ma-you-ban-mian/step_6.jpg"
     },
     {
       "index": 7,
@@ -170,15 +170,15 @@
         "趁热食用口感最佳"
       ],
       "produces": "麻油拌面",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_ma-you-ban-mian/step_7.jpg"
+      "image": "steps/staple_ma-you-ban-mian/step_7.jpg"
     }
   ],
   "tips": [
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request",
     "30g 盐仅用于煮面水，不会被全部食用，主要作用是增加面条韧性"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_ma-you-ban-mian.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_ma-you-ban-mian_overview.jpg",
+  "cover_image": "ai-generated/staple_ma-you-ban-mian.jpg",
+  "overview_image": "overview/staple_ma-you-ban-mian_overview.jpg",
   "id": "staple_ma-you-ban-mian",
   "status": "published"
 }

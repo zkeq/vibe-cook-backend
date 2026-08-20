@@ -65,7 +65,7 @@
         "这是防止发苦的关键，最后一步操作必须极快"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa/step_1.jpg"
+      "image": "steps/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa/step_1.jpg"
     },
     {
       "index": 2,
@@ -76,7 +76,7 @@
         "使用开水可以加快进度"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa/step_2.jpg"
+      "image": "steps/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa/step_2.jpg"
     },
     {
       "index": 3,
@@ -87,7 +87,7 @@
         "水油混合炒法更易控制"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa/step_3.jpg"
+      "image": "steps/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa/step_3.jpg"
     },
     {
       "index": 4,
@@ -98,7 +98,7 @@
         "冰糖耦合度越低融化越快"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa/step_4.jpg"
+      "image": "steps/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa/step_4.jpg"
     },
     {
       "index": 5,
@@ -109,7 +109,7 @@
         "必须不停搅拌防止局部过热"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa/step_5.jpg"
+      "image": "steps/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa/step_5.jpg"
     },
     {
       "index": 6,
@@ -120,7 +120,7 @@
         "此时需高度集中注意力"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa/step_6.jpg"
+      "image": "steps/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa/step_6.jpg"
     },
     {
       "index": 7,
@@ -131,7 +131,7 @@
         "大泡泡出现是糖色完成的标志"
       ],
       "produces": "糖色原液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa/step_7.jpg"
+      "image": "steps/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa/step_7.jpg"
     },
     {
       "index": 8,
@@ -142,7 +142,7 @@
         "必须立刻倒入开水，否则几秒钟内就会发苦"
       ],
       "produces": "成品糖色",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa/step_8.jpg"
+      "image": "steps/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa/step_8.jpg"
     }
   ],
   "tips": [
@@ -151,8 +151,8 @@
     "最后一步加水必须是开水，避免剧烈溅油或糖液凝固",
     "如果您遵循本指南制作发现有问题，请提出 Issue 或 Pull request"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa_overview.jpg",
+  "cover_image": "ai-generated/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa.jpg",
+  "overview_image": "overview/condiment_jian-yi-ban-chao-tang-se-de-zuo-fa_overview.jpg",
   "id": "condiment_jian-yi-ban-chao-tang-se-de-zuo-fa",
   "status": "published"
 }

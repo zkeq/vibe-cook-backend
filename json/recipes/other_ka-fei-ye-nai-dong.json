@@ -112,7 +112,7 @@
         "确保所有液体充分融合"
       ],
       "produces": "混合咖啡椰奶液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ka-fei-ye-nai-dong/step_1.jpg"
+      "image": "steps/other_ka-fei-ye-nai-dong/step_1.jpg"
     },
     {
       "index": 2,
@@ -123,7 +123,7 @@
         "温度不要太高，避免破坏风味"
       ],
       "produces": "温热混合液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ka-fei-ye-nai-dong/step_2.jpg"
+      "image": "steps/other_ka-fei-ye-nai-dong/step_2.jpg"
     },
     {
       "index": 3,
@@ -134,7 +134,7 @@
         "温热时糖更容易溶解"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ka-fei-ye-nai-dong/step_3.jpg"
+      "image": "steps/other_ka-fei-ye-nai-dong/step_3.jpg"
     },
     {
       "index": 4,
@@ -145,7 +145,7 @@
         "务必确保吉利丁完全溶解，无颗粒残留"
       ],
       "produces": "椰奶冻基底液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ka-fei-ye-nai-dong/step_4.jpg"
+      "image": "steps/other_ka-fei-ye-nai-dong/step_4.jpg"
     },
     {
       "index": 5,
@@ -156,7 +156,7 @@
         "这一步可以让椰奶冻口感更加顺滑细腻"
       ],
       "produces": "细腻的基底液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ka-fei-ye-nai-dong/step_5.jpg"
+      "image": "steps/other_ka-fei-ye-nai-dong/step_5.jpg"
     },
     {
       "index": 6,
@@ -167,7 +167,7 @@
         "可以根据需求选择不同形状的模具"
       ],
       "produces": "待定型椰奶冻",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ka-fei-ye-nai-dong/step_6.jpg"
+      "image": "steps/other_ka-fei-ye-nai-dong/step_6.jpg"
     },
     {
       "index": 7,
@@ -178,7 +178,7 @@
         "这一步可以让成品表面更平整，视觉效果更佳"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ka-fei-ye-nai-dong/step_7.jpg"
+      "image": "steps/other_ka-fei-ye-nai-dong/step_7.jpg"
     },
     {
       "index": 8,
@@ -189,7 +189,7 @@
         "冷藏时间越足，口感越Q弹"
       ],
       "produces": "咖啡椰奶冻成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ka-fei-ye-nai-dong/step_8.jpg"
+      "image": "steps/other_ka-fei-ye-nai-dong/step_8.jpg"
     }
   ],
   "tips": [
@@ -197,8 +197,8 @@
     "吉利丁凝固后较难清洗，建议使用洗碗机或者用温水手洗厨具",
     "食用前可撒少量咖啡粉或摆放蓝莓装饰"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ka-fei-ye-nai-dong.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ka-fei-ye-nai-dong_overview.jpg",
+  "cover_image": "ai-generated/other_ka-fei-ye-nai-dong.jpg",
+  "overview_image": "overview/other_ka-fei-ye-nai-dong_overview.jpg",
   "id": "other_ka-fei-ye-nai-dong",
   "status": "published"
 }

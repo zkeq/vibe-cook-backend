@@ -134,7 +134,7 @@
         "注意冷水下锅能更好逼出残留血水"
       ],
       "produces": "处理好的牛腩块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-niu-nan/step_1.jpg"
+      "image": "steps/other_xi-hong-shi-niu-nan/step_1.jpg"
     },
     {
       "index": 2,
@@ -146,7 +146,7 @@
         "高压锅效率更高"
       ],
       "produces": "软烂的牛腩及原汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-niu-nan/step_2.jpg"
+      "image": "steps/other_xi-hong-shi-niu-nan/step_2.jpg"
     },
     {
       "index": 3,
@@ -158,7 +158,7 @@
         "去皮后的西红柿特别滑，慢切注意安全"
       ],
       "produces": "去皮西红柿碎",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-niu-nan/step_3.jpg"
+      "image": "steps/other_xi-hong-shi-niu-nan/step_3.jpg"
     },
     {
       "index": 4,
@@ -169,7 +169,7 @@
         "一定要炒透炒出红油效果才好"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-niu-nan/step_4.jpg"
+      "image": "steps/other_xi-hong-shi-niu-nan/step_4.jpg"
     },
     {
       "index": 5,
@@ -180,7 +180,7 @@
         "糖可以适当多一点以平衡酸味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-niu-nan/step_5.jpg"
+      "image": "steps/other_xi-hong-shi-niu-nan/step_5.jpg"
     },
     {
       "index": 6,
@@ -191,7 +191,7 @@
         "此时需注意搅拌防止糊锅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-niu-nan/step_6.jpg"
+      "image": "steps/other_xi-hong-shi-niu-nan/step_6.jpg"
     },
     {
       "index": 7,
@@ -202,7 +202,7 @@
         "粘稠度决定了汤汁挂在牛肉上的口感"
       ],
       "produces": "西红柿牛腩",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hong-shi-niu-nan/step_7.jpg"
+      "image": "steps/other_xi-hong-shi-niu-nan/step_7.jpg"
     }
   ],
   "tips": [
@@ -211,8 +211,8 @@
     "教程中的番茄去皮方式是目前为止实践最快的方式",
     "绝对不用番茄酱和少加佐料，尽可能还原食材的原味"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_xi-hong-shi-niu-nan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_xi-hong-shi-niu-nan_overview.jpg",
+  "cover_image": "ai-generated/other_xi-hong-shi-niu-nan.jpg",
+  "overview_image": "overview/other_xi-hong-shi-niu-nan_overview.jpg",
   "id": "other_xi-hong-shi-niu-nan",
   "status": "published"
 }

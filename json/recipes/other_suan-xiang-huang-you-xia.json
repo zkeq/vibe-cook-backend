@@ -102,7 +102,7 @@
         "水分必须吸干，否则煎虾时会溅油且影响口感。"
       ],
       "produces": "处理好的虾仁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-xiang-huang-you-xia/step_1.jpg"
+      "image": "steps/other_suan-xiang-huang-you-xia/step_1.jpg"
     },
     {
       "index": 2,
@@ -113,7 +113,7 @@
         "蒜末尽量切细，更易释放香味。"
       ],
       "produces": "蒜末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-xiang-huang-you-xia/step_2.jpg"
+      "image": "steps/other_suan-xiang-huang-you-xia/step_2.jpg"
     },
     {
       "index": 3,
@@ -124,7 +124,7 @@
         "橄榄油可以防止后续加入的黄油过热焦化。"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-xiang-huang-you-xia/step_3.jpg"
+      "image": "steps/other_suan-xiang-huang-you-xia/step_3.jpg"
     },
     {
       "index": 4,
@@ -135,7 +135,7 @@
         "不要煎太久，变色即熟。"
       ],
       "produces": "半熟虾仁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-xiang-huang-you-xia/step_4.jpg"
+      "image": "steps/other_suan-xiang-huang-you-xia/step_4.jpg"
     },
     {
       "index": 5,
@@ -146,7 +146,7 @@
         "务必使用小火，避免蒜末变苦。"
       ],
       "produces": "蒜香黄油汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-xiang-huang-you-xia/step_5.jpg"
+      "image": "steps/other_suan-xiang-huang-you-xia/step_5.jpg"
     },
     {
       "index": 6,
@@ -157,7 +157,7 @@
         "酒香能提升海鲜的鲜甜。"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-xiang-huang-you-xia/step_6.jpg"
+      "image": "steps/other_suan-xiang-huang-you-xia/step_6.jpg"
     },
     {
       "index": 7,
@@ -168,7 +168,7 @@
         "让虾肉充分裹上酱汁。"
       ],
       "produces": "蒜香黄油虾",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-xiang-huang-you-xia/step_7.jpg"
+      "image": "steps/other_suan-xiang-huang-you-xia/step_7.jpg"
     },
     {
       "index": 8,
@@ -179,7 +179,7 @@
         "柠檬汁最后加，保持清新酸度。"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-xiang-huang-you-xia/step_8.jpg"
+      "image": "steps/other_suan-xiang-huang-you-xia/step_8.jpg"
     },
     {
       "index": 9,
@@ -190,15 +190,15 @@
         "酱汁是精华，不要浪费。"
       ],
       "produces": "成品蒜香黄油虾",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-xiang-huang-you-xia/step_9.jpg"
+      "image": "steps/other_suan-xiang-huang-you-xia/step_9.jpg"
     }
   ],
   "tips": [
     "虾不宜过度烹饪，否则会变硬",
     "建议使用不粘平底锅以获得更好的煎制效果"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_suan-xiang-huang-you-xia.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_suan-xiang-huang-you-xia_overview.jpg",
+  "cover_image": "ai-generated/other_suan-xiang-huang-you-xia.jpg",
+  "overview_image": "overview/other_suan-xiang-huang-you-xia_overview.jpg",
   "id": "other_suan-xiang-huang-you-xia",
   "status": "published"
 }

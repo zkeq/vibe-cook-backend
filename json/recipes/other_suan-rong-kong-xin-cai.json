@@ -102,7 +102,7 @@
         "切段防止翻炒时缠绕"
       ],
       "produces": "处理好的空心菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-rong-kong-xin-cai/step_1.jpg"
+      "image": "steps/other_suan-rong-kong-xin-cai/step_1.jpg"
     },
     {
       "index": 2,
@@ -113,7 +113,7 @@
         "热锅凉油法可以防止粘锅"
       ],
       "produces": "润好的炒锅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-rong-kong-xin-cai/step_2.jpg"
+      "image": "steps/other_suan-rong-kong-xin-cai/step_2.jpg"
     },
     {
       "index": 3,
@@ -124,7 +124,7 @@
         "注意火候，防止蒜末焦糊"
       ],
       "produces": "蒜香底油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-rong-kong-xin-cai/step_3.jpg"
+      "image": "steps/other_suan-rong-kong-xin-cai/step_3.jpg"
     },
     {
       "index": 4,
@@ -136,7 +136,7 @@
         "筷子和铲子配合效率更高"
       ],
       "produces": "初步软化的空心菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-rong-kong-xin-cai/step_4.jpg"
+      "image": "steps/other_suan-rong-kong-xin-cai/step_4.jpg"
     },
     {
       "index": 5,
@@ -147,7 +147,7 @@
         "调味时保持大火"
       ],
       "produces": "已调味的空心菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-rong-kong-xin-cai/step_5.jpg"
+      "image": "steps/other_suan-rong-kong-xin-cai/step_5.jpg"
     },
     {
       "index": 6,
@@ -158,7 +158,7 @@
         "大火炒出酱油香气"
       ],
       "produces": "蒜蓉空心菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_suan-rong-kong-xin-cai/step_6.jpg"
+      "image": "steps/other_suan-rong-kong-xin-cai/step_6.jpg"
     }
   ],
   "tips": [
@@ -166,8 +166,8 @@
     "实际放入空心菜的量可以根据锅的大小决定，建议不超过一个锅，否则太多的话容易掉出灶台",
     "炒空心菜时一定要开大火，这样空心菜才能快速变软的同时保持脆嫩的口感，大火也有利于炒出生抽的香味。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_suan-rong-kong-xin-cai.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_suan-rong-kong-xin-cai_overview.jpg",
+  "cover_image": "ai-generated/other_suan-rong-kong-xin-cai.jpg",
+  "overview_image": "overview/other_suan-rong-kong-xin-cai_overview.jpg",
   "id": "other_suan-rong-kong-xin-cai",
   "status": "published"
 }

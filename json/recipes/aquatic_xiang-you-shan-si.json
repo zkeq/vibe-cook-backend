@@ -167,7 +167,7 @@
         "如果觉得麻烦可以让摊主代劳"
       ],
       "produces": "鳝丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_xiang-you-shan-si/step_1.jpg"
+      "image": "steps/aquatic_xiang-you-shan-si/step_1.jpg"
     },
     {
       "index": 2,
@@ -178,7 +178,7 @@
         "腌制时间不宜过短，以确保去腥效果"
       ],
       "produces": "腌制好的鳝丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_xiang-you-shan-si/step_2.jpg"
+      "image": "steps/aquatic_xiang-you-shan-si/step_2.jpg"
     },
     {
       "index": 3,
@@ -189,7 +189,7 @@
         "热锅凉油是防止鳝丝粘锅的关键"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_xiang-you-shan-si/step_3.jpg"
+      "image": "steps/aquatic_xiang-you-shan-si/step_3.jpg"
     },
     {
       "index": 4,
@@ -200,7 +200,7 @@
         "油温不宜过高，否则辅料易糊"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_xiang-you-shan-si/step_4.jpg"
+      "image": "steps/aquatic_xiang-you-shan-si/step_4.jpg"
     },
     {
       "index": 5,
@@ -211,7 +211,7 @@
         "炒出香味即可，不要炒焦"
       ],
       "produces": "香料油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_xiang-you-shan-si/step_5.jpg"
+      "image": "steps/aquatic_xiang-you-shan-si/step_5.jpg"
     },
     {
       "index": 6,
@@ -222,7 +222,7 @@
         "动作要快，保持鳝丝鲜嫩"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_xiang-you-shan-si/step_6.jpg"
+      "image": "steps/aquatic_xiang-you-shan-si/step_6.jpg"
     },
     {
       "index": 7,
@@ -233,7 +233,7 @@
         "沿锅边淋入可利用高温挥发酒味带走腥气"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_xiang-you-shan-si/step_7.jpg"
+      "image": "steps/aquatic_xiang-you-shan-si/step_7.jpg"
     },
     {
       "index": 8,
@@ -242,7 +242,7 @@
       "duration_sec": 15,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_xiang-you-shan-si/step_8.jpg"
+      "image": "steps/aquatic_xiang-you-shan-si/step_8.jpg"
     },
     {
       "index": 9,
@@ -253,7 +253,7 @@
         "老抽只需少量，颜色过深会影响食欲"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_xiang-you-shan-si/step_9.jpg"
+      "image": "steps/aquatic_xiang-you-shan-si/step_9.jpg"
     },
     {
       "index": 10,
@@ -264,7 +264,7 @@
         "白糖和胡椒粉可以稍微多一点"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_xiang-you-shan-si/step_10.jpg"
+      "image": "steps/aquatic_xiang-you-shan-si/step_10.jpg"
     },
     {
       "index": 11,
@@ -275,7 +275,7 @@
         "汁水要包裹住鳝丝，不要留太多汤"
       ],
       "produces": "浓稠的鳝丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_xiang-you-shan-si/step_11.jpg"
+      "image": "steps/aquatic_xiang-you-shan-si/step_11.jpg"
     },
     {
       "index": 12,
@@ -286,7 +286,7 @@
         "蒜蓉堆在中间，方便淋油"
       ],
       "produces": "成品基础",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_xiang-you-shan-si/step_12.jpg"
+      "image": "steps/aquatic_xiang-you-shan-si/step_12.jpg"
     },
     {
       "index": 13,
@@ -297,7 +297,7 @@
         "听到滋滋声说明油温足够，这是点睛之笔"
       ],
       "produces": "响油鳝丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_xiang-you-shan-si/step_13.jpg"
+      "image": "steps/aquatic_xiang-you-shan-si/step_13.jpg"
     }
   ],
   "tips": [
@@ -306,8 +306,8 @@
     "可以多加一些胡椒粉和白糖，有利于去腥增香",
     "参考资料来源：YouTube 响油鳝丝家常做法"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/aquatic_xiang-you-shan-si.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/aquatic_xiang-you-shan-si_overview.jpg",
+  "cover_image": "ai-generated/aquatic_xiang-you-shan-si.jpg",
+  "overview_image": "overview/aquatic_xiang-you-shan-si_overview.jpg",
   "id": "aquatic_xiang-you-shan-si",
   "status": "published"
 }

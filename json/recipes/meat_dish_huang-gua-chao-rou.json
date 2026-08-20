@@ -111,7 +111,7 @@
         "加入少许油腌制可以锁住肉的水分，炒出来更嫩。"
       ],
       "produces": "腌制好的猪肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-gua-chao-rou/step_1.jpg"
+      "image": "steps/meat_dish_huang-gua-chao-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -122,7 +122,7 @@
         "厚度均匀有助于受热同步。"
       ],
       "produces": "黄瓜片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-gua-chao-rou/step_2.jpg"
+      "image": "steps/meat_dish_huang-gua-chao-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -133,7 +133,7 @@
         "杀出多余水分可以让黄瓜炒出来更爽脆。"
       ],
       "produces": "脱水黄瓜片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-gua-chao-rou/step_3.jpg"
+      "image": "steps/meat_dish_huang-gua-chao-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -144,7 +144,7 @@
         "压扁后更容易去皮。"
       ],
       "produces": "蒜末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-gua-chao-rou/step_4.jpg"
+      "image": "steps/meat_dish_huang-gua-chao-rou/step_4.jpg"
     },
     {
       "index": 5,
@@ -155,7 +155,7 @@
         "处理辣椒后注意不要揉眼睛。"
       ],
       "produces": "辣椒段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-gua-chao-rou/step_5.jpg"
+      "image": "steps/meat_dish_huang-gua-chao-rou/step_5.jpg"
     },
     {
       "index": 6,
@@ -166,7 +166,7 @@
         "油温一定要够，爆香速度要快。"
       ],
       "produces": "爆香的底油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-gua-chao-rou/step_6.jpg"
+      "image": "steps/meat_dish_huang-gua-chao-rou/step_6.jpg"
     },
     {
       "index": 7,
@@ -177,7 +177,7 @@
         "变色即可，不要久炒以免变老。"
       ],
       "produces": "炒熟的猪肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-gua-chao-rou/step_7.jpg"
+      "image": "steps/meat_dish_huang-gua-chao-rou/step_7.jpg"
     },
     {
       "index": 8,
@@ -188,14 +188,14 @@
         "如果无法保证大火，可能会有点生，可以考虑增加到 50 秒。"
       ],
       "produces": "黄瓜炒肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_huang-gua-chao-rou/step_8.jpg"
+      "image": "steps/meat_dish_huang-gua-chao-rou/step_8.jpg"
     }
   ],
   "tips": [
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_huang-gua-chao-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_huang-gua-chao-rou_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_huang-gua-chao-rou.jpg",
+  "overview_image": "overview/meat_dish_huang-gua-chao-rou_overview.jpg",
   "id": "meat_dish_huang-gua-chao-rou",
   "status": "published"
 }

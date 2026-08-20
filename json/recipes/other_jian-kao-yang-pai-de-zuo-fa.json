@@ -190,7 +190,7 @@
         "切块时注意避开骨头硬处，保持大小均匀"
       ],
       "produces": "羊排块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-kao-yang-pai-de-zuo-fa/step_1.jpg"
+      "image": "steps/other_jian-kao-yang-pai-de-zuo-fa/step_1.jpg"
     },
     {
       "index": 2,
@@ -201,7 +201,7 @@
         "必须冷水下锅，才能更好地逼出血水"
       ],
       "produces": "焯水羊排",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-kao-yang-pai-de-zuo-fa/step_2.jpg"
+      "image": "steps/other_jian-kao-yang-pai-de-zuo-fa/step_2.jpg"
     },
     {
       "index": 3,
@@ -212,7 +212,7 @@
         "香料可装入调料袋，方便后续捞出"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-kao-yang-pai-de-zuo-fa/step_3.jpg"
+      "image": "steps/other_jian-kao-yang-pai-de-zuo-fa/step_3.jpg"
     },
     {
       "index": 4,
@@ -224,7 +224,7 @@
         "时间不宜过长，防止羊排过烂"
       ],
       "produces": "熟羊排",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-kao-yang-pai-de-zuo-fa/step_4.jpg"
+      "image": "steps/other_jian-kao-yang-pai-de-zuo-fa/step_4.jpg"
     },
     {
       "index": 5,
@@ -235,7 +235,7 @@
         "水分必须沥干，否则煎制时会溅油"
       ],
       "produces": "待煎羊排",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-kao-yang-pai-de-zuo-fa/step_5.jpg"
+      "image": "steps/other_jian-kao-yang-pai-de-zuo-fa/step_5.jpg"
     },
     {
       "index": 6,
@@ -246,7 +246,7 @@
         "利用羊排自身油脂，无需额外放油"
       ],
       "produces": "金黄羊排",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-kao-yang-pai-de-zuo-fa/step_6.jpg"
+      "image": "steps/other_jian-kao-yang-pai-de-zuo-fa/step_6.jpg"
     },
     {
       "index": 7,
@@ -257,7 +257,7 @@
         "火候不要太大，防止香料糊掉"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-kao-yang-pai-de-zuo-fa/step_7.jpg"
+      "image": "steps/other_jian-kao-yang-pai-de-zuo-fa/step_7.jpg"
     },
     {
       "index": 8,
@@ -268,7 +268,7 @@
         "糖用于提鲜，不宜过多"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-kao-yang-pai-de-zuo-fa/step_8.jpg"
+      "image": "steps/other_jian-kao-yang-pai-de-zuo-fa/step_8.jpg"
     },
     {
       "index": 9,
@@ -279,7 +279,7 @@
         "趁热食用口感最佳"
       ],
       "produces": "煎烤羊排",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-kao-yang-pai-de-zuo-fa/step_9.jpg"
+      "image": "steps/other_jian-kao-yang-pai-de-zuo-fa/step_9.jpg"
     }
   ],
   "tips": [
@@ -288,8 +288,8 @@
     "煎制时利用羊排自身煎出的油脂来炒香调料，风味更佳。",
     "焯水、炖煮、煎制过程中会产生较多羊油，处理时请注意不要直接倒入下水道，以防堵塞。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_jian-kao-yang-pai-de-zuo-fa.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_jian-kao-yang-pai-de-zuo-fa_overview.jpg",
+  "cover_image": "ai-generated/other_jian-kao-yang-pai-de-zuo-fa.jpg",
+  "overview_image": "overview/other_jian-kao-yang-pai-de-zuo-fa_overview.jpg",
   "id": "other_jian-kao-yang-pai-de-zuo-fa",
   "status": "published"
 }

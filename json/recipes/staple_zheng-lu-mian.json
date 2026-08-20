@@ -157,7 +157,7 @@
         "芹菜段需从中对半切开更入味"
       ],
       "produces": "备好料的食材",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zheng-lu-mian/step_1.jpg"
+      "image": "steps/staple_zheng-lu-mian/step_1.jpg"
     },
     {
       "index": 2,
@@ -168,7 +168,7 @@
         "滑锅可防止肉片粘锅"
       ],
       "produces": "香煎肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zheng-lu-mian/step_2.jpg"
+      "image": "steps/staple_zheng-lu-mian/step_2.jpg"
     },
     {
       "index": 3,
@@ -179,7 +179,7 @@
         "必须使用热水，防止肉质变柴"
       ],
       "produces": "卤肉汤底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zheng-lu-mian/step_3.jpg"
+      "image": "steps/staple_zheng-lu-mian/step_3.jpg"
     },
     {
       "index": 4,
@@ -190,7 +190,7 @@
         "蔬菜不要煮太烂，后续还要蒸"
       ],
       "produces": "卤面菜底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zheng-lu-mian/step_4.jpg"
+      "image": "steps/staple_zheng-lu-mian/step_4.jpg"
     },
     {
       "index": 5,
@@ -202,7 +202,7 @@
         "取面动作要轻，防止蒸屉翻倒触水"
       ],
       "produces": "半熟熟面",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zheng-lu-mian/step_5.jpg"
+      "image": "steps/staple_zheng-lu-mian/step_5.jpg"
     },
     {
       "index": 6,
@@ -213,7 +213,7 @@
         "确保每一根面条都吸到汤汁"
       ],
       "produces": "拌匀的面条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zheng-lu-mian/step_6.jpg"
+      "image": "steps/staple_zheng-lu-mian/step_6.jpg"
     },
     {
       "index": 7,
@@ -224,7 +224,7 @@
         "尽量铺散开，避免团在一起"
       ],
       "produces": "蒸卤面成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zheng-lu-mian/step_7.jpg"
+      "image": "steps/staple_zheng-lu-mian/step_7.jpg"
     }
   ],
   "tips": [
@@ -233,8 +233,8 @@
     "两次蒸面都要尽量弄散，避免粘连",
     "佐餐时啤酒更配"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_zheng-lu-mian.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_zheng-lu-mian_overview.jpg",
+  "cover_image": "ai-generated/staple_zheng-lu-mian.jpg",
+  "overview_image": "overview/staple_zheng-lu-mian_overview.jpg",
   "id": "staple_zheng-lu-mian",
   "status": "published"
 }

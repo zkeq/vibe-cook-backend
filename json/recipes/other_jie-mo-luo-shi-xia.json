@@ -165,7 +165,7 @@
         "控干水分可以防止煎虾时溅油"
       ],
       "produces": "处理好的罗氏虾",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jie-mo-luo-shi-xia/step_1.jpg"
+      "image": "steps/other_jie-mo-luo-shi-xia/step_1.jpg"
     },
     {
       "index": 2,
@@ -177,7 +177,7 @@
         "确保生粉完全化开，避免结块"
       ],
       "produces": "蒜末与混合碗汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jie-mo-luo-shi-xia/step_2.jpg"
+      "image": "steps/other_jie-mo-luo-shi-xia/step_2.jpg"
     },
     {
       "index": 3,
@@ -188,7 +188,7 @@
         "煎虾时火候不宜过猛，防止焦糊"
       ],
       "produces": "煎至变色的虾",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jie-mo-luo-shi-xia/step_3.jpg"
+      "image": "steps/other_jie-mo-luo-shi-xia/step_3.jpg"
     },
     {
       "index": 4,
@@ -199,15 +199,15 @@
         "黄油入锅融化后应立即倒入碗汁，避免炸制时间过长影响风味"
       ],
       "produces": "芥末罗氏虾成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jie-mo-luo-shi-xia/step_4.jpg"
+      "image": "steps/other_jie-mo-luo-shi-xia/step_4.jpg"
     }
   ],
   "tips": [
     "黄油入锅后不宜炸制太久，融化翻拌均匀即可烹入碗汁",
     "如不吃辣，小米辣可不放或替换为红菜椒"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_jie-mo-luo-shi-xia.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_jie-mo-luo-shi-xia_overview.jpg",
+  "cover_image": "ai-generated/other_jie-mo-luo-shi-xia.jpg",
+  "overview_image": "overview/other_jie-mo-luo-shi-xia_overview.jpg",
   "id": "other_jie-mo-luo-shi-xia",
   "status": "published"
 }

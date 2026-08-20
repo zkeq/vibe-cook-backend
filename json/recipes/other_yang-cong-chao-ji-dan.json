@@ -102,7 +102,7 @@
         "充分搅拌使盐分完全融合"
       ],
       "produces": "蛋液洋葱混合液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-cong-chao-ji-dan/step_1.jpg"
+      "image": "steps/other_yang-cong-chao-ji-dan/step_1.jpg"
     },
     {
       "index": 2,
@@ -114,7 +114,7 @@
         "料酒在出锅前沿锅边淋入，利用高温激发出香气"
       ],
       "produces": "炒熟的洋葱鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-cong-chao-ji-dan/step_2.jpg"
+      "image": "steps/other_yang-cong-chao-ji-dan/step_2.jpg"
     },
     {
       "index": 3,
@@ -125,14 +125,14 @@
         "葱花要在出锅后撒上，保持翠绿的颜色和清香"
       ],
       "produces": "成品洋葱炒鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-cong-chao-ji-dan/step_3.jpg"
+      "image": "steps/other_yang-cong-chao-ji-dan/step_3.jpg"
     }
   ],
   "tips": [
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_yang-cong-chao-ji-dan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_yang-cong-chao-ji-dan_overview.jpg",
+  "cover_image": "ai-generated/other_yang-cong-chao-ji-dan.jpg",
+  "overview_image": "overview/other_yang-cong-chao-ji-dan_overview.jpg",
   "id": "other_yang-cong-chao-ji-dan",
   "status": "published"
 }

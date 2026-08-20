@@ -96,7 +96,7 @@
         "切块大小均匀即可"
       ],
       "produces": "西红柿块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_xi-hong-shi-ji-dan-tang/step_1.jpg"
+      "image": "steps/soup_xi-hong-shi-ji-dan-tang/step_1.jpg"
     },
     {
       "index": 2,
@@ -107,7 +107,7 @@
         "切碎一点更容易爆出香味"
       ],
       "produces": "葱姜蒜末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_xi-hong-shi-ji-dan-tang/step_2.jpg"
+      "image": "steps/soup_xi-hong-shi-ji-dan-tang/step_2.jpg"
     },
     {
       "index": 3,
@@ -118,7 +118,7 @@
         "充分搅拌使蛋清蛋黄融合，口感更滑嫩"
       ],
       "produces": "鸡蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_xi-hong-shi-ji-dan-tang/step_3.jpg"
+      "image": "steps/soup_xi-hong-shi-ji-dan-tang/step_3.jpg"
     },
     {
       "index": 4,
@@ -129,7 +129,7 @@
         "注意油温，冒烟时下锅香味最浓"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_xi-hong-shi-ji-dan-tang/step_4.jpg"
+      "image": "steps/soup_xi-hong-shi-ji-dan-tang/step_4.jpg"
     },
     {
       "index": 5,
@@ -140,7 +140,7 @@
         "炒出西红柿的红油汁水会让汤色更好看"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_xi-hong-shi-ji-dan-tang/step_5.jpg"
+      "image": "steps/soup_xi-hong-shi-ji-dan-tang/step_5.jpg"
     },
     {
       "index": 6,
@@ -151,7 +151,7 @@
         "建议使用热水以节省时间"
       ],
       "produces": "西红柿汤底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_xi-hong-shi-ji-dan-tang/step_6.jpg"
+      "image": "steps/soup_xi-hong-shi-ji-dan-tang/step_6.jpg"
     },
     {
       "index": 7,
@@ -162,7 +162,7 @@
         "画圈淋入蛋液可形成漂亮的蛋花"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_xi-hong-shi-ji-dan-tang/step_7.jpg"
+      "image": "steps/soup_xi-hong-shi-ji-dan-tang/step_7.jpg"
     },
     {
       "index": 8,
@@ -173,7 +173,7 @@
         "最后可以撒点葱花点缀"
       ],
       "produces": "西红柿鸡蛋汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_xi-hong-shi-ji-dan-tang/step_8.jpg"
+      "image": "steps/soup_xi-hong-shi-ji-dan-tang/step_8.jpg"
     }
   ],
   "tips": [
@@ -181,8 +181,8 @@
     "对新手非常友好，快手省时。",
     "鸡蛋数量可根据口味自行调整（1-2个）。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/soup_xi-hong-shi-ji-dan-tang.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/soup_xi-hong-shi-ji-dan-tang_overview.jpg",
+  "cover_image": "ai-generated/soup_xi-hong-shi-ji-dan-tang.jpg",
+  "overview_image": "overview/soup_xi-hong-shi-ji-dan-tang_overview.jpg",
   "id": "soup_xi-hong-shi-ji-dan-tang",
   "status": "published"
 }

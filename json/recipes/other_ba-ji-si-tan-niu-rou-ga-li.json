@@ -127,7 +127,7 @@
         "切段大小均匀即可"
       ],
       "produces": "螺丝椒段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ji-si-tan-niu-rou-ga-li/step_1.jpg"
+      "image": "steps/other_ba-ji-si-tan-niu-rou-ga-li/step_1.jpg"
     },
     {
       "index": 2,
@@ -138,7 +138,7 @@
         "可以使用料理机快速处理"
       ],
       "produces": "番茄蓉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ji-si-tan-niu-rou-ga-li/step_2.jpg"
+      "image": "steps/other_ba-ji-si-tan-niu-rou-ga-li/step_2.jpg"
     },
     {
       "index": 3,
@@ -149,7 +149,7 @@
         "切块不宜过大，方便入味和炖烂"
       ],
       "produces": "牛肉块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ji-si-tan-niu-rou-ga-li/step_3.jpg"
+      "image": "steps/other_ba-ji-si-tan-niu-rou-ga-li/step_3.jpg"
     },
     {
       "index": 4,
@@ -160,7 +160,7 @@
         "油层主要用来防止后续番茄蓉沸腾蒸发过快"
       ],
       "produces": "热油锅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ji-si-tan-niu-rou-ga-li/step_4.jpg"
+      "image": "steps/other_ba-ji-si-tan-niu-rou-ga-li/step_4.jpg"
     },
     {
       "index": 5,
@@ -171,7 +171,7 @@
         "持续搅拌防止糊锅"
       ],
       "produces": "浓缩番茄底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ji-si-tan-niu-rou-ga-li/step_5.jpg"
+      "image": "steps/other_ba-ji-si-tan-niu-rou-ga-li/step_5.jpg"
     },
     {
       "index": 6,
@@ -182,7 +182,7 @@
         "确保香料粉完全混合均匀"
       ],
       "produces": "香料底酱",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ji-si-tan-niu-rou-ga-li/step_6.jpg"
+      "image": "steps/other_ba-ji-si-tan-niu-rou-ga-li/step_6.jpg"
     },
     {
       "index": 7,
@@ -193,7 +193,7 @@
         "让牛肉均匀裹上酱汁"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ji-si-tan-niu-rou-ga-li/step_7.jpg"
+      "image": "steps/other_ba-ji-si-tan-niu-rou-ga-li/step_7.jpg"
     },
     {
       "index": 8,
@@ -204,7 +204,7 @@
         "酸奶能让整个酱汁变得粘稠且口感柔和"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ji-si-tan-niu-rou-ga-li/step_8.jpg"
+      "image": "steps/other_ba-ji-si-tan-niu-rou-ga-li/step_8.jpg"
     },
     {
       "index": 9,
@@ -215,7 +215,7 @@
         "根据牛肉的韧度调整时间，越久越软糯"
       ],
       "produces": "炖煮中的咖喱",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ji-si-tan-niu-rou-ga-li/step_9.jpg"
+      "image": "steps/other_ba-ji-si-tan-niu-rou-ga-li/step_9.jpg"
     },
     {
       "index": 10,
@@ -226,7 +226,7 @@
         "如果汁水过多可以再适当收汁"
       ],
       "produces": "巴基斯坦牛肉咖喱",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ba-ji-si-tan-niu-rou-ga-li/step_10.jpg"
+      "image": "steps/other_ba-ji-si-tan-niu-rou-ga-li/step_10.jpg"
     }
   ],
   "tips": [
@@ -234,8 +234,8 @@
     "通常配以 烙饼(roti)、馕(naan) 或 米饭 食用",
     "如果想做 Chicken karahi 流程基本一致，但需先用油和花椒胡椒将鸡肉煎至变黄"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ba-ji-si-tan-niu-rou-ga-li.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ba-ji-si-tan-niu-rou-ga-li_overview.jpg",
+  "cover_image": "ai-generated/other_ba-ji-si-tan-niu-rou-ga-li.jpg",
+  "overview_image": "overview/other_ba-ji-si-tan-niu-rou-ga-li_overview.jpg",
   "id": "other_ba-ji-si-tan-niu-rou-ga-li",
   "status": "published"
 }

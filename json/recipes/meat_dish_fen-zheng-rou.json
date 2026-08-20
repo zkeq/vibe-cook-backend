@@ -158,7 +158,7 @@
         "肉片厚度均匀有利于同步成熟"
       ],
       "produces": "肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_fen-zheng-rou/step_1.jpg"
+      "image": "steps/meat_dish_fen-zheng-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -169,7 +169,7 @@
         "切得越细，腌制时风味渗透越好"
       ],
       "produces": "姜蒜末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_fen-zheng-rou/step_2.jpg"
+      "image": "steps/meat_dish_fen-zheng-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -180,7 +180,7 @@
         "确保每一片肉都沾上调料"
       ],
       "produces": "腌制中的肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_fen-zheng-rou/step_3.jpg"
+      "image": "steps/meat_dish_fen-zheng-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -191,7 +191,7 @@
         "气温过高时建议放入冰箱冷藏腌制"
       ],
       "produces": "入味的五花肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_fen-zheng-rou/step_4.jpg"
+      "image": "steps/meat_dish_fen-zheng-rou/step_4.jpg"
     },
     {
       "index": 5,
@@ -202,7 +202,7 @@
         "米粉不要一次性倒入，分次加入更均匀"
       ],
       "produces": "裹粉五花肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_fen-zheng-rou/step_5.jpg"
+      "image": "steps/meat_dish_fen-zheng-rou/step_5.jpg"
     },
     {
       "index": 6,
@@ -213,7 +213,7 @@
         "土豆片不宜太薄，否则蒸久了容易碎"
       ],
       "produces": "土豆片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_fen-zheng-rou/step_6.jpg"
+      "image": "steps/meat_dish_fen-zheng-rou/step_6.jpg"
     },
     {
       "index": 7,
@@ -224,7 +224,7 @@
         "铺底均匀有助于蒸汽循环"
       ],
       "produces": "铺好底的碗",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_fen-zheng-rou/step_7.jpg"
+      "image": "steps/meat_dish_fen-zheng-rou/step_7.jpg"
     },
     {
       "index": 8,
@@ -235,7 +235,7 @@
         "压实可以让成菜造型更美观"
       ],
       "produces": "待蒸食材",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_fen-zheng-rou/step_8.jpg"
+      "image": "steps/meat_dish_fen-zheng-rou/step_8.jpg"
     },
     {
       "index": 9,
@@ -246,7 +246,7 @@
         "必须等水开后再放入食材"
       ],
       "produces": "沸腾的蒸锅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_fen-zheng-rou/step_9.jpg"
+      "image": "steps/meat_dish_fen-zheng-rou/step_9.jpg"
     },
     {
       "index": 10,
@@ -257,7 +257,7 @@
         "火力保持在可持续沸腾的程度，约 600W 热功率"
       ],
       "produces": "熟化的粉蒸肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_fen-zheng-rou/step_10.jpg"
+      "image": "steps/meat_dish_fen-zheng-rou/step_10.jpg"
     },
     {
       "index": 11,
@@ -268,15 +268,15 @@
         "若未达到此状态，则继续加热 10 - 15 分钟，直至肉质软烂"
       ],
       "produces": "最终成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_fen-zheng-rou/step_11.jpg"
+      "image": "steps/meat_dish_fen-zheng-rou/step_11.jpg"
     }
   ],
   "tips": [
     "如需自制米粉，可将大米 150g 炒至微黄色（约 8 分钟），加入干辣椒、花椒、八角炒香后打碎过筛",
     "蒸制期间如水量低于锅底高度 1cm，应立即补充 500ml 90°C 以上的热水，以维持蒸汽充足"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_fen-zheng-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_fen-zheng-rou_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_fen-zheng-rou.jpg",
+  "overview_image": "overview/meat_dish_fen-zheng-rou_overview.jpg",
   "id": "meat_dish_fen-zheng-rou",
   "status": "published"
 }

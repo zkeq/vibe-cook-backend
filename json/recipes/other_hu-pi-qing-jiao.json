@@ -113,7 +113,7 @@
         "洗净后建议擦干表面水分，防止下锅溅油"
       ],
       "produces": "洗净的青椒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hu-pi-qing-jiao/step_1.jpg"
+      "image": "steps/other_hu-pi-qing-jiao/step_1.jpg"
     },
     {
       "index": 2,
@@ -124,7 +124,7 @@
         "切片均匀有助于受热一致"
       ],
       "produces": "青椒片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hu-pi-qing-jiao/step_2.jpg"
+      "image": "steps/other_hu-pi-qing-jiao/step_2.jpg"
     },
     {
       "index": 3,
@@ -135,7 +135,7 @@
         "蒜末越细，香味释放越充分"
       ],
       "produces": "蒜末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hu-pi-qing-jiao/step_3.jpg"
+      "image": "steps/other_hu-pi-qing-jiao/step_3.jpg"
     },
     {
       "index": 4,
@@ -146,7 +146,7 @@
         "让油包裹蒜末可以防止高温下蒜末变焦"
       ],
       "produces": "蒜油混合液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hu-pi-qing-jiao/step_4.jpg"
+      "image": "steps/other_hu-pi-qing-jiao/step_4.jpg"
     },
     {
       "index": 5,
@@ -157,7 +157,7 @@
         "确保糖分基本溶解"
       ],
       "produces": "复合调味汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hu-pi-qing-jiao/step_5.jpg"
+      "image": "steps/other_hu-pi-qing-jiao/step_5.jpg"
     },
     {
       "index": 6,
@@ -168,7 +168,7 @@
         "平铺是形成虎皮的关键"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hu-pi-qing-jiao/step_6.jpg"
+      "image": "steps/other_hu-pi-qing-jiao/step_6.jpg"
     },
     {
       "index": 7,
@@ -179,7 +179,7 @@
         "用力按压能加速表皮起皱"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hu-pi-qing-jiao/step_7.jpg"
+      "image": "steps/other_hu-pi-qing-jiao/step_7.jpg"
     },
     {
       "index": 8,
@@ -190,7 +190,7 @@
         "观察到虎皮纹路明显后再倒入汁液"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hu-pi-qing-jiao/step_8.jpg"
+      "image": "steps/other_hu-pi-qing-jiao/step_8.jpg"
     },
     {
       "index": 9,
@@ -201,14 +201,14 @@
         "最后大火快炒能让酱汁紧紧裹在青椒上"
       ],
       "produces": "虎皮青椒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hu-pi-qing-jiao/step_9.jpg"
+      "image": "steps/other_hu-pi-qing-jiao/step_9.jpg"
     }
   ],
   "tips": [
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_hu-pi-qing-jiao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_hu-pi-qing-jiao_overview.jpg",
+  "cover_image": "ai-generated/other_hu-pi-qing-jiao.jpg",
+  "overview_image": "overview/other_hu-pi-qing-jiao_overview.jpg",
   "id": "other_hu-pi-qing-jiao",
   "status": "published"
 }

@@ -173,7 +173,7 @@
         "一定要充分浸泡，否则很难煮软烂"
       ],
       "produces": "浸泡膨胀的红芸豆",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_hong-yun-dou-ban-fan/step_1.jpg"
+      "image": "steps/staple_hong-yun-dou-ban-fan/step_1.jpg"
     },
     {
       "index": 2,
@@ -185,7 +185,7 @@
         "煮豆的汤水千万不要倒掉，那是咖喱浓郁的关键"
       ],
       "produces": "熟软红芸豆及豆汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_hong-yun-dou-ban-fan/step_2.jpg"
+      "image": "steps/staple_hong-yun-dou-ban-fan/step_2.jpg"
     },
     {
       "index": 3,
@@ -196,7 +196,7 @@
         "洋葱一定要炒到金棕色，这是北印度咖喱风味的来源"
       ],
       "produces": "葱姜蒜香料基底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_hong-yun-dou-ban-fan/step_3.jpg"
+      "image": "steps/staple_hong-yun-dou-ban-fan/step_3.jpg"
     },
     {
       "index": 4,
@@ -207,7 +207,7 @@
         "炒到番茄和油分离的状态，香料味才会被激发"
       ],
       "produces": "咖喱酱料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_hong-yun-dou-ban-fan/step_4.jpg"
+      "image": "steps/staple_hong-yun-dou-ban-fan/step_4.jpg"
     },
     {
       "index": 5,
@@ -218,7 +218,7 @@
         "压碎部分豆子是让汤汁无需淀粉也能浓稠的秘诀"
       ],
       "produces": "红芸豆咖喱",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_hong-yun-dou-ban-fan/step_5.jpg"
+      "image": "steps/staple_hong-yun-dou-ban-fan/step_5.jpg"
     },
     {
       "index": 6,
@@ -229,7 +229,7 @@
         "可以在煮饭水中加少许盐或几滴油，使米饭颗粒分明"
       ],
       "produces": "熟米饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_hong-yun-dou-ban-fan/step_6.jpg"
+      "image": "steps/staple_hong-yun-dou-ban-fan/step_6.jpg"
     },
     {
       "index": 7,
@@ -240,7 +240,7 @@
         "挤一点新鲜柠檬汁可以提鲜去腻"
       ],
       "produces": "红芸豆拌饭成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_hong-yun-dou-ban-fan/step_7.jpg"
+      "image": "steps/staple_hong-yun-dou-ban-fan/step_7.jpg"
     }
   ],
   "tips": [
@@ -249,8 +249,8 @@
     "如果想要更浓郁的口感，可以加入 30ml 淡奶油。",
     "剩余的红芸豆咖喱冷藏保存可达 3-4 天，味道会更好。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_hong-yun-dou-ban-fan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_hong-yun-dou-ban-fan_overview.jpg",
+  "cover_image": "ai-generated/staple_hong-yun-dou-ban-fan.jpg",
+  "overview_image": "overview/staple_hong-yun-dou-ban-fan_overview.jpg",
   "id": "staple_hong-yun-dou-ban-fan",
   "status": "published"
 }

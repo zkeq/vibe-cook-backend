@@ -222,7 +222,7 @@
         "划刀深度适中，不要切断骨头"
       ],
       "produces": "处理好的鸡翅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_hong-shao-ji-chi/step_1.jpg"
+      "image": "steps/meat_dish_hong-shao-ji-chi/step_1.jpg"
     },
     {
       "index": 2,
@@ -233,7 +233,7 @@
         "新鲜鸡翅可跳过此步"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_hong-shao-ji-chi/step_2.jpg"
+      "image": "steps/meat_dish_hong-shao-ji-chi/step_2.jpg"
     },
     {
       "index": 3,
@@ -244,7 +244,7 @@
         "大蒜无需剁碎，拍散更容易释放香味"
       ],
       "produces": "辅料拼盘",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_hong-shao-ji-chi/step_3.jpg"
+      "image": "steps/meat_dish_hong-shao-ji-chi/step_3.jpg"
     },
     {
       "index": 4,
@@ -255,7 +255,7 @@
         "必须冷水下锅，才能彻底逼出血水"
       ],
       "produces": "初步去腥的鸡翅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_hong-shao-ji-chi/step_4.jpg"
+      "image": "steps/meat_dish_hong-shao-ji-chi/step_4.jpg"
     },
     {
       "index": 5,
@@ -266,7 +266,7 @@
         "水分一定要控干，否则下油锅会溅油"
       ],
       "produces": "干净的鸡翅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_hong-shao-ji-chi/step_5.jpg"
+      "image": "steps/meat_dish_hong-shao-ji-chi/step_5.jpg"
     },
     {
       "index": 6,
@@ -277,7 +277,7 @@
         "热锅凉油可以防止粘锅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_hong-shao-ji-chi/step_6.jpg"
+      "image": "steps/meat_dish_hong-shao-ji-chi/step_6.jpg"
     },
     {
       "index": 7,
@@ -288,7 +288,7 @@
         "注意观察颜色，枣红色后立即下锅防止糖色发苦"
       ],
       "produces": "上好糖色的鸡翅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_hong-shao-ji-chi/step_7.jpg"
+      "image": "steps/meat_dish_hong-shao-ji-chi/step_7.jpg"
     },
     {
       "index": 8,
@@ -299,7 +299,7 @@
         "煸炒出香味即可"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_hong-shao-ji-chi/step_8.jpg"
+      "image": "steps/meat_dish_hong-shao-ji-chi/step_8.jpg"
     },
     {
       "index": 9,
@@ -310,7 +310,7 @@
         "沿锅边淋入能激发酱香"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_hong-shao-ji-chi/step_9.jpg"
+      "image": "steps/meat_dish_hong-shao-ji-chi/step_9.jpg"
     },
     {
       "index": 10,
@@ -321,7 +321,7 @@
         "一定要加温水，冷水会使肉质骤缩变柴"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_hong-shao-ji-chi/step_10.jpg"
+      "image": "steps/meat_dish_hong-shao-ji-chi/step_10.jpg"
     },
     {
       "index": 11,
@@ -332,7 +332,7 @@
         "老抽可以根据颜色喜好微调"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_hong-shao-ji-chi/step_11.jpg"
+      "image": "steps/meat_dish_hong-shao-ji-chi/step_11.jpg"
     },
     {
       "index": 12,
@@ -343,7 +343,7 @@
         "中火能让鸡翅充分吸收汤汁"
       ],
       "produces": "熟透的鸡翅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_hong-shao-ji-chi/step_12.jpg"
+      "image": "steps/meat_dish_hong-shao-ji-chi/step_12.jpg"
     },
     {
       "index": 13,
@@ -354,7 +354,7 @@
         "剔除料渣可以让成品更整洁"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_hong-shao-ji-chi/step_13.jpg"
+      "image": "steps/meat_dish_hong-shao-ji-chi/step_13.jpg"
     },
     {
       "index": 14,
@@ -365,7 +365,7 @@
         "收汁时要不断翻动防止糊锅"
       ],
       "produces": "浓油赤酱的鸡翅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_hong-shao-ji-chi/step_14.jpg"
+      "image": "steps/meat_dish_hong-shao-ji-chi/step_14.jpg"
     },
     {
       "index": 15,
@@ -376,7 +376,7 @@
         "剩余汤汁是精华"
       ],
       "produces": "红烧鸡翅成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_hong-shao-ji-chi/step_15.jpg"
+      "image": "steps/meat_dish_hong-shao-ji-chi/step_15.jpg"
     },
     {
       "index": 16,
@@ -387,7 +387,7 @@
         "点缀不仅美观还能增香"
       ],
       "produces": "最终成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_hong-shao-ji-chi/step_16.jpg"
+      "image": "steps/meat_dish_hong-shao-ji-chi/step_16.jpg"
     }
   ],
   "tips": [
@@ -395,8 +395,8 @@
     "炒糖色是关键，火候不宜过大防止变苦。",
     "收汁阶段必须人在锅旁，防止焦糊。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_hong-shao-ji-chi.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_hong-shao-ji-chi_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_hong-shao-ji-chi.jpg",
+  "overview_image": "overview/meat_dish_hong-shao-ji-chi_overview.jpg",
   "id": "meat_dish_hong-shao-ji-chi",
   "status": "published"
 }

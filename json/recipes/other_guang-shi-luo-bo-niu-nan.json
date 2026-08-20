@@ -160,7 +160,7 @@
         "块不要切太小，否则久煮易烂"
       ],
       "produces": "切好的萝卜块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_guang-shi-luo-bo-niu-nan/step_1.jpg"
+      "image": "steps/other_guang-shi-luo-bo-niu-nan/step_1.jpg"
     },
     {
       "index": 2,
@@ -171,7 +171,7 @@
         "整块焯水能更好保留肉香"
       ],
       "produces": "初步去腥的牛腩",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_guang-shi-luo-bo-niu-nan/step_2.jpg"
+      "image": "steps/other_guang-shi-luo-bo-niu-nan/step_2.jpg"
     },
     {
       "index": 3,
@@ -182,7 +182,7 @@
         "焯过水的牛腩后续焖煮基本不再缩水"
       ],
       "produces": "牛腩块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_guang-shi-luo-bo-niu-nan/step_3.jpg"
+      "image": "steps/other_guang-shi-luo-bo-niu-nan/step_3.jpg"
     },
     {
       "index": 4,
@@ -193,7 +193,7 @@
         "如果冰糖不方便融化，可用白糖代替"
       ],
       "produces": "混合酱料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_guang-shi-luo-bo-niu-nan/step_4.jpg"
+      "image": "steps/other_guang-shi-luo-bo-niu-nan/step_4.jpg"
     },
     {
       "index": 5,
@@ -204,7 +204,7 @@
         "炒干水分能让酱汁更入味"
       ],
       "produces": "上色的牛腩",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_guang-shi-luo-bo-niu-nan/step_5.jpg"
+      "image": "steps/other_guang-shi-luo-bo-niu-nan/step_5.jpg"
     },
     {
       "index": 6,
@@ -215,7 +215,7 @@
         "必须加热水，冷水会使牛肉纤维收缩变柴"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_guang-shi-luo-bo-niu-nan/step_6.jpg"
+      "image": "steps/other_guang-shi-luo-bo-niu-nan/step_6.jpg"
     },
     {
       "index": 7,
@@ -226,7 +226,7 @@
         "期间注意观察水量，防止干锅"
       ],
       "produces": "软烂的牛腩",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_guang-shi-luo-bo-niu-nan/step_7.jpg"
+      "image": "steps/other_guang-shi-luo-bo-niu-nan/step_7.jpg"
     },
     {
       "index": 8,
@@ -237,7 +237,7 @@
         "萝卜会出水，此时不需要额外加水"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_guang-shi-luo-bo-niu-nan/step_8.jpg"
+      "image": "steps/other_guang-shi-luo-bo-niu-nan/step_8.jpg"
     },
     {
       "index": 9,
@@ -248,7 +248,7 @@
         "最后可以大火稍微收汁让汤汁更浓郁"
       ],
       "produces": "广式萝卜牛腩",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_guang-shi-luo-bo-niu-nan/step_9.jpg"
+      "image": "steps/other_guang-shi-luo-bo-niu-nan/step_9.jpg"
     }
   ],
   "tips": [
@@ -257,8 +257,8 @@
     "若喜欢色泽深红浓郁，老抽的比例可以适当增加。",
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_guang-shi-luo-bo-niu-nan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_guang-shi-luo-bo-niu-nan_overview.jpg",
+  "cover_image": "ai-generated/other_guang-shi-luo-bo-niu-nan.jpg",
+  "overview_image": "overview/other_guang-shi-luo-bo-niu-nan_overview.jpg",
   "id": "other_guang-shi-luo-bo-niu-nan",
   "status": "published"
 }

@@ -75,7 +75,7 @@
         "确保容器无油无盐"
       ],
       "produces": "装有凉白开的盆",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bing-fen-de-zuo-fa/step_1.jpg"
+      "image": "steps/other_bing-fen-de-zuo-fa/step_1.jpg"
     },
     {
       "index": 2,
@@ -86,7 +86,7 @@
         "结要打死，防止揉搓时冰粉籽漏出"
       ],
       "produces": "冰粉籽纱布包",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bing-fen-de-zuo-fa/step_2.jpg"
+      "image": "steps/other_bing-fen-de-zuo-fa/step_2.jpg"
     },
     {
       "index": 3,
@@ -97,7 +97,7 @@
         "揉搓至水质变得黏稠，且有大量气泡产生"
       ],
       "produces": "冰粉原液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bing-fen-de-zuo-fa/step_3.jpg"
+      "image": "steps/other_bing-fen-de-zuo-fa/step_3.jpg"
     },
     {
       "index": 4,
@@ -108,7 +108,7 @@
         "静置期间不要晃动，环境温度较高可放入冰箱冷藏"
       ],
       "produces": "固态石凉粉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bing-fen-de-zuo-fa/step_4.jpg"
+      "image": "steps/other_bing-fen-de-zuo-fa/step_4.jpg"
     },
     {
       "index": 5,
@@ -119,15 +119,15 @@
         "搅拌力度要轻，保持果冻状质感"
       ],
       "produces": "成品冰粉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bing-fen-de-zuo-fa/step_5.jpg"
+      "image": "steps/other_bing-fen-de-zuo-fa/step_5.jpg"
     }
   ],
   "tips": [
     "操作时，需要注意观察凉白开的颜色和粘度变化",
     "如颜色过浅或者水不黏，则说明冰粉籽量不足，或者是揉搓力度和时间没有到位"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_bing-fen-de-zuo-fa.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_bing-fen-de-zuo-fa_overview.jpg",
+  "cover_image": "ai-generated/other_bing-fen-de-zuo-fa.jpg",
+  "overview_image": "overview/other_bing-fen-de-zuo-fa_overview.jpg",
   "id": "other_bing-fen-de-zuo-fa",
   "status": "published"
 }

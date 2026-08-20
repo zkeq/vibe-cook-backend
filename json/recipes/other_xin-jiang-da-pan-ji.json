@@ -167,7 +167,7 @@
         "一定要控干水，否则下锅炒糖色时会溅油"
       ],
       "produces": "处理过的鸡块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xin-jiang-da-pan-ji/step_1.jpg"
+      "image": "steps/other_xin-jiang-da-pan-ji/step_1.jpg"
     },
     {
       "index": 2,
@@ -178,7 +178,7 @@
         "土豆削皮后可防止氧化变色"
       ],
       "produces": "洗净的蔬菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xin-jiang-da-pan-ji/step_2.jpg"
+      "image": "steps/other_xin-jiang-da-pan-ji/step_2.jpg"
     },
     {
       "index": 3,
@@ -189,7 +189,7 @@
         "葱段切长一点更有卖相"
       ],
       "produces": "葱段与辣椒块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xin-jiang-da-pan-ji/step_3.jpg"
+      "image": "steps/other_xin-jiang-da-pan-ji/step_3.jpg"
     },
     {
       "index": 4,
@@ -200,7 +200,7 @@
         "切一刀滚动一下，受热更均匀"
       ],
       "produces": "滚刀土豆块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xin-jiang-da-pan-ji/step_4.jpg"
+      "image": "steps/other_xin-jiang-da-pan-ji/step_4.jpg"
     },
     {
       "index": 5,
@@ -211,7 +211,7 @@
         "火候不要太大，避免糖炒焦变苦"
       ],
       "produces": "上色鸡肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xin-jiang-da-pan-ji/step_5.jpg"
+      "image": "steps/other_xin-jiang-da-pan-ji/step_5.jpg"
     },
     {
       "index": 6,
@@ -222,7 +222,7 @@
         "炒出香味即可，不要炒糊"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xin-jiang-da-pan-ji/step_6.jpg"
+      "image": "steps/other_xin-jiang-da-pan-ji/step_6.jpg"
     },
     {
       "index": 7,
@@ -233,7 +233,7 @@
         "用啤酒代替料酒可以让鸡肉更嫩且有麦香味"
       ],
       "produces": "炖煮底汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xin-jiang-da-pan-ji/step_7.jpg"
+      "image": "steps/other_xin-jiang-da-pan-ji/step_7.jpg"
     },
     {
       "index": 8,
@@ -244,7 +244,7 @@
         "火候要稳，保证鸡肉熟透入味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xin-jiang-da-pan-ji/step_8.jpg"
+      "image": "steps/other_xin-jiang-da-pan-ji/step_8.jpg"
     },
     {
       "index": 9,
@@ -255,7 +255,7 @@
         "土豆放表面可以防止粘锅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xin-jiang-da-pan-ji/step_9.jpg"
+      "image": "steps/other_xin-jiang-da-pan-ji/step_9.jpg"
     },
     {
       "index": 10,
@@ -266,7 +266,7 @@
         "保留适量汤汁可以拌面吃"
       ],
       "produces": "新疆大盘鸡",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xin-jiang-da-pan-ji/step_10.jpg"
+      "image": "steps/other_xin-jiang-da-pan-ji/step_10.jpg"
     }
   ],
   "tips": [
@@ -274,8 +274,8 @@
     "炒糖色是关键步骤，决定了成品颜色是否红亮。",
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_xin-jiang-da-pan-ji.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_xin-jiang-da-pan-ji_overview.jpg",
+  "cover_image": "ai-generated/other_xin-jiang-da-pan-ji.jpg",
+  "overview_image": "overview/other_xin-jiang-da-pan-ji_overview.jpg",
   "id": "other_xin-jiang-da-pan-ji",
   "status": "published"
 }

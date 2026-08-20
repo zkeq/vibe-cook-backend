@@ -118,7 +118,7 @@
         "块不要切得太小，以免久炖化掉"
       ],
       "produces": "萝卜块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_luo-bo-dun-yang-pai/step_1.jpg"
+      "image": "steps/meat_dish_luo-bo-dun-yang-pai/step_1.jpg"
     },
     {
       "index": 2,
@@ -129,7 +129,7 @@
         "羊排洗净可减少血水"
       ],
       "produces": "切好的羊排",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_luo-bo-dun-yang-pai/step_2.jpg"
+      "image": "steps/meat_dish_luo-bo-dun-yang-pai/step_2.jpg"
     },
     {
       "index": 3,
@@ -140,7 +140,7 @@
         "焯的过程中出现的血沫子可以用勺子盛出来"
       ],
       "produces": "已去腥羊排",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_luo-bo-dun-yang-pai/step_3.jpg"
+      "image": "steps/meat_dish_luo-bo-dun-yang-pai/step_3.jpg"
     },
     {
       "index": 4,
@@ -151,7 +151,7 @@
         "加入冰糖焯水能有效去除萝卜的生辣气"
       ],
       "produces": "去辣萝卜块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_luo-bo-dun-yang-pai/step_4.jpg"
+      "image": "steps/meat_dish_luo-bo-dun-yang-pai/step_4.jpg"
     },
     {
       "index": 5,
@@ -162,7 +162,7 @@
         "水量要一次加足"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_luo-bo-dun-yang-pai/step_5.jpg"
+      "image": "steps/meat_dish_luo-bo-dun-yang-pai/step_5.jpg"
     },
     {
       "index": 6,
@@ -173,7 +173,7 @@
         "如没有高压锅，则放入普通锅中，炖大约 40 分钟到 1 小时"
       ],
       "produces": "半成品羊排汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_luo-bo-dun-yang-pai/step_6.jpg"
+      "image": "steps/meat_dish_luo-bo-dun-yang-pai/step_6.jpg"
     },
     {
       "index": 7,
@@ -184,7 +184,7 @@
         "开盖时注意安全，确认气压排尽"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_luo-bo-dun-yang-pai/step_7.jpg"
+      "image": "steps/meat_dish_luo-bo-dun-yang-pai/step_7.jpg"
     },
     {
       "index": 8,
@@ -195,7 +195,7 @@
         "普通锅盖盖再炖 20 分钟"
       ],
       "produces": "炖好的萝卜羊排",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_luo-bo-dun-yang-pai/step_8.jpg"
+      "image": "steps/meat_dish_luo-bo-dun-yang-pai/step_8.jpg"
     },
     {
       "index": 9,
@@ -206,7 +206,7 @@
         "趁热食用暖身效果最佳"
       ],
       "produces": "成品菜肴",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_luo-bo-dun-yang-pai/step_9.jpg"
+      "image": "steps/meat_dish_luo-bo-dun-yang-pai/step_9.jpg"
     }
   ],
   "tips": [
@@ -214,8 +214,8 @@
     "高压锅和普通锅的炖煮时间有显著差异，请根据厨具选择时间。",
     "白芷可以增加汤的香气并去膻，如果没有也可不放。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_luo-bo-dun-yang-pai.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_luo-bo-dun-yang-pai_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_luo-bo-dun-yang-pai.jpg",
+  "overview_image": "overview/meat_dish_luo-bo-dun-yang-pai_overview.jpg",
   "id": "meat_dish_luo-bo-dun-yang-pai",
   "status": "published"
 }

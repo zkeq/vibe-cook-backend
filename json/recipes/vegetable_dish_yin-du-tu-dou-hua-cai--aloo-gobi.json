@@ -163,7 +163,7 @@
         "土豆块不要切太小，否则容易炒散"
       ],
       "produces": "土豆块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_1.jpg"
+      "image": "steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_1.jpg"
     },
     {
       "index": 2,
@@ -174,7 +174,7 @@
         "保持大小均匀，确保受热一致"
       ],
       "produces": "花菜朵",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_2.jpg"
+      "image": "steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_2.jpg"
     },
     {
       "index": 3,
@@ -183,7 +183,7 @@
       "duration_sec": 60,
       "tips": null,
       "produces": "热油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_3.jpg"
+      "image": "steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_3.jpg"
     },
     {
       "index": 4,
@@ -194,7 +194,7 @@
         "约 10 秒，注意不要炸糊"
       ],
       "produces": "香料底油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_4.jpg"
+      "image": "steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_4.jpg"
     },
     {
       "index": 5,
@@ -205,7 +205,7 @@
         "约 3-4 分钟，洋葱焦糖化会增加甜味"
       ],
       "produces": "焦香洋葱",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_5.jpg"
+      "image": "steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_5.jpg"
     },
     {
       "index": 6,
@@ -214,7 +214,7 @@
       "duration_sec": 60,
       "tips": null,
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_6.jpg"
+      "image": "steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_6.jpg"
     },
     {
       "index": 7,
@@ -225,7 +225,7 @@
         "约 2-3 分钟，番茄会形成浓郁的底汁"
       ],
       "produces": "香料底酱",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_7.jpg"
+      "image": "steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_7.jpg"
     },
     {
       "index": 8,
@@ -234,7 +234,7 @@
       "duration_sec": 30,
       "tips": null,
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_8.jpg"
+      "image": "steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_8.jpg"
     },
     {
       "index": 9,
@@ -243,7 +243,7 @@
       "duration_sec": 60,
       "tips": null,
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_9.jpg"
+      "image": "steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_9.jpg"
     },
     {
       "index": 10,
@@ -252,7 +252,7 @@
       "duration_sec": 120,
       "tips": null,
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_10.jpg"
+      "image": "steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_10.jpg"
     },
     {
       "index": 11,
@@ -263,7 +263,7 @@
         "动作轻柔，避免弄碎花菜"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_11.jpg"
+      "image": "steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_11.jpg"
     },
     {
       "index": 12,
@@ -275,7 +275,7 @@
         "如果太干可加入极少量水"
       ],
       "produces": "熟透的土豆花菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_12.jpg"
+      "image": "steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_12.jpg"
     },
     {
       "index": 13,
@@ -286,7 +286,7 @@
         "花菜边缘略微焦黄是风味的来源"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_13.jpg"
+      "image": "steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_13.jpg"
     },
     {
       "index": 14,
@@ -295,7 +295,7 @@
       "duration_sec": 60,
       "tips": null,
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_14.jpg"
+      "image": "steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_14.jpg"
     },
     {
       "index": 15,
@@ -304,7 +304,7 @@
       "duration_sec": 30,
       "tips": null,
       "produces": "成品 Aloo Gobi",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_15.jpg"
+      "image": "steps/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi/step_15.jpg"
     }
   ],
   "tips": [
@@ -314,8 +314,8 @@
     "可以搭配印度烤饼(Naan)、印度薄饼(Roti)或米饭食用。",
     "Aloo Gobi 因 2001 年的电影《像贝克汉姆一样踢球》而在西方世界广为人知。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi.jpg",
+  "overview_image": "overview/vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi_overview.jpg",
   "id": "vegetable_dish_yin-du-tu-dou-hua-cai--aloo-gobi",
   "status": "published"
 }

@@ -165,7 +165,7 @@
         "刨丝时注意安全，避免伤手"
       ],
       "produces": "瓠瓜丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-hu-lu-wan-zi/step_1.jpg"
+      "image": "steps/vegetable_dish_yin-du-hu-lu-wan-zi/step_1.jpg"
     },
     {
       "index": 2,
@@ -176,7 +176,7 @@
         "这是关键步骤，水分过多会导致丸子散开无法成型"
       ],
       "produces": "干瓠瓜丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-hu-lu-wan-zi/step_2.jpg"
+      "image": "steps/vegetable_dish_yin-du-hu-lu-wan-zi/step_2.jpg"
     },
     {
       "index": 3,
@@ -187,7 +187,7 @@
         "揉成不粘手的面团状即可"
       ],
       "produces": "丸子面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-hu-lu-wan-zi/step_3.jpg"
+      "image": "steps/vegetable_dish_yin-du-hu-lu-wan-zi/step_3.jpg"
     },
     {
       "index": 4,
@@ -198,7 +198,7 @@
         "尽量保证大小一致，方便受热均匀"
       ],
       "produces": "生丸子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-hu-lu-wan-zi/step_4.jpg"
+      "image": "steps/vegetable_dish_yin-du-hu-lu-wan-zi/step_4.jpg"
     },
     {
       "index": 5,
@@ -209,7 +209,7 @@
         "不要一次放入太多，避免油温下降"
       ],
       "produces": "炸丸子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-hu-lu-wan-zi/step_5.jpg"
+      "image": "steps/vegetable_dish_yin-du-hu-lu-wan-zi/step_5.jpg"
     },
     {
       "index": 6,
@@ -220,7 +220,7 @@
         "吸油可以减少油腻感"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-hu-lu-wan-zi/step_6.jpg"
+      "image": "steps/vegetable_dish_yin-du-hu-lu-wan-zi/step_6.jpg"
     },
     {
       "index": 7,
@@ -231,7 +231,7 @@
         "充分焦糖化的洋葱是酱汁灵魂"
       ],
       "produces": "焦糖色洋葱",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-hu-lu-wan-zi/step_7.jpg"
+      "image": "steps/vegetable_dish_yin-du-hu-lu-wan-zi/step_7.jpg"
     },
     {
       "index": 8,
@@ -242,7 +242,7 @@
         "炒至出油说明番茄水分已蒸发，风味浓缩"
       ],
       "produces": "咖喱底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-hu-lu-wan-zi/step_8.jpg"
+      "image": "steps/vegetable_dish_yin-du-hu-lu-wan-zi/step_8.jpg"
     },
     {
       "index": 9,
@@ -253,7 +253,7 @@
         "香料与番茄充分融合方能出味"
       ],
       "produces": "咖喱酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-hu-lu-wan-zi/step_9.jpg"
+      "image": "steps/vegetable_dish_yin-du-hu-lu-wan-zi/step_9.jpg"
     },
     {
       "index": 10,
@@ -264,7 +264,7 @@
         "丸子不宜炖太久，否则会变软失去口感"
       ],
       "produces": "印度葫芦丸子成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_yin-du-hu-lu-wan-zi/step_10.jpg"
+      "image": "steps/vegetable_dish_yin-du-hu-lu-wan-zi/step_10.jpg"
     }
   ],
   "tips": [
@@ -273,8 +273,8 @@
     "此菜在印度通常搭配印度烤饼(Naan)或蒸米饭(Chawal)食用。",
     "Kofte一词源自波斯语/阿拉伯语，意为'压碎、磨碎'，广泛流传于南亚和中东地区。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_yin-du-hu-lu-wan-zi.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_yin-du-hu-lu-wan-zi_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_yin-du-hu-lu-wan-zi.jpg",
+  "overview_image": "overview/vegetable_dish_yin-du-hu-lu-wan-zi_overview.jpg",
   "id": "vegetable_dish_yin-du-hu-lu-wan-zi",
   "status": "published"
 }

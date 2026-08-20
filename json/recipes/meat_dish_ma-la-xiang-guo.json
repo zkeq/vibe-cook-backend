@@ -108,7 +108,7 @@
         "建议大火烧水以节省时间"
       ],
       "produces": "沸水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-la-xiang-guo/step_1.jpg"
+      "image": "steps/meat_dish_ma-la-xiang-guo/step_1.jpg"
     },
     {
       "index": 2,
@@ -119,7 +119,7 @@
         "不要焯水过久以免蔬菜变黄"
       ],
       "produces": "焯好的青菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-la-xiang-guo/step_2.jpg"
+      "image": "steps/meat_dish_ma-la-xiang-guo/step_2.jpg"
     },
     {
       "index": 3,
@@ -130,7 +130,7 @@
         "肉类焯水可以去除腥味和杂质"
       ],
       "produces": "焯好的无骨肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-la-xiang-guo/step_3.jpg"
+      "image": "steps/meat_dish_ma-la-xiang-guo/step_3.jpg"
     },
     {
       "index": 4,
@@ -141,7 +141,7 @@
         "面条不宜煮得太软，因为后面还要翻炒"
       ],
       "produces": "半熟的方便面",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-la-xiang-guo/step_4.jpg"
+      "image": "steps/meat_dish_ma-la-xiang-guo/step_4.jpg"
     },
     {
       "index": 5,
@@ -152,7 +152,7 @@
         "一定要擦干锅具防止热油溅出"
       ],
       "produces": "热油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-la-xiang-guo/step_5.jpg"
+      "image": "steps/meat_dish_ma-la-xiang-guo/step_5.jpg"
     },
     {
       "index": 6,
@@ -163,7 +163,7 @@
         "动作要快，防止底料炒糊"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-la-xiang-guo/step_6.jpg"
+      "image": "steps/meat_dish_ma-la-xiang-guo/step_6.jpg"
     },
     {
       "index": 7,
@@ -174,7 +174,7 @@
         "辣椒香味溢出即可"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-la-xiang-guo/step_7.jpg"
+      "image": "steps/meat_dish_ma-la-xiang-guo/step_7.jpg"
     },
     {
       "index": 8,
@@ -185,7 +185,7 @@
         "中火慢炒让蔬菜均匀挂上调料"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-la-xiang-guo/step_8.jpg"
+      "image": "steps/meat_dish_ma-la-xiang-guo/step_8.jpg"
     },
     {
       "index": 9,
@@ -196,7 +196,7 @@
         "确保肉类充分吸收调料味道"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-la-xiang-guo/step_9.jpg"
+      "image": "steps/meat_dish_ma-la-xiang-guo/step_9.jpg"
     },
     {
       "index": 10,
@@ -207,7 +207,7 @@
         "使用筷子可以避免面条断裂"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-la-xiang-guo/step_10.jpg"
+      "image": "steps/meat_dish_ma-la-xiang-guo/step_10.jpg"
     },
     {
       "index": 11,
@@ -218,7 +218,7 @@
         "装盘后可撒少量芝麻或香菜点缀"
       ],
       "produces": "麻辣香锅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_ma-la-xiang-guo/step_11.jpg"
+      "image": "steps/meat_dish_ma-la-xiang-guo/step_11.jpg"
     }
   ],
   "tips": [
@@ -226,8 +226,8 @@
     "中火通常温度在 120 摄氏度，以电磁炉为例，输入功率大约 1.4 千瓦。",
     "青菜、无骨肉、干豆腐、北京麻辣方便面的配比为推荐配比，如果有自己喜欢的食材，可以按喜好重新分配比例。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_ma-la-xiang-guo.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_ma-la-xiang-guo_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_ma-la-xiang-guo.jpg",
+  "overview_image": "overview/meat_dish_ma-la-xiang-guo_overview.jpg",
   "id": "meat_dish_ma-la-xiang-guo",
   "status": "published"
 }

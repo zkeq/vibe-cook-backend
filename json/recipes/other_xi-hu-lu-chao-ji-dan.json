@@ -92,7 +92,7 @@
         "切块不宜过大，以便更快炒出汁水"
       ],
       "produces": "西红柿块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hu-lu-chao-ji-dan/step_1.jpg"
+      "image": "steps/other_xi-hu-lu-chao-ji-dan/step_1.jpg"
     },
     {
       "index": 2,
@@ -103,7 +103,7 @@
         "菱形片受热均匀且外形美观"
       ],
       "produces": "西葫芦片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hu-lu-chao-ji-dan/step_2.jpg"
+      "image": "steps/other_xi-hu-lu-chao-ji-dan/step_2.jpg"
     },
     {
       "index": 3,
@@ -114,7 +114,7 @@
         "可以加入少许料酒去腥"
       ],
       "produces": "鸡蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hu-lu-chao-ji-dan/step_3.jpg"
+      "image": "steps/other_xi-hu-lu-chao-ji-dan/step_3.jpg"
     },
     {
       "index": 4,
@@ -125,7 +125,7 @@
         "油热到微微冒烟时倒入蛋液效果最好"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hu-lu-chao-ji-dan/step_4.jpg"
+      "image": "steps/other_xi-hu-lu-chao-ji-dan/step_4.jpg"
     },
     {
       "index": 5,
@@ -136,7 +136,7 @@
         "鸡蛋不要炒得太老，保持鲜嫩"
       ],
       "produces": "炒鸡蛋块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hu-lu-chao-ji-dan/step_5.jpg"
+      "image": "steps/other_xi-hu-lu-chao-ji-dan/step_5.jpg"
     },
     {
       "index": 6,
@@ -147,7 +147,7 @@
         "炒出红油效果更佳"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hu-lu-chao-ji-dan/step_6.jpg"
+      "image": "steps/other_xi-hu-lu-chao-ji-dan/step_6.jpg"
     },
     {
       "index": 7,
@@ -158,7 +158,7 @@
         "加盐后西葫芦会出水，利用自带的水分焖熟，无需额外加水"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hu-lu-chao-ji-dan/step_7.jpg"
+      "image": "steps/other_xi-hu-lu-chao-ji-dan/step_7.jpg"
     },
     {
       "index": 8,
@@ -169,7 +169,7 @@
         "时间不宜过长，让鸡蛋吸附汤汁即可"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hu-lu-chao-ji-dan/step_8.jpg"
+      "image": "steps/other_xi-hu-lu-chao-ji-dan/step_8.jpg"
     },
     {
       "index": 9,
@@ -180,7 +180,7 @@
         "趁热享用口感最佳"
       ],
       "produces": "西葫芦炒鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xi-hu-lu-chao-ji-dan/step_9.jpg"
+      "image": "steps/other_xi-hu-lu-chao-ji-dan/step_9.jpg"
     }
   ],
   "tips": [
@@ -188,8 +188,8 @@
     "西红柿是点睛之笔，建议不要省略",
     "制作过程中通过小火焖煮可以保留食材的原汁原味"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_xi-hu-lu-chao-ji-dan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_xi-hu-lu-chao-ji-dan_overview.jpg",
+  "cover_image": "ai-generated/other_xi-hu-lu-chao-ji-dan.jpg",
+  "overview_image": "overview/other_xi-hu-lu-chao-ji-dan_overview.jpg",
   "id": "other_xi-hu-lu-chao-ji-dan",
   "status": "published"
 }

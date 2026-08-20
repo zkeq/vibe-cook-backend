@@ -73,7 +73,7 @@
         "叶类蔬菜受热后体积会迅速减小，准备时看起来多是正常的"
       ],
       "produces": "洗净的蔬菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shui-you-men-shu-cai/step_1.jpg"
+      "image": "steps/vegetable_dish_shui-you-men-shu-cai/step_1.jpg"
     },
     {
       "index": 2,
@@ -84,7 +84,7 @@
         "水不需要能完全没过蔬菜，因为后续会盖盖产生蒸汽"
       ],
       "produces": "沸水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shui-you-men-shu-cai/step_2.jpg"
+      "image": "steps/vegetable_dish_shui-you-men-shu-cai/step_2.jpg"
     },
     {
       "index": 3,
@@ -95,7 +95,7 @@
         "先加油能让蔬菜入锅时立即锁色"
       ],
       "produces": "调味汤底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shui-you-men-shu-cai/step_3.jpg"
+      "image": "steps/vegetable_dish_shui-you-men-shu-cai/step_3.jpg"
     },
     {
       "index": 4,
@@ -106,7 +106,7 @@
         "焖的时间不可过长，否则蔬菜会变黄变软，失去爽脆口感"
       ],
       "produces": "焖熟的蔬菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shui-you-men-shu-cai/step_4.jpg"
+      "image": "steps/vegetable_dish_shui-you-men-shu-cai/step_4.jpg"
     },
     {
       "index": 5,
@@ -117,7 +117,7 @@
         "出锅前可以先尝一下咸淡"
       ],
       "produces": "水油焖蔬菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_shui-you-men-shu-cai/step_5.jpg"
+      "image": "steps/vegetable_dish_shui-you-men-shu-cai/step_5.jpg"
     }
   ],
   "tips": [
@@ -125,8 +125,8 @@
     "可以用鸡汤、骨头汤等替代水，味道会更加鲜美浓郁",
     "焖的时间不可过长，保持蔬菜翠绿是关键"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_shui-you-men-shu-cai.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_shui-you-men-shu-cai_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_shui-you-men-shu-cai.jpg",
+  "overview_image": "overview/vegetable_dish_shui-you-men-shu-cai_overview.jpg",
   "id": "vegetable_dish_shui-you-men-shu-cai",
   "status": "published"
 }

@@ -67,7 +67,7 @@
         "直接倒入即可，尽量不要挂壁"
       ],
       "produces": "底层咖啡酒层",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_b52-hong-zha-ji/step_1.jpg"
+      "image": "steps/drink_b52-hong-zha-ji/step_1.jpg"
     },
     {
       "index": 2,
@@ -79,7 +79,7 @@
         "太快甜酒会和咖啡混合"
       ],
       "produces": "双层分层液体",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_b52-hong-zha-ji/step_2.jpg"
+      "image": "steps/drink_b52-hong-zha-ji/step_2.jpg"
     },
     {
       "index": 3,
@@ -90,7 +90,7 @@
         "同样需要利用吧勺缓冲，防止破坏分层"
       ],
       "produces": "三层分层鸡尾酒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_b52-hong-zha-ji/step_3.jpg"
+      "image": "steps/drink_b52-hong-zha-ji/step_3.jpg"
     },
     {
       "index": 4,
@@ -101,7 +101,7 @@
         "预热杯口有助于顶部酒精更容易点燃"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_b52-hong-zha-ji/step_4.jpg"
+      "image": "steps/drink_b52-hong-zha-ji/step_4.jpg"
     },
     {
       "index": 5,
@@ -112,7 +112,7 @@
         "注意用火安全，头发和衣物避开"
       ],
       "produces": "燃烧的B52轰炸机",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_b52-hong-zha-ji/step_5.jpg"
+      "image": "steps/drink_b52-hong-zha-ji/step_5.jpg"
     }
   ],
   "tips": [
@@ -120,8 +120,8 @@
     "由于吸管太细，其中氧气不足，所以火苗会灭掉，不必担心。",
     "这时候，会感到一股热辣顺着喉咙一直烈到胃，之后就是久久的咖啡奶油回甘。非常刺激又好喝。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/drink_b52-hong-zha-ji.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/drink_b52-hong-zha-ji_overview.jpg",
+  "cover_image": "ai-generated/drink_b52-hong-zha-ji.jpg",
+  "overview_image": "overview/drink_b52-hong-zha-ji_overview.jpg",
   "id": "drink_b52-hong-zha-ji",
   "status": "published"
 }

@@ -190,7 +190,7 @@
         "刀背拍打能让肉质更松软"
       ],
       "produces": "处理好的鸡丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gong-bao-ji-ding/step_1.jpg"
+      "image": "steps/other_gong-bao-ji-ding/step_1.jpg"
     },
     {
       "index": 2,
@@ -201,7 +201,7 @@
         "葱姜水是去腥增香的关键"
       ],
       "produces": "葱姜水、葱粒、焙干花生",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gong-bao-ji-ding/step_2.jpg"
+      "image": "steps/other_gong-bao-ji-ding/step_2.jpg"
     },
     {
       "index": 3,
@@ -212,7 +212,7 @@
         "一定要分次打入葱姜水让肉吸饱水分"
       ],
       "produces": "腌制好的鸡丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gong-bao-ji-ding/step_3.jpg"
+      "image": "steps/other_gong-bao-ji-ding/step_3.jpg"
     },
     {
       "index": 4,
@@ -223,7 +223,7 @@
         "火一定要小，防止糊掉发苦"
       ],
       "produces": "焙香的辣椒和花椒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gong-bao-ji-ding/step_4.jpg"
+      "image": "steps/other_gong-bao-ji-ding/step_4.jpg"
     },
     {
       "index": 5,
@@ -234,7 +234,7 @@
         "竹筷子起泡即为 7 成热"
       ],
       "produces": "半熟鸡丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gong-bao-ji-ding/step_5.jpg"
+      "image": "steps/other_gong-bao-ji-ding/step_5.jpg"
     },
     {
       "index": 6,
@@ -245,7 +245,7 @@
         "务必使用热水以免肉质收缩变柴"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gong-bao-ji-ding/step_6.jpg"
+      "image": "steps/other_gong-bao-ji-ding/step_6.jpg"
     },
     {
       "index": 7,
@@ -256,7 +256,7 @@
         "大火快炒保持花生酥脆"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gong-bao-ji-ding/step_7.jpg"
+      "image": "steps/other_gong-bao-ji-ding/step_7.jpg"
     },
     {
       "index": 8,
@@ -267,7 +267,7 @@
         "水淀粉比例为 10g 淀粉加 50g 水"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gong-bao-ji-ding/step_8.jpg"
+      "image": "steps/other_gong-bao-ji-ding/step_8.jpg"
     },
     {
       "index": 9,
@@ -278,15 +278,15 @@
         "最后淋油能增加亮度与香气"
       ],
       "produces": "宫保鸡丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gong-bao-ji-ding/step_9.jpg"
+      "image": "steps/other_gong-bao-ji-ding/step_9.jpg"
     }
   ],
   "tips": [
     "辣椒依据个人口味酌量添加，怕辣可去籽",
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_gong-bao-ji-ding.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_gong-bao-ji-ding_overview.jpg",
+  "cover_image": "ai-generated/other_gong-bao-ji-ding.jpg",
+  "overview_image": "overview/other_gong-bao-ji-ding_overview.jpg",
   "id": "other_gong-bao-ji-ding",
   "status": "published"
 }

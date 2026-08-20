@@ -187,7 +187,7 @@
         "蒜瓣拍碎比切末更香"
       ],
       "produces": "葱蒜碎",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-he-fen/step_1.jpg"
+      "image": "steps/staple_chao-he-fen/step_1.jpg"
     },
     {
       "index": 2,
@@ -198,7 +198,7 @@
         "蛋清可以使肉质更嫩"
       ],
       "produces": "分装的蛋液和蛋清",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-he-fen/step_2.jpg"
+      "image": "steps/staple_chao-he-fen/step_2.jpg"
     },
     {
       "index": 3,
@@ -209,7 +209,7 @@
         "过凉水能保持豆芽脆爽"
       ],
       "produces": "熟豆芽",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-he-fen/step_3.jpg"
+      "image": "steps/staple_chao-he-fen/step_3.jpg"
     },
     {
       "index": 4,
@@ -220,7 +220,7 @@
         "丝切得匀称口感更好"
       ],
       "produces": "黄瓜丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-he-fen/step_4.jpg"
+      "image": "steps/staple_chao-he-fen/step_4.jpg"
     },
     {
       "index": 5,
@@ -231,7 +231,7 @@
         "清洗后挤水不要过于用力，防止面筋破碎"
       ],
       "produces": "处理好的面筋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-he-fen/step_5.jpg"
+      "image": "steps/staple_chao-he-fen/step_5.jpg"
     },
     {
       "index": 6,
@@ -242,7 +242,7 @@
         "顺时针搅拌能让肉更好地吸收水分和浆料"
       ],
       "produces": "腌制肉丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-he-fen/step_6.jpg"
+      "image": "steps/staple_chao-he-fen/step_6.jpg"
     },
     {
       "index": 7,
@@ -253,7 +253,7 @@
         "热锅凉油可以防止肉丝粘锅"
       ],
       "produces": "熟肉丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-he-fen/step_7.jpg"
+      "image": "steps/staple_chao-he-fen/step_7.jpg"
     },
     {
       "index": 8,
@@ -264,7 +264,7 @@
         "注意火候，不要把蒜炒焦"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-he-fen/step_8.jpg"
+      "image": "steps/staple_chao-he-fen/step_8.jpg"
     },
     {
       "index": 9,
@@ -275,7 +275,7 @@
         "若河粉表面油多，入锅前可用水清洗"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-he-fen/step_9.jpg"
+      "image": "steps/staple_chao-he-fen/step_9.jpg"
     },
     {
       "index": 10,
@@ -286,7 +286,7 @@
         "生抽不要放太早，以免颜色过深或发苦"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-he-fen/step_10.jpg"
+      "image": "steps/staple_chao-he-fen/step_10.jpg"
     },
     {
       "index": 11,
@@ -297,7 +297,7 @@
         "黄瓜和豆芽不宜久炒，保持脆度"
       ],
       "produces": "炒河粉成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-he-fen/step_11.jpg"
+      "image": "steps/staple_chao-he-fen/step_11.jpg"
     },
     {
       "index": 12,
@@ -308,7 +308,7 @@
         "趁热食用，镬气最足"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_chao-he-fen/step_12.jpg"
+      "image": "steps/staple_chao-he-fen/step_12.jpg"
     }
   ],
   "tips": [
@@ -317,8 +317,8 @@
     "河粉建议买鲜河粉，口感比干河粉更软韧",
     "面筋和凉皮表面的食用油清洗掉后炒制更清爽"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_chao-he-fen.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_chao-he-fen_overview.jpg",
+  "cover_image": "ai-generated/staple_chao-he-fen.jpg",
+  "overview_image": "overview/staple_chao-he-fen_overview.jpg",
   "id": "staple_chao-he-fen",
   "status": "published"
 }

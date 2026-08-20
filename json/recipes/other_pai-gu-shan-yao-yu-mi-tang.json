@@ -125,7 +125,7 @@
         "处理山药建议佩戴手套，防止粘液导致皮肤过敏"
       ],
       "produces": "预处理后的蔬菜块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pai-gu-shan-yao-yu-mi-tang/step_1.jpg"
+      "image": "steps/other_pai-gu-shan-yao-yu-mi-tang/step_1.jpg"
     },
     {
       "index": 2,
@@ -137,7 +137,7 @@
         "使用温水清洗排骨可保持肉质鲜嫩"
       ],
       "produces": "焯水洗净的排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pai-gu-shan-yao-yu-mi-tang/step_2.jpg"
+      "image": "steps/other_pai-gu-shan-yao-yu-mi-tang/step_2.jpg"
     },
     {
       "index": 3,
@@ -148,7 +148,7 @@
         "翻炒排骨能激发肉香，使汤头更浓郁"
       ],
       "produces": "微焦的排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pai-gu-shan-yao-yu-mi-tang/step_3.jpg"
+      "image": "steps/other_pai-gu-shan-yao-yu-mi-tang/step_3.jpg"
     },
     {
       "index": 4,
@@ -159,7 +159,7 @@
         "建议一次性加足水，中途避免加冷水"
       ],
       "produces": "初具风味的汤品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pai-gu-shan-yao-yu-mi-tang/step_4.jpg"
+      "image": "steps/other_pai-gu-shan-yao-yu-mi-tang/step_4.jpg"
     },
     {
       "index": 5,
@@ -170,7 +170,7 @@
         "盐要最后放，以免肉质变柴"
       ],
       "produces": "成品排骨山药玉米汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pai-gu-shan-yao-yu-mi-tang/step_5.jpg"
+      "image": "steps/other_pai-gu-shan-yao-yu-mi-tang/step_5.jpg"
     }
   ],
   "tips": [
@@ -178,8 +178,8 @@
     "口感控制：若喜欢山药极度软糯，可与排骨同时下锅；若喜欢山药成块不散，可在排骨炖煮 20 分钟后再放入山药。",
     "补水须知：炖煮过程中如发现水位低于食材，务必添加热水，避免加入冷水导致肉质纤维瞬间收缩变柴。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_pai-gu-shan-yao-yu-mi-tang.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_pai-gu-shan-yao-yu-mi-tang_overview.jpg",
+  "cover_image": "ai-generated/other_pai-gu-shan-yao-yu-mi-tang.jpg",
+  "overview_image": "overview/other_pai-gu-shan-yao-yu-mi-tang_overview.jpg",
   "id": "other_pai-gu-shan-yao-yu-mi-tang",
   "status": "published"
 }

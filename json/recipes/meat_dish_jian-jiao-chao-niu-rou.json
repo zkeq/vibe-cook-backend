@@ -132,7 +132,7 @@
         "尖椒切段前可以去籽以降低辣度"
       ],
       "produces": "预处理配菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_jian-jiao-chao-niu-rou/step_1.jpg"
+      "image": "steps/meat_dish_jian-jiao-chao-niu-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -144,7 +144,7 @@
         "腌制完后记得去掉姜片"
       ],
       "produces": "腌制好的牛肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_jian-jiao-chao-niu-rou/step_2.jpg"
+      "image": "steps/meat_dish_jian-jiao-chao-niu-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -155,7 +155,7 @@
         "蒜泥容易糊，注意火候"
       ],
       "produces": "蒜香底油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_jian-jiao-chao-niu-rou/step_3.jpg"
+      "image": "steps/meat_dish_jian-jiao-chao-niu-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -166,7 +166,7 @@
         "尖椒炒至断生即可保持清脆"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_jian-jiao-chao-niu-rou/step_4.jpg"
+      "image": "steps/meat_dish_jian-jiao-chao-niu-rou/step_4.jpg"
     },
     {
       "index": 5,
@@ -177,7 +177,7 @@
         "大火快炒可以锁住牛肉水分"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_jian-jiao-chao-niu-rou/step_5.jpg"
+      "image": "steps/meat_dish_jian-jiao-chao-niu-rou/step_5.jpg"
     },
     {
       "index": 6,
@@ -188,7 +188,7 @@
         "葱段最后放可以保持色泽和香味"
       ],
       "produces": "尖椒炒牛肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_jian-jiao-chao-niu-rou/step_6.jpg"
+      "image": "steps/meat_dish_jian-jiao-chao-niu-rou/step_6.jpg"
     }
   ],
   "tips": [
@@ -196,8 +196,8 @@
     "腌制的时候姜片可用料酒代替，料酒的用量为 3 g/人。",
     "牛肉切片时应逆着纹路切，这样纤维被切断后口感更好。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_jian-jiao-chao-niu-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_jian-jiao-chao-niu-rou_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_jian-jiao-chao-niu-rou.jpg",
+  "overview_image": "overview/meat_dish_jian-jiao-chao-niu-rou_overview.jpg",
   "id": "meat_dish_jian-jiao-chao-niu-rou",
   "status": "published"
 }

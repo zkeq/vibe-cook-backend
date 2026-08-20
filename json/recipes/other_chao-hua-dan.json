@@ -66,7 +66,7 @@
         "加入少量食用油可以使炒出的蛋更加润滑"
       ],
       "produces": "混合蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-hua-dan/step_1.jpg"
+      "image": "steps/other_chao-hua-dan/step_1.jpg"
     },
     {
       "index": 2,
@@ -77,7 +77,7 @@
         "平底锅受热更均匀，适合做滑蛋"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-hua-dan/step_2.jpg"
+      "image": "steps/other_chao-hua-dan/step_2.jpg"
     },
     {
       "index": 3,
@@ -88,7 +88,7 @@
         "一定要转小火，防止鸡蛋底部过快变硬"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-hua-dan/step_3.jpg"
+      "image": "steps/other_chao-hua-dan/step_3.jpg"
     },
     {
       "index": 4,
@@ -99,7 +99,7 @@
         "动作要慢，这是形成漂亮褶皱和滑嫩口感的关键"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-hua-dan/step_4.jpg"
+      "image": "steps/other_chao-hua-dan/step_4.jpg"
     },
     {
       "index": 5,
@@ -110,14 +110,14 @@
         "利用余温让蛋液完全凝固，不要在火上停留太久"
       ],
       "produces": "炒滑蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_chao-hua-dan/step_5.jpg"
+      "image": "steps/other_chao-hua-dan/step_5.jpg"
     }
   ],
   "tips": [
     "最后可根据个人口味撒些黑胡椒或者盐来调味。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_chao-hua-dan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_chao-hua-dan_overview.jpg",
+  "cover_image": "ai-generated/other_chao-hua-dan.jpg",
+  "overview_image": "overview/other_chao-hua-dan_overview.jpg",
   "id": "other_chao-hua-dan",
   "status": "published"
 }

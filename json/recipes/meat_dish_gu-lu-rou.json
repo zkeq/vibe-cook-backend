@@ -140,7 +140,7 @@
         "抹干水分是为了防止炸的时候溅油"
       ],
       "produces": "切好的猪肉块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_gu-lu-rou/step_1.jpg"
+      "image": "steps/meat_dish_gu-lu-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -151,7 +151,7 @@
         "腌制能让肉质更入味"
       ],
       "produces": "腌制好的猪肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_gu-lu-rou/step_2.jpg"
+      "image": "steps/meat_dish_gu-lu-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -162,7 +162,7 @@
         "切成菱形块状视觉效果更佳"
       ],
       "produces": "青椒块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_gu-lu-rou/step_3.jpg"
+      "image": "steps/meat_dish_gu-lu-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -173,7 +173,7 @@
         "菠萝的大小应与肉块保持一致"
       ],
       "produces": "菠萝块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_gu-lu-rou/step_4.jpg"
+      "image": "steps/meat_dish_gu-lu-rou/step_4.jpg"
     },
     {
       "index": 5,
@@ -184,7 +184,7 @@
         "搅拌均匀，确保生粉没有沉淀"
       ],
       "produces": "混合酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_gu-lu-rou/step_5.jpg"
+      "image": "steps/meat_dish_gu-lu-rou/step_5.jpg"
     },
     {
       "index": 6,
@@ -195,7 +195,7 @@
         "每一块肉都要均匀裹上生粉，拍掉多余的浮粉"
       ],
       "produces": "裹粉的猪肉粒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_gu-lu-rou/step_6.jpg"
+      "image": "steps/meat_dish_gu-lu-rou/step_6.jpg"
     },
     {
       "index": 7,
@@ -206,7 +206,7 @@
         "筷子放入油中冒小泡即表示油温合适"
       ],
       "produces": "热油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_gu-lu-rou/step_7.jpg"
+      "image": "steps/meat_dish_gu-lu-rou/step_7.jpg"
     },
     {
       "index": 8,
@@ -217,7 +217,7 @@
         "初炸是为了把肉炸熟"
       ],
       "produces": "半成品猪肉粒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_gu-lu-rou/step_8.jpg"
+      "image": "steps/meat_dish_gu-lu-rou/step_8.jpg"
     },
     {
       "index": 9,
@@ -228,7 +228,7 @@
         "复炸能逼出多余油脂，使表皮更酥脆"
       ],
       "produces": "酥脆猪肉粒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_gu-lu-rou/step_9.jpg"
+      "image": "steps/meat_dish_gu-lu-rou/step_9.jpg"
     },
     {
       "index": 10,
@@ -239,7 +239,7 @@
         "加热至酱汁变得浓稠挂勺"
       ],
       "produces": "浓稠酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_gu-lu-rou/step_10.jpg"
+      "image": "steps/meat_dish_gu-lu-rou/step_10.jpg"
     },
     {
       "index": 11,
@@ -250,7 +250,7 @@
         "大火快速翻炒，保持青椒的翠绿"
       ],
       "produces": "带配菜的酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_gu-lu-rou/step_11.jpg"
+      "image": "steps/meat_dish_gu-lu-rou/step_11.jpg"
     },
     {
       "index": 12,
@@ -261,7 +261,7 @@
         "动作要快，防止肉块外皮因吸收过多水分而变软"
       ],
       "produces": "咕噜肉成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_gu-lu-rou/step_12.jpg"
+      "image": "steps/meat_dish_gu-lu-rou/step_12.jpg"
     }
   ],
   "tips": [
@@ -269,8 +269,8 @@
     "炸肉的火候是关键，复炸不可省略",
     "菠萝建议使用罐头的，酸甜度更均衡"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_gu-lu-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_gu-lu-rou_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_gu-lu-rou.jpg",
+  "overview_image": "overview/meat_dish_gu-lu-rou_overview.jpg",
   "id": "meat_dish_gu-lu-rou",
   "status": "published"
 }

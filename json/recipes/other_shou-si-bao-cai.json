@@ -167,7 +167,7 @@
         "硬芯口感不好，建议去除。"
       ],
       "produces": "去芯包菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shou-si-bao-cai/step_1.jpg"
+      "image": "steps/other_shou-si-bao-cai/step_1.jpg"
     },
     {
       "index": 2,
@@ -178,7 +178,7 @@
         "手撕的断面不规则，比刀切的更易入味。"
       ],
       "produces": "干净的包菜块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shou-si-bao-cai/step_2.jpg"
+      "image": "steps/other_shou-si-bao-cai/step_2.jpg"
     },
     {
       "index": 3,
@@ -187,7 +187,7 @@
       "duration_sec": 120,
       "tips": [],
       "produces": "辅料拼盘",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shou-si-bao-cai/step_3.jpg"
+      "image": "steps/other_shou-si-bao-cai/step_3.jpg"
     },
     {
       "index": 4,
@@ -198,7 +198,7 @@
         "肉片切薄一点更容易煸出油脂。"
       ],
       "produces": "五花肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shou-si-bao-cai/step_4.jpg"
+      "image": "steps/other_shou-si-bao-cai/step_4.jpg"
     },
     {
       "index": 5,
@@ -210,7 +210,7 @@
         "炒至七分熟即可（质感变软）"
       ],
       "produces": "半熟包菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shou-si-bao-cai/step_5.jpg"
+      "image": "steps/other_shou-si-bao-cai/step_5.jpg"
     },
     {
       "index": 6,
@@ -221,7 +221,7 @@
         "将五花肉炒至微焦发黄口感最好。"
       ],
       "produces": "干香五花肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shou-si-bao-cai/step_6.jpg"
+      "image": "steps/other_shou-si-bao-cai/step_6.jpg"
     },
     {
       "index": 7,
@@ -232,7 +232,7 @@
         "注意火候，不要把辣椒炒糊。"
       ],
       "produces": "香辣肉底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shou-si-bao-cai/step_7.jpg"
+      "image": "steps/other_shou-si-bao-cai/step_7.jpg"
     },
     {
       "index": 8,
@@ -243,7 +243,7 @@
         "最后阶段翻炒时间可根据个人对脆度的喜好调整。"
       ],
       "produces": "手撕包菜成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_shou-si-bao-cai/step_8.jpg"
+      "image": "steps/other_shou-si-bao-cai/step_8.jpg"
     }
   ],
   "tips": [
@@ -251,8 +251,8 @@
     "步骤五中，加盐的作用是锁住包菜水分的同时，给包菜上一点味道",
     "最后一个步骤中，翻炒时间根据实际情况和个人口感做灵活调整"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_shou-si-bao-cai.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_shou-si-bao-cai_overview.jpg",
+  "cover_image": "ai-generated/other_shou-si-bao-cai.jpg",
+  "overview_image": "overview/other_shou-si-bao-cai_overview.jpg",
   "id": "other_shou-si-bao-cai",
   "status": "published"
 }

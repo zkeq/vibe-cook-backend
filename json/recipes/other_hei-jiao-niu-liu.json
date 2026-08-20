@@ -123,7 +123,7 @@
         "规格要求不严格，尽量均匀即可"
       ],
       "produces": "牛肉条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hei-jiao-niu-liu/step_1.jpg"
+      "image": "steps/other_hei-jiao-niu-liu/step_1.jpg"
     },
     {
       "index": 2,
@@ -134,7 +134,7 @@
         "用量与时间参照商品说明，可以延长不能缩短"
       ],
       "produces": "初步腌制的牛肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hei-jiao-niu-liu/step_2.jpg"
+      "image": "steps/other_hei-jiao-niu-liu/step_2.jpg"
     },
     {
       "index": 3,
@@ -145,7 +145,7 @@
         "淀粉能帮助牛肉锁住水分，保持嫩滑"
       ],
       "produces": "待炒牛肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hei-jiao-niu-liu/step_3.jpg"
+      "image": "steps/other_hei-jiao-niu-liu/step_3.jpg"
     },
     {
       "index": 4,
@@ -156,7 +156,7 @@
         "建议使用不粘锅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hei-jiao-niu-liu/step_4.jpg"
+      "image": "steps/other_hei-jiao-niu-liu/step_4.jpg"
     },
     {
       "index": 5,
@@ -167,7 +167,7 @@
         "不出现明显血色即可，小心油滴溅射"
       ],
       "produces": "变色牛肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hei-jiao-niu-liu/step_5.jpg"
+      "image": "steps/other_hei-jiao-niu-liu/step_5.jpg"
     },
     {
       "index": 6,
@@ -178,7 +178,7 @@
         "保持中大火使蔬菜断生"
       ],
       "produces": "荤素混合料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hei-jiao-niu-liu/step_6.jpg"
+      "image": "steps/other_hei-jiao-niu-liu/step_6.jpg"
     },
     {
       "index": 7,
@@ -189,7 +189,7 @@
         "黑胡椒粉量可根据个人喜好随意撒"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hei-jiao-niu-liu/step_7.jpg"
+      "image": "steps/other_hei-jiao-niu-liu/step_7.jpg"
     },
     {
       "index": 8,
@@ -200,7 +200,7 @@
         "洋葱变软是熟透的标志"
       ],
       "produces": "黑椒牛柳成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_hei-jiao-niu-liu/step_8.jpg"
+      "image": "steps/other_hei-jiao-niu-liu/step_8.jpg"
     }
   ],
   "tips": [
@@ -208,8 +208,8 @@
     "油量应依据菜量变动，牛肉增加时油量也需对应增加",
     "制作过程中发现问题可参考项目Issue或Pull request进行改进"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_hei-jiao-niu-liu.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_hei-jiao-niu-liu_overview.jpg",
+  "cover_image": "ai-generated/other_hei-jiao-niu-liu.jpg",
+  "overview_image": "overview/other_hei-jiao-niu-liu_overview.jpg",
   "id": "other_hei-jiao-niu-liu",
   "status": "published"
 }

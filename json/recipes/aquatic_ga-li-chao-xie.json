@@ -116,7 +116,7 @@
         "生粉只需薄薄一层"
       ],
       "produces": "处理过的螃蟹",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_ga-li-chao-xie/step_1.jpg"
+      "image": "steps/aquatic_ga-li-chao-xie/step_1.jpg"
     },
     {
       "index": 2,
@@ -127,7 +127,7 @@
         "洋葱切碎一点更容易炒出香味"
       ],
       "produces": "洋葱蒜末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_ga-li-chao-xie/step_2.jpg"
+      "image": "steps/aquatic_ga-li-chao-xie/step_2.jpg"
     },
     {
       "index": 3,
@@ -138,7 +138,7 @@
         "后续焖煮必须使用开水"
       ],
       "produces": "开水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_ga-li-chao-xie/step_3.jpg"
+      "image": "steps/aquatic_ga-li-chao-xie/step_3.jpg"
     },
     {
       "index": 4,
@@ -147,7 +147,7 @@
       "duration_sec": 10,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_ga-li-chao-xie/step_4.jpg"
+      "image": "steps/aquatic_ga-li-chao-xie/step_4.jpg"
     },
     {
       "index": 5,
@@ -158,7 +158,7 @@
         "切口朝下是为了锁住鲜味"
       ],
       "produces": "半熟蟹块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_ga-li-chao-xie/step_5.jpg"
+      "image": "steps/aquatic_ga-li-chao-xie/step_5.jpg"
     },
     {
       "index": 6,
@@ -169,7 +169,7 @@
         "泼油动作要注意安全"
       ],
       "produces": "半熟蟹盖",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_ga-li-chao-xie/step_6.jpg"
+      "image": "steps/aquatic_ga-li-chao-xie/step_6.jpg"
     },
     {
       "index": 7,
@@ -178,7 +178,7 @@
       "duration_sec": 10,
       "tips": [],
       "produces": "香味底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_ga-li-chao-xie/step_7.jpg"
+      "image": "steps/aquatic_ga-li-chao-xie/step_7.jpg"
     },
     {
       "index": 8,
@@ -189,7 +189,7 @@
         "咖喱块炒化即可，避免焦糊"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_ga-li-chao-xie/step_8.jpg"
+      "image": "steps/aquatic_ga-li-chao-xie/step_8.jpg"
     },
     {
       "index": 9,
@@ -200,7 +200,7 @@
         "水量刚好没过食材大半即可"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_ga-li-chao-xie/step_9.jpg"
+      "image": "steps/aquatic_ga-li-chao-xie/step_9.jpg"
     },
     {
       "index": 10,
@@ -211,7 +211,7 @@
         "一定要关火后再倒入蛋清和椰浆翻炒，这是挂汁的关键"
       ],
       "produces": "浓稠咖喱蟹",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_ga-li-chao-xie/step_10.jpg"
+      "image": "steps/aquatic_ga-li-chao-xie/step_10.jpg"
     },
     {
       "index": 11,
@@ -220,7 +220,7 @@
       "duration_sec": 30,
       "tips": [],
       "produces": "成品咖喱炒蟹",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_ga-li-chao-xie/step_11.jpg"
+      "image": "steps/aquatic_ga-li-chao-xie/step_11.jpg"
     }
   ],
   "tips": [
@@ -228,8 +228,8 @@
     "封煎蟹黄是防止营养和鲜味流失的关键步骤",
     "最后一步关火翻炒可以利用余温让蛋清和椰浆完美融合，形成顺滑的酱汁"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/aquatic_ga-li-chao-xie.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/aquatic_ga-li-chao-xie_overview.jpg",
+  "cover_image": "ai-generated/aquatic_ga-li-chao-xie.jpg",
+  "overview_image": "overview/aquatic_ga-li-chao-xie_overview.jpg",
   "id": "aquatic_ga-li-chao-xie",
   "status": "published"
 }

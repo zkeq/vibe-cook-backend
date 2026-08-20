@@ -251,7 +251,7 @@
         "年糕切片后泡冷水，下锅前冲洗不容易粘锅"
       ],
       "produces": "切好的蔬菜和年糕",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_rou-xie-bao/step_1.jpg"
+      "image": "steps/aquatic_rou-xie-bao/step_1.jpg"
     },
     {
       "index": 2,
@@ -264,7 +264,7 @@
         "若是冷冻蟹，半解冻后油炸2分钟"
       ],
       "produces": "炸好的蟹块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_rou-xie-bao/step_2.jpg"
+      "image": "steps/aquatic_rou-xie-bao/step_2.jpg"
     },
     {
       "index": 3,
@@ -275,7 +275,7 @@
         "全程小火，注意别糊底"
       ],
       "produces": "红油酱底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_rou-xie-bao/step_3.jpg"
+      "image": "steps/aquatic_rou-xie-bao/step_3.jpg"
     },
     {
       "index": 4,
@@ -286,7 +286,7 @@
         "液体量要没过大部分食材"
       ],
       "produces": "半成品肉蟹煲",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_rou-xie-bao/step_4.jpg"
+      "image": "steps/aquatic_rou-xie-bao/step_4.jpg"
     },
     {
       "index": 5,
@@ -297,7 +297,7 @@
         "年糕下锅后放在表面，沉入锅底容易糊锅"
       ],
       "produces": "肉蟹煲",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_rou-xie-bao/step_5.jpg"
+      "image": "steps/aquatic_rou-xie-bao/step_5.jpg"
     }
   ],
   "tips": [
@@ -307,8 +307,8 @@
     "不与柿子、浓茶同食，痛风患者慎食",
     "如被螃蟹夹伤或烫伤，先冷水冲 15 分钟，严重请就医"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/aquatic_rou-xie-bao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/aquatic_rou-xie-bao_overview.jpg",
+  "cover_image": "ai-generated/aquatic_rou-xie-bao.jpg",
+  "overview_image": "overview/aquatic_rou-xie-bao_overview.jpg",
   "id": "aquatic_rou-xie-bao",
   "status": "published"
 }

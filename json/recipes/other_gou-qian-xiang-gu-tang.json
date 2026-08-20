@@ -114,7 +114,7 @@
         "盐水浸泡可去除杂质并入味"
       ],
       "produces": "盐水泡过的香菇片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gou-qian-xiang-gu-tang/step_1.jpg"
+      "image": "steps/other_gou-qian-xiang-gu-tang/step_1.jpg"
     },
     {
       "index": 2,
@@ -125,7 +125,7 @@
         "确保没有结块，否则勾芡不均匀"
       ],
       "produces": "水淀粉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gou-qian-xiang-gu-tang/step_2.jpg"
+      "image": "steps/other_gou-qian-xiang-gu-tang/step_2.jpg"
     },
     {
       "index": 3,
@@ -136,7 +136,7 @@
         "去除多余水分可以防止煎炸时溅油"
       ],
       "produces": "干香菇片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gou-qian-xiang-gu-tang/step_3.jpg"
+      "image": "steps/other_gou-qian-xiang-gu-tang/step_3.jpg"
     },
     {
       "index": 4,
@@ -147,7 +147,7 @@
         "此步骤为可选，煎过后汤头更香"
       ],
       "produces": "煎好的香菇",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gou-qian-xiang-gu-tang/step_4.jpg"
+      "image": "steps/other_gou-qian-xiang-gu-tang/step_4.jpg"
     },
     {
       "index": 5,
@@ -158,7 +158,7 @@
         "使用开水可以保持汤色鲜亮"
       ],
       "produces": "香菇汤底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gou-qian-xiang-gu-tang/step_5.jpg"
+      "image": "steps/other_gou-qian-xiang-gu-tang/step_5.jpg"
     },
     {
       "index": 6,
@@ -169,7 +169,7 @@
         "勾芡时要不停搅拌防止糊锅"
       ],
       "produces": "勾芡香菇汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gou-qian-xiang-gu-tang/step_6.jpg"
+      "image": "steps/other_gou-qian-xiang-gu-tang/step_6.jpg"
     }
   ],
   "tips": [
@@ -177,8 +177,8 @@
     "煎炸香菇为可选步骤，新手若怕溅油可跳过",
     "如果您发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_gou-qian-xiang-gu-tang.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_gou-qian-xiang-gu-tang_overview.jpg",
+  "cover_image": "ai-generated/other_gou-qian-xiang-gu-tang.jpg",
+  "overview_image": "overview/other_gou-qian-xiang-gu-tang_overview.jpg",
   "id": "other_gou-qian-xiang-gu-tang",
   "status": "published"
 }

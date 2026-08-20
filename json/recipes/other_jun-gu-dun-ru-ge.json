@@ -101,7 +101,7 @@
         "确保内脏血块清洗干净以减少腥味"
       ],
       "produces": "洗净的乳鸽",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jun-gu-dun-ru-ge/step_1.jpg"
+      "image": "steps/other_jun-gu-dun-ru-ge/step_1.jpg"
     },
     {
       "index": 2,
@@ -112,7 +112,7 @@
         "水开后立即捞出，避免长时间炖煮导致营养流失"
       ],
       "produces": "焯水后的乳鸽",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jun-gu-dun-ru-ge/step_2.jpg"
+      "image": "steps/other_jun-gu-dun-ru-ge/step_2.jpg"
     },
     {
       "index": 3,
@@ -124,7 +124,7 @@
         "瓦罐需在水烧开后转小火慢炖 40-60 分钟"
       ],
       "produces": "炖煮完成的汤底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jun-gu-dun-ru-ge/step_3.jpg"
+      "image": "steps/other_jun-gu-dun-ru-ge/step_3.jpg"
     },
     {
       "index": 4,
@@ -135,14 +135,14 @@
         "盐要最后加，以免肉质变柴"
       ],
       "produces": "菌菇炖乳鸽成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jun-gu-dun-ru-ge/step_4.jpg"
+      "image": "steps/other_jun-gu-dun-ru-ge/step_4.jpg"
     }
   ],
   "tips": [
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_jun-gu-dun-ru-ge.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_jun-gu-dun-ru-ge_overview.jpg",
+  "cover_image": "ai-generated/other_jun-gu-dun-ru-ge.jpg",
+  "overview_image": "overview/other_jun-gu-dun-ru-ge_overview.jpg",
   "id": "other_jun-gu-dun-ru-ge",
   "status": "published"
 }

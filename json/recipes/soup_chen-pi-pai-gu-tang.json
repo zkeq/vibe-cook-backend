@@ -110,7 +110,7 @@
         "焯水可以使汤色更加清亮"
       ],
       "produces": "处理好的排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_chen-pi-pai-gu-tang/step_1.jpg"
+      "image": "steps/soup_chen-pi-pai-gu-tang/step_1.jpg"
     },
     {
       "index": 2,
@@ -121,7 +121,7 @@
         "冲洗掉表面浮尘即可，不要长时间浸泡以免药效流失"
       ],
       "produces": "洗净的药材",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_chen-pi-pai-gu-tang/step_2.jpg"
+      "image": "steps/soup_chen-pi-pai-gu-tang/step_2.jpg"
     },
     {
       "index": 3,
@@ -130,7 +130,7 @@
       "duration_sec": 30,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_chen-pi-pai-gu-tang/step_3.jpg"
+      "image": "steps/soup_chen-pi-pai-gu-tang/step_3.jpg"
     },
     {
       "index": 4,
@@ -141,7 +141,7 @@
         "排骨垫底可以让食材受热更均匀"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_chen-pi-pai-gu-tang/step_4.jpg"
+      "image": "steps/soup_chen-pi-pai-gu-tang/step_4.jpg"
     },
     {
       "index": 5,
@@ -152,7 +152,7 @@
         "使用热水炖汤效果更好，水满容易溢出"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_chen-pi-pai-gu-tang/step_5.jpg"
+      "image": "steps/soup_chen-pi-pai-gu-tang/step_5.jpg"
     },
     {
       "index": 6,
@@ -163,7 +163,7 @@
         "确保外部容器的水量充足，防止干烧"
       ],
       "produces": "炖好的汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_chen-pi-pai-gu-tang/step_6.jpg"
+      "image": "steps/soup_chen-pi-pai-gu-tang/step_6.jpg"
     },
     {
       "index": 7,
@@ -174,15 +174,15 @@
         "盐要最后放，以免破坏肉质蛋白质"
       ],
       "produces": "陈皮排骨汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_chen-pi-pai-gu-tang/step_7.jpg"
+      "image": "steps/soup_chen-pi-pai-gu-tang/step_7.jpg"
     }
   ],
   "tips": [
     "煲汤盅很烫，拿的时候小心别烫到或者手滑摔破",
     "广东老火靓汤，讲究用料和火候，只要备好料和炖够一定时辰，就算大功告成！"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/soup_chen-pi-pai-gu-tang.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/soup_chen-pi-pai-gu-tang_overview.jpg",
+  "cover_image": "ai-generated/soup_chen-pi-pai-gu-tang.jpg",
+  "overview_image": "overview/soup_chen-pi-pai-gu-tang_overview.jpg",
   "id": "soup_chen-pi-pai-gu-tang",
   "status": "published"
 }

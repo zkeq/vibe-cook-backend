@@ -152,7 +152,7 @@
         "一定要冷水下锅，这样能更好地逼出肉中的血水和异味。"
       ],
       "produces": "焯过水的鸭块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-jiu-ya/step_1.jpg"
+      "image": "steps/other_pi-jiu-ya/step_1.jpg"
     },
     {
       "index": 2,
@@ -163,7 +163,7 @@
         "炒的时候注意控干水分，防止热油溅出。"
       ],
       "produces": "表面金黄的鸭肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-jiu-ya/step_2.jpg"
+      "image": "steps/other_pi-jiu-ya/step_2.jpg"
     },
     {
       "index": 3,
@@ -174,7 +174,7 @@
         "此时务必切换小火，避免豆瓣酱和冰糖炒糊发苦。"
       ],
       "produces": "上色的鸭肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-jiu-ya/step_3.jpg"
+      "image": "steps/other_pi-jiu-ya/step_3.jpg"
     },
     {
       "index": 4,
@@ -185,7 +185,7 @@
         "大蒜整瓣放入即可，炖煮后口感软糯。"
       ],
       "produces": "调味均匀的鸭肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-jiu-ya/step_4.jpg"
+      "image": "steps/other_pi-jiu-ya/step_4.jpg"
     },
     {
       "index": 5,
@@ -197,7 +197,7 @@
         "如果鸭肉较老，可适当延长焖煮时间。"
       ],
       "produces": "熟烂入味的啤酒鸭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-jiu-ya/step_5.jpg"
+      "image": "steps/other_pi-jiu-ya/step_5.jpg"
     },
     {
       "index": 6,
@@ -208,15 +208,15 @@
         "可以撒上少许葱花装饰。"
       ],
       "produces": "啤酒鸭成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_pi-jiu-ya/step_6.jpg"
+      "image": "steps/other_pi-jiu-ya/step_6.jpg"
     }
   ],
   "tips": [
     "啤酒的量一定要足够把所有鸭肉没过，啤酒最好选择清香型的。",
     "不要额外加水，全程使用啤酒炖煮风味最浓郁。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_pi-jiu-ya.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_pi-jiu-ya_overview.jpg",
+  "cover_image": "ai-generated/other_pi-jiu-ya.jpg",
+  "overview_image": "overview/other_pi-jiu-ya_overview.jpg",
   "id": "other_pi-jiu-ya",
   "status": "published"
 }

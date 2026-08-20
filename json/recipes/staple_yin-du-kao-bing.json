@@ -134,7 +134,7 @@
         "泡沫说明酵母已激活"
       ],
       "produces": "酵母活性水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-kao-bing/step_1.jpg"
+      "image": "steps/staple_yin-du-kao-bing/step_1.jpg"
     },
     {
       "index": 2,
@@ -145,7 +145,7 @@
         "确保盐分布均匀"
       ],
       "produces": "混合面粉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-kao-bing/step_2.jpg"
+      "image": "steps/staple_yin-du-kao-bing/step_2.jpg"
     },
     {
       "index": 3,
@@ -157,7 +157,7 @@
         "揉面需持续 8-10 分钟"
       ],
       "produces": "光滑面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-kao-bing/step_3.jpg"
+      "image": "steps/staple_yin-du-kao-bing/step_3.jpg"
     },
     {
       "index": 4,
@@ -168,7 +168,7 @@
         "直至面团膨胀至约两倍大"
       ],
       "produces": "发酵面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-kao-bing/step_4.jpg"
+      "image": "steps/staple_yin-du-kao-bing/step_4.jpg"
     },
     {
       "index": 5,
@@ -179,7 +179,7 @@
         "排气要彻底"
       ],
       "produces": "面团剂子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-kao-bing/step_5.jpg"
+      "image": "steps/staple_yin-du-kao-bing/step_5.jpg"
     },
     {
       "index": 6,
@@ -191,7 +191,7 @@
         "压入蒜末时要轻轻擀压固定"
       ],
       "produces": "面饼坯",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-kao-bing/step_6.jpg"
+      "image": "steps/staple_yin-du-kao-bing/step_6.jpg"
     },
     {
       "index": 7,
@@ -203,7 +203,7 @@
         "有煤气灶可用明火燎烤数秒使面饼迅速鼓起"
       ],
       "produces": "熟烤饼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-kao-bing/step_7.jpg"
+      "image": "steps/staple_yin-du-kao-bing/step_7.jpg"
     },
     {
       "index": 8,
@@ -214,7 +214,7 @@
         "这是香气和口感的关键，必须趁热涂"
       ],
       "produces": "成品印度烤饼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_yin-du-kao-bing/step_8.jpg"
+      "image": "steps/staple_yin-du-kao-bing/step_8.jpg"
     }
   ],
   "tips": [
@@ -223,8 +223,8 @@
     "烤好后必须立刻涂酥油或黄油，这是印度烤饼香气和口感的关键。",
     "常见的变体还有：蒜蓉烤饼(Garlic Naan)、芝士烤饼(Cheese Naan)、黄油烤饼(Butter Naan)。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_yin-du-kao-bing.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_yin-du-kao-bing_overview.jpg",
+  "cover_image": "ai-generated/staple_yin-du-kao-bing.jpg",
+  "overview_image": "overview/staple_yin-du-kao-bing_overview.jpg",
   "id": "staple_yin-du-kao-bing",
   "status": "published"
 }

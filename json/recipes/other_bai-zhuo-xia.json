@@ -121,7 +121,7 @@
         "铺底要均匀，防止虾肉直接接触锅底受热不均"
       ],
       "produces": "铺好底料的锅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bai-zhuo-xia/step_1.jpg"
+      "image": "steps/other_bai-zhuo-xia/step_1.jpg"
     },
     {
       "index": 2,
@@ -132,7 +132,7 @@
         "控水很关键，多余的水分会影响焖煮效果"
       ],
       "produces": "待烹饪的虾锅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bai-zhuo-xia/step_2.jpg"
+      "image": "steps/other_bai-zhuo-xia/step_2.jpg"
     },
     {
       "index": 3,
@@ -143,7 +143,7 @@
         "全程不加水，利用料酒和食材自身水分产生蒸汽"
       ],
       "produces": "熟虾",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bai-zhuo-xia/step_3.jpg"
+      "image": "steps/other_bai-zhuo-xia/step_3.jpg"
     },
     {
       "index": 4,
@@ -154,7 +154,7 @@
         "热油激发出的葱蒜香味是蘸料的灵魂"
       ],
       "produces": "热油蘸料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bai-zhuo-xia/step_4.jpg"
+      "image": "steps/other_bai-zhuo-xia/step_4.jpg"
     },
     {
       "index": 5,
@@ -165,7 +165,7 @@
         "摆盘时可以稍微整理，让菜品更有食欲"
       ],
       "produces": "白灼虾成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bai-zhuo-xia/step_5.jpg"
+      "image": "steps/other_bai-zhuo-xia/step_5.jpg"
     }
   ],
   "tips": [
@@ -173,8 +173,8 @@
     "如果锅盖有通气口、时间要相应调节一下（考虑增加 30 秒中火）。",
     "蘸料其实也是可选的、也可以是纯的醋，大自然馈赠的鲜虾在没有水带走冲淡鲜甜的情况下口感味道都非常棒的。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_bai-zhuo-xia.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_bai-zhuo-xia_overview.jpg",
+  "cover_image": "ai-generated/other_bai-zhuo-xia.jpg",
+  "overview_image": "overview/other_bai-zhuo-xia_overview.jpg",
   "id": "other_bai-zhuo-xia",
   "status": "published"
 }

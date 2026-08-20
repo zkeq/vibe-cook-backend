@@ -60,7 +60,7 @@
         "锅可以采用稍厚的锅，方便控制温度"
       ],
       "produces": "70℃恒温热水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wen-quan-dan/step_1.jpg"
+      "image": "steps/other_wen-quan-dan/step_1.jpg"
     },
     {
       "index": 2,
@@ -71,7 +71,7 @@
         "动作要轻，防止蛋壳破裂"
       ],
       "produces": "锅中的鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wen-quan-dan/step_2.jpg"
+      "image": "steps/other_wen-quan-dan/step_2.jpg"
     },
     {
       "index": 3,
@@ -82,7 +82,7 @@
         "需要耐心观察温度计，随时微调火力"
       ],
       "produces": "半熟温泉蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wen-quan-dan/step_3.jpg"
+      "image": "steps/other_wen-quan-dan/step_3.jpg"
     },
     {
       "index": 4,
@@ -93,7 +93,7 @@
         "冰水能让鸡蛋迅速降温，防止余温过度加热蛋黄"
       ],
       "produces": "冰水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wen-quan-dan/step_4.jpg"
+      "image": "steps/other_wen-quan-dan/step_4.jpg"
     },
     {
       "index": 5,
@@ -104,7 +104,7 @@
         "必须立刻放入冰水"
       ],
       "produces": "冷却的温泉蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wen-quan-dan/step_5.jpg"
+      "image": "steps/other_wen-quan-dan/step_5.jpg"
     },
     {
       "index": 6,
@@ -115,7 +115,7 @@
         "温泉蛋蛋白较嫩，打蛋时需小心"
       ],
       "produces": "成品温泉蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wen-quan-dan/step_6.jpg"
+      "image": "steps/other_wen-quan-dan/step_6.jpg"
     }
   ],
   "tips": [
@@ -123,8 +123,8 @@
     "锅可以采用稍厚的锅，方便控制温度",
     "虽然 70 摄氏度 25 分钟已经完全可以杀死沙门氏菌，但还是要尽量少吃，或购买正规可生食鸡蛋制作"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_wen-quan-dan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_wen-quan-dan_overview.jpg",
+  "cover_image": "ai-generated/other_wen-quan-dan.jpg",
+  "overview_image": "overview/other_wen-quan-dan_overview.jpg",
   "id": "other_wen-quan-dan",
   "status": "published"
 }

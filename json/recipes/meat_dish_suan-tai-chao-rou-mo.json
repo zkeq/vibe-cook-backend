@@ -100,7 +100,7 @@
         "切段长度尽量保持一致，受热更均匀"
       ],
       "produces": "蒜苔段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_suan-tai-chao-rou-mo/step_1.jpg"
+      "image": "steps/meat_dish_suan-tai-chao-rou-mo/step_1.jpg"
     },
     {
       "index": 2,
@@ -111,7 +111,7 @@
         "顺着肉的纹理切，口感更好"
       ],
       "produces": "五花肉丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_suan-tai-chao-rou-mo/step_2.jpg"
+      "image": "steps/meat_dish_suan-tai-chao-rou-mo/step_2.jpg"
     },
     {
       "index": 3,
@@ -122,7 +122,7 @@
         "拍碎后再切更容易释放蒜香"
       ],
       "produces": "蒜末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_suan-tai-chao-rou-mo/step_3.jpg"
+      "image": "steps/meat_dish_suan-tai-chao-rou-mo/step_3.jpg"
     },
     {
       "index": 4,
@@ -133,7 +133,7 @@
         "热锅凉油可以防止肉丝粘锅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_suan-tai-chao-rou-mo/step_4.jpg"
+      "image": "steps/meat_dish_suan-tai-chao-rou-mo/step_4.jpg"
     },
     {
       "index": 5,
@@ -144,7 +144,7 @@
         "注意火候，避免蒜末炒焦变苦"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_suan-tai-chao-rou-mo/step_5.jpg"
+      "image": "steps/meat_dish_suan-tai-chao-rou-mo/step_5.jpg"
     },
     {
       "index": 6,
@@ -155,7 +155,7 @@
         "生抽在此步骤主要起到上色增香作用"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_suan-tai-chao-rou-mo/step_6.jpg"
+      "image": "steps/meat_dish_suan-tai-chao-rou-mo/step_6.jpg"
     },
     {
       "index": 7,
@@ -166,7 +166,7 @@
         "让蒜苔均匀裹上油分和生抽"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_suan-tai-chao-rou-mo/step_7.jpg"
+      "image": "steps/meat_dish_suan-tai-chao-rou-mo/step_7.jpg"
     },
     {
       "index": 8,
@@ -177,7 +177,7 @@
         "加少量水焖炒能让蒜苔熟透且保持脆嫩，不至于干焦"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_suan-tai-chao-rou-mo/step_8.jpg"
+      "image": "steps/meat_dish_suan-tai-chao-rou-mo/step_8.jpg"
     },
     {
       "index": 9,
@@ -188,15 +188,15 @@
         "最后加盐可以避免蒜苔过早出水导致口感不脆"
       ],
       "produces": "蒜苔炒肉末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_suan-tai-chao-rou-mo/step_9.jpg"
+      "image": "steps/meat_dish_suan-tai-chao-rou-mo/step_9.jpg"
     }
   ],
   "tips": [
     "加入食盐前可尝一下咸淡，自行决定是否增减盐量",
     "选用五花肉薄片是因为切肉简单且不用腌制即可入味"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_suan-tai-chao-rou-mo.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_suan-tai-chao-rou-mo_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_suan-tai-chao-rou-mo.jpg",
+  "overview_image": "overview/meat_dish_suan-tai-chao-rou-mo_overview.jpg",
   "id": "meat_dish_suan-tai-chao-rou-mo",
   "status": "published"
 }

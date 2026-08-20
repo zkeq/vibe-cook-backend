@@ -152,7 +152,7 @@
         "可以使用电热水器预热以缩短时间"
       ],
       "produces": "沸水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_jia-chang-liang-pi/step_1.jpg"
+      "image": "steps/semi-finished_jia-chang-liang-pi/step_1.jpg"
     },
     {
       "index": 2,
@@ -163,7 +163,7 @@
         "过凉水可以保持豆芽清脆的口感"
       ],
       "produces": "熟豆芽",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_jia-chang-liang-pi/step_2.jpg"
+      "image": "steps/semi-finished_jia-chang-liang-pi/step_2.jpg"
     },
     {
       "index": 3,
@@ -174,7 +174,7 @@
         "尽量切细丝，口感更好"
       ],
       "produces": "黄瓜丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_jia-chang-liang-pi/step_3.jpg"
+      "image": "steps/semi-finished_jia-chang-liang-pi/step_3.jpg"
     },
     {
       "index": 4,
@@ -185,7 +185,7 @@
         "加入盐更容易捣成泥"
       ],
       "produces": "蒜泥水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_jia-chang-liang-pi/step_4.jpg"
+      "image": "steps/semi-finished_jia-chang-liang-pi/step_4.jpg"
     },
     {
       "index": 5,
@@ -196,7 +196,7 @@
         "挤水时不要过于用力，以免破坏面筋结构"
       ],
       "produces": "干净的凉皮和面筋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_jia-chang-liang-pi/step_5.jpg"
+      "image": "steps/semi-finished_jia-chang-liang-pi/step_5.jpg"
     },
     {
       "index": 6,
@@ -207,7 +207,7 @@
         "温水有助于调料快速溶解"
       ],
       "produces": "调味盐水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_jia-chang-liang-pi/step_6.jpg"
+      "image": "steps/semi-finished_jia-chang-liang-pi/step_6.jpg"
     },
     {
       "index": 7,
@@ -218,7 +218,7 @@
         "必须分次加水，否则芝麻酱难以调匀"
       ],
       "produces": "芝麻酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_jia-chang-liang-pi/step_7.jpg"
+      "image": "steps/semi-finished_jia-chang-liang-pi/step_7.jpg"
     },
     {
       "index": 8,
@@ -229,7 +229,7 @@
         "盐水要一并倒入碗中，保证入味"
       ],
       "produces": "成品凉皮",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_jia-chang-liang-pi/step_8.jpg"
+      "image": "steps/semi-finished_jia-chang-liang-pi/step_8.jpg"
     },
     {
       "index": 9,
@@ -240,7 +240,7 @@
         "辣椒油是凉皮的灵魂，建议适量添加"
       ],
       "produces": "最终成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/semi-finished_jia-chang-liang-pi/step_9.jpg"
+      "image": "steps/semi-finished_jia-chang-liang-pi/step_9.jpg"
     }
   ],
   "tips": [
@@ -248,8 +248,8 @@
     "超市购买的凉皮表面油较多，建议务必清洗。",
     "盐和香醋的比例是大众口味，可根据个人喜酸/咸程度微调。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/semi-finished_jia-chang-liang-pi.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/semi-finished_jia-chang-liang-pi_overview.jpg",
+  "cover_image": "ai-generated/semi-finished_jia-chang-liang-pi.jpg",
+  "overview_image": "overview/semi-finished_jia-chang-liang-pi_overview.jpg",
   "id": "semi-finished_jia-chang-liang-pi",
   "status": "published"
 }

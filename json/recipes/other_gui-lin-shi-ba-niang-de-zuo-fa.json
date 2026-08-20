@@ -86,7 +86,7 @@
         "田螺肉取出后需剁碎准备混合"
       ],
       "produces": "预处理好的容器食材",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gui-lin-shi-ba-niang-de-zuo-fa/step_1.jpg"
+      "image": "steps/other_gui-lin-shi-ba-niang-de-zuo-fa/step_1.jpg"
     },
     {
       "index": 2,
@@ -98,7 +98,7 @@
         "肥瘦比例直接影响成品的多汁程度"
       ],
       "produces": "调好味的馅料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gui-lin-shi-ba-niang-de-zuo-fa/step_2.jpg"
+      "image": "steps/other_gui-lin-shi-ba-niang-de-zuo-fa/step_2.jpg"
     },
     {
       "index": 3,
@@ -109,7 +109,7 @@
         "不要填得过满，以免受热膨胀溢出"
       ],
       "produces": "酿菜半成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gui-lin-shi-ba-niang-de-zuo-fa/step_3.jpg"
+      "image": "steps/other_gui-lin-shi-ba-niang-de-zuo-fa/step_3.jpg"
     },
     {
       "index": 4,
@@ -120,7 +120,7 @@
         "火候不宜过大，防止外焦里生"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gui-lin-shi-ba-niang-de-zuo-fa/step_4.jpg"
+      "image": "steps/other_gui-lin-shi-ba-niang-de-zuo-fa/step_4.jpg"
     },
     {
       "index": 5,
@@ -131,7 +131,7 @@
         "田螺酿焖煮时可多放些紫苏和薄荷增香"
       ],
       "produces": "成品酿菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_gui-lin-shi-ba-niang-de-zuo-fa/step_5.jpg"
+      "image": "steps/other_gui-lin-shi-ba-niang-de-zuo-fa/step_5.jpg"
     }
   ],
   "tips": [
@@ -140,8 +140,8 @@
     "猪肉馅肥瘦 3:7 是通用黄金比例",
     "田螺酿必须搭配紫苏和薄荷才能体现灵魂风味"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_gui-lin-shi-ba-niang-de-zuo-fa.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_gui-lin-shi-ba-niang-de-zuo-fa_overview.jpg",
+  "cover_image": "ai-generated/other_gui-lin-shi-ba-niang-de-zuo-fa.jpg",
+  "overview_image": "overview/other_gui-lin-shi-ba-niang-de-zuo-fa_overview.jpg",
   "id": "other_gui-lin-shi-ba-niang-de-zuo-fa",
   "status": "published"
 }

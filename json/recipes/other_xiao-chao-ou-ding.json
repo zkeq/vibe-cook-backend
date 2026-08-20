@@ -111,7 +111,7 @@
         "切小米辣时注意不要碰到眼睛"
       ],
       "produces": "葱段、小米辣段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiao-chao-ou-ding/step_1.jpg"
+      "image": "steps/other_xiao-chao-ou-ding/step_1.jpg"
     },
     {
       "index": 2,
@@ -122,7 +122,7 @@
         "放入水中是为了防止氧化发黑"
       ],
       "produces": "藕丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiao-chao-ou-ding/step_2.jpg"
+      "image": "steps/other_xiao-chao-ou-ding/step_2.jpg"
     },
     {
       "index": 3,
@@ -133,7 +133,7 @@
         "可以使用电热水器先烧开水以节省时间"
       ],
       "produces": "沸水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiao-chao-ou-ding/step_3.jpg"
+      "image": "steps/other_xiao-chao-ou-ding/step_3.jpg"
     },
     {
       "index": 4,
@@ -144,7 +144,7 @@
         "焯水时间不宜过长，以免失去脆嫩口感"
       ],
       "produces": "半熟藕丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiao-chao-ou-ding/step_4.jpg"
+      "image": "steps/other_xiao-chao-ou-ding/step_4.jpg"
     },
     {
       "index": 5,
@@ -155,7 +155,7 @@
         "确保锅内无水再加油，防止溅油"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiao-chao-ou-ding/step_5.jpg"
+      "image": "steps/other_xiao-chao-ou-ding/step_5.jpg"
     },
     {
       "index": 6,
@@ -166,7 +166,7 @@
         "火不要太大，以免葱花烧焦"
       ],
       "produces": "香油底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiao-chao-ou-ding/step_6.jpg"
+      "image": "steps/other_xiao-chao-ou-ding/step_6.jpg"
     },
     {
       "index": 7,
@@ -177,7 +177,7 @@
         "大火快炒能保持藕丁脆度"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiao-chao-ou-ding/step_7.jpg"
+      "image": "steps/other_xiao-chao-ou-ding/step_7.jpg"
     },
     {
       "index": 8,
@@ -188,7 +188,7 @@
         "可以预先将调料混合在一起一次性倒入"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiao-chao-ou-ding/step_8.jpg"
+      "image": "steps/other_xiao-chao-ou-ding/step_8.jpg"
     },
     {
       "index": 9,
@@ -199,15 +199,15 @@
         "观察藕丁上色均匀即可"
       ],
       "produces": "小炒藕丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiao-chao-ou-ding/step_9.jpg"
+      "image": "steps/other_xiao-chao-ou-ding/step_9.jpg"
     }
   ],
   "tips": [
     "食用莲藕要挑选外皮呈黄褐色、肉肥厚而白的。如果发黑，有异味，则不宜食用。",
     "请尽量不要使用铁器，会导致莲藕发黑"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_xiao-chao-ou-ding.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_xiao-chao-ou-ding_overview.jpg",
+  "cover_image": "ai-generated/other_xiao-chao-ou-ding.jpg",
+  "overview_image": "overview/other_xiao-chao-ou-ding_overview.jpg",
   "id": "other_xiao-chao-ou-ding",
   "status": "published"
 }

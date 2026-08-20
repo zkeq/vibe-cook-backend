@@ -85,7 +85,7 @@
         "如果用开水解冻慢，建议直接煮"
       ],
       "produces": "解冻后的玉米粒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiao-yan-yu-mi/step_1.jpg"
+      "image": "steps/other_jiao-yan-yu-mi/step_1.jpg"
     },
     {
       "index": 2,
@@ -96,7 +96,7 @@
         "Shaking! 充分接触吸油纸"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiao-yan-yu-mi/step_2.jpg"
+      "image": "steps/other_jiao-yan-yu-mi/step_2.jpg"
     },
     {
       "index": 3,
@@ -107,7 +107,7 @@
         "确保水分被充分吸收"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiao-yan-yu-mi/step_3.jpg"
+      "image": "steps/other_jiao-yan-yu-mi/step_3.jpg"
     },
     {
       "index": 4,
@@ -118,7 +118,7 @@
         "这是裹粉不掉的关键"
       ],
       "produces": "表面微湿无水滴的玉米粒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiao-yan-yu-mi/step_4.jpg"
+      "image": "steps/other_jiao-yan-yu-mi/step_4.jpg"
     },
     {
       "index": 5,
@@ -129,7 +129,7 @@
         "淀粉量要足"
       ],
       "produces": "裹粉玉米粒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiao-yan-yu-mi/step_5.jpg"
+      "image": "steps/other_jiao-yan-yu-mi/step_5.jpg"
     },
     {
       "index": 6,
@@ -140,7 +140,7 @@
         "油量不需太多，铺满底即可"
       ],
       "produces": "热油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiao-yan-yu-mi/step_6.jpg"
+      "image": "steps/other_jiao-yan-yu-mi/step_6.jpg"
     },
     {
       "index": 7,
@@ -151,7 +151,7 @@
         "千万不要翻炒，否则淀粉会脱落"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiao-yan-yu-mi/step_7.jpg"
+      "image": "steps/other_jiao-yan-yu-mi/step_7.jpg"
     },
     {
       "index": 8,
@@ -162,7 +162,7 @@
         "动作要轻"
       ],
       "produces": "炸好的玉米粒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiao-yan-yu-mi/step_8.jpg"
+      "image": "steps/other_jiao-yan-yu-mi/step_8.jpg"
     },
     {
       "index": 9,
@@ -173,7 +173,7 @@
         "最重要的一步，赋予灵魂咸香"
       ],
       "produces": "椒盐玉米",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiao-yan-yu-mi/step_9.jpg"
+      "image": "steps/other_jiao-yan-yu-mi/step_9.jpg"
     }
   ],
   "tips": [
@@ -181,8 +181,8 @@
     "千万别煮玉米本身，如果是带包装解冻，可以带着包装一起煮，撕掉一个小口即可",
     "裹粉前的脱水步骤直接决定了成品的外壳是否酥脆且不脱落"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_jiao-yan-yu-mi.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_jiao-yan-yu-mi_overview.jpg",
+  "cover_image": "ai-generated/other_jiao-yan-yu-mi.jpg",
+  "overview_image": "overview/other_jiao-yan-yu-mi_overview.jpg",
   "id": "other_jiao-yan-yu-mi",
   "status": "published"
 }

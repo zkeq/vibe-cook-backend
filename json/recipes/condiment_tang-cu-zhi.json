@@ -87,7 +87,7 @@
         "确保白糖充分溶解在液体中"
       ],
       "produces": "糖醋汁预混液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_tang-cu-zhi/step_1.jpg"
+      "image": "steps/condiment_tang-cu-zhi/step_1.jpg"
     },
     {
       "index": 2,
@@ -98,7 +98,7 @@
         "如果是做糖醋排骨，通常在排骨煸炒好后倒入"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_tang-cu-zhi/step_2.jpg"
+      "image": "steps/condiment_tang-cu-zhi/step_2.jpg"
     },
     {
       "index": 3,
@@ -109,7 +109,7 @@
         "注意观察火力，防止液体过快烧干"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_tang-cu-zhi/step_3.jpg"
+      "image": "steps/condiment_tang-cu-zhi/step_3.jpg"
     },
     {
       "index": 4,
@@ -120,14 +120,14 @@
         "收汁至汤汁浓稠挂勺即可"
       ],
       "produces": "糖醋风味菜肴",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/condiment_tang-cu-zhi/step_4.jpg"
+      "image": "steps/condiment_tang-cu-zhi/step_4.jpg"
     }
   ],
   "tips": [
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/condiment_tang-cu-zhi.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/condiment_tang-cu-zhi_overview.jpg",
+  "cover_image": "ai-generated/condiment_tang-cu-zhi.jpg",
+  "overview_image": "overview/condiment_tang-cu-zhi_overview.jpg",
   "id": "condiment_tang-cu-zhi",
   "status": "published"
 }

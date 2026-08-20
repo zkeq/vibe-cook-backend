@@ -129,7 +129,7 @@
         "块状大小尽量均匀，方便同时煮熟"
       ],
       "produces": "处理好的蔬菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ga-li-fei-niu/step_1.jpg"
+      "image": "steps/other_ga-li-fei-niu/step_1.jpg"
     },
     {
       "index": 2,
@@ -140,7 +140,7 @@
         "焯水可以去除肥牛的血腥味和多余油脂"
       ],
       "produces": "焯过水的肥牛",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ga-li-fei-niu/step_2.jpg"
+      "image": "steps/other_ga-li-fei-niu/step_2.jpg"
     },
     {
       "index": 3,
@@ -151,7 +151,7 @@
         "油温不宜过高，避免食材入锅溅油"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ga-li-fei-niu/step_3.jpg"
+      "image": "steps/other_ga-li-fei-niu/step_3.jpg"
     },
     {
       "index": 4,
@@ -162,7 +162,7 @@
         "炒香洋葱是汤底浓郁的关键"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ga-li-fei-niu/step_4.jpg"
+      "image": "steps/other_ga-li-fei-niu/step_4.jpg"
     },
     {
       "index": 5,
@@ -173,7 +173,7 @@
         "翻炒土豆可以让表面形成保护层，炖煮时不易散烂"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ga-li-fei-niu/step_5.jpg"
+      "image": "steps/other_ga-li-fei-niu/step_5.jpg"
     },
     {
       "index": 6,
@@ -184,7 +184,7 @@
         "水不要加太多，以免最后汤汁不够浓稠"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ga-li-fei-niu/step_6.jpg"
+      "image": "steps/other_ga-li-fei-niu/step_6.jpg"
     },
     {
       "index": 7,
@@ -195,7 +195,7 @@
         "用筷子能轻松扎透土豆即代表熟了"
       ],
       "produces": "浓郁的咖喱蔬菜底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ga-li-fei-niu/step_7.jpg"
+      "image": "steps/other_ga-li-fei-niu/step_7.jpg"
     },
     {
       "index": 8,
@@ -207,7 +207,7 @@
         "搅拌时动作轻柔"
       ],
       "produces": "咖喱肥牛",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ga-li-fei-niu/step_8.jpg"
+      "image": "steps/other_ga-li-fei-niu/step_8.jpg"
     }
   ],
   "tips": [
@@ -215,8 +215,8 @@
     "操作时，需要注意搅拌食材，避免食材调味料不均匀。",
     "如果喜欢更浓稠的汤汁，最后可以开大火稍微收一下汁。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ga-li-fei-niu.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ga-li-fei-niu_overview.jpg",
+  "cover_image": "ai-generated/other_ga-li-fei-niu.jpg",
+  "overview_image": "overview/other_ga-li-fei-niu_overview.jpg",
   "id": "other_ga-li-fei-niu",
   "status": "published"
 }

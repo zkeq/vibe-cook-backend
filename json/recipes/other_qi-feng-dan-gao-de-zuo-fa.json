@@ -89,7 +89,7 @@
         "蛋清量不要超过容器的1/8"
       ],
       "produces": "分离后的蛋清与蛋黄",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-feng-dan-gao-de-zuo-fa/step_1.jpg"
+      "image": "steps/other_qi-feng-dan-gao-de-zuo-fa/step_1.jpg"
     },
     {
       "index": 2,
@@ -100,7 +100,7 @@
         "必须完全乳化，看不见油星"
       ],
       "produces": "乳化液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-feng-dan-gao-de-zuo-fa/step_2.jpg"
+      "image": "steps/other_qi-feng-dan-gao-de-zuo-fa/step_2.jpg"
     },
     {
       "index": 3,
@@ -112,7 +112,7 @@
         "后蛋法能使面糊更细腻"
       ],
       "produces": "蛋黄糊",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-feng-dan-gao-de-zuo-fa/step_3.jpg"
+      "image": "steps/other_qi-feng-dan-gao-de-zuo-fa/step_3.jpg"
     },
     {
       "index": 4,
@@ -124,7 +124,7 @@
         "糖能起到保护气泡的作用"
       ],
       "produces": "蛋白霜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-feng-dan-gao-de-zuo-fa/step_4.jpg"
+      "image": "steps/other_qi-feng-dan-gao-de-zuo-fa/step_4.jpg"
     },
     {
       "index": 5,
@@ -136,7 +136,7 @@
         "参考小岛老师翻拌法：从中心插入向8点钟方向刮起并旋转盆"
       ],
       "produces": "蛋糕糊",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-feng-dan-gao-de-zuo-fa/step_5.jpg"
+      "image": "steps/other_qi-feng-dan-gao-de-zuo-fa/step_5.jpg"
     },
     {
       "index": 6,
@@ -148,7 +148,7 @@
         "最后几分钟需在烤箱前观察"
       ],
       "produces": "烤熟的蛋糕",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-feng-dan-gao-de-zuo-fa/step_6.jpg"
+      "image": "steps/other_qi-feng-dan-gao-de-zuo-fa/step_6.jpg"
     },
     {
       "index": 7,
@@ -160,7 +160,7 @@
         "注意防烫"
       ],
       "produces": "成品戚风蛋糕",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qi-feng-dan-gao-de-zuo-fa/step_7.jpg"
+      "image": "steps/other_qi-feng-dan-gao-de-zuo-fa/step_7.jpg"
     }
   ],
   "tips": [
@@ -170,8 +170,8 @@
     "空气炸锅操作：130℃预热，盖锡纸烤35分钟，撤锡纸150℃上色10-15分钟。",
     "判断熟透：牙签插入中心拔出无湿润面糊。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_qi-feng-dan-gao-de-zuo-fa.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_qi-feng-dan-gao-de-zuo-fa_overview.jpg",
+  "cover_image": "ai-generated/other_qi-feng-dan-gao-de-zuo-fa.jpg",
+  "overview_image": "overview/other_qi-feng-dan-gao-de-zuo-fa_overview.jpg",
   "id": "other_qi-feng-dan-gao-de-zuo-fa",
   "status": "published"
 }

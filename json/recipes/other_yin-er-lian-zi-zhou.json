@@ -88,7 +88,7 @@
         "充分浸泡能让银耳更容易煮出胶质"
       ],
       "produces": "浸泡好的食材",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yin-er-lian-zi-zhou/step_1.jpg"
+      "image": "steps/other_yin-er-lian-zi-zhou/step_1.jpg"
     },
     {
       "index": 2,
@@ -99,7 +99,7 @@
         "水开后再下料可以防止食材粘底"
       ],
       "produces": "混合煮沸的锅物",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yin-er-lian-zi-zhou/step_2.jpg"
+      "image": "steps/other_yin-er-lian-zi-zhou/step_2.jpg"
     },
     {
       "index": 3,
@@ -110,7 +110,7 @@
         "注意观察，防止溢锅"
       ],
       "produces": "初具雏形的粥",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yin-er-lian-zi-zhou/step_3.jpg"
+      "image": "steps/other_yin-er-lian-zi-zhou/step_3.jpg"
     },
     {
       "index": 4,
@@ -121,7 +121,7 @@
         "枸杞不宜过早放入，以免煮烂影响品相"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yin-er-lian-zi-zhou/step_4.jpg"
+      "image": "steps/other_yin-er-lian-zi-zhou/step_4.jpg"
     },
     {
       "index": 5,
@@ -132,7 +132,7 @@
         "粘稠度取决于火候和银耳质量"
       ],
       "produces": "粘稠的银耳粥",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yin-er-lian-zi-zhou/step_5.jpg"
+      "image": "steps/other_yin-er-lian-zi-zhou/step_5.jpg"
     },
     {
       "index": 6,
@@ -143,7 +143,7 @@
         "持续搅拌可以促进银耳出胶"
       ],
       "produces": "调味完成的粥",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yin-er-lian-zi-zhou/step_6.jpg"
+      "image": "steps/other_yin-er-lian-zi-zhou/step_6.jpg"
     },
     {
       "index": 7,
@@ -154,14 +154,14 @@
         "趁热食用口感最佳"
       ],
       "produces": "银耳莲子粥",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yin-er-lian-zi-zhou/step_7.jpg"
+      "image": "steps/other_yin-er-lian-zi-zhou/step_7.jpg"
     }
   ],
   "tips": [
     "当银耳呈现粘稠状态时，需要用勺子及时搅拌，防止银耳糊在锅底"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_yin-er-lian-zi-zhou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_yin-er-lian-zi-zhou_overview.jpg",
+  "cover_image": "ai-generated/other_yin-er-lian-zi-zhou.jpg",
+  "overview_image": "overview/other_yin-er-lian-zi-zhou_overview.jpg",
   "id": "other_yin-er-lian-zi-zhou",
   "status": "published"
 }

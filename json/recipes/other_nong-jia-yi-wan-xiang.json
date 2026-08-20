@@ -131,7 +131,7 @@
         "青椒切斜段更入味"
       ],
       "produces": "准备好的待烹饪食材",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nong-jia-yi-wan-xiang/step_1.jpg"
+      "image": "steps/other_nong-jia-yi-wan-xiang/step_1.jpg"
     },
     {
       "index": 2,
@@ -142,7 +142,7 @@
         "不要炒太久，保持鸡蛋的嫩滑感"
       ],
       "produces": "熟鸡蛋碎",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nong-jia-yi-wan-xiang/step_2.jpg"
+      "image": "steps/other_nong-jia-yi-wan-xiang/step_2.jpg"
     },
     {
       "index": 3,
@@ -153,7 +153,7 @@
         "小火慢煸，防止烧焦"
       ],
       "produces": "焦黄的肥肉和猪油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nong-jia-yi-wan-xiang/step_3.jpg"
+      "image": "steps/other_nong-jia-yi-wan-xiang/step_3.jpg"
     },
     {
       "index": 4,
@@ -164,7 +164,7 @@
         "中火快炒，保证瘦肉不柴"
       ],
       "produces": "炒熟的肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nong-jia-yi-wan-xiang/step_4.jpg"
+      "image": "steps/other_nong-jia-yi-wan-xiang/step_4.jpg"
     },
     {
       "index": 5,
@@ -175,7 +175,7 @@
         "豆瓣酱要炒出红油香味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nong-jia-yi-wan-xiang/step_5.jpg"
+      "image": "steps/other_nong-jia-yi-wan-xiang/step_5.jpg"
     },
     {
       "index": 6,
@@ -186,7 +186,7 @@
         "保持大火快炒，确保青椒口感清脆"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nong-jia-yi-wan-xiang/step_6.jpg"
+      "image": "steps/other_nong-jia-yi-wan-xiang/step_6.jpg"
     },
     {
       "index": 7,
@@ -197,7 +197,7 @@
         "趁热食用风味最佳"
       ],
       "produces": "农家一碗香",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nong-jia-yi-wan-xiang/step_7.jpg"
+      "image": "steps/other_nong-jia-yi-wan-xiang/step_7.jpg"
     }
   ],
   "tips": [
@@ -205,8 +205,8 @@
     "豆瓣酱和酱油已有咸味，通常无需额外加盐",
     "参考资料来源：下厨房"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_nong-jia-yi-wan-xiang.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_nong-jia-yi-wan-xiang_overview.jpg",
+  "cover_image": "ai-generated/other_nong-jia-yi-wan-xiang.jpg",
+  "overview_image": "overview/other_nong-jia-yi-wan-xiang_overview.jpg",
   "id": "other_nong-jia-yi-wan-xiang",
   "status": "published"
 }

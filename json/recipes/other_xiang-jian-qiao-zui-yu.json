@@ -166,7 +166,7 @@
         "让卖鱼的帮忙处理开背更专业"
       ],
       "produces": "开背翘嘴鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-qiao-zui-yu/step_1.jpg"
+      "image": "steps/other_xiang-jian-qiao-zui-yu/step_1.jpg"
     },
     {
       "index": 2,
@@ -177,7 +177,7 @@
         "盐要涂抹均匀以确保入味"
       ],
       "produces": "腌制鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-qiao-zui-yu/step_2.jpg"
+      "image": "steps/other_xiang-jian-qiao-zui-yu/step_2.jpg"
     },
     {
       "index": 3,
@@ -188,7 +188,7 @@
         "结合气温与阳光调整时间，半干状态口感最佳"
       ],
       "produces": "半干翘嘴鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-qiao-zui-yu/step_3.jpg"
+      "image": "steps/other_xiang-jian-qiao-zui-yu/step_3.jpg"
     },
     {
       "index": 4,
@@ -199,7 +199,7 @@
         "沥干水分是为了防止煎鱼时油溅"
       ],
       "produces": "待煎鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-qiao-zui-yu/step_4.jpg"
+      "image": "steps/other_xiang-jian-qiao-zui-yu/step_4.jpg"
     },
     {
       "index": 5,
@@ -210,7 +210,7 @@
         "锅一定要烧热，但煎鱼时要用小火"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-qiao-zui-yu/step_5.jpg"
+      "image": "steps/other_xiang-jian-qiao-zui-yu/step_5.jpg"
     },
     {
       "index": 6,
@@ -221,7 +221,7 @@
         "刚入锅移动极易导致鱼皮破裂"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-qiao-zui-yu/step_6.jpg"
+      "image": "steps/other_xiang-jian-qiao-zui-yu/step_6.jpg"
     },
     {
       "index": 7,
@@ -232,7 +232,7 @@
         "耐心煎至金黄色泽"
       ],
       "produces": "金黄煎鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-qiao-zui-yu/step_7.jpg"
+      "image": "steps/other_xiang-jian-qiao-zui-yu/step_7.jpg"
     },
     {
       "index": 8,
@@ -243,7 +243,7 @@
         "小火炒出豆瓣酱红油和香味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-qiao-zui-yu/step_8.jpg"
+      "image": "steps/other_xiang-jian-qiao-zui-yu/step_8.jpg"
     },
     {
       "index": 9,
@@ -254,7 +254,7 @@
         "必须加热水，避免肉质遇冷收缩变柴"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-qiao-zui-yu/step_9.jpg"
+      "image": "steps/other_xiang-jian-qiao-zui-yu/step_9.jpg"
     },
     {
       "index": 10,
@@ -265,7 +265,7 @@
         "注意观察青椒熟度，白糖提鲜，陈醋增香"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-qiao-zui-yu/step_10.jpg"
+      "image": "steps/other_xiang-jian-qiao-zui-yu/step_10.jpg"
     },
     {
       "index": 11,
@@ -276,7 +276,7 @@
         "香菜最后放以保持色泽和香气"
       ],
       "produces": "香煎翘嘴鱼成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiang-jian-qiao-zui-yu/step_11.jpg"
+      "image": "steps/other_xiang-jian-qiao-zui-yu/step_11.jpg"
     }
   ],
   "tips": [
@@ -285,8 +285,8 @@
     "里面的青椒吸收了鱼汤非常好吃，注意不要煮得太烂。",
     "注意火候切换：前期煎鱼小火，中期焖煮中大火，后期收尾小火。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_xiang-jian-qiao-zui-yu.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_xiang-jian-qiao-zui-yu_overview.jpg",
+  "cover_image": "ai-generated/other_xiang-jian-qiao-zui-yu.jpg",
+  "overview_image": "overview/other_xiang-jian-qiao-zui-yu_overview.jpg",
   "id": "other_xiang-jian-qiao-zui-yu",
   "status": "published"
 }

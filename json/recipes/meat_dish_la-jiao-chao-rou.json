@@ -144,7 +144,7 @@
         "滚刀块可以增加受热面积"
       ],
       "produces": "切好的青椒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_la-jiao-chao-rou/step_1.jpg"
+      "image": "steps/meat_dish_la-jiao-chao-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -155,7 +155,7 @@
         "大蒜拍过之后更容易释放香味"
       ],
       "produces": "蒜瓣和姜末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_la-jiao-chao-rou/step_2.jpg"
+      "image": "steps/meat_dish_la-jiao-chao-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -166,7 +166,7 @@
         "顺纹理切出来的肉片口感更滑嫩"
       ],
       "produces": "肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_la-jiao-chao-rou/step_3.jpg"
+      "image": "steps/meat_dish_la-jiao-chao-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -177,7 +177,7 @@
         "腌制能让肉片提前入味并锁住水分"
       ],
       "produces": "腌制好的猪肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_la-jiao-chao-rou/step_4.jpg"
+      "image": "steps/meat_dish_la-jiao-chao-rou/step_4.jpg"
     },
     {
       "index": 5,
@@ -188,7 +188,7 @@
         "干煸是这道菜辣椒好吃的关键，不要放油"
       ],
       "produces": "干煸过的青椒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_la-jiao-chao-rou/step_5.jpg"
+      "image": "steps/meat_dish_la-jiao-chao-rou/step_5.jpg"
     },
     {
       "index": 6,
@@ -199,7 +199,7 @@
         "油温热后再下料"
       ],
       "produces": "爆香的底油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_la-jiao-chao-rou/step_6.jpg"
+      "image": "steps/meat_dish_la-jiao-chao-rou/step_6.jpg"
     },
     {
       "index": 7,
@@ -210,7 +210,7 @@
         "大火快炒，防止肉质变老"
       ],
       "produces": "半成品菜肴",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_la-jiao-chao-rou/step_7.jpg"
+      "image": "steps/meat_dish_la-jiao-chao-rou/step_7.jpg"
     },
     {
       "index": 8,
@@ -221,7 +221,7 @@
         "酱油起到提色增香的作用"
       ],
       "produces": "辣椒炒肉成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_la-jiao-chao-rou/step_8.jpg"
+      "image": "steps/meat_dish_la-jiao-chao-rou/step_8.jpg"
     },
     {
       "index": 9,
@@ -230,7 +230,7 @@
       "duration_sec": 10,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_la-jiao-chao-rou/step_9.jpg"
+      "image": "steps/meat_dish_la-jiao-chao-rou/step_9.jpg"
     }
   ],
   "tips": [
@@ -238,8 +238,8 @@
     "掌握干煸和快炒的火候是成功的关键",
     "猪肉切片时注意观察纹路，呈“川”字状为佳"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_la-jiao-chao-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_la-jiao-chao-rou_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_la-jiao-chao-rou.jpg",
+  "overview_image": "overview/meat_dish_la-jiao-chao-rou_overview.jpg",
   "id": "meat_dish_la-jiao-chao-rou",
   "status": "published"
 }

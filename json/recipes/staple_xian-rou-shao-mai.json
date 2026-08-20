@@ -178,7 +178,7 @@
         "普通版本可跳过此步"
       ],
       "produces": "增稠剂糊",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_xian-rou-shao-mai/step_1.jpg"
+      "image": "steps/staple_xian-rou-shao-mai/step_1.jpg"
     },
     {
       "index": 2,
@@ -189,7 +189,7 @@
         "必须用开水才能激发增稠剂性能"
       ],
       "produces": "透明凝胶",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_xian-rou-shao-mai/step_2.jpg"
+      "image": "steps/staple_xian-rou-shao-mai/step_2.jpg"
     },
     {
       "index": 3,
@@ -200,7 +200,7 @@
         "猪油能补偿瘦肉缺失的润滑感"
       ],
       "produces": "低脂肉糜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_xian-rou-shao-mai/step_3.jpg"
+      "image": "steps/staple_xian-rou-shao-mai/step_3.jpg"
     },
     {
       "index": 4,
@@ -211,7 +211,7 @@
         "一定要顺着一个方向搅拌，肉馅才会 Q 弹"
       ],
       "produces": "初步肉馅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_xian-rou-shao-mai/step_4.jpg"
+      "image": "steps/staple_xian-rou-shao-mai/step_4.jpg"
     },
     {
       "index": 5,
@@ -222,7 +222,7 @@
         "确保浓汤宝完全分散无颗粒"
       ],
       "produces": "浓缩汤汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_xian-rou-shao-mai/step_5.jpg"
+      "image": "steps/staple_xian-rou-shao-mai/step_5.jpg"
     },
     {
       "index": 6,
@@ -233,7 +233,7 @@
         "如果肉馅太稠，可补 5 mL 水继续搅拌"
       ],
       "produces": "多汁肉馅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_xian-rou-shao-mai/step_6.jpg"
+      "image": "steps/staple_xian-rou-shao-mai/step_6.jpg"
     },
     {
       "index": 7,
@@ -244,7 +244,7 @@
         "冷藏可以让馅料味道融合，且更易包制"
       ],
       "produces": "烧卖馅料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_xian-rou-shao-mai/step_7.jpg"
+      "image": "steps/staple_xian-rou-shao-mai/step_7.jpg"
     },
     {
       "index": 8,
@@ -256,7 +256,7 @@
         "不要放太多馅，否则包不住"
       ],
       "produces": "烧卖雏形",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_xian-rou-shao-mai/step_8.jpg"
+      "image": "steps/staple_xian-rou-shao-mai/step_8.jpg"
     },
     {
       "index": 9,
@@ -267,7 +267,7 @@
         "虾仁朝上颜色更漂亮"
       ],
       "produces": "生烧卖",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_xian-rou-shao-mai/step_9.jpg"
+      "image": "steps/staple_xian-rou-shao-mai/step_9.jpg"
     },
     {
       "index": 10,
@@ -278,7 +278,7 @@
         "一定要水开后再上笼，防止皮子塌陷"
       ],
       "produces": "鲜肉烧卖",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_xian-rou-shao-mai/step_10.jpg"
+      "image": "steps/staple_xian-rou-shao-mai/step_10.jpg"
     }
   ],
   "tips": [
@@ -289,8 +289,8 @@
     "做多了可 -18 ℃ 冷冻保存，冷冻状态直接蒸需 12-15 分钟。",
     "食用时推荐蘸玫瑰米醋，或搭配辣酱、姜丝。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_xian-rou-shao-mai.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_xian-rou-shao-mai_overview.jpg",
+  "cover_image": "ai-generated/staple_xian-rou-shao-mai.jpg",
+  "overview_image": "overview/staple_xian-rou-shao-mai_overview.jpg",
   "id": "staple_xian-rou-shao-mai",
   "status": "published"
 }

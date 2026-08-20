@@ -157,7 +157,7 @@
         "挂面要铺得均匀"
       ],
       "produces": "半熟挂面",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_he-nan-zheng-mian-tiao/step_1.jpg"
+      "image": "steps/other_he-nan-zheng-mian-tiao/step_1.jpg"
     },
     {
       "index": 2,
@@ -169,7 +169,7 @@
         "蒜粒可以稍微切细一点"
       ],
       "produces": "处理好的食材",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_he-nan-zheng-mian-tiao/step_2.jpg"
+      "image": "steps/other_he-nan-zheng-mian-tiao/step_2.jpg"
     },
     {
       "index": 3,
@@ -181,7 +181,7 @@
         "调料翻炒均匀后再加水"
       ],
       "produces": "炒好的肉菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_he-nan-zheng-mian-tiao/step_3.jpg"
+      "image": "steps/other_he-nan-zheng-mian-tiao/step_3.jpg"
     },
     {
       "index": 4,
@@ -193,7 +193,7 @@
         "确保每一根面条都沾上汤汁"
       ],
       "produces": "待蒸的面条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_he-nan-zheng-mian-tiao/step_4.jpg"
+      "image": "steps/other_he-nan-zheng-mian-tiao/step_4.jpg"
     },
     {
       "index": 5,
@@ -204,7 +204,7 @@
         "第二次蒸是为了让面条充分吸收汤汁并熟透"
       ],
       "produces": "熟透的蒸面",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_he-nan-zheng-mian-tiao/step_5.jpg"
+      "image": "steps/other_he-nan-zheng-mian-tiao/step_5.jpg"
     },
     {
       "index": 6,
@@ -215,7 +215,7 @@
         "麻油最后放能保留香味"
       ],
       "produces": "河南蒸面条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_he-nan-zheng-mian-tiao/step_6.jpg"
+      "image": "steps/other_he-nan-zheng-mian-tiao/step_6.jpg"
     }
   ],
   "tips": [
@@ -223,8 +223,8 @@
     "宽的、扁的挂面口感比较软",
     "挂面先蒸再拌汤汁最后再蒸是成功的关键"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_he-nan-zheng-mian-tiao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_he-nan-zheng-mian-tiao_overview.jpg",
+  "cover_image": "ai-generated/other_he-nan-zheng-mian-tiao.jpg",
+  "overview_image": "overview/other_he-nan-zheng-mian-tiao_overview.jpg",
   "id": "other_he-nan-zheng-mian-tiao",
   "status": "published"
 }

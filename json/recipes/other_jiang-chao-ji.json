@@ -157,7 +157,7 @@
         "滤干水分可以防止下锅溅油"
       ],
       "produces": "腌制好的鸡块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-chao-ji/step_1.jpg"
+      "image": "steps/other_jiang-chao-ji/step_1.jpg"
     },
     {
       "index": 2,
@@ -168,7 +168,7 @@
         "充分热锅可以达到物理不粘的效果"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-chao-ji/step_2.jpg"
+      "image": "steps/other_jiang-chao-ji/step_2.jpg"
     },
     {
       "index": 3,
@@ -179,7 +179,7 @@
         "将姜的香味充分激发出来"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-chao-ji/step_3.jpg"
+      "image": "steps/other_jiang-chao-ji/step_3.jpg"
     },
     {
       "index": 4,
@@ -190,7 +190,7 @@
         "鸡肉炒至干香、出油是这道菜好吃的关键"
       ],
       "produces": "干香的鸡块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-chao-ji/step_4.jpg"
+      "image": "steps/other_jiang-chao-ji/step_4.jpg"
     },
     {
       "index": 5,
@@ -201,7 +201,7 @@
         "老抽主要用于上色，不要放太多"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-chao-ji/step_5.jpg"
+      "image": "steps/other_jiang-chao-ji/step_5.jpg"
     },
     {
       "index": 6,
@@ -212,7 +212,7 @@
         "啤酒焖煮能让鸡肉内部也充分吸收姜辣味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-chao-ji/step_6.jpg"
+      "image": "steps/other_jiang-chao-ji/step_6.jpg"
     },
     {
       "index": 7,
@@ -223,14 +223,14 @@
         "收汁不要完全收干，留一点浓稠的汤汁拌饭极佳"
       ],
       "produces": "姜炒鸡成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jiang-chao-ji/step_7.jpg"
+      "image": "steps/other_jiang-chao-ji/step_7.jpg"
     }
   ],
   "tips": [
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_jiang-chao-ji.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_jiang-chao-ji_overview.jpg",
+  "cover_image": "ai-generated/other_jiang-chao-ji.jpg",
+  "overview_image": "overview/other_jiang-chao-ji_overview.jpg",
   "id": "other_jiang-chao-ji",
   "status": "published"
 }

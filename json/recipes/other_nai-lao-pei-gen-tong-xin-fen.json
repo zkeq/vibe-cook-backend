@@ -126,7 +126,7 @@
         "磨细碎一点更容易融化"
       ],
       "produces": "奶酪碎",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nai-lao-pei-gen-tong-xin-fen/step_1.jpg"
+      "image": "steps/other_nai-lao-pei-gen-tong-xin-fen/step_1.jpg"
     },
     {
       "index": 2,
@@ -137,7 +137,7 @@
         "洋葱切碎一点口感更好"
       ],
       "produces": "洋葱碎",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nai-lao-pei-gen-tong-xin-fen/step_2.jpg"
+      "image": "steps/other_nai-lao-pei-gen-tong-xin-fen/step_2.jpg"
     },
     {
       "index": 3,
@@ -148,7 +148,7 @@
         "水中加盐可以增加意面的底味"
       ],
       "produces": "半熟通心粉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nai-lao-pei-gen-tong-xin-fen/step_3.jpg"
+      "image": "steps/other_nai-lao-pei-gen-tong-xin-fen/step_3.jpg"
     },
     {
       "index": 4,
@@ -159,7 +159,7 @@
         "注意火候不要让黄油焦化"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nai-lao-pei-gen-tong-xin-fen/step_4.jpg"
+      "image": "steps/other_nai-lao-pei-gen-tong-xin-fen/step_4.jpg"
     },
     {
       "index": 5,
@@ -170,7 +170,7 @@
         "蒜末容易糊，要在洋葱软化后再加"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nai-lao-pei-gen-tong-xin-fen/step_5.jpg"
+      "image": "steps/other_nai-lao-pei-gen-tong-xin-fen/step_5.jpg"
     },
     {
       "index": 6,
@@ -181,7 +181,7 @@
         "培根可以稍微炒出油脂"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nai-lao-pei-gen-tong-xin-fen/step_6.jpg"
+      "image": "steps/other_nai-lao-pei-gen-tong-xin-fen/step_6.jpg"
     },
     {
       "index": 7,
@@ -192,7 +192,7 @@
         "这是制作白酱的关键，必须小火且少量多次"
       ],
       "produces": "基础酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nai-lao-pei-gen-tong-xin-fen/step_7.jpg"
+      "image": "steps/other_nai-lao-pei-gen-tong-xin-fen/step_7.jpg"
     },
     {
       "index": 8,
@@ -203,7 +203,7 @@
         "面粉要搅拌到无颗粒"
       ],
       "produces": "奶酪酱",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nai-lao-pei-gen-tong-xin-fen/step_8.jpg"
+      "image": "steps/other_nai-lao-pei-gen-tong-xin-fen/step_8.jpg"
     },
     {
       "index": 9,
@@ -214,7 +214,7 @@
         "让每一根通心粉都均匀裹上酱汁"
       ],
       "produces": "奶酪培根通心粉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nai-lao-pei-gen-tong-xin-fen/step_9.jpg"
+      "image": "steps/other_nai-lao-pei-gen-tong-xin-fen/step_9.jpg"
     },
     {
       "index": 10,
@@ -225,7 +225,7 @@
         "如果不烘烤，此时已可直接食用"
       ],
       "produces": "烘烤奶酪培根通心粉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_nai-lao-pei-gen-tong-xin-fen/step_10.jpg"
+      "image": "steps/other_nai-lao-pei-gen-tong-xin-fen/step_10.jpg"
     }
   ],
   "tips": [
@@ -233,8 +233,8 @@
     "制作白酱时火候控制非常重要，一定要保持小火以免结块。",
     "如果您有更好的改进流程，欢迎提出 Issue 或 Pull request。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_nai-lao-pei-gen-tong-xin-fen.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_nai-lao-pei-gen-tong-xin-fen_overview.jpg",
+  "cover_image": "ai-generated/other_nai-lao-pei-gen-tong-xin-fen.jpg",
+  "overview_image": "overview/other_nai-lao-pei-gen-tong-xin-fen_overview.jpg",
   "id": "other_nai-lao-pei-gen-tong-xin-fen",
   "status": "published"
 }

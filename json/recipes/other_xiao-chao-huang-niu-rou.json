@@ -113,7 +113,7 @@
         "抓匀后腌制片刻可使牛肉更入味"
       ],
       "produces": "腌制好的牛肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiao-chao-huang-niu-rou/step_1.jpg"
+      "image": "steps/other_xiao-chao-huang-niu-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -124,7 +124,7 @@
         "斜切可以增加受热面积，更易入味"
       ],
       "produces": "芹菜段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiao-chao-huang-niu-rou/step_2.jpg"
+      "image": "steps/other_xiao-chao-huang-niu-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -135,7 +135,7 @@
         "怕辣可以去除部分辣椒籽"
       ],
       "produces": "小米椒丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiao-chao-huang-niu-rou/step_3.jpg"
+      "image": "steps/other_xiao-chao-huang-niu-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -146,7 +146,7 @@
         "野山椒的酸辣味是这道菜的灵魂"
       ],
       "produces": "野山椒碎",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiao-chao-huang-niu-rou/step_4.jpg"
+      "image": "steps/other_xiao-chao-huang-niu-rou/step_4.jpg"
     },
     {
       "index": 5,
@@ -157,7 +157,7 @@
         "香菜梗也保留，增加脆爽口感"
       ],
       "produces": "香菜段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiao-chao-huang-niu-rou/step_5.jpg"
+      "image": "steps/other_xiao-chao-huang-niu-rou/step_5.jpg"
     },
     {
       "index": 6,
@@ -168,7 +168,7 @@
         "油温一定要高，这样炒出的牛肉才嫩"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiao-chao-huang-niu-rou/step_6.jpg"
+      "image": "steps/other_xiao-chao-huang-niu-rou/step_6.jpg"
     },
     {
       "index": 7,
@@ -179,7 +179,7 @@
         "快速翻炒，避免辣椒炒焦"
       ],
       "produces": "爆香的底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiao-chao-huang-niu-rou/step_7.jpg"
+      "image": "steps/other_xiao-chao-huang-niu-rou/step_7.jpg"
     },
     {
       "index": 8,
@@ -190,7 +190,7 @@
         "动作要快，大火快炒能锁住牛肉水分"
       ],
       "produces": "熟制牛肉与芹菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiao-chao-huang-niu-rou/step_8.jpg"
+      "image": "steps/other_xiao-chao-huang-niu-rou/step_8.jpg"
     },
     {
       "index": 9,
@@ -201,14 +201,14 @@
         "利用余温拌匀香菜即可"
       ],
       "produces": "小炒黄牛肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_xiao-chao-huang-niu-rou/step_9.jpg"
+      "image": "steps/other_xiao-chao-huang-niu-rou/step_9.jpg"
     }
   ],
   "tips": [
     "操作时，全程需要开大火"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_xiao-chao-huang-niu-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_xiao-chao-huang-niu-rou_overview.jpg",
+  "cover_image": "ai-generated/other_xiao-chao-huang-niu-rou.jpg",
+  "overview_image": "overview/other_xiao-chao-huang-niu-rou_overview.jpg",
   "id": "other_xiao-chao-huang-niu-rou",
   "status": "published"
 }

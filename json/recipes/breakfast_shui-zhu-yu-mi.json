@@ -71,7 +71,7 @@
         "保留部分内皮可以增加玉米的清香"
       ],
       "produces": "处理好的玉米",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_shui-zhu-yu-mi/step_1.jpg"
+      "image": "steps/breakfast_shui-zhu-yu-mi/step_1.jpg"
     },
     {
       "index": 2,
@@ -82,7 +82,7 @@
         "盐能激发出玉米本身的甜味"
       ],
       "produces": "待煮玉米",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_shui-zhu-yu-mi/step_2.jpg"
+      "image": "steps/breakfast_shui-zhu-yu-mi/step_2.jpg"
     },
     {
       "index": 3,
@@ -93,7 +93,7 @@
         "玉米煮的时间稍长也没关系，口感会更软糯"
       ],
       "produces": "熟玉米",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_shui-zhu-yu-mi/step_3.jpg"
+      "image": "steps/breakfast_shui-zhu-yu-mi/step_3.jpg"
     },
     {
       "index": 4,
@@ -104,14 +104,14 @@
         "沥干水分防止口感变淡"
       ],
       "produces": "成品水煮玉米",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_shui-zhu-yu-mi/step_4.jpg"
+      "image": "steps/breakfast_shui-zhu-yu-mi/step_4.jpg"
     }
   ],
   "tips": [
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_shui-zhu-yu-mi.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_shui-zhu-yu-mi_overview.jpg",
+  "cover_image": "ai-generated/breakfast_shui-zhu-yu-mi.jpg",
+  "overview_image": "overview/breakfast_shui-zhu-yu-mi_overview.jpg",
   "id": "breakfast_shui-zhu-yu-mi",
   "status": "published"
 }

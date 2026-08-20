@@ -125,7 +125,7 @@
         "提前混合调料可避免炒菜时手忙脚乱"
       ],
       "produces": "处理好的食材与调味料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yang-cong-chao-zhu-rou/step_1.jpg"
+      "image": "steps/meat_dish_yang-cong-chao-zhu-rou/step_1.jpg"
     },
     {
       "index": 2,
@@ -136,7 +136,7 @@
         "油温稍高一点可以防止肉片粘锅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yang-cong-chao-zhu-rou/step_2.jpg"
+      "image": "steps/meat_dish_yang-cong-chao-zhu-rou/step_2.jpg"
     },
     {
       "index": 3,
@@ -147,7 +147,7 @@
         "肉片变色即盛出，防止肉质过老"
       ],
       "produces": "半熟的肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yang-cong-chao-zhu-rou/step_3.jpg"
+      "image": "steps/meat_dish_yang-cong-chao-zhu-rou/step_3.jpg"
     },
     {
       "index": 4,
@@ -158,7 +158,7 @@
         "洋葱炒软后甜味会更明显"
       ],
       "produces": "浓酱洋葱",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yang-cong-chao-zhu-rou/step_4.jpg"
+      "image": "steps/meat_dish_yang-cong-chao-zhu-rou/step_4.jpg"
     },
     {
       "index": 5,
@@ -169,7 +169,7 @@
         "快速翻炒让肉片均匀裹上酱汁"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yang-cong-chao-zhu-rou/step_5.jpg"
+      "image": "steps/meat_dish_yang-cong-chao-zhu-rou/step_5.jpg"
     },
     {
       "index": 6,
@@ -180,7 +180,7 @@
         "最后阶段大火收汁效果更佳"
       ],
       "produces": "洋葱炒猪肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_yang-cong-chao-zhu-rou/step_6.jpg"
+      "image": "steps/meat_dish_yang-cong-chao-zhu-rou/step_6.jpg"
     }
   ],
   "tips": [
@@ -188,8 +188,8 @@
     "建议购买标准茶匙、大匙来精准确定用料的量，保证味道稳定",
     "洋葱是主角，如果特别喜欢吃可以多加半颗到一颗"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_yang-cong-chao-zhu-rou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_yang-cong-chao-zhu-rou_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_yang-cong-chao-zhu-rou.jpg",
+  "overview_image": "overview/meat_dish_yang-cong-chao-zhu-rou_overview.jpg",
   "id": "meat_dish_yang-cong-chao-zhu-rou",
   "status": "published"
 }

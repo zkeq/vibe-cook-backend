@@ -78,7 +78,7 @@
         "焯水可以去除菠菜中的草酸，口感更好"
       ],
       "produces": "焯水后的菠菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bo-cai-chao-ji-dan/step_1.jpg"
+      "image": "steps/other_bo-cai-chao-ji-dan/step_1.jpg"
     },
     {
       "index": 2,
@@ -89,7 +89,7 @@
         "充分打散蛋液，炒出来的鸡蛋更蓬松"
       ],
       "produces": "鸡蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bo-cai-chao-ji-dan/step_2.jpg"
+      "image": "steps/other_bo-cai-chao-ji-dan/step_2.jpg"
     },
     {
       "index": 3,
@@ -100,7 +100,7 @@
         "中火加热，避免油温过高产生油烟"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bo-cai-chao-ji-dan/step_3.jpg"
+      "image": "steps/other_bo-cai-chao-ji-dan/step_3.jpg"
     },
     {
       "index": 4,
@@ -111,7 +111,7 @@
         "鸡蛋不要炒太久，保持软嫩口感"
       ],
       "produces": "鸡蛋块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bo-cai-chao-ji-dan/step_4.jpg"
+      "image": "steps/other_bo-cai-chao-ji-dan/step_4.jpg"
     },
     {
       "index": 5,
@@ -122,7 +122,7 @@
         "利用锅底残留的蛋香炒菠菜会更美味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bo-cai-chao-ji-dan/step_5.jpg"
+      "image": "steps/other_bo-cai-chao-ji-dan/step_5.jpg"
     },
     {
       "index": 6,
@@ -133,7 +133,7 @@
         "菠菜易熟，大火快炒能保持色泽翠绿"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bo-cai-chao-ji-dan/step_6.jpg"
+      "image": "steps/other_bo-cai-chao-ji-dan/step_6.jpg"
     },
     {
       "index": 7,
@@ -144,7 +144,7 @@
         "加少量水可以使整道菜更加滋润不干涩"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bo-cai-chao-ji-dan/step_7.jpg"
+      "image": "steps/other_bo-cai-chao-ji-dan/step_7.jpg"
     },
     {
       "index": 8,
@@ -155,14 +155,14 @@
         "趁热食用味道最佳"
       ],
       "produces": "菠菜炒鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_bo-cai-chao-ji-dan/step_8.jpg"
+      "image": "steps/other_bo-cai-chao-ji-dan/step_8.jpg"
     }
   ],
   "tips": [
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_bo-cai-chao-ji-dan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_bo-cai-chao-ji-dan_overview.jpg",
+  "cover_image": "ai-generated/other_bo-cai-chao-ji-dan.jpg",
+  "overview_image": "overview/other_bo-cai-chao-ji-dan_overview.jpg",
   "id": "other_bo-cai-chao-ji-dan",
   "status": "published"
 }

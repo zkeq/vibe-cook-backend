@@ -146,7 +146,7 @@
         "尽量切得均匀以保证口感一致"
       ],
       "produces": "胡萝卜丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_1.jpg"
+      "image": "steps/other_yang-zhou-chao-fan/step_1.jpg"
     },
     {
       "index": 2,
@@ -157,7 +157,7 @@
         "大小应与胡萝卜丁保持一致"
       ],
       "produces": "午餐肉丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_2.jpg"
+      "image": "steps/other_yang-zhou-chao-fan/step_2.jpg"
     },
     {
       "index": 3,
@@ -168,7 +168,7 @@
         "葱白和葱绿下锅时间不同，必须分开"
       ],
       "produces": "葱白段, 葱绿段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_3.jpg"
+      "image": "steps/other_yang-zhou-chao-fan/step_3.jpg"
     },
     {
       "index": 4,
@@ -179,7 +179,7 @@
         "搅拌要充分，不要有大块蛋清"
       ],
       "produces": "鸡蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_4.jpg"
+      "image": "steps/other_yang-zhou-chao-fan/step_4.jpg"
     },
     {
       "index": 5,
@@ -190,7 +190,7 @@
         "煮熟即可，不要过烂"
       ],
       "produces": "熟蔬菜丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_5.jpg"
+      "image": "steps/other_yang-zhou-chao-fan/step_5.jpg"
     },
     {
       "index": 6,
@@ -201,7 +201,7 @@
         "虾肉变红弯曲即可捞出，避免过老"
       ],
       "produces": "熟虾仁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_6.jpg"
+      "image": "steps/other_yang-zhou-chao-fan/step_6.jpg"
     },
     {
       "index": 7,
@@ -212,7 +212,7 @@
         "控制碗到油之间的流注直径大约在 0.5cm"
       ],
       "produces": "凝固鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_7.jpg"
+      "image": "steps/other_yang-zhou-chao-fan/step_7.jpg"
     },
     {
       "index": 8,
@@ -223,7 +223,7 @@
         "动作要快，保持鸡蛋嫩滑"
       ],
       "produces": "嫩鸡蛋块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_8.jpg"
+      "image": "steps/other_yang-zhou-chao-fan/step_8.jpg"
     },
     {
       "index": 9,
@@ -234,7 +234,7 @@
         "此步骤是为了让配料混合并带上油香"
       ],
       "produces": "预炒配料集合",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_9.jpg"
+      "image": "steps/other_yang-zhou-chao-fan/step_9.jpg"
     },
     {
       "index": 10,
@@ -245,7 +245,7 @@
         "可以有残余油分，但不能有焦糊杂质"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_10.jpg"
+      "image": "steps/other_yang-zhou-chao-fan/step_10.jpg"
     },
     {
       "index": 11,
@@ -256,7 +256,7 @@
         "注意不要把葱白炸糊"
       ],
       "produces": "葱香底油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_11.jpg"
+      "image": "steps/other_yang-zhou-chao-fan/step_11.jpg"
     },
     {
       "index": 12,
@@ -267,7 +267,7 @@
         "如果油温过高可以关火操作，重点是砸散结块的米饭"
       ],
       "produces": "散粒油润米饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_12.jpg"
+      "image": "steps/other_yang-zhou-chao-fan/step_12.jpg"
     },
     {
       "index": 13,
@@ -278,7 +278,7 @@
         "让鸡蛋碎均匀分布在米饭中"
       ],
       "produces": "蛋炒饭半成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_13.jpg"
+      "image": "steps/other_yang-zhou-chao-fan/step_13.jpg"
     },
     {
       "index": 14,
@@ -289,7 +289,7 @@
         "大火快炒出镬气"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_14.jpg"
+      "image": "steps/other_yang-zhou-chao-fan/step_14.jpg"
     },
     {
       "index": 15,
@@ -300,7 +300,7 @@
         "盐量根据个人口味微调"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_15.jpg"
+      "image": "steps/other_yang-zhou-chao-fan/step_15.jpg"
     },
     {
       "index": 16,
@@ -311,7 +311,7 @@
         "葱绿最后放可以保持色泽翠绿"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_16.jpg"
+      "image": "steps/other_yang-zhou-chao-fan/step_16.jpg"
     },
     {
       "index": 17,
@@ -322,15 +322,15 @@
         "趁热食用口感最佳"
       ],
       "produces": "扬州炒饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-zhou-chao-fan/step_17.jpg"
+      "image": "steps/other_yang-zhou-chao-fan/step_17.jpg"
     }
   ],
   "tips": [
     "如做完后胳膊酸痛为正常现象，需加强上肢锻炼",
     "超市有青豆，胡萝卜，玉米粒的混合冷冻包装，可以使用这个省去切丁的烦恼，推荐 Pams Mixed Veges 或类似产品"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_yang-zhou-chao-fan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_yang-zhou-chao-fan_overview.jpg",
+  "cover_image": "ai-generated/other_yang-zhou-chao-fan.jpg",
+  "overview_image": "overview/other_yang-zhou-chao-fan_overview.jpg",
   "id": "other_yang-zhou-chao-fan",
   "status": "published"
 }

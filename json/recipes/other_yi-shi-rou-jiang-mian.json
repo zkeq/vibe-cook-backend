@@ -90,7 +90,7 @@
         "可以在水中加少许盐让面条更入味"
       ],
       "produces": "熟意面",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yi-shi-rou-jiang-mian/step_1.jpg"
+      "image": "steps/other_yi-shi-rou-jiang-mian/step_1.jpg"
     },
     {
       "index": 2,
@@ -101,7 +101,7 @@
         "切洋葱时注意不要流泪"
       ],
       "produces": "洋葱丁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yi-shi-rou-jiang-mian/step_2.jpg"
+      "image": "steps/other_yi-shi-rou-jiang-mian/step_2.jpg"
     },
     {
       "index": 3,
@@ -112,7 +112,7 @@
         "注意火力，不要让洋葱烧糊"
       ],
       "produces": "炒香的洋葱",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yi-shi-rou-jiang-mian/step_3.jpg"
+      "image": "steps/other_yi-shi-rou-jiang-mian/step_3.jpg"
     },
     {
       "index": 4,
@@ -123,7 +123,7 @@
         "肉沫要彻底搅散口感才好"
       ],
       "produces": "熟肉末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yi-shi-rou-jiang-mian/step_4.jpg"
+      "image": "steps/other_yi-shi-rou-jiang-mian/step_4.jpg"
     },
     {
       "index": 5,
@@ -134,7 +134,7 @@
         "面酱本身是熟的，无需长时间熬煮"
       ],
       "produces": "肉酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yi-shi-rou-jiang-mian/step_5.jpg"
+      "image": "steps/other_yi-shi-rou-jiang-mian/step_5.jpg"
     },
     {
       "index": 6,
@@ -145,15 +145,15 @@
         "趁热搅拌味道更佳"
       ],
       "produces": "意式肉酱面",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yi-shi-rou-jiang-mian/step_6.jpg"
+      "image": "steps/other_yi-shi-rou-jiang-mian/step_6.jpg"
     }
   ],
   "tips": [
     "意大利面分为很多不同的粗细，煮面条之前请注意意面盒子上标注的时间",
     "意大利面酱并不是番茄酱（番茄沙司），加的调味料不同，购买时需注意区分"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_yi-shi-rou-jiang-mian.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_yi-shi-rou-jiang-mian_overview.jpg",
+  "cover_image": "ai-generated/other_yi-shi-rou-jiang-mian.jpg",
+  "overview_image": "overview/other_yi-shi-rou-jiang-mian_overview.jpg",
   "id": "other_yi-shi-rou-jiang-mian",
   "status": "published"
 }

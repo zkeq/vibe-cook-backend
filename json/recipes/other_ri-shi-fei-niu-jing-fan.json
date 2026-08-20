@@ -136,7 +136,7 @@
         "去芯可以让口感更统一"
       ],
       "produces": "洋葱丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-fei-niu-jing-fan/step_1.jpg"
+      "image": "steps/other_ri-shi-fei-niu-jing-fan/step_1.jpg"
     },
     {
       "index": 2,
@@ -145,7 +145,7 @@
       "duration_sec": 60,
       "tips": [],
       "produces": "葱花",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-fei-niu-jing-fan/step_2.jpg"
+      "image": "steps/other_ri-shi-fei-niu-jing-fan/step_2.jpg"
     },
     {
       "index": 3,
@@ -156,7 +156,7 @@
         "注意火候，防止芝麻焦糊"
       ],
       "produces": "熟芝麻",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-fei-niu-jing-fan/step_3.jpg"
+      "image": "steps/other_ri-shi-fei-niu-jing-fan/step_3.jpg"
     },
     {
       "index": 4,
@@ -167,7 +167,7 @@
         "如果是优质牛肉可跳过此步以保留风味"
       ],
       "produces": "半熟肥牛",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-fei-niu-jing-fan/step_4.jpg"
+      "image": "steps/other_ri-shi-fei-niu-jing-fan/step_4.jpg"
     },
     {
       "index": 5,
@@ -178,7 +178,7 @@
         "可直接将碗放在电子秤上进行精准称重"
       ],
       "produces": "调料汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-fei-niu-jing-fan/step_5.jpg"
+      "image": "steps/other_ri-shi-fei-niu-jing-fan/step_5.jpg"
     },
     {
       "index": 6,
@@ -189,7 +189,7 @@
         "大火快炒能激发洋葱甜味"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-fei-niu-jing-fan/step_6.jpg"
+      "image": "steps/other_ri-shi-fei-niu-jing-fan/step_6.jpg"
     },
     {
       "index": 7,
@@ -200,7 +200,7 @@
         "使用出汁味道更鲜美"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-fei-niu-jing-fan/step_7.jpg"
+      "image": "steps/other_ri-shi-fei-niu-jing-fan/step_7.jpg"
     },
     {
       "index": 8,
@@ -211,7 +211,7 @@
         "如果觉得不够咸，可以逐克加入酱油调整"
       ],
       "produces": "牛丼浇头",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-fei-niu-jing-fan/step_8.jpg"
+      "image": "steps/other_ri-shi-fei-niu-jing-fan/step_8.jpg"
     },
     {
       "index": 9,
@@ -222,7 +222,7 @@
         "汁水是盖饭的灵魂，记得多淋一些"
       ],
       "produces": "日式肥牛丼饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ri-shi-fei-niu-jing-fan/step_9.jpg"
+      "image": "steps/other_ri-shi-fei-niu-jing-fan/step_9.jpg"
     }
   ],
   "tips": [
@@ -232,8 +232,8 @@
     "冷藏后加热：微波炉单人份高火 2-3 分钟；锅加热需额外加 50ml 水并不断翻动。",
     "咸度调整：建议尝一口汤汁，若咸度低于预期，每次加入 1g 酱油微调。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ri-shi-fei-niu-jing-fan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ri-shi-fei-niu-jing-fan_overview.jpg",
+  "cover_image": "ai-generated/other_ri-shi-fei-niu-jing-fan.jpg",
+  "overview_image": "overview/other_ri-shi-fei-niu-jing-fan_overview.jpg",
   "id": "other_ri-shi-fei-niu-jing-fan",
   "status": "published"
 }

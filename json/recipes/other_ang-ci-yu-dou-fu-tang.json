@@ -118,7 +118,7 @@
         "肚内血丝是腥味的主要来源，必须彻底清除"
       ],
       "produces": "腌制好的鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ang-ci-yu-dou-fu-tang/step_1.jpg"
+      "image": "steps/other_ang-ci-yu-dou-fu-tang/step_1.jpg"
     },
     {
       "index": 2,
@@ -129,7 +129,7 @@
         "浸泡凉水可以去除豆腥味并防止豆腐破碎"
       ],
       "produces": "豆腐块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ang-ci-yu-dou-fu-tang/step_2.jpg"
+      "image": "steps/other_ang-ci-yu-dou-fu-tang/step_2.jpg"
     },
     {
       "index": 3,
@@ -141,7 +141,7 @@
         "煎鱼时不要频繁翻动，待定型后再翻面"
       ],
       "produces": "两面微黄的昂刺鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ang-ci-yu-dou-fu-tang/step_3.jpg"
+      "image": "steps/other_ang-ci-yu-dou-fu-tang/step_3.jpg"
     },
     {
       "index": 4,
@@ -152,7 +152,7 @@
         "必须加开水且保持大火，这是汤汁变白的秘诀"
       ],
       "produces": "浓白鱼汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ang-ci-yu-dou-fu-tang/step_4.jpg"
+      "image": "steps/other_ang-ci-yu-dou-fu-tang/step_4.jpg"
     },
     {
       "index": 5,
@@ -163,7 +163,7 @@
         "胡椒粉不仅去腥，还能提供暖意"
       ],
       "produces": "昂刺鱼豆腐汤成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_ang-ci-yu-dou-fu-tang/step_5.jpg"
+      "image": "steps/other_ang-ci-yu-dou-fu-tang/step_5.jpg"
     }
   ],
   "tips": [
@@ -171,8 +171,8 @@
     "鱼富含优质蛋白质，搭配豆腐能补充钙质，营养均衡",
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_ang-ci-yu-dou-fu-tang.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_ang-ci-yu-dou-fu-tang_overview.jpg",
+  "cover_image": "ai-generated/other_ang-ci-yu-dou-fu-tang.jpg",
+  "overview_image": "overview/other_ang-ci-yu-dou-fu-tang_overview.jpg",
   "id": "other_ang-ci-yu-dou-fu-tang",
   "status": "published"
 }

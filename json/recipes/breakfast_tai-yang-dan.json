@@ -66,7 +66,7 @@
         "油涂抹均匀可以防止鸡蛋粘碗"
       ],
       "produces": "涂好油盐的碗",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tai-yang-dan/step_1.jpg"
+      "image": "steps/breakfast_tai-yang-dan/step_1.jpg"
     },
     {
       "index": 2,
@@ -77,7 +77,7 @@
         "尽量保持蛋黄完整"
       ],
       "produces": "装有鸡蛋的碗",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tai-yang-dan/step_2.jpg"
+      "image": "steps/breakfast_tai-yang-dan/step_2.jpg"
     },
     {
       "index": 3,
@@ -88,7 +88,7 @@
         "此步骤非常关键，是为了防止蛋黄在微波过程中受热爆炸"
       ],
       "produces": "待加热的鸡蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tai-yang-dan/step_3.jpg"
+      "image": "steps/breakfast_tai-yang-dan/step_3.jpg"
     },
     {
       "index": 4,
@@ -99,7 +99,7 @@
         "不同微波炉功率不同，需根据实际情况调整时长"
       ],
       "produces": "太阳蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_tai-yang-dan/step_4.jpg"
+      "image": "steps/breakfast_tai-yang-dan/step_4.jpg"
     }
   ],
   "tips": [
@@ -107,8 +107,8 @@
     "不可控火候微波炉定义：面板上无法找到小火、中火、大火等字样，仅能控制时长",
     "可控火候微波炉定义：面板上能找到不同火候档位设置"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_tai-yang-dan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_tai-yang-dan_overview.jpg",
+  "cover_image": "ai-generated/breakfast_tai-yang-dan.jpg",
+  "overview_image": "overview/breakfast_tai-yang-dan_overview.jpg",
   "id": "breakfast_tai-yang-dan",
   "status": "published"
 }

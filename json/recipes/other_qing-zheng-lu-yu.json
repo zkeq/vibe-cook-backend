@@ -114,7 +114,7 @@
         "葱丝浸泡冷水会变卷，更美观"
       ],
       "produces": "姜葱丝及段",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-zheng-lu-yu/step_1.jpg"
+      "image": "steps/other_qing-zheng-lu-yu/step_1.jpg"
     },
     {
       "index": 2,
@@ -125,7 +125,7 @@
         "擦干鱼身有助于去腥"
       ],
       "produces": "腌制好的鲈鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-zheng-lu-yu/step_2.jpg"
+      "image": "steps/other_qing-zheng-lu-yu/step_2.jpg"
     },
     {
       "index": 3,
@@ -136,7 +136,7 @@
         "参考步骤图中的改刀方式"
       ],
       "produces": "立式摆盘的鲈鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-zheng-lu-yu/step_3.jpg"
+      "image": "steps/other_qing-zheng-lu-yu/step_3.jpg"
     },
     {
       "index": 4,
@@ -147,7 +147,7 @@
         "用筷子隔开能避免鱼肉接触到腥水，且受热更均匀"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-zheng-lu-yu/step_4.jpg"
+      "image": "steps/other_qing-zheng-lu-yu/step_4.jpg"
     },
     {
       "index": 5,
@@ -158,7 +158,7 @@
         "火候是关键，10分钟内为佳，太久鱼肉会老"
       ],
       "produces": "熟鲈鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-zheng-lu-yu/step_5.jpg"
+      "image": "steps/other_qing-zheng-lu-yu/step_5.jpg"
     },
     {
       "index": 6,
@@ -169,7 +169,7 @@
         "倒掉原盘中的腥水，换新盘口感更清爽"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-zheng-lu-yu/step_6.jpg"
+      "image": "steps/other_qing-zheng-lu-yu/step_6.jpg"
     },
     {
       "index": 7,
@@ -180,7 +180,7 @@
         "热油激发出葱姜的香味是点睛之笔"
       ],
       "produces": "完成的清蒸鲈鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-zheng-lu-yu/step_7.jpg"
+      "image": "steps/other_qing-zheng-lu-yu/step_7.jpg"
     }
   ],
   "tips": [
@@ -188,8 +188,8 @@
     "切记蒸鱼需要用筷子隔开装鱼的盘子，防止鱼肉沾染腥水并保证受热均匀。",
     "改刀让鱼立起来不仅美观，还能提高烹饪效率。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_qing-zheng-lu-yu.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_qing-zheng-lu-yu_overview.jpg",
+  "cover_image": "ai-generated/other_qing-zheng-lu-yu.jpg",
+  "overview_image": "overview/other_qing-zheng-lu-yu_overview.jpg",
   "id": "other_qing-zheng-lu-yu",
   "status": "published"
 }

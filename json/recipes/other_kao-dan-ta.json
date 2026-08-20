@@ -89,7 +89,7 @@
         "淡奶油密度在此处记为 1"
       ],
       "produces": "称好的淡奶油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-dan-ta/step_1.jpg"
+      "image": "steps/other_kao-dan-ta/step_1.jpg"
     },
     {
       "index": 2,
@@ -100,7 +100,7 @@
         "甜度中等，可按个人口味增减，建议范围 60-100 克"
       ],
       "produces": "奶油糖混合液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-dan-ta/step_2.jpg"
+      "image": "steps/other_kao-dan-ta/step_2.jpg"
     },
     {
       "index": 3,
@@ -111,7 +111,7 @@
         "牛奶密度在此处记为 1"
       ],
       "produces": "奶油糖奶混合液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-dan-ta/step_3.jpg"
+      "image": "steps/other_kao-dan-ta/step_3.jpg"
     },
     {
       "index": 4,
@@ -122,7 +122,7 @@
         "注意分离蛋清，只取蛋黄"
       ],
       "produces": "蛋挞液基础混合物",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-dan-ta/step_4.jpg"
+      "image": "steps/other_kao-dan-ta/step_4.jpg"
     },
     {
       "index": 5,
@@ -133,7 +133,7 @@
         "可以使用筷子或打蛋器"
       ],
       "produces": "搅拌均匀的蛋挞液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-dan-ta/step_5.jpg"
+      "image": "steps/other_kao-dan-ta/step_5.jpg"
     },
     {
       "index": 6,
@@ -144,7 +144,7 @@
         "滤除鸡蛋黏膜、鸡蛋壳、未融化的白砂糖、结块的淡奶油"
       ],
       "produces": "细腻的蛋挞液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-dan-ta/step_6.jpg"
+      "image": "steps/other_kao-dan-ta/step_6.jpg"
     },
     {
       "index": 7,
@@ -155,7 +155,7 @@
         "预热是确保烘烤成功的重要步骤"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-dan-ta/step_7.jpg"
+      "image": "steps/other_kao-dan-ta/step_7.jpg"
     },
     {
       "index": 8,
@@ -166,7 +166,7 @@
         "保持间隔有助于热量流通"
       ],
       "produces": "排列好的蛋挞皮",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-dan-ta/step_8.jpg"
+      "image": "steps/other_kao-dan-ta/step_8.jpg"
     },
     {
       "index": 9,
@@ -177,7 +177,7 @@
         "不要倒太满防止溢出"
       ],
       "produces": "蛋挞半成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-dan-ta/step_9.jpg"
+      "image": "steps/other_kao-dan-ta/step_9.jpg"
     },
     {
       "index": 10,
@@ -188,7 +188,7 @@
         "方便以后随吃随取"
       ],
       "produces": "冷冻蛋挞半成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-dan-ta/step_10.jpg"
+      "image": "steps/other_kao-dan-ta/step_10.jpg"
     },
     {
       "index": 11,
@@ -199,7 +199,7 @@
         "根据烤箱实际温差调整时间"
       ],
       "produces": "烤熟的蛋挞",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-dan-ta/step_11.jpg"
+      "image": "steps/other_kao-dan-ta/step_11.jpg"
     },
     {
       "index": 12,
@@ -210,15 +210,15 @@
         "刚出炉较烫，请稍作冷却后再食用"
       ],
       "produces": "成品蛋挞",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_kao-dan-ta/step_12.jpg"
+      "image": "steps/other_kao-dan-ta/step_12.jpg"
     }
   ],
   "tips": [
     "操作时请务必小心烤箱高温，防止烫伤",
     "蛋挞皮填充后可直接冷冻保存，方便快捷"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_kao-dan-ta.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_kao-dan-ta_overview.jpg",
+  "cover_image": "ai-generated/other_kao-dan-ta.jpg",
+  "overview_image": "overview/other_kao-dan-ta_overview.jpg",
   "id": "other_kao-dan-ta",
   "status": "published"
 }

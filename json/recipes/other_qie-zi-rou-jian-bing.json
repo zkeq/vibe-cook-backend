@@ -107,7 +107,7 @@
         "茄子去皮后口感更软糯"
       ],
       "produces": "茄片和肉片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qie-zi-rou-jian-bing/step_1.jpg"
+      "image": "steps/other_qie-zi-rou-jian-bing/step_1.jpg"
     },
     {
       "index": 2,
@@ -118,7 +118,7 @@
         "先放干粉再加水更容易搅拌均匀"
       ],
       "produces": "混合粉料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qie-zi-rou-jian-bing/step_2.jpg"
+      "image": "steps/other_qie-zi-rou-jian-bing/step_2.jpg"
     },
     {
       "index": 3,
@@ -130,7 +130,7 @@
         "面糊的稠度是挂糊成功的关键"
       ],
       "produces": "挂好糊的食材",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qie-zi-rou-jian-bing/step_3.jpg"
+      "image": "steps/other_qie-zi-rou-jian-bing/step_3.jpg"
     },
     {
       "index": 4,
@@ -141,7 +141,7 @@
         "全程建议小火，防止外焦内生"
       ],
       "produces": "热油锅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qie-zi-rou-jian-bing/step_4.jpg"
+      "image": "steps/other_qie-zi-rou-jian-bing/step_4.jpg"
     },
     {
       "index": 5,
@@ -152,7 +152,7 @@
         "煎的过程中如果油变少，可以适量补充添加"
       ],
       "produces": "熟透的煎饼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qie-zi-rou-jian-bing/step_5.jpg"
+      "image": "steps/other_qie-zi-rou-jian-bing/step_5.jpg"
     },
     {
       "index": 6,
@@ -163,7 +163,7 @@
         "腊肉本身有咸味，撒盐需适量"
       ],
       "produces": "茄子肉煎饼成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qie-zi-rou-jian-bing/step_6.jpg"
+      "image": "steps/other_qie-zi-rou-jian-bing/step_6.jpg"
     }
   ],
   "tips": [
@@ -171,8 +171,8 @@
     "清水仅用于调节粘稠度，没有固定比例，以面糊能挂住食材为准",
     "煎的过程中食用油会被米粉吸收，需根据情况补油"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_qie-zi-rou-jian-bing.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_qie-zi-rou-jian-bing_overview.jpg",
+  "cover_image": "ai-generated/other_qie-zi-rou-jian-bing.jpg",
+  "overview_image": "overview/other_qie-zi-rou-jian-bing_overview.jpg",
   "id": "other_qie-zi-rou-jian-bing",
   "status": "published"
 }

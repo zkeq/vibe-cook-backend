@@ -159,7 +159,7 @@
         "手工剁肉比机器绞肉更有口感"
       ],
       "produces": "初步肉馅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-jiao-niang/step_1.jpg"
+      "image": "steps/other_qing-jiao-niang/step_1.jpg"
     },
     {
       "index": 2,
@@ -170,7 +170,7 @@
         "分次加入调料更易拌匀"
       ],
       "produces": "调味后的肉馅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-jiao-niang/step_2.jpg"
+      "image": "steps/other_qing-jiao-niang/step_2.jpg"
     },
     {
       "index": 3,
@@ -181,7 +181,7 @@
         "上劲是口感弹牙的关键"
       ],
       "produces": "腌制好的肉馅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-jiao-niang/step_3.jpg"
+      "image": "steps/other_qing-jiao-niang/step_3.jpg"
     },
     {
       "index": 4,
@@ -192,7 +192,7 @@
         "去净白筋可以降低辣度"
       ],
       "produces": "处理过的青椒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-jiao-niang/step_4.jpg"
+      "image": "steps/other_qing-jiao-niang/step_4.jpg"
     },
     {
       "index": 5,
@@ -203,7 +203,7 @@
         "淀粉是防止煎制时肉馅脱落的“胶水”"
       ],
       "produces": "挂粉青椒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-jiao-niang/step_5.jpg"
+      "image": "steps/other_qing-jiao-niang/step_5.jpg"
     },
     {
       "index": 6,
@@ -214,7 +214,7 @@
         "可以使用裱花袋辅助填充"
       ],
       "produces": "青椒酿半成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-jiao-niang/step_6.jpg"
+      "image": "steps/other_qing-jiao-niang/step_6.jpg"
     },
     {
       "index": 7,
@@ -225,7 +225,7 @@
         "提前调好汁可以避免下锅时手忙脚乱"
       ],
       "produces": "调味酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-jiao-niang/step_7.jpg"
+      "image": "steps/other_qing-jiao-niang/step_7.jpg"
     },
     {
       "index": 8,
@@ -236,7 +236,7 @@
         "煎出虎皮色是这道菜的风味灵魂"
       ],
       "produces": "煎好的虎皮青椒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-jiao-niang/step_8.jpg"
+      "image": "steps/other_qing-jiao-niang/step_8.jpg"
     },
     {
       "index": 9,
@@ -247,7 +247,7 @@
         "焖煮能让青椒变软并吸收肉鲜味"
       ],
       "produces": "入味的青椒酿",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-jiao-niang/step_9.jpg"
+      "image": "steps/other_qing-jiao-niang/step_9.jpg"
     },
     {
       "index": 10,
@@ -258,7 +258,7 @@
         "汤汁不要全收干，留一点拌饭非常香"
       ],
       "produces": "青椒酿成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_qing-jiao-niang/step_10.jpg"
+      "image": "steps/other_qing-jiao-niang/step_10.jpg"
     }
   ],
   "tips": [
@@ -270,8 +270,8 @@
     "虾滑和猪肉馅可以混合使用，比例随意，虾肉增加鲜甜，猪肉提供油脂香",
     "汤汁拌饭极佳，不要收太干"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_qing-jiao-niang.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_qing-jiao-niang_overview.jpg",
+  "cover_image": "ai-generated/other_qing-jiao-niang.jpg",
+  "overview_image": "overview/other_qing-jiao-niang_overview.jpg",
   "id": "other_qing-jiao-niang",
   "status": "published"
 }

@@ -145,7 +145,7 @@
         "建议提前半小时开启电饭煲程序"
       ],
       "produces": "熟米饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_rou-dan-gai-fan/step_1.jpg"
+      "image": "steps/staple_rou-dan-gai-fan/step_1.jpg"
     },
     {
       "index": 2,
@@ -156,7 +156,7 @@
         "冷锅下油，中火预热"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_rou-dan-gai-fan/step_2.jpg"
+      "image": "steps/staple_rou-dan-gai-fan/step_2.jpg"
     },
     {
       "index": 3,
@@ -167,7 +167,7 @@
         "肉馅平铺，煎出猪油后味道更香"
       ],
       "produces": "焦香肉馅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_rou-dan-gai-fan/step_3.jpg"
+      "image": "steps/staple_rou-dan-gai-fan/step_3.jpg"
     },
     {
       "index": 4,
@@ -178,7 +178,7 @@
         "保持蛋黄完整，盖盖能利用蒸汽让蛋液凝固"
       ],
       "produces": "肉蛋混合物",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_rou-dan-gai-fan/step_4.jpg"
+      "image": "steps/staple_rou-dan-gai-fan/step_4.jpg"
     },
     {
       "index": 5,
@@ -189,7 +189,7 @@
         "搅拌至糖完全融化，可根据口味微调咸甜"
       ],
       "produces": "调味汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_rou-dan-gai-fan/step_5.jpg"
+      "image": "steps/staple_rou-dan-gai-fan/step_5.jpg"
     },
     {
       "index": 6,
@@ -200,7 +200,7 @@
         "中火收汁，让肉和蛋充分吸收酱香"
       ],
       "produces": "酱香肉蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_rou-dan-gai-fan/step_6.jpg"
+      "image": "steps/staple_rou-dan-gai-fan/step_6.jpg"
     },
     {
       "index": 7,
@@ -211,7 +211,7 @@
         "连同浓郁的酱汁一起淋在米饭上"
       ],
       "produces": "成品肉蛋盖饭",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_rou-dan-gai-fan/step_7.jpg"
+      "image": "steps/staple_rou-dan-gai-fan/step_7.jpg"
     },
     {
       "index": 8,
@@ -222,15 +222,15 @@
         "务必确认燃气灶已完全关闭"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_rou-dan-gai-fan/step_8.jpg"
+      "image": "steps/staple_rou-dan-gai-fan/step_8.jpg"
     }
   ],
   "tips": [
     "如果喜欢甜口可以增加 10g 糖",
     "请务必保证做完饭后关掉燃气设备以免发生危险"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_rou-dan-gai-fan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_rou-dan-gai-fan_overview.jpg",
+  "cover_image": "ai-generated/staple_rou-dan-gai-fan.jpg",
+  "overview_image": "overview/staple_rou-dan-gai-fan_overview.jpg",
   "id": "staple_rou-dan-gai-fan",
   "status": "published"
 }

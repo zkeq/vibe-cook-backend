@@ -130,7 +130,7 @@
         "香肠去肠衣后更容易炒散成肉碎"
       ],
       "produces": "预处理好的肉和蔬菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yi-shi-xiang-chang-bei-fei-dan/step_1.jpg"
+      "image": "steps/breakfast_yi-shi-xiang-chang-bei-fei-dan/step_1.jpg"
     },
     {
       "index": 2,
@@ -141,7 +141,7 @@
         "确保锅底均匀受热"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yi-shi-xiang-chang-bei-fei-dan/step_2.jpg"
+      "image": "steps/breakfast_yi-shi-xiang-chang-bei-fei-dan/step_2.jpg"
     },
     {
       "index": 3,
@@ -152,7 +152,7 @@
         "煎至微焦能激发油脂香气"
       ],
       "produces": "香脆的肉碎",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yi-shi-xiang-chang-bei-fei-dan/step_3.jpg"
+      "image": "steps/breakfast_yi-shi-xiang-chang-bei-fei-dan/step_3.jpg"
     },
     {
       "index": 4,
@@ -163,7 +163,7 @@
         "蔬菜炒软是酱汁入味的关键"
       ],
       "produces": "炒软的菜肉混合物",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yi-shi-xiang-chang-bei-fei-dan/step_4.jpg"
+      "image": "steps/breakfast_yi-shi-xiang-chang-bei-fei-dan/step_4.jpg"
     },
     {
       "index": 5,
@@ -174,7 +174,7 @@
         "保持微沸让风味融合"
       ],
       "produces": "浓郁酱汁底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yi-shi-xiang-chang-bei-fei-dan/step_5.jpg"
+      "image": "steps/breakfast_yi-shi-xiang-chang-bei-fei-dan/step_5.jpg"
     },
     {
       "index": 6,
@@ -185,7 +185,7 @@
         "坑的深度要足以固定鸡蛋"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yi-shi-xiang-chang-bei-fei-dan/step_6.jpg"
+      "image": "steps/breakfast_yi-shi-xiang-chang-bei-fei-dan/step_6.jpg"
     },
     {
       "index": 7,
@@ -196,7 +196,7 @@
         "动作要轻，避免蛋黄破裂"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yi-shi-xiang-chang-bei-fei-dan/step_7.jpg"
+      "image": "steps/breakfast_yi-shi-xiang-chang-bei-fei-dan/step_7.jpg"
     },
     {
       "index": 8,
@@ -207,7 +207,7 @@
         "这是最关键的一步，火候决定蛋黄的流心程度"
       ],
       "produces": "半熟状态的北非蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yi-shi-xiang-chang-bei-fei-dan/step_8.jpg"
+      "image": "steps/breakfast_yi-shi-xiang-chang-bei-fei-dan/step_8.jpg"
     },
     {
       "index": 9,
@@ -218,7 +218,7 @@
         "干酪遇热融化后风味更佳"
       ],
       "produces": "成品北非蛋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yi-shi-xiang-chang-bei-fei-dan/step_9.jpg"
+      "image": "steps/breakfast_yi-shi-xiang-chang-bei-fei-dan/step_9.jpg"
     },
     {
       "index": 10,
@@ -229,7 +229,7 @@
         "建议面包复烤至酥脆"
       ],
       "produces": "美味的一餐",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_yi-shi-xiang-chang-bei-fei-dan/step_10.jpg"
+      "image": "steps/breakfast_yi-shi-xiang-chang-bei-fei-dan/step_10.jpg"
     }
   ],
   "tips": [
@@ -237,8 +237,8 @@
     "焖蛋时务必守在锅旁频繁观察，蛋白一凝固立刻关火，防止蛋黄过熟。",
     "如果想增加风味，可以在炒蔬菜阶段加入一点大蒜末。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_yi-shi-xiang-chang-bei-fei-dan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_yi-shi-xiang-chang-bei-fei-dan_overview.jpg",
+  "cover_image": "ai-generated/breakfast_yi-shi-xiang-chang-bei-fei-dan.jpg",
+  "overview_image": "overview/breakfast_yi-shi-xiang-chang-bei-fei-dan_overview.jpg",
   "id": "breakfast_yi-shi-xiang-chang-bei-fei-dan",
   "status": "published"
 }

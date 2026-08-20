@@ -104,7 +104,7 @@
         "面团静置可以让口感更劲道"
       ],
       "produces": "光滑的面团",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_jiu-cai-he-zi/step_1.jpg"
+      "image": "steps/staple_jiu-cai-he-zi/step_1.jpg"
     },
     {
       "index": 2,
@@ -116,7 +116,7 @@
         "鸡蛋可以先炒熟碎化后再拌入"
       ],
       "produces": "韭菜鸡蛋馅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_jiu-cai-he-zi/step_2.jpg"
+      "image": "steps/staple_jiu-cai-he-zi/step_2.jpg"
     },
     {
       "index": 3,
@@ -128,7 +128,7 @@
         "剂子大小要尽量均匀"
       ],
       "produces": "韭菜盒子生胚",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_jiu-cai-he-zi/step_3.jpg"
+      "image": "steps/staple_jiu-cai-he-zi/step_3.jpg"
     },
     {
       "index": 4,
@@ -140,7 +140,7 @@
         "煎的时候可以加盖稍微焖一下"
       ],
       "produces": "熟韭菜盒子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_jiu-cai-he-zi/step_4.jpg"
+      "image": "steps/staple_jiu-cai-he-zi/step_4.jpg"
     },
     {
       "index": 5,
@@ -151,15 +151,15 @@
         "刚出锅时内馅极烫，食用时请小心"
       ],
       "produces": "成品韭菜盒子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_jiu-cai-he-zi/step_5.jpg"
+      "image": "steps/staple_jiu-cai-he-zi/step_5.jpg"
     }
   ],
   "tips": [
     "制作时可根据个人口味添加豆腐干等配料。",
     "注意煎制时火候，避免外焦内生。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_jiu-cai-he-zi.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_jiu-cai-he-zi_overview.jpg",
+  "cover_image": "ai-generated/staple_jiu-cai-he-zi.jpg",
+  "overview_image": "overview/staple_jiu-cai-he-zi_overview.jpg",
   "id": "staple_jiu-cai-he-zi",
   "status": "published"
 }

@@ -131,7 +131,7 @@
         "鱼腹内的黑膜要撕掉，否则会有腥味"
       ],
       "produces": "处理好的鲤鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-yu-dun-bai-cai/step_1.jpg"
+      "image": "steps/other_li-yu-dun-bai-cai/step_1.jpg"
     },
     {
       "index": 2,
@@ -142,7 +142,7 @@
         "娃娃菜可以多准备一些，炖煮后体积会缩小"
       ],
       "produces": "洗净的娃娃菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-yu-dun-bai-cai/step_2.jpg"
+      "image": "steps/other_li-yu-dun-bai-cai/step_2.jpg"
     },
     {
       "index": 3,
@@ -153,7 +153,7 @@
         "小火慢炒，避免豆瓣酱糊锅"
       ],
       "produces": "香料底油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-yu-dun-bai-cai/step_3.jpg"
+      "image": "steps/other_li-yu-dun-bai-cai/step_3.jpg"
     },
     {
       "index": 4,
@@ -164,7 +164,7 @@
         "翻面时动作要轻，防止鱼皮破损"
       ],
       "produces": "微焦的鲤鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-yu-dun-bai-cai/step_4.jpg"
+      "image": "steps/other_li-yu-dun-bai-cai/step_4.jpg"
     },
     {
       "index": 5,
@@ -175,7 +175,7 @@
         "建议加入温水，这样鱼肉不容易柴"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-yu-dun-bai-cai/step_5.jpg"
+      "image": "steps/other_li-yu-dun-bai-cai/step_5.jpg"
     },
     {
       "index": 6,
@@ -186,7 +186,7 @@
         "最后收汁程度看个人喜好，留点汤汁拌饭也很香"
       ],
       "produces": "鲤鱼炖白菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_li-yu-dun-bai-cai/step_6.jpg"
+      "image": "steps/other_li-yu-dun-bai-cai/step_6.jpg"
     }
   ],
   "tips": [
@@ -194,8 +194,8 @@
     "干辣椒根据个人口味选择，不吃辣可以不放",
     "调料比例建议根据鱼的实际大小进行同比例缩放"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_li-yu-dun-bai-cai.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_li-yu-dun-bai-cai_overview.jpg",
+  "cover_image": "ai-generated/other_li-yu-dun-bai-cai.jpg",
+  "overview_image": "overview/other_li-yu-dun-bai-cai_overview.jpg",
   "id": "other_li-yu-dun-bai-cai",
   "status": "published"
 }

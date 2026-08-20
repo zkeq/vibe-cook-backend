@@ -123,7 +123,7 @@
         "自然解冻能最大程度保留鱼肉水分"
       ],
       "produces": "解冻的鱼肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_shui-zhu-yu/step_1.jpg"
+      "image": "steps/aquatic_shui-zhu-yu/step_1.jpg"
     },
     {
       "index": 2,
@@ -134,7 +134,7 @@
         "切鱼片时可垂直于长条方向先剁成5cm鱼块，再翻转90度斜着撇成薄片"
       ],
       "produces": "鱼片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_shui-zhu-yu/step_2.jpg"
+      "image": "steps/aquatic_shui-zhu-yu/step_2.jpg"
     },
     {
       "index": 3,
@@ -145,7 +145,7 @@
         "确保碗中无多余积水"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_shui-zhu-yu/step_3.jpg"
+      "image": "steps/aquatic_shui-zhu-yu/step_3.jpg"
     },
     {
       "index": 4,
@@ -156,7 +156,7 @@
         "豆瓣酱本身有盐，注意控制总量"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_shui-zhu-yu/step_4.jpg"
+      "image": "steps/aquatic_shui-zhu-yu/step_4.jpg"
     },
     {
       "index": 5,
@@ -167,7 +167,7 @@
         "腌制时注意不要太用力抓，避免鱼肉破碎"
       ],
       "produces": "待腌制鱼片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_shui-zhu-yu/step_5.jpg"
+      "image": "steps/aquatic_shui-zhu-yu/step_5.jpg"
     },
     {
       "index": 6,
@@ -178,7 +178,7 @@
         "静置时间越长越入味，但夏季注意保鲜"
       ],
       "produces": "腌制好的鱼片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_shui-zhu-yu/step_6.jpg"
+      "image": "steps/aquatic_shui-zhu-yu/step_6.jpg"
     },
     {
       "index": 7,
@@ -189,7 +189,7 @@
         "蒜末尽量切细，利于香味释放"
       ],
       "produces": "处理好的蔬菜和蒜末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_shui-zhu-yu/step_7.jpg"
+      "image": "steps/aquatic_shui-zhu-yu/step_7.jpg"
     },
     {
       "index": 8,
@@ -200,7 +200,7 @@
         "土豆等硬质蔬菜需煮熟至筷子可戳透"
       ],
       "produces": "熟蔬菜底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_shui-zhu-yu/step_8.jpg"
+      "image": "steps/aquatic_shui-zhu-yu/step_8.jpg"
     },
     {
       "index": 9,
@@ -211,7 +211,7 @@
         "中火慢炒出红油，避免蒜末炒焦"
       ],
       "produces": "红油底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_shui-zhu-yu/step_9.jpg"
+      "image": "steps/aquatic_shui-zhu-yu/step_9.jpg"
     },
     {
       "index": 10,
@@ -222,7 +222,7 @@
         "鱼片变色卷曲即熟，不可久煮以免肉质变老"
       ],
       "produces": "熟鱼片及汤汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_shui-zhu-yu/step_10.jpg"
+      "image": "steps/aquatic_shui-zhu-yu/step_10.jpg"
     },
     {
       "index": 11,
@@ -233,7 +233,7 @@
         "先菜后鱼的顺序能让蔬菜吸收汤汁精华"
       ],
       "produces": "成品水煮鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/aquatic_shui-zhu-yu/step_11.jpg"
+      "image": "steps/aquatic_shui-zhu-yu/step_11.jpg"
     }
   ],
   "tips": [
@@ -243,8 +243,8 @@
     "腌制时手法要轻柔，防止鱼肉组织受损。",
     "如果需要剔骨，可参考专业的鱼类分切指南。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/aquatic_shui-zhu-yu.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/aquatic_shui-zhu-yu_overview.jpg",
+  "cover_image": "ai-generated/aquatic_shui-zhu-yu.jpg",
+  "overview_image": "overview/aquatic_shui-zhu-yu_overview.jpg",
   "id": "aquatic_shui-zhu-yu",
   "status": "published"
 }

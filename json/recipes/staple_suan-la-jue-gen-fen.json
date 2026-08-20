@@ -118,7 +118,7 @@
         "使用深锅防止溢出"
       ],
       "produces": "沸水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_suan-la-jue-gen-fen/step_1.jpg"
+      "image": "steps/staple_suan-la-jue-gen-fen/step_1.jpg"
     },
     {
       "index": 2,
@@ -129,7 +129,7 @@
         "煮的时间不宜过长，否则失去筋道口感"
       ],
       "produces": "熟蕨根粉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_suan-la-jue-gen-fen/step_2.jpg"
+      "image": "steps/staple_suan-la-jue-gen-fen/step_2.jpg"
     },
     {
       "index": 3,
@@ -140,7 +140,7 @@
         "用筷子蘸取尝味，根据口味微调盐糖量"
       ],
       "produces": "酸辣酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_suan-la-jue-gen-fen/step_3.jpg"
+      "image": "steps/staple_suan-la-jue-gen-fen/step_3.jpg"
     },
     {
       "index": 4,
@@ -151,7 +151,7 @@
         "过冷水能让粉质更爽滑"
       ],
       "produces": "基础拌粉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_suan-la-jue-gen-fen/step_4.jpg"
+      "image": "steps/staple_suan-la-jue-gen-fen/step_4.jpg"
     },
     {
       "index": 5,
@@ -162,7 +162,7 @@
         "不吃辣可不加小米辣"
       ],
       "produces": "酸辣蕨根粉成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_suan-la-jue-gen-fen/step_5.jpg"
+      "image": "steps/staple_suan-la-jue-gen-fen/step_5.jpg"
     }
   ],
   "tips": [
@@ -171,8 +171,8 @@
     "建议使用碗作为最终装盘餐具，因为使用盘子会使吃粉变得困难一些",
     "整体口味偏辣，如果不能吃辣请减少油泼辣子的量并且不加入小米辣"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_suan-la-jue-gen-fen.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_suan-la-jue-gen-fen_overview.jpg",
+  "cover_image": "ai-generated/staple_suan-la-jue-gen-fen.jpg",
+  "overview_image": "overview/staple_suan-la-jue-gen-fen_overview.jpg",
   "id": "staple_suan-la-jue-gen-fen",
   "status": "published"
 }

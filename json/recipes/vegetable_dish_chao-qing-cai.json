@@ -96,7 +96,7 @@
         "确保叶片间的泥土清洗干净"
       ],
       "produces": "洗净的青菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qing-cai/step_1.jpg"
+      "image": "steps/vegetable_dish_chao-qing-cai/step_1.jpg"
     },
     {
       "index": 2,
@@ -107,7 +107,7 @@
         "蒜末越碎香味越容易散发"
       ],
       "produces": "蒜末",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qing-cai/step_2.jpg"
+      "image": "steps/vegetable_dish_chao-qing-cai/step_2.jpg"
     },
     {
       "index": 3,
@@ -118,7 +118,7 @@
         "油量需覆盖锅底"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qing-cai/step_3.jpg"
+      "image": "steps/vegetable_dish_chao-qing-cai/step_3.jpg"
     },
     {
       "index": 4,
@@ -129,7 +129,7 @@
         "动作要快，避免受热不均"
       ],
       "produces": "变软的青菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qing-cai/step_4.jpg"
+      "image": "steps/vegetable_dish_chao-qing-cai/step_4.jpg"
     },
     {
       "index": 5,
@@ -140,7 +140,7 @@
         "后放蒜瓣可以防止蒜末炒焦变苦"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qing-cai/step_5.jpg"
+      "image": "steps/vegetable_dish_chao-qing-cai/step_5.jpg"
     },
     {
       "index": 6,
@@ -151,7 +151,7 @@
         "加水量根据份数调整"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qing-cai/step_6.jpg"
+      "image": "steps/vegetable_dish_chao-qing-cai/step_6.jpg"
     },
     {
       "index": 7,
@@ -162,7 +162,7 @@
         "盖锅盖焖煮可以让叶片颜色更绿"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qing-cai/step_7.jpg"
+      "image": "steps/vegetable_dish_chao-qing-cai/step_7.jpg"
     },
     {
       "index": 8,
@@ -173,15 +173,15 @@
         "趁热食用口感最佳"
       ],
       "produces": "炒青菜成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_chao-qing-cai/step_8.jpg"
+      "image": "steps/vegetable_dish_chao-qing-cai/step_8.jpg"
     }
   ],
   "tips": [
     "加入白糖，会让青菜颜色更绿。",
     "全程火候控制在中小火与大火之间，避免叶片烧焦。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_chao-qing-cai.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_chao-qing-cai_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_chao-qing-cai.jpg",
+  "overview_image": "overview/vegetable_dish_chao-qing-cai_overview.jpg",
   "id": "vegetable_dish_chao-qing-cai",
   "status": "published"
 }

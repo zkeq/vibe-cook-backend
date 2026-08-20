@@ -89,7 +89,7 @@
         "花菜掰成小朵更容易入味和熟透"
       ],
       "produces": "处理好的花菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-chao-hua-cai/step_1.jpg"
+      "image": "steps/vegetable_dish_qing-chao-hua-cai/step_1.jpg"
     },
     {
       "index": 2,
@@ -98,7 +98,7 @@
       "duration_sec": 60,
       "tips": [],
       "produces": "蒜片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-chao-hua-cai/step_2.jpg"
+      "image": "steps/vegetable_dish_qing-chao-hua-cai/step_2.jpg"
     },
     {
       "index": 3,
@@ -107,7 +107,7 @@
       "duration_sec": 300,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-chao-hua-cai/step_3.jpg"
+      "image": "steps/vegetable_dish_qing-chao-hua-cai/step_3.jpg"
     },
     {
       "index": 4,
@@ -118,7 +118,7 @@
         "焯水可以缩短后续炒制时间"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-chao-hua-cai/step_4.jpg"
+      "image": "steps/vegetable_dish_qing-chao-hua-cai/step_4.jpg"
     },
     {
       "index": 5,
@@ -129,7 +129,7 @@
         "沥干水分防止炒制时溅油"
       ],
       "produces": "焯水后的花菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-chao-hua-cai/step_5.jpg"
+      "image": "steps/vegetable_dish_qing-chao-hua-cai/step_5.jpg"
     },
     {
       "index": 6,
@@ -138,7 +138,7 @@
       "duration_sec": 60,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-chao-hua-cai/step_6.jpg"
+      "image": "steps/vegetable_dish_qing-chao-hua-cai/step_6.jpg"
     },
     {
       "index": 7,
@@ -149,7 +149,7 @@
         "注意不要炒焦蒜片"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-chao-hua-cai/step_7.jpg"
+      "image": "steps/vegetable_dish_qing-chao-hua-cai/step_7.jpg"
     },
     {
       "index": 8,
@@ -160,7 +160,7 @@
         "保持大火快炒以维持脆嫩口感"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-chao-hua-cai/step_8.jpg"
+      "image": "steps/vegetable_dish_qing-chao-hua-cai/step_8.jpg"
     },
     {
       "index": 9,
@@ -169,7 +169,7 @@
       "duration_sec": 20,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-chao-hua-cai/step_9.jpg"
+      "image": "steps/vegetable_dish_qing-chao-hua-cai/step_9.jpg"
     },
     {
       "index": 10,
@@ -180,7 +180,7 @@
         "沿锅边淋水可以产生蒸汽，受热更均匀"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-chao-hua-cai/step_10.jpg"
+      "image": "steps/vegetable_dish_qing-chao-hua-cai/step_10.jpg"
     },
     {
       "index": 11,
@@ -189,15 +189,15 @@
       "duration_sec": 30,
       "tips": [],
       "produces": "清炒花菜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/vegetable_dish_qing-chao-hua-cai/step_11.jpg"
+      "image": "steps/vegetable_dish_qing-chao-hua-cai/step_11.jpg"
     }
   ],
   "tips": [
     "提前将花菜焯水可以缩短炒制时间，并使花菜更容易熟透。",
     "炒制时间可以根据个人喜欢的花菜软硬程度调整。喜欢脆一些可以缩短时间。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/vegetable_dish_qing-chao-hua-cai.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/vegetable_dish_qing-chao-hua-cai_overview.jpg",
+  "cover_image": "ai-generated/vegetable_dish_qing-chao-hua-cai.jpg",
+  "overview_image": "overview/vegetable_dish_qing-chao-hua-cai_overview.jpg",
   "id": "vegetable_dish_qing-chao-hua-cai",
   "status": "published"
 }

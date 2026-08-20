@@ -124,7 +124,7 @@
         "尽量切成粗细均匀的丝以保证口感"
       ],
       "produces": "切好的菜码",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zha-jiang-mian/step_1.jpg"
+      "image": "steps/staple_zha-jiang-mian/step_1.jpg"
     },
     {
       "index": 2,
@@ -135,7 +135,7 @@
         "葱花煸香后再下肉，肉丁炒至变色"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zha-jiang-mian/step_2.jpg"
+      "image": "steps/staple_zha-jiang-mian/step_2.jpg"
     },
     {
       "index": 3,
@@ -146,7 +146,7 @@
         "小火慢熬防止糊锅，炒至酱香浓郁"
       ],
       "produces": "炸酱",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zha-jiang-mian/step_3.jpg"
+      "image": "steps/staple_zha-jiang-mian/step_3.jpg"
     },
     {
       "index": 4,
@@ -157,7 +157,7 @@
         "建议使用饮用纯净水或凉白开"
       ],
       "produces": "凉水碗",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zha-jiang-mian/step_4.jpg"
+      "image": "steps/staple_zha-jiang-mian/step_4.jpg"
     },
     {
       "index": 5,
@@ -168,7 +168,7 @@
         "水开后再下面，根据面条粗细调整时间"
       ],
       "produces": "过凉的面条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zha-jiang-mian/step_5.jpg"
+      "image": "steps/staple_zha-jiang-mian/step_5.jpg"
     },
     {
       "index": 6,
@@ -179,7 +179,7 @@
         "过凉水可以使面条更加劲道且不粘连"
       ],
       "produces": "备用面条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zha-jiang-mian/step_6.jpg"
+      "image": "steps/staple_zha-jiang-mian/step_6.jpg"
     },
     {
       "index": 7,
@@ -190,7 +190,7 @@
         "趁热拌匀口感最佳"
       ],
       "produces": "成品炸酱面",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/staple_zha-jiang-mian/step_7.jpg"
+      "image": "steps/staple_zha-jiang-mian/step_7.jpg"
     }
   ],
   "tips": [
@@ -199,8 +199,8 @@
     "如有条件且熟练后，炒酱（第2、3步）与处理面条（第1、4、5、6步）可分时并行执行以缩短时间。",
     "甜咸口味因人而异，两种酱的配比需要根据个人喜好进行迭代优化。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/staple_zha-jiang-mian.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/staple_zha-jiang-mian_overview.jpg",
+  "cover_image": "ai-generated/staple_zha-jiang-mian.jpg",
+  "overview_image": "overview/staple_zha-jiang-mian_overview.jpg",
   "id": "staple_zha-jiang-mian",
   "status": "published"
 }

@@ -97,7 +97,7 @@
         "牛油果需完全熟透才能轻松剥皮"
       ],
       "produces": "牛油果块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_niu-you-guo-la-xi/step_1.jpg"
+      "image": "steps/drink_niu-you-guo-la-xi/step_1.jpg"
     },
     {
       "index": 2,
@@ -108,7 +108,7 @@
         "先放液体再放固体可使搅拌更顺畅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_niu-you-guo-la-xi/step_2.jpg"
+      "image": "steps/drink_niu-you-guo-la-xi/step_2.jpg"
     },
     {
       "index": 3,
@@ -119,7 +119,7 @@
         "小豆蔻粉味道较浓，一小撮即可"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_niu-you-guo-la-xi/step_3.jpg"
+      "image": "steps/drink_niu-you-guo-la-xi/step_3.jpg"
     },
     {
       "index": 4,
@@ -130,7 +130,7 @@
         "确保没有牛油果颗粒残留"
       ],
       "produces": "拉西混合液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_niu-you-guo-la-xi/step_4.jpg"
+      "image": "steps/drink_niu-you-guo-la-xi/step_4.jpg"
     },
     {
       "index": 5,
@@ -139,7 +139,7 @@
       "duration_sec": 20,
       "tips": null,
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_niu-you-guo-la-xi/step_5.jpg"
+      "image": "steps/drink_niu-you-guo-la-xi/step_5.jpg"
     },
     {
       "index": 6,
@@ -150,15 +150,15 @@
         "坚果碎能增加咀嚼感"
       ],
       "produces": "成品牛油果拉西",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_niu-you-guo-la-xi/step_6.jpg"
+      "image": "steps/drink_niu-you-guo-la-xi/step_6.jpg"
     }
   ],
   "tips": [
     "牛油果必须选择熟透的，这样才能保证饮品的绵密口感和颜色。",
     "如果喜欢更冰凉的口感，可以适当减少一点牛奶，加入几块冰块一起搅拌。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/drink_niu-you-guo-la-xi.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/drink_niu-you-guo-la-xi_overview.jpg",
+  "cover_image": "ai-generated/drink_niu-you-guo-la-xi.jpg",
+  "overview_image": "overview/drink_niu-you-guo-la-xi_overview.jpg",
   "id": "drink_niu-you-guo-la-xi",
   "status": "published"
 }

@@ -158,7 +158,7 @@
         "一定要彻底去净指甲，以免影响口感和卫生"
       ],
       "produces": "处理过的鸡爪",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-gu-ji-zhao/step_1.jpg"
+      "image": "steps/other_wu-gu-ji-zhao/step_1.jpg"
     },
     {
       "index": 2,
@@ -169,7 +169,7 @@
         "多冲洗几遍去除血水"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-gu-ji-zhao/step_2.jpg"
+      "image": "steps/other_wu-gu-ji-zhao/step_2.jpg"
     },
     {
       "index": 3,
@@ -180,7 +180,7 @@
         "冷水下锅去腥效果更好"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-gu-ji-zhao/step_3.jpg"
+      "image": "steps/other_wu-gu-ji-zhao/step_3.jpg"
     },
     {
       "index": 4,
@@ -191,7 +191,7 @@
         "煮的时间不宜过长，否则鸡爪太烂不好去骨"
       ],
       "produces": "煮熟的鸡爪",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-gu-ji-zhao/step_4.jpg"
+      "image": "steps/other_wu-gu-ji-zhao/step_4.jpg"
     },
     {
       "index": 5,
@@ -202,7 +202,7 @@
         "用冰水冲洗口感更Q弹"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-gu-ji-zhao/step_5.jpg"
+      "image": "steps/other_wu-gu-ji-zhao/step_5.jpg"
     },
     {
       "index": 6,
@@ -213,7 +213,7 @@
         "冷冻是为了让皮肉收缩，方便去骨"
       ],
       "produces": "冷冻后的鸡爪",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-gu-ji-zhao/step_6.jpg"
+      "image": "steps/other_wu-gu-ji-zhao/step_6.jpg"
     },
     {
       "index": 7,
@@ -224,7 +224,7 @@
         "建议参考视频教程，手指关节处要掰响才容易推肉"
       ],
       "produces": "无骨鸡爪肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-gu-ji-zhao/step_7.jpg"
+      "image": "steps/other_wu-gu-ji-zhao/step_7.jpg"
     },
     {
       "index": 8,
@@ -235,7 +235,7 @@
         "切小米辣建议戴手套"
       ],
       "produces": "切好的配料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-gu-ji-zhao/step_8.jpg"
+      "image": "steps/other_wu-gu-ji-zhao/step_8.jpg"
     },
     {
       "index": 9,
@@ -246,7 +246,7 @@
         "确保每一块鸡爪都沾到调料"
       ],
       "produces": "待腌制的鸡爪",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-gu-ji-zhao/step_9.jpg"
+      "image": "steps/other_wu-gu-ji-zhao/step_9.jpg"
     },
     {
       "index": 10,
@@ -257,7 +257,7 @@
         "腌制时间越长越入味"
       ],
       "produces": "成品无骨鸡爪",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_wu-gu-ji-zhao/step_10.jpg"
+      "image": "steps/other_wu-gu-ji-zhao/step_10.jpg"
     }
   ],
   "tips": [
@@ -265,8 +265,8 @@
     "去骨步骤极为耗时，可参考B站视频教程：bili_89324373958",
     "柠檬酸度可根据个人喜好以1颗为单位进行调整"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_wu-gu-ji-zhao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_wu-gu-ji-zhao_overview.jpg",
+  "cover_image": "ai-generated/other_wu-gu-ji-zhao.jpg",
+  "overview_image": "overview/other_wu-gu-ji-zhao_overview.jpg",
   "id": "other_wu-gu-ji-zhao",
   "status": "published"
 }

@@ -159,7 +159,7 @@
         "抓揉时间要充足"
       ],
       "produces": "初步去腥的牛蛙肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-jiao-niu-wa/step_1.jpg"
+      "image": "steps/other_jian-jiao-niu-wa/step_1.jpg"
     },
     {
       "index": 2,
@@ -170,7 +170,7 @@
         "水分一定要控干，否则影响腌制效果"
       ],
       "produces": "洁净牛蛙肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-jiao-niu-wa/step_2.jpg"
+      "image": "steps/other_jian-jiao-niu-wa/step_2.jpg"
     },
     {
       "index": 3,
@@ -181,7 +181,7 @@
         "生粉抓揉的时候要均匀覆盖蛙肉"
       ],
       "produces": "腌制好的牛蛙肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-jiao-niu-wa/step_3.jpg"
+      "image": "steps/other_jian-jiao-niu-wa/step_3.jpg"
     },
     {
       "index": 4,
@@ -192,7 +192,7 @@
         "根据刀工习惯选择切丝或切片"
       ],
       "produces": "切好的辅料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-jiao-niu-wa/step_4.jpg"
+      "image": "steps/other_jian-jiao-niu-wa/step_4.jpg"
     },
     {
       "index": 5,
@@ -203,7 +203,7 @@
         "不能超时太多，否则会导致蛙肉老柴"
       ],
       "produces": "过油后的蛙肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-jiao-niu-wa/step_5.jpg"
+      "image": "steps/other_jian-jiao-niu-wa/step_5.jpg"
     },
     {
       "index": 6,
@@ -214,7 +214,7 @@
         "猪油能显著提升川菜的香味"
       ],
       "produces": "调合底油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-jiao-niu-wa/step_6.jpg"
+      "image": "steps/other_jian-jiao-niu-wa/step_6.jpg"
     },
     {
       "index": 7,
@@ -225,7 +225,7 @@
         "注意火候，不要把豆瓣酱炒糊"
       ],
       "produces": "调味汤底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-jiao-niu-wa/step_7.jpg"
+      "image": "steps/other_jian-jiao-niu-wa/step_7.jpg"
     },
     {
       "index": 8,
@@ -236,7 +236,7 @@
         "用推勺的方式可以保持蛙肉完整"
       ],
       "produces": "半成品牛蛙",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-jiao-niu-wa/step_8.jpg"
+      "image": "steps/other_jian-jiao-niu-wa/step_8.jpg"
     },
     {
       "index": 9,
@@ -247,7 +247,7 @@
         "最后加入辣椒圈是为了保持颜色翠绿"
       ],
       "produces": "尖叫牛蛙成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-jiao-niu-wa/step_9.jpg"
+      "image": "steps/other_jian-jiao-niu-wa/step_9.jpg"
     },
     {
       "index": 10,
@@ -258,7 +258,7 @@
         "趁热食用口感最佳"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_jian-jiao-niu-wa/step_10.jpg"
+      "image": "steps/other_jian-jiao-niu-wa/step_10.jpg"
     }
   ],
   "tips": [
@@ -266,8 +266,8 @@
     "生粉抓揉的时候要均匀覆盖蛙肉",
     "牛蛙过油时间一定要严格控制在10秒左右，以保证滑嫩口感"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_jian-jiao-niu-wa.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_jian-jiao-niu-wa_overview.jpg",
+  "cover_image": "ai-generated/other_jian-jiao-niu-wa.jpg",
+  "overview_image": "overview/other_jian-jiao-niu-wa_overview.jpg",
   "id": "other_jian-jiao-niu-wa",
   "status": "published"
 }

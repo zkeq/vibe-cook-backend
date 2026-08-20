@@ -169,7 +169,7 @@
         "切块不宜过小，否则久煮易化"
       ],
       "produces": "处理好的土豆块",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tu-dou-dun-pai-gu/step_1.jpg"
+      "image": "steps/other_tu-dou-dun-pai-gu/step_1.jpg"
     },
     {
       "index": 2,
@@ -180,7 +180,7 @@
         "姜片切薄一点更容易出味"
       ],
       "produces": "葱姜备件",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tu-dou-dun-pai-gu/step_2.jpg"
+      "image": "steps/other_tu-dou-dun-pai-gu/step_2.jpg"
     },
     {
       "index": 3,
@@ -191,7 +191,7 @@
         "提前混合酱汁可以避免炒制时手忙脚乱"
       ],
       "produces": "酱汁碗与香料碟",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tu-dou-dun-pai-gu/step_3.jpg"
+      "image": "steps/other_tu-dou-dun-pai-gu/step_3.jpg"
     },
     {
       "index": 4,
@@ -202,7 +202,7 @@
         "必须冷水下锅才能逼出残留血水"
       ],
       "produces": "初步去腥的排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tu-dou-dun-pai-gu/step_4.jpg"
+      "image": "steps/other_tu-dou-dun-pai-gu/step_4.jpg"
     },
     {
       "index": 5,
@@ -214,7 +214,7 @@
         "水分吸干能防止炒糖色时炸锅"
       ],
       "produces": "干燥干净的排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tu-dou-dun-pai-gu/step_5.jpg"
+      "image": "steps/other_tu-dou-dun-pai-gu/step_5.jpg"
     },
     {
       "index": 6,
@@ -225,7 +225,7 @@
         "观察糖色要快，颜色变深立刻下肉以免发苦"
       ],
       "produces": "上好色的排骨",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tu-dou-dun-pai-gu/step_6.jpg"
+      "image": "steps/other_tu-dou-dun-pai-gu/step_6.jpg"
     },
     {
       "index": 7,
@@ -236,7 +236,7 @@
         "利用锅边热度激发料酒和酱香"
       ],
       "produces": "酱香排骨底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tu-dou-dun-pai-gu/step_7.jpg"
+      "image": "steps/other_tu-dou-dun-pai-gu/step_7.jpg"
     },
     {
       "index": 8,
@@ -247,7 +247,7 @@
         "水量必须一次加足，没过排骨"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tu-dou-dun-pai-gu/step_8.jpg"
+      "image": "steps/other_tu-dou-dun-pai-gu/step_8.jpg"
     },
     {
       "index": 9,
@@ -258,7 +258,7 @@
         "用筷子能轻松扎透土豆即说明熟透"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tu-dou-dun-pai-gu/step_9.jpg"
+      "image": "steps/other_tu-dou-dun-pai-gu/step_9.jpg"
     },
     {
       "index": 10,
@@ -269,7 +269,7 @@
         "收汁时要不断翻动防止糊锅"
       ],
       "produces": "土豆炖排骨成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_tu-dou-dun-pai-gu/step_10.jpg"
+      "image": "steps/other_tu-dou-dun-pai-gu/step_10.jpg"
     }
   ],
   "tips": [
@@ -278,8 +278,8 @@
     "土豆防氧化：切好的土豆必须泡水，否则氧化变黑会影响成品视觉效果。",
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_tu-dou-dun-pai-gu.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_tu-dou-dun-pai-gu_overview.jpg",
+  "cover_image": "ai-generated/other_tu-dou-dun-pai-gu.jpg",
+  "overview_image": "overview/other_tu-dou-dun-pai-gu_overview.jpg",
   "id": "other_tu-dou-dun-pai-gu",
   "status": "published"
 }

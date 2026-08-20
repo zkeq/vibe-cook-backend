@@ -137,7 +137,7 @@
         "土豆去皮后若不立刻切块可泡在水里防止氧化"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_di-san-xian/step_1.jpg"
+      "image": "steps/other_di-san-xian/step_1.jpg"
     },
     {
       "index": 2,
@@ -148,7 +148,7 @@
         "滚刀块可以增加受热面积，更入味"
       ],
       "produces": "切好的主料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_di-san-xian/step_2.jpg"
+      "image": "steps/other_di-san-xian/step_2.jpg"
     },
     {
       "index": 3,
@@ -159,7 +159,7 @@
         "此步骤非常重要，可有效防止下锅炸水溅油"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_di-san-xian/step_3.jpg"
+      "image": "steps/other_di-san-xian/step_3.jpg"
     },
     {
       "index": 4,
@@ -170,7 +170,7 @@
         "淀粉易沉淀，使用前需再次搅拌"
       ],
       "produces": "调料碗",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_di-san-xian/step_4.jpg"
+      "image": "steps/other_di-san-xian/step_4.jpg"
     },
     {
       "index": 5,
@@ -181,7 +181,7 @@
         "土豆需要炸透，口感才会绵香"
       ],
       "produces": "炸好的土豆",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_di-san-xian/step_5.jpg"
+      "image": "steps/other_di-san-xian/step_5.jpg"
     },
     {
       "index": 6,
@@ -192,7 +192,7 @@
         "茄子吸油多，炸至吐油状态口感才不油腻"
       ],
       "produces": "炸好的茄子",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_di-san-xian/step_6.jpg"
+      "image": "steps/other_di-san-xian/step_6.jpg"
     },
     {
       "index": 7,
@@ -203,7 +203,7 @@
         "尖椒过油时间极短，注意观察虎皮纹路"
       ],
       "produces": "过油的尖椒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_di-san-xian/step_7.jpg"
+      "image": "steps/other_di-san-xian/step_7.jpg"
     },
     {
       "index": 8,
@@ -214,7 +214,7 @@
         "豆瓣酱易糊，建议转小火操作"
       ],
       "produces": "红油底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_di-san-xian/step_8.jpg"
+      "image": "steps/other_di-san-xian/step_8.jpg"
     },
     {
       "index": 9,
@@ -225,7 +225,7 @@
         "动作要快，避免酱汁糊锅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_di-san-xian/step_9.jpg"
+      "image": "steps/other_di-san-xian/step_9.jpg"
     },
     {
       "index": 10,
@@ -236,7 +236,7 @@
         "最后加入生蒜末是地三鲜提味的关键"
       ],
       "produces": "地三鲜成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_di-san-xian/step_10.jpg"
+      "image": "steps/other_di-san-xian/step_10.jpg"
     }
   ],
   "tips": [
@@ -245,8 +245,8 @@
     "青椒入油锅瞬间易溅油，务必使用锅盖挡在身前保护安全。",
     "淀粉在调料碗中容易沉淀，入锅前必须再次彻底搅拌均匀。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_di-san-xian.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_di-san-xian_overview.jpg",
+  "cover_image": "ai-generated/other_di-san-xian.jpg",
+  "overview_image": "overview/other_di-san-xian_overview.jpg",
   "id": "other_di-san-xian",
   "status": "published"
 }

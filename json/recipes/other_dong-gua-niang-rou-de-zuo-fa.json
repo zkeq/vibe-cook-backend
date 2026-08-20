@@ -144,7 +144,7 @@
         "切片要薄厚均匀，方便后面卷起"
       ],
       "produces": "冬瓜长片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dong-gua-niang-rou-de-zuo-fa/step_1.jpg"
+      "image": "steps/other_dong-gua-niang-rou-de-zuo-fa/step_1.jpg"
     },
     {
       "index": 2,
@@ -155,7 +155,7 @@
         "盐腌制可以使冬瓜变软，方便卷肉"
       ],
       "produces": "软化的冬瓜片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dong-gua-niang-rou-de-zuo-fa/step_2.jpg"
+      "image": "steps/other_dong-gua-niang-rou-de-zuo-fa/step_2.jpg"
     },
     {
       "index": 3,
@@ -166,7 +166,7 @@
         "葱姜末尽量切细碎一些"
       ],
       "produces": "混合肉馅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dong-gua-niang-rou-de-zuo-fa/step_3.jpg"
+      "image": "steps/other_dong-gua-niang-rou-de-zuo-fa/step_3.jpg"
     },
     {
       "index": 4,
@@ -177,7 +177,7 @@
         "顺时针搅拌能让肉馅上劲，口感更Q弹"
       ],
       "produces": "上劲肉馅",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dong-gua-niang-rou-de-zuo-fa/step_4.jpg"
+      "image": "steps/other_dong-gua-niang-rou-de-zuo-fa/step_4.jpg"
     },
     {
       "index": 5,
@@ -188,7 +188,7 @@
         "洗净多余的盐分，防止成品过咸"
       ],
       "produces": "洗净的冬瓜片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dong-gua-niang-rou-de-zuo-fa/step_5.jpg"
+      "image": "steps/other_dong-gua-niang-rou-de-zuo-fa/step_5.jpg"
     },
     {
       "index": 6,
@@ -199,7 +199,7 @@
         "卷的时候力度适中，不要把冬瓜片弄断"
       ],
       "produces": "冬瓜肉卷",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dong-gua-niang-rou-de-zuo-fa/step_6.jpg"
+      "image": "steps/other_dong-gua-niang-rou-de-zuo-fa/step_6.jpg"
     },
     {
       "index": 7,
@@ -210,7 +210,7 @@
         "围成一圈，中间留出放鸡蛋的位置"
       ],
       "produces": "环状拼盘",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dong-gua-niang-rou-de-zuo-fa/step_7.jpg"
+      "image": "steps/other_dong-gua-niang-rou-de-zuo-fa/step_7.jpg"
     },
     {
       "index": 8,
@@ -221,7 +221,7 @@
         "如果怕腥可以少加一点胡椒粉在蛋液上"
       ],
       "produces": "待蒸拼盘",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dong-gua-niang-rou-de-zuo-fa/step_8.jpg"
+      "image": "steps/other_dong-gua-niang-rou-de-zuo-fa/step_8.jpg"
     },
     {
       "index": 9,
@@ -232,7 +232,7 @@
         "全程大火，确保蒸汽充足"
       ],
       "produces": "熟化的冬瓜酿肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dong-gua-niang-rou-de-zuo-fa/step_9.jpg"
+      "image": "steps/other_dong-gua-niang-rou-de-zuo-fa/step_9.jpg"
     },
     {
       "index": 10,
@@ -243,7 +243,7 @@
         "注意防烫"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dong-gua-niang-rou-de-zuo-fa/step_10.jpg"
+      "image": "steps/other_dong-gua-niang-rou-de-zuo-fa/step_10.jpg"
     },
     {
       "index": 11,
@@ -254,7 +254,7 @@
         "原汁含有冬瓜和肉的鲜味，不要倒掉"
       ],
       "produces": "浓缩芡汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dong-gua-niang-rou-de-zuo-fa/step_11.jpg"
+      "image": "steps/other_dong-gua-niang-rou-de-zuo-fa/step_11.jpg"
     },
     {
       "index": 12,
@@ -265,15 +265,15 @@
         "淋汁后色泽会更加鲜亮诱人"
       ],
       "produces": "成品冬瓜酿肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_dong-gua-niang-rou-de-zuo-fa/step_12.jpg"
+      "image": "steps/other_dong-gua-niang-rou-de-zuo-fa/step_12.jpg"
     }
   ],
   "tips": [
     "操作时，拿出冬瓜酿肉时注意碟子很烫，小心操作。",
     "卷肉技巧需要多加练习，冬瓜片腌制到位后会非常柔软易卷。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_dong-gua-niang-rou-de-zuo-fa.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_dong-gua-niang-rou-de-zuo-fa_overview.jpg",
+  "cover_image": "ai-generated/other_dong-gua-niang-rou-de-zuo-fa.jpg",
+  "overview_image": "overview/other_dong-gua-niang-rou-de-zuo-fa_overview.jpg",
   "id": "other_dong-gua-niang-rou-de-zuo-fa",
   "status": "published"
 }

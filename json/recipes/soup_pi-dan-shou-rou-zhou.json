@@ -143,7 +143,7 @@
         "大米可提前浸泡30分钟，煮出的粥更绵烂"
       ],
       "produces": "粥底基础",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_pi-dan-shou-rou-zhou/step_1.jpg"
+      "image": "steps/soup_pi-dan-shou-rou-zhou/step_1.jpg"
     },
     {
       "index": 2,
@@ -154,7 +154,7 @@
         "抹油可以锁住肉汁，使瘦肉口感不柴"
       ],
       "produces": "腌制瘦肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_pi-dan-shou-rou-zhou/step_2.jpg"
+      "image": "steps/soup_pi-dan-shou-rou-zhou/step_2.jpg"
     },
     {
       "index": 3,
@@ -165,7 +165,7 @@
         "揉碎的蛋黄会融化在粥里，使粥底呈现自然的金黄色泽和浓郁香味"
       ],
       "produces": "皮蛋碎",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_pi-dan-shou-rou-zhou/step_3.jpg"
+      "image": "steps/soup_pi-dan-shou-rou-zhou/step_3.jpg"
     },
     {
       "index": 4,
@@ -176,7 +176,7 @@
         "姜丝要切得尽量细，以防食用时口感突兀"
       ],
       "produces": "姜丝",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_pi-dan-shou-rou-zhou/step_4.jpg"
+      "image": "steps/soup_pi-dan-shou-rou-zhou/step_4.jpg"
     },
     {
       "index": 5,
@@ -187,7 +187,7 @@
         "不同品牌电饭锅时长不同，通常在1小时左右"
       ],
       "produces": "煮熟的粥底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_pi-dan-shou-rou-zhou/step_5.jpg"
+      "image": "steps/soup_pi-dan-shou-rou-zhou/step_5.jpg"
     },
     {
       "index": 6,
@@ -198,7 +198,7 @@
         "生菜建议提前洗净晾干"
       ],
       "produces": "配料碎",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_pi-dan-shou-rou-zhou/step_6.jpg"
+      "image": "steps/soup_pi-dan-shou-rou-zhou/step_6.jpg"
     },
     {
       "index": 7,
@@ -209,7 +209,7 @@
         "可根据个人口味微调盐量"
       ],
       "produces": "调味酱汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_pi-dan-shou-rou-zhou/step_7.jpg"
+      "image": "steps/soup_pi-dan-shou-rou-zhou/step_7.jpg"
     },
     {
       "index": 8,
@@ -220,7 +220,7 @@
         "生菜过热水可去除生涩味并保持翠绿"
       ],
       "produces": "皮蛋瘦肉粥成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/soup_pi-dan-shou-rou-zhou/step_8.jpg"
+      "image": "steps/soup_pi-dan-shou-rou-zhou/step_8.jpg"
     }
   ],
   "tips": [
@@ -228,8 +228,8 @@
     "计量和处理食材时建议佩戴一次性手套，保证卫生",
     "生蔬食材建议提前洗净放置一旁备用"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/soup_pi-dan-shou-rou-zhou.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/soup_pi-dan-shou-rou-zhou_overview.jpg",
+  "cover_image": "ai-generated/soup_pi-dan-shou-rou-zhou.jpg",
+  "overview_image": "overview/soup_pi-dan-shou-rou-zhou_overview.jpg",
   "id": "soup_pi-dan-shou-rou-zhou",
   "status": "published"
 }

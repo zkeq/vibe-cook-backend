@@ -200,7 +200,7 @@
         "背部不要切断"
       ],
       "produces": "腌制好的鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-shuo-pi-jiu-yu/step_1.jpg"
+      "image": "steps/other_yang-shuo-pi-jiu-yu/step_1.jpg"
     },
     {
       "index": 2,
@@ -211,7 +211,7 @@
         "葱白和葱叶分开放置"
       ],
       "produces": "切配好的辅料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-shuo-pi-jiu-yu/step_2.jpg"
+      "image": "steps/other_yang-shuo-pi-jiu-yu/step_2.jpg"
     },
     {
       "index": 3,
@@ -223,7 +223,7 @@
         "先煎鱼鳞面，保证酥脆"
       ],
       "produces": "煎好的金黄鱼肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-shuo-pi-jiu-yu/step_3.jpg"
+      "image": "steps/other_yang-shuo-pi-jiu-yu/step_3.jpg"
     },
     {
       "index": 4,
@@ -234,7 +234,7 @@
         "小火爆香避免烧焦"
       ],
       "produces": "香料底油",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-shuo-pi-jiu-yu/step_4.jpg"
+      "image": "steps/other_yang-shuo-pi-jiu-yu/step_4.jpg"
     },
     {
       "index": 5,
@@ -245,7 +245,7 @@
         "桂林辣椒酱带有蒜香味，风味独特"
       ],
       "produces": "红油底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-shuo-pi-jiu-yu/step_5.jpg"
+      "image": "steps/other_yang-shuo-pi-jiu-yu/step_5.jpg"
     },
     {
       "index": 6,
@@ -256,7 +256,7 @@
         "番茄炒软是汤汁浓郁的关键"
       ],
       "produces": "番茄酱汁底",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-shuo-pi-jiu-yu/step_6.jpg"
+      "image": "steps/other_yang-shuo-pi-jiu-yu/step_6.jpg"
     },
     {
       "index": 7,
@@ -267,7 +267,7 @@
         "用啤酒代替水，去腥增香"
       ],
       "produces": "焖煮汤汁",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-shuo-pi-jiu-yu/step_7.jpg"
+      "image": "steps/other_yang-shuo-pi-jiu-yu/step_7.jpg"
     },
     {
       "index": 8,
@@ -278,7 +278,7 @@
         "盖上锅盖让鱼肉充分吸收啤酒香"
       ],
       "produces": "入味的啤酒鱼",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-shuo-pi-jiu-yu/step_8.jpg"
+      "image": "steps/other_yang-shuo-pi-jiu-yu/step_8.jpg"
     },
     {
       "index": 9,
@@ -289,7 +289,7 @@
         "配椒后放可保持色泽"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-shuo-pi-jiu-yu/step_9.jpg"
+      "image": "steps/other_yang-shuo-pi-jiu-yu/step_9.jpg"
     },
     {
       "index": 10,
@@ -300,7 +300,7 @@
         "汤汁不要收太干，留一些拌饭极佳"
       ],
       "produces": "阳朔啤酒鱼成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_yang-shuo-pi-jiu-yu/step_10.jpg"
+      "image": "steps/other_yang-shuo-pi-jiu-yu/step_10.jpg"
     }
   ],
   "tips": [
@@ -310,8 +310,8 @@
     "番茄要炒软出汁，这样汤汁更浓郁",
     "汤汁不要收太干，留一些拌饭或拌面非常好吃"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_yang-shuo-pi-jiu-yu.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_yang-shuo-pi-jiu-yu_overview.jpg",
+  "cover_image": "ai-generated/other_yang-shuo-pi-jiu-yu.jpg",
+  "overview_image": "overview/other_yang-shuo-pi-jiu-yu_overview.jpg",
   "id": "other_yang-shuo-pi-jiu-yu",
   "status": "published"
 }

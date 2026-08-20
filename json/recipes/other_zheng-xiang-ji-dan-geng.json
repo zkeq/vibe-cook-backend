@@ -85,7 +85,7 @@
         "尽量打均匀"
       ],
       "produces": "蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zheng-xiang-ji-dan-geng/step_1.jpg"
+      "image": "steps/other_zheng-xiang-ji-dan-geng/step_1.jpg"
     },
     {
       "index": 2,
@@ -97,7 +97,7 @@
         "超出范围后，水越少会口感变得太弹，水越多会变得太稀"
       ],
       "produces": "稀释蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zheng-xiang-ji-dan-geng/step_2.jpg"
+      "image": "steps/other_zheng-xiang-ji-dan-geng/step_2.jpg"
     },
     {
       "index": 3,
@@ -108,7 +108,7 @@
         "盐起到了重要的增加底味和凝固作用"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zheng-xiang-ji-dan-geng/step_3.jpg"
+      "image": "steps/other_zheng-xiang-ji-dan-geng/step_3.jpg"
     },
     {
       "index": 4,
@@ -119,7 +119,7 @@
         "加入少许油可以让蛋羹更润滑"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zheng-xiang-ji-dan-geng/step_4.jpg"
+      "image": "steps/other_zheng-xiang-ji-dan-geng/step_4.jpg"
     },
     {
       "index": 5,
@@ -130,7 +130,7 @@
         "可选步骤，不过滤蒸出来的蛋会有气泡导致不好看"
       ],
       "produces": "细腻蛋液",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zheng-xiang-ji-dan-geng/step_5.jpg"
+      "image": "steps/other_zheng-xiang-ji-dan-geng/step_5.jpg"
     },
     {
       "index": 6,
@@ -141,7 +141,7 @@
         "防止干烧"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zheng-xiang-ji-dan-geng/step_6.jpg"
+      "image": "steps/other_zheng-xiang-ji-dan-geng/step_6.jpg"
     },
     {
       "index": 7,
@@ -152,7 +152,7 @@
         "平稳放置"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zheng-xiang-ji-dan-geng/step_7.jpg"
+      "image": "steps/other_zheng-xiang-ji-dan-geng/step_7.jpg"
     },
     {
       "index": 8,
@@ -163,7 +163,7 @@
         "时间根据蒸箱性能可微调"
       ],
       "produces": "熟蛋羹",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zheng-xiang-ji-dan-geng/step_8.jpg"
+      "image": "steps/other_zheng-xiang-ji-dan-geng/step_8.jpg"
     },
     {
       "index": 9,
@@ -174,7 +174,7 @@
         "注意：蒸箱在开启时会有蒸气瞬间喷出，注意缓慢开启"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zheng-xiang-ji-dan-geng/step_9.jpg"
+      "image": "steps/other_zheng-xiang-ji-dan-geng/step_9.jpg"
     },
     {
       "index": 10,
@@ -185,7 +185,7 @@
         "小心烫手"
       ],
       "produces": "成品鸡蛋羹",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zheng-xiang-ji-dan-geng/step_10.jpg"
+      "image": "steps/other_zheng-xiang-ji-dan-geng/step_10.jpg"
     },
     {
       "index": 11,
@@ -194,7 +194,7 @@
       "duration_sec": 0,
       "tips": [],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_zheng-xiang-ji-dan-geng/step_11.jpg"
+      "image": "steps/other_zheng-xiang-ji-dan-geng/step_11.jpg"
     }
   ],
   "tips": [
@@ -202,8 +202,8 @@
     "水温控制在60度左右有利于蛋白质凝固且口感细腻",
     "过滤是保证蛋羹表面如镜面的关键"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_zheng-xiang-ji-dan-geng.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_zheng-xiang-ji-dan-geng_overview.jpg",
+  "cover_image": "ai-generated/other_zheng-xiang-ji-dan-geng.jpg",
+  "overview_image": "overview/other_zheng-xiang-ji-dan-geng_overview.jpg",
   "id": "other_zheng-xiang-ji-dan-geng",
   "status": "published"
 }

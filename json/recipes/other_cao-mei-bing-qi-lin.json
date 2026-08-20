@@ -112,7 +112,7 @@
         "切块大小均匀有助于糖浆熬制及口感统一"
       ],
       "produces": "切碎的草莓",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cao-mei-bing-qi-lin/step_1.jpg"
+      "image": "steps/other_cao-mei-bing-qi-lin/step_1.jpg"
     },
     {
       "index": 2,
@@ -123,7 +123,7 @@
         "烹饪过程中需持续搅拌以防糊锅"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cao-mei-bing-qi-lin/step_2.jpg"
+      "image": "steps/other_cao-mei-bing-qi-lin/step_2.jpg"
     },
     {
       "index": 3,
@@ -134,7 +134,7 @@
         "观察糖浆的粘稠度变化"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cao-mei-bing-qi-lin/step_3.jpg"
+      "image": "steps/other_cao-mei-bing-qi-lin/step_3.jpg"
     },
     {
       "index": 4,
@@ -145,7 +145,7 @@
         "糖浆必须完全冷却，否则会影响奶油基料的稳定性"
       ],
       "produces": "草莓糖浆",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cao-mei-bing-qi-lin/step_4.jpg"
+      "image": "steps/other_cao-mei-bing-qi-lin/step_4.jpg"
     },
     {
       "index": 5,
@@ -156,7 +156,7 @@
         "奶油和碗保持低温更有利于打发"
       ],
       "produces": "冰淇淋底料",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cao-mei-bing-qi-lin/step_5.jpg"
+      "image": "steps/other_cao-mei-bing-qi-lin/step_5.jpg"
     },
     {
       "index": 6,
@@ -167,7 +167,7 @@
         "旋动糖浆时动作要轻，以形成漂亮的大理石纹路"
       ],
       "produces": "半成品冰淇淋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cao-mei-bing-qi-lin/step_6.jpg"
+      "image": "steps/other_cao-mei-bing-qi-lin/step_6.jpg"
     },
     {
       "index": 7,
@@ -178,7 +178,7 @@
         "冷冻期间尽量避免频繁打开冰箱门"
       ],
       "produces": "草莓冰淇淋",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_cao-mei-bing-qi-lin/step_7.jpg"
+      "image": "steps/other_cao-mei-bing-qi-lin/step_7.jpg"
     }
   ],
   "tips": [
@@ -186,8 +186,8 @@
     "如果想让口感更丰富，可以适当增加重奶油的比例（按需调整）。",
     "冷冻后的容器建议预先在室温放置1-2分钟，更易舀取。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_cao-mei-bing-qi-lin.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_cao-mei-bing-qi-lin_overview.jpg",
+  "cover_image": "ai-generated/other_cao-mei-bing-qi-lin.jpg",
+  "overview_image": "overview/other_cao-mei-bing-qi-lin_overview.jpg",
   "id": "other_cao-mei-bing-qi-lin",
   "status": "published"
 }

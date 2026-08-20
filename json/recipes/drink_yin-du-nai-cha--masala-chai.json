@@ -133,7 +133,7 @@
         "拍碎比切丝更能释放辛辣味"
       ],
       "produces": "拍碎的生姜",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_1.jpg"
+      "image": "steps/drink_yin-du-nai-cha--masala-chai/step_1.jpg"
     },
     {
       "index": 2,
@@ -144,7 +144,7 @@
         "拍开外壳是风味释放的关键"
       ],
       "produces": "拍开的小豆蔻",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_2.jpg"
+      "image": "steps/drink_yin-du-nai-cha--masala-chai/step_2.jpg"
     },
     {
       "index": 3,
@@ -155,7 +155,7 @@
         "拍碎即可，无需研磨成粉"
       ],
       "produces": "碎黑胡椒粒",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_3.jpg"
+      "image": "steps/drink_yin-du-nai-cha--masala-chai/step_3.jpg"
     },
     {
       "index": 4,
@@ -164,7 +164,7 @@
       "duration_sec": 10,
       "tips": null,
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_4.jpg"
+      "image": "steps/drink_yin-du-nai-cha--masala-chai/step_4.jpg"
     },
     {
       "index": 5,
@@ -173,7 +173,7 @@
       "duration_sec": 20,
       "tips": null,
       "produces": "香料底水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_5.jpg"
+      "image": "steps/drink_yin-du-nai-cha--masala-chai/step_5.jpg"
     },
     {
       "index": 6,
@@ -184,7 +184,7 @@
         "火候不要太大，防止水分蒸发过多"
       ],
       "produces": "浓缩香料水",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_6.jpg"
+      "image": "steps/drink_yin-du-nai-cha--masala-chai/step_6.jpg"
     },
     {
       "index": 7,
@@ -195,7 +195,7 @@
         "CTC红茶上色非常快"
       ],
       "produces": "香料茶汤",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_7.jpg"
+      "image": "steps/drink_yin-du-nai-cha--masala-chai/step_7.jpg"
     },
     {
       "index": 8,
@@ -204,7 +204,7 @@
       "duration_sec": 10,
       "tips": null,
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_8.jpg"
+      "image": "steps/drink_yin-du-nai-cha--masala-chai/step_8.jpg"
     },
     {
       "index": 9,
@@ -215,7 +215,7 @@
         "一定要守在锅边，牛奶极易溢出"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_9.jpg"
+      "image": "steps/drink_yin-du-nai-cha--masala-chai/step_9.jpg"
     },
     {
       "index": 10,
@@ -226,7 +226,7 @@
         "提拉动作能增加奶茶的顺滑感和空气感"
       ],
       "produces": "奶茶液体",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_10.jpg"
+      "image": "steps/drink_yin-du-nai-cha--masala-chai/step_10.jpg"
     },
     {
       "index": 11,
@@ -237,7 +237,7 @@
         "甜度可根据个人喜好增减"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_11.jpg"
+      "image": "steps/drink_yin-du-nai-cha--masala-chai/step_11.jpg"
     },
     {
       "index": 12,
@@ -246,7 +246,7 @@
       "duration_sec": 5,
       "tips": null,
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_12.jpg"
+      "image": "steps/drink_yin-du-nai-cha--masala-chai/step_12.jpg"
     },
     {
       "index": 13,
@@ -257,7 +257,7 @@
         "过滤要彻底，保证口感顺滑"
       ],
       "produces": "成品印度奶茶",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_13.jpg"
+      "image": "steps/drink_yin-du-nai-cha--masala-chai/step_13.jpg"
     },
     {
       "index": 14,
@@ -266,7 +266,7 @@
       "duration_sec": 5,
       "tips": null,
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/drink_yin-du-nai-cha--masala-chai/step_14.jpg"
+      "image": "steps/drink_yin-du-nai-cha--masala-chai/step_14.jpg"
     }
   ],
   "tips": [
@@ -276,8 +276,8 @@
     "如果不习惯过甜，可以适当减少糖量。",
     "印度街头通常使用陶土杯(Kulhad)盛茶，会赋予茶汤独特的泥土芬芳。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/drink_yin-du-nai-cha--masala-chai.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/drink_yin-du-nai-cha--masala-chai_overview.jpg",
+  "cover_image": "ai-generated/drink_yin-du-nai-cha--masala-chai.jpg",
+  "overview_image": "overview/drink_yin-du-nai-cha--masala-chai_overview.jpg",
   "id": "drink_yin-du-nai-cha--masala-chai",
   "status": "published"
 }

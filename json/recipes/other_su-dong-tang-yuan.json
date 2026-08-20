@@ -51,7 +51,7 @@
         "注意先加汤圆再加热水，不要颠倒"
       ],
       "produces": "装有汤圆的碗",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_su-dong-tang-yuan/step_1.jpg"
+      "image": "steps/other_su-dong-tang-yuan/step_1.jpg"
     },
     {
       "index": 2,
@@ -62,7 +62,7 @@
         "保证放入的汤圆最高不超过碗高度 - 5mm，防止水溢出"
       ],
       "produces": "浸泡在热水中的汤圆",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_su-dong-tang-yuan/step_2.jpg"
+      "image": "steps/other_su-dong-tang-yuan/step_2.jpg"
     },
     {
       "index": 3,
@@ -73,7 +73,7 @@
         "加热过程中注意观察"
       ],
       "produces": "初步煮熟的汤圆",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_su-dong-tang-yuan/step_3.jpg"
+      "image": "steps/other_su-dong-tang-yuan/step_3.jpg"
     },
     {
       "index": 4,
@@ -84,15 +84,15 @@
         "假如微波炉里碗太烫无法取出，可以用毛巾"
       ],
       "produces": "熟透的汤圆",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/other_su-dong-tang-yuan/step_4.jpg"
+      "image": "steps/other_su-dong-tang-yuan/step_4.jpg"
     }
   ],
   "tips": [
     "注意先加汤圆再加热水，不要颠倒，不然汤圆倒入热水可能会溅出烫伤。以及无法控制水面高度可能溢出。",
     "假如微波炉里碗太烫无法取出，可以用毛巾，或者某些微波炉可以连托盘一起取出。"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/other_su-dong-tang-yuan.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/other_su-dong-tang-yuan_overview.jpg",
+  "cover_image": "ai-generated/other_su-dong-tang-yuan.jpg",
+  "overview_image": "overview/other_su-dong-tang-yuan_overview.jpg",
   "id": "other_su-dong-tang-yuan",
   "status": "published"
 }

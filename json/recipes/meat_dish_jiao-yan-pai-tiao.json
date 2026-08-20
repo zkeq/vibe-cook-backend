@@ -148,7 +148,7 @@
         "拍松肉质能使口感更嫩，不塞牙"
       ],
       "produces": "排条肉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_jiao-yan-pai-tiao/step_1.jpg"
+      "image": "steps/meat_dish_jiao-yan-pai-tiao/step_1.jpg"
     },
     {
       "index": 2,
@@ -160,7 +160,7 @@
         "放入冰箱能增加肉的弹性"
       ],
       "produces": "腌制好的排条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_jiao-yan-pai-tiao/step_2.jpg"
+      "image": "steps/meat_dish_jiao-yan-pai-tiao/step_2.jpg"
     },
     {
       "index": 3,
@@ -171,7 +171,7 @@
         "吉士粉没有可以不放，放了颜色更金黄"
       ],
       "produces": "混合炸粉",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_jiao-yan-pai-tiao/step_3.jpg"
+      "image": "steps/meat_dish_jiao-yan-pai-tiao/step_3.jpg"
     },
     {
       "index": 4,
@@ -182,7 +182,7 @@
         "加入少许油可以让炸出的外皮更酥脆"
       ],
       "produces": "粘稠炸糊",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_jiao-yan-pai-tiao/step_4.jpg"
+      "image": "steps/meat_dish_jiao-yan-pai-tiao/step_4.jpg"
     },
     {
       "index": 5,
@@ -193,7 +193,7 @@
         "先裹干淀粉可以防止脱浆"
       ],
       "produces": "挂糊排条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_jiao-yan-pai-tiao/step_5.jpg"
+      "image": "steps/meat_dish_jiao-yan-pai-tiao/step_5.jpg"
     },
     {
       "index": 6,
@@ -204,7 +204,7 @@
         "刚下锅时不要动，待定型后再用筷子拨开防止粘连"
       ],
       "produces": "初炸排条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_jiao-yan-pai-tiao/step_6.jpg"
+      "image": "steps/meat_dish_jiao-yan-pai-tiao/step_6.jpg"
     },
     {
       "index": 7,
@@ -215,7 +215,7 @@
         "复炸可以逼出多余油脂，使外皮更酥脆"
       ],
       "produces": "金黄排条",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_jiao-yan-pai-tiao/step_7.jpg"
+      "image": "steps/meat_dish_jiao-yan-pai-tiao/step_7.jpg"
     },
     {
       "index": 8,
@@ -226,7 +226,7 @@
         "趁热撒粉，香味更浓郁"
       ],
       "produces": "椒盐排条成品",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/meat_dish_jiao-yan-pai-tiao/step_8.jpg"
+      "image": "steps/meat_dish_jiao-yan-pai-tiao/step_8.jpg"
     }
   ],
   "tips": [
@@ -234,8 +234,8 @@
     "炸糊也可以用来炸鸡腿、炸鱼等",
     "炸制过程中注意控制油温，避免外焦里生"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/meat_dish_jiao-yan-pai-tiao.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/meat_dish_jiao-yan-pai-tiao_overview.jpg",
+  "cover_image": "ai-generated/meat_dish_jiao-yan-pai-tiao.jpg",
+  "overview_image": "overview/meat_dish_jiao-yan-pai-tiao_overview.jpg",
   "id": "meat_dish_jiao-yan-pai-tiao",
   "status": "published"
 }

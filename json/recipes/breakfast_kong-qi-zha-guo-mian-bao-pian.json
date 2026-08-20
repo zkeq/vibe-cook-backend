@@ -43,7 +43,7 @@
         "尽量选择厚度适中的面包片"
       ],
       "produces": "待烤面包片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_kong-qi-zha-guo-mian-bao-pian/step_1.jpg"
+      "image": "steps/breakfast_kong-qi-zha-guo-mian-bao-pian/step_1.jpg"
     },
     {
       "index": 2,
@@ -54,7 +54,7 @@
         "垂直放置可以让受热更均匀，口感更酥脆"
       ],
       "produces": null,
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_kong-qi-zha-guo-mian-bao-pian/step_2.jpg"
+      "image": "steps/breakfast_kong-qi-zha-guo-mian-bao-pian/step_2.jpg"
     },
     {
       "index": 3,
@@ -65,7 +65,7 @@
         "不同品牌炸锅功率不同，建议首次制作时观察上色情况"
       ],
       "produces": "烤好的面包片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_kong-qi-zha-guo-mian-bao-pian/step_3.jpg"
+      "image": "steps/breakfast_kong-qi-zha-guo-mian-bao-pian/step_3.jpg"
     },
     {
       "index": 4,
@@ -76,15 +76,15 @@
         "刚烤好时口感最脆"
       ],
       "produces": "成品面包片",
-      "image": "https://cos.onmicrosoft.cn/cook/steps/breakfast_kong-qi-zha-guo-mian-bao-pian/step_4.jpg"
+      "image": "steps/breakfast_kong-qi-zha-guo-mian-bao-pian/step_4.jpg"
     }
   ],
   "tips": [
     "全麦面包片营养参考：热量 254 千卡，蛋白质 12.3 克，脂肪 3.5 克，碳水化合物 43.1 克，膳食纤维 6.0 克",
     "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request"
   ],
-  "cover_image": "https://cos.onmicrosoft.cn/cook/ai-generated/breakfast_kong-qi-zha-guo-mian-bao-pian.jpg",
-  "overview_image": "https://cos.onmicrosoft.cn/cook/overview/breakfast_kong-qi-zha-guo-mian-bao-pian_overview.jpg",
+  "cover_image": "ai-generated/breakfast_kong-qi-zha-guo-mian-bao-pian.jpg",
+  "overview_image": "overview/breakfast_kong-qi-zha-guo-mian-bao-pian_overview.jpg",
   "id": "breakfast_kong-qi-zha-guo-mian-bao-pian",
   "status": "published"
 }
