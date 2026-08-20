@@ -123,5 +123,11 @@ import_howtocook.py  # Markdown → SQLite
 
 ## 📄 许可
 
-本项目代码开源协议为 **[Business Source License 1.1](./LICENSE)** © Zkeq  
-菜谱原文来自 [HowToCook](https://github.com/Anduin2017/HowToCook)（The Unlicense）。
+自本版本起，代码采用 **[Business Source License 1.1](./LICENSE)** © Zkeq。
+
+- 可以查看、修改、再分发，以及**非生产**使用
+- **禁止**将本软件或其修改版上架任何应用商店，**禁止**出售或作为商业产品对外提供
+- 生产使用须向权利人取得商业授权：`admin@icodeq.com`
+- 本版本自 **2030-08-19** 起改为 Apache License 2.0
+
+菜谱原文来自 [HowToCook](https://github.com/Anduin2017/HowToCook)（The Unlicense），不受本仓库 BSL 约束。
