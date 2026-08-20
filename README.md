@@ -74,12 +74,17 @@ cp .env.example .env
 
 运行时使用 `data/vibe_cook.db`。`python main.py` 后即可直接出菜。
 
-开放数据集（JSON + SQLite + 配图原图）在 **`dataset` 分支**，协议为 [The Unlicense](https://unlicense.org)，与上游 HowToCook 相同：
+开放数据协议为 [The Unlicense](https://unlicense.org)，与上游 HowToCook 相同。
 
-- JSON：`json/recipes.json`（全量）、`json/recipes/<id>.json`（单份）
-- 原图：Git LFS，未压缩
+- **结构化 JSON**（体积小，跟 `main`）：[`dataset/`](https://github.com/zkeq/vibe-cook-backend/tree/main/dataset)  
+  `dataset/json/recipes.json`、`dataset/json/index.json`（含 `markdown_path` / `json_path`）
+- **配图原图**（约 6GB，Git LFS）：单独的 [`dataset` 分支](https://github.com/zkeq/vibe-cook-backend/tree/dataset)，跑后端不必下载
 
 ```bash
+# 只跑后端，不要下原图
+git clone https://github.com/zkeq/vibe-cook-backend.git
+
+# 只要开放数据 + 原图
 git clone --branch dataset --single-branch https://github.com/zkeq/vibe-cook-backend.git vibe-cook-dataset
 cd vibe-cook-dataset && git lfs pull
 ```
@@ -140,4 +145,4 @@ import_howtocook.py  # Markdown → SQLite
 - 生产使用须向权利人取得商业授权：`admin@icodeq.com`
 - 本版本自 **2030-08-19** 起改为 GNU GPL v2 或更高版本
 
-**菜谱数据与配图**（`dataset` 分支）采用 **[The Unlicense](https://unlicense.org)**，与 [HowToCook](https://github.com/Anduin2017/HowToCook) 相同，可自由复制、修改、商用。菜谱原文同样来自 HowToCook。
+**菜谱 JSON** 在 [`dataset/`](https://github.com/zkeq/vibe-cook-backend/tree/main/dataset)，**配图原图**在 [`dataset` 分支](https://github.com/zkeq/vibe-cook-backend/tree/dataset)，均采用 **[The Unlicense](https://unlicense.org)**，与 [HowToCook](https://github.com/Anduin2017/HowToCook) 相同。

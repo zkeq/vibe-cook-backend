@@ -21,13 +21,16 @@ Vibe Cook **应用程序代码**仍是 [Business Source License 1.1](https://git
 
 ## 获取
 
+- JSON / SQLite（小，在 `main`）：<https://github.com/zkeq/vibe-cook-backend/tree/main/dataset>
+- 含原图的完整包（约 6GB，`dataset` 分支）：
+
 ```bash
 git clone --branch dataset --single-branch https://github.com/zkeq/vibe-cook-backend.git vibe-cook-dataset
 cd vibe-cook-dataset
 git lfs pull
 ```
 
-默认 `main` 分支不含原图，避免普通克隆下载数 GB。只想要数据时请拉 `dataset` 分支。
+只跑后端请克隆 `main`，不要 `git lfs pull` 原图。
 
 ## 图片路径
 

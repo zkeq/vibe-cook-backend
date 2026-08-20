@@ -21,7 +21,7 @@ data/*.db-wal
 uploads/
 *.bak
 
-# 原图走 dataset 分支 + Git LFS，main 不跟踪
+# 原图只在 dataset 分支，main 不跟踪，避免克隆后端要下 6GB
 /dataset/images/
 
 # OS / IDE
